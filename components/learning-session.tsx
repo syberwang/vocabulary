@@ -14,7 +14,7 @@ const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î
 
 export function LearningSession({ courseId }: { courseId: string }) {
   const router = useRouter();
-  const { state, assignCourse, submitAttempt, toggleHard } = useApp();
+  const { state, assignCourse, submitAttempt, toggleHard, canRecordProgress } = useApp();
   const { speak, hasFrenchVoice } = useSpeech();
   const course = courseById.get(courseId);
   const allEntries = useMemo(() => entriesForCourse(courseId), [courseId]);
@@ -142,10 +142,10 @@ export function LearningSession({ courseId }: { courseId: string }) {
         {phase === "recall" && <button className="primary-button" onClick={checkAnswer} disabled={!answer.trim()}>检查答案</button>}
         {phase === "feedback" && (
           <div className="rating-grid" aria-label="评价记忆程度">
-            <button className="rating-button rating-again" onClick={() => rate("again")}>重来<small>Again</small></button>
-            <button className="rating-button rating-hard" onClick={() => rate("hard")}>困难<small>Hard</small></button>
-            <button className="rating-button rating-good" onClick={() => rate("good")}>记得<small>Good</small></button>
-            <button className="rating-button rating-easy" onClick={() => rate("easy")}>简单<small>Easy</small></button>
+            <button className="rating-button rating-again" onClick={() => rate("again")} disabled={!canRecordProgress}>重来<small>Again</small></button>
+            <button className="rating-button rating-hard" onClick={() => rate("hard")} disabled={!canRecordProgress}>困难<small>Hard</small></button>
+            <button className="rating-button rating-good" onClick={() => rate("good")} disabled={!canRecordProgress}>记得<small>Good</small></button>
+            <button className="rating-button rating-easy" onClick={() => rate("easy")} disabled={!canRecordProgress}>简单<small>Easy</small></button>
           </div>
         )}
       </div>

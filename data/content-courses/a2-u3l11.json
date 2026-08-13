@@ -13,6 +13,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8aeb6d049e9f2d06add54c1b8a6adf4bf75da14ed82381cb9764efbfcae291ed"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "On peut coucher ici.",
       "exampleZh": "在这里可以（日、月、星辰等）沉下。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4226cd3ca8dbdcac2cb701beb6a7e10c23ea52ed19d71d406bc39409e293ebdd"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est cyclable.",
       "exampleZh": "这是供自行车和轻便摩托车行驶的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "75fe112264626b6a7d045abbcb216003651075bdeaf0777a84b7debeb856e720"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici un environnement.",
       "exampleZh": "这里有一个环境。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c2aebe78353abc5462c276c88ab3685c526d0543765868f9b2951f455b3e9261"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "On peut installer ici.",
       "exampleZh": "在这里可以安家。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "337c80a7454bc560d93e8d53e4fba1a7670dea73773a8a8dc33139b620d445ef"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un moral.",
       "exampleZh": "这里有一个精神。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.188Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "eaf5360b95c344fd30e96847e27333740089b375b8a9b026346e8dc827a3ad35"
       }
     }
   ]

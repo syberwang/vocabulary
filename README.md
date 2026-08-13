@@ -1,27 +1,63 @@
 # 法语词卡
 
-移动端优先的 A1-A2 法语背词 PWA。每天学习一整课，使用 FSRS 安排到期复习，并自动维护强化记忆本。
+移动端优先的 A1–A2 法语背词 PWA。每天学习一整课，使用 FSRS 安排到期复习，并自动维护强化记忆本。
 
-## 本地运行
+生产架构为自托管 Next.js + 普通 PostgreSQL。应用只供一个人使用，通过固定账号、密码哈希和 HttpOnly 会话 Cookie 登录，不依赖 Supabase 或 Vercel。
+
+## 环境变量
+
+复制 `.env.example` 为 `.env.local`：
+
+```env
+DATABASE_URL=postgresql://french_cards:数据库密码@127.0.0.1:5432/french_cards
+DATABASE_POOL_SIZE=10
+DATABASE_SSL=disable
+APP_USERNAME=owner
+APP_PASSWORD_HASH=scrypt:生成的盐:生成的哈希
+SESSION_SECRET=至少32位的随机字符串
+NEXT_PUBLIC_APP_URL=http://127.0.0.1:3000
+```
+
+`DATABASE_URL`、`APP_PASSWORD_HASH` 和 `SESSION_SECRET` 只能保存在服务器环境变量中，不能提交到 Git。
+
+在 PowerShell 中安全生成登录密码哈希：
+
+```powershell
+$secure = Read-Host "输入登录密码（至少12位）" -AsSecureString
+$plain = [Net.NetworkCredential]::new('', $secure).Password
+$plain | npm.cmd run auth:hash
+Remove-Variable plain
+```
+
+把输出的整行 `scrypt:...` 填入 `APP_PASSWORD_HASH`。会话密钥可以这样生成：
+
+```powershell
+[Convert]::ToBase64String([Security.Cryptography.RandomNumberGenerator]::GetBytes(48))
+```
+
+## PostgreSQL 初始化
+
+在 PostgreSQL 管理账号下创建独立用户和数据库：
+
+```sql
+create role french_cards login password '请替换为强数据库密码';
+create database french_cards owner french_cards encoding 'UTF8';
+```
+
+填写 `.env.local` 后执行：
 
 ```powershell
 npm.cmd install
-npm.cmd run data:import
+npm.cmd run db:migrate
+npm.cmd run db:seed
 npm.cmd run dev
 ```
 
-未配置 Supabase 时应用运行在“本地演示”模式，学习进度保存在当前浏览器。复制 `.env.example` 为 `.env.local` 并填写 Supabase 环境变量后，将启用邀请制 Magic Link 和云同步。
+迁移记录保存在 `schema_migrations`。已经执行的迁移如果后来被修改，迁移工具会拒绝继续，避免生产数据库静默漂移。`db:seed` 可以重复执行，不会清除学习记录。
 
-## Supabase
+## 内容生产与审核
 
-1. 在 Supabase SQL Editor 按文件名顺序运行 `supabase/migrations/` 下的迁移（当前为 `0001_initial.sql`、`0002_content_provenance.sql`）。
-2. 运行 `supabase/seed.sql` 导入 72 课和 1,436 条词汇。
-3. 在 Auth URL Configuration 中加入生产域名的 `/auth/callback`。
-4. 将第一个管理员的 `profiles.is_admin` 设置为 `true`，之后从 `/admin` 邀请用户。
-
-所有用户学习表均启用 RLS；`SUPABASE_SECRET_KEY` 只能配置在 Vercel 服务端环境变量中。
-
-## Codex 按课程本地生成（无需 API 余额）
+按课程使用 Codex 在本地生成内容：
 
 ```powershell
 npm.cmd run content:codex:course -- a1-u1l1
@@ -30,32 +66,56 @@ npm.cmd run content:codex:merge
 npm.cmd run data:seed
 ```
 
-`content:codex:all` 会在 `data/content-courses/` 生成 72 个独立课程文件。生成过程只读取本地 `data/vocabulary.json`，不会把词表发送给第三方服务。人工讲义校订内容标记为 `manual / low`；其余本地草稿标记为 `codex / medium|high / needs_review`，可在管理员后台逐课复核并批准。
-
-合并后的完整性结果写入 `data/content-validation-report.json`。只有 0 个校验问题时才应重新生成 Supabase 种子。
-
-## OpenAI Batch（可选）
+人工完成 A1/A2 审核后，使用以下命令固化批准状态并重建 PostgreSQL 种子：
 
 ```powershell
-npm.cmd run content:prepare
-Copy-Item .env.content.example .env.content.local
-# 在本机编辑 .env.content.local，填入 OPENAI_API_KEY；不要把密钥发到聊天中
-npm.cmd run content:submit
-npm.cmd run content:download
-npm.cmd run content:merge
+npm.cmd run content:approve:all
+npm.cmd run content:codex:merge
 npm.cmd run data:seed
 ```
 
-`content:prepare` 生成严格 JSON Schema 的 `/v1/responses` Batch 请求；`content:submit` 上传并创建 24 小时批处理；完成后用 `content:download` 下载结果，再由 `content:merge` 校验，最后用 `data:seed` 重建数据库种子。密钥只放在被 Git 忽略的 `.env.content.local`，Next.js 和 Vercel 生产配置不读取该文件。不要在合并后运行 `data:import`，否则会从只读原始 Excel 重新生成并覆盖待审核的 AI 内容。
+审核清单和每条内容的 SHA-256 哈希保存在 `data/content-approval-manifest.json`。例句、翻译或用法变化后必须重新审核。
 
-合并脚本不会自动批准 AI 内容：低风险结果进入 `draft`，其他结果进入 `needs_review`，目标词缺失等问题写入审核清单。管理员需在 `/admin` 完成校订和审批。
+原始 Excel 和 PDF 始终作为只读来源。不要在审核内容合并后运行 `data:import`，否则会从原始 Excel 重新生成词表。
 
-## 验证与部署
+## 数据同步与安全边界
+
+- 浏览器按操作提交学习记录，不会用完整客户端状态覆盖数据库。
+- 每日课程分配和答题通过 PostgreSQL 函数在单个事务中完成。
+- 答题使用幂等 UUID、卡片状态锁和冲突重试。
+- 网络失败的操作保留在浏览器同步队列，联网后可重试。
+- 明确离线时不能提交正式学习评分。
+- Service Worker 只缓存离线页、PWA 图标和版本化静态资源；登录、管理页面、用户 HTML 和 API 不进入公共缓存。
+- 登录接口有基础频率限制；生产环境还应在 Nginx 对 `/api/auth/login` 配置限速。
+
+## 自有服务器部署
+
+服务器建议使用 Linux、Node.js LTS、PostgreSQL 和 Nginx。应用只监听 `127.0.0.1:3000`，由 Nginx 通过 HTTPS 反向代理。
+
+```bash
+npm ci
+npm run db:migrate
+npm run db:seed
+npm run test
+npm run typecheck
+npm run build
+npm run start -- --hostname 127.0.0.1 --port 3000
+```
+
+生产环境的 `NEXT_PUBLIC_APP_URL` 应改成 `https://你的域名`。PWA 安装和 Service Worker 需要 HTTPS。数据库应只监听本机或内网，不要把 PostgreSQL 5432 端口直接暴露到公网。
+
+正式更新前备份数据库：
+
+```bash
+pg_dump --format=custom --file=french_cards_$(date +%F).dump french_cards
+```
+
+随后依次执行迁移、测试、构建和应用重启。
+
+## 本地验证
 
 ```powershell
 npm.cmd test
 npm.cmd run typecheck
 npm.cmd run build
 ```
-
-将仓库连接 Vercel，配置 `.env.example` 中的生产变量后部署。PWA 必须通过 HTTPS 访问才能安装。

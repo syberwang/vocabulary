@@ -138,7 +138,8 @@ function generateEntry(entry) {
       usageNote: entry.usageNote,
       risk: "low",
       status: "approved",
-      source: { kind: "manual", label: "讲义校订" },
+      source: entry.exampleSource ?? { kind: "manual", label: "讲义校订" },
+      review: entry.contentReview,
     };
   }
   const { content: [exampleFr, exampleZh], risk } = fallbackFor(entry);

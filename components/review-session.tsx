@@ -16,7 +16,7 @@ const modes: ReviewMode[] = ["zh_to_fr", "fr_to_zh", "audio_to_fr"];
 export function ReviewSession() {
   const router = useRouter();
   const params = useSearchParams();
-  const { state, hydrated, submitAttempt, toggleHard } = useApp();
+  const { state, hydrated, submitAttempt, toggleHard, canRecordProgress } = useApp();
   const { speak, voices } = useSpeech();
   const scope = params.get("scope") ?? "due";
   const courseId = params.get("courseId") ?? undefined;
@@ -152,10 +152,10 @@ export function ReviewSession() {
       <div className="session-actions">
         {!revealed ? <button className="primary-button" onClick={reveal} disabled={spelling && !answer.trim()}>揭晓答案</button> : (
           <div className="rating-grid">
-            <button className="rating-button rating-again" onClick={() => rate("again")}>重来<small>Again</small></button>
-            <button className="rating-button rating-hard" onClick={() => rate("hard")}>困难<small>Hard</small></button>
-            <button className="rating-button rating-good" onClick={() => rate("good")}>记得<small>Good</small></button>
-            <button className="rating-button rating-easy" onClick={() => rate("easy")}>简单<small>Easy</small></button>
+            <button className="rating-button rating-again" onClick={() => rate("again")} disabled={!canRecordProgress}>重来<small>Again</small></button>
+            <button className="rating-button rating-hard" onClick={() => rate("hard")} disabled={!canRecordProgress}>困难<small>Hard</small></button>
+            <button className="rating-button rating-good" onClick={() => rate("good")} disabled={!canRecordProgress}>记得<small>Good</small></button>
+            <button className="rating-button rating-easy" onClick={() => rate("easy")} disabled={!canRecordProgress}>简单<small>Easy</small></button>
           </div>
         )}
       </div>

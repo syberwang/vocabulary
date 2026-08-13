@@ -8,11 +8,18 @@
       "exampleFr": "On peut aider ici.",
       "exampleZh": "在这里可以帮助。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5a8880b416d4ba1993a4eaae0652ddfd8a5f22cdfd40d56651334b6da2df5af7"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une association.",
       "exampleZh": "这里有一个协会。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d62c672086ba4c7c4800a52c4a907821e6536320d2bbd5b8b50fc973952f1231"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici une banlieue.",
       "exampleZh": "这里有一个郊区。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7b5df683488a1d188c30605ba8fdc5c9237c89cbfc5c0a9c1e478d72b81f900e"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une cité.",
       "exampleZh": "这里有一个居住区。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5fae7154f0be385480183681d15d1832324810da92954fc680859193aefe2ff5"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici une compétition.",
       "exampleZh": "这里有一个竞赛。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f15a9aa1a5685467891697121d195ab7d64b7a3a8404d1a20aab33e42d03e7b5"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un don.",
       "exampleZh": "这里有一个礼物。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4329edf8ae0290b51d354006aade6d13d155a6c828ed971c1009b944722295c9"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici un hôpital.",
       "exampleZh": "这里有一个医院。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "951c0fc39fba56391f6e8b2262fd33421bc5a4f4b22022f5624f9e9ae855718b"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "On peut intéresser ici.",
       "exampleZh": "在这里可以使一一兴趣引起一一的注意。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "33465e680a60e09e635c009be86b2691b672e9819f2059a3134af2c2e881bbd9"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est joyeux.",
       "exampleZh": "这是高兴的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6fe67295b0c2278219961a10320703b3b3294be1b7c2b4fe8f03ecba2c3acf28"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Je connais Joyeux Noël.",
       "exampleZh": "我知道圣诞快乐。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7bb1d6e612537fea27b678b60256451085903a364b84f87b674e1494039ebc52"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Je connais Joyeux anniversaire.",
       "exampleZh": "我知道生日快乐。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c409584829705c99af8db05f95a0ac3ba130bedf0012d5ea35076a9686a72ff6"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "On peut laisser ici.",
       "exampleZh": "在这里可以留。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "40a374b1d9dda70c0e452fedd0a835e4f800246215c074258816f19a9f4b3421"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un lycée.",
       "exampleZh": "这里有一个（法国）公立高中。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4aa8022788fbce124ed0ffaf0dffa16c86954ff31b851c475dc0dfe5b5ce2115"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est lycéen.",
       "exampleZh": "这是（法国）公立高中的学生。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.183Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7ab262ac5aab4a3ba3b3bc77e33cf6f047fb15ac815a9b31ed92b3fe34a93fc8"
       }
     }
   ]

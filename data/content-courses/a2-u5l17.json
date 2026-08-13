@@ -8,11 +8,18 @@
       "exampleFr": "On peut accueillir ici.",
       "exampleZh": "在这里可以迎接。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "019098bf5c29f9a500fb08f3643a6b54694e0ab4ec28192e0b2e8ad192ff1ff6"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "C'est actif.",
       "exampleZh": "这是活动的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2f8c038548c0e852a152db9f87af8dd9f025526960707eacbb05f43eb327f732"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « population active. »",
       "exampleZh": "蕾雅说：“劳动力总人口。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "79f249fe0517d7e3ee3cab9f581ad59d19b9d5bd9dc2fee4a077377c9cac4e96"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une aide.",
       "exampleZh": "这里有一个帮助。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7ccfafa5391a054922a5caa73ff4bececdb3f5422806e1977f955c916f0c6064"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Léa dit : « à l'aide de. »",
       "exampleZh": "蕾雅说：“借。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "71ce1be3bcf458c4e71b0b51068a0709808b9bc3bab71ffddf5940494b9a910c"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Léa dit : « avec l'aide de. »",
       "exampleZh": "蕾雅说：“在（某人的）帮助。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1d988f3dabf78430894e8130dbedbef9c94a3079d3b5be7458a0a812d277651b"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est chômeur.",
       "exampleZh": "这是失业者。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "33b21b07a5a482f64c06f9b79570712576c007007a13410bfafaeffe82586f86"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "C'est commercial.",
       "exampleZh": "这是商业的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5b527fbb572a72c71f02f8798f5849c040924a4033f79b5b4c3b5ad6ccdd9ab7"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut créer ici.",
       "exampleZh": "在这里可以创造。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8fb36306656c866c5a2eaecfe786a2aec8a9419976bb59cdb18560fee90b956d"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici un CV.",
       "exampleZh": "这里有一个履历。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "54f93ac11d73428562996b271e2f03758e70861b0b0c9359c72f4a49c6e30c18"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "C'est égal.",
       "exampleZh": "这是平等的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "eea3e7fbcf14a3911644700f2230512ee9f20fa1dfb6f3f07147cdbaefc80058"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici des études.",
       "exampleZh": "这里有一些学业。",
       "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "58fd8fe9066cf2b3a0047754158599bd337f5efad8d305983859f97c45ee955d"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Léa dit : « faire des ménages. »",
       "exampleZh": "蕾雅说：“做保洁。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "001ec330108e3d10fa8aa907be193e8387e44b937be1e348fb8e4e35b26bdbef"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "On peut fermer ici.",
       "exampleZh": "在这里可以关门。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.195Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "eaa6564377532fcadb698ea326cfe8dbb499f6b053c05e61e2f93aa6a39ab73c"
       }
     }
   ]

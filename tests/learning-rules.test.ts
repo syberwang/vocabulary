@@ -39,7 +39,17 @@ describe("course completion and hard word rules", () => {
     state = recordAttempt(state, { entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "again" });
     state = recordAttempt(state, { entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "again" });
     expect(isAutomaticallyHard(state, entry.id)).toBe(true);
-    for (let i = 0; i < 8; i += 1) state = recordAttempt(state, { entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "good" });
+    for (let i = 0; i < 5; i += 1) state = recordAttempt(state, { entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "good" });
+    expect(isAutomaticallyHard(state, entry.id)).toBe(true);
+    for (let i = 0; i < 3; i += 1) state = recordAttempt(state, { entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "good" });
     expect(isAutomaticallyHard(state, entry.id)).toBe(false);
+  });
+
+  it("keeps a caller-provided id for idempotent cloud synchronization", () => {
+    const entry = entriesForCourse("a1-u1l1")[0];
+    const id = "00000000-0000-4000-8000-000000000123";
+    const occurredAt = "2026-08-13T12:00:00.000Z";
+    const state = recordAttempt(initialState, { id, occurredAt, entryId: entry.id, courseId: entry.courseId, mode: "zh_to_fr", rating: "good" });
+    expect(state.attempts.at(-1)).toMatchObject({ id, createdAt: occurredAt });
   });
 });

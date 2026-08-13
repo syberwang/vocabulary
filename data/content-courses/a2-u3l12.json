@@ -8,11 +8,18 @@
       "exampleFr": "Voici un Airbus.",
       "exampleZh": "这里有一个空中客车（大型亚音速客机）。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "29a7342f1fcc9b1b5f5534e0c6cd2a3adb41765d927356210647a041ae6c785c"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une capitale.",
       "exampleZh": "这里有一个首都。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a89e6ff560677d9cf6ba374c62b402204425acdc324007593dd4bb69f58dc8a4"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un carrefour.",
       "exampleZh": "这里有一个十字路口。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4b400ffa36450e0ac50974b59204c848de37ddcddde968af1ea8194158b1a146"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une chimie.",
       "exampleZh": "这里有一个化学。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "eb823cfed76397288c8a698ca3adc826a9698f18483ba7408c2fbeaca7dd4752"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est cuisinier.",
       "exampleZh": "这是厨师。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9999b2058b8a2dc51446f543efc1e624c6126f91163610bbcf4eb93331a9582f"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici une culture.",
       "exampleZh": "这里有一个文化。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "08986fa2e968f130586cdf28aa42332f74f22df659518f323bf7534f227e07e2"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est européen.",
       "exampleZh": "这是欧洲的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "46254ff377cc59ac17be2e7e6371b1d1dde8673ec5350dc0a0e840f7db1bc7ca"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Je connais Eurostar.",
       "exampleZh": "我知道欧洲之星（连接英国伦敦与法国巴黎里尔以及比利时布鲁塞尔的高速铁路服务）。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fdc68f8514881e13cb4b918290d4d9b71958ed3e190f322b7496794c65f9d83a"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici une gastronomie.",
       "exampleZh": "这里有一个美食术。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4e0e663f1337a0dde326e5f24b8fa8f2a4d3ce87eb691515f3eda6e75f9f200c"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Je connais Genève.",
       "exampleZh": "我知道日内瓦（瑞士城市）。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1378b28396d6b92a1546779043f47d497177a7f955a5677b1c8f20a52c153ed7"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "C'est informatique.",
       "exampleZh": "这是信息处理的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "13dc5df007b0866ec287fa83098ba8d85bbf1c7eaf7d7a67ee2e24257e2202f9"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Je connais Lyon.",
       "exampleZh": "我知道里昂（法国城市。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.189Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "25421163c53d9ad5ba4bb0bad469bf199fa9f3b86798b96b570f183778b66d81"
       }
     }
   ]

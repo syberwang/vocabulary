@@ -1,16 +1,26 @@
 import { NextResponse } from "next/server";
-import { requireApiUser } from "@/lib/supabase/server";
+import { requireApiSession } from "@/lib/auth/session";
+import { query } from "@/lib/db";
 
 export async function GET() {
-  const { client, user } = await requireApiUser();
-  if (!client || !user) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const now = new Date().toISOString();
-  const [profile, due, learned, hard, recent] = await Promise.all([
-    client.from("profiles").select("timezone,selected_level").eq("id", user.id).single(),
-    client.from("card_states").select("entry_id", { count: "exact", head: true }).eq("user_id", user.id).lte("due", now),
-    client.from("course_progress").select("course_id", { count: "exact", head: true }).eq("user_id", user.id).eq("status", "learned"),
-    client.from("hard_word_flags").select("entry_id", { count: "exact", head: true }).eq("user_id", user.id),
-    client.from("review_attempts").select("created_at").eq("user_id", user.id).order("created_at", { ascending: false }).limit(200),
-  ]);
-  return NextResponse.json({ timezone: profile.data?.timezone, selectedLevel: profile.data?.selected_level, dueCount: due.count ?? 0, learnedCourseCount: learned.count ?? 0, hardCount: hard.count ?? 0, activityDates: [...new Set((recent.data ?? []).map((row) => row.created_at.slice(0, 10)))] });
+  if (!(await requireApiSession())) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  try {
+    const [settings, due, learned, hard, recent] = await Promise.all([
+      query<{ timezone: string; selected_level: string }>("select timezone, selected_level from app_settings where id = 1"),
+      query<{ count: string }>("select count(*) from card_states where due <= now()"),
+      query<{ count: string }>("select count(*) from course_progress where status = 'learned'"),
+      query<{ count: string }>("select count(*) from hard_word_flags"),
+      query<{ created_at: Date }>("select created_at from review_attempts order by created_at desc limit 200"),
+    ]);
+    return NextResponse.json({
+      timezone: settings.rows[0]?.timezone,
+      selectedLevel: settings.rows[0]?.selected_level,
+      dueCount: Number(due.rows[0]?.count ?? 0),
+      learnedCourseCount: Number(learned.rows[0]?.count ?? 0),
+      hardCount: Number(hard.rows[0]?.count ?? 0),
+      activityDates: [...new Set(recent.rows.map((row) => row.created_at.toISOString().slice(0, 10)))],
+    });
+  } catch (error) {
+    return NextResponse.json({ error: error instanceof Error ? error.message : "Database error" }, { status: 500 });
+  }
 }

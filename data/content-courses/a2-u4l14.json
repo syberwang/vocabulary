@@ -8,11 +8,18 @@
       "exampleFr": "C'est adulte.",
       "exampleZh": "这是成年人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cd7a4413dad4f2b4ad705eaa951fb976084ca4d646ab14296dee40e3cf130795"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un appétit.",
       "exampleZh": "这里有一个食欲。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6faf33c0a5db734a4dd38e839badf0411377d24a4c0f05d177c2d0b53eea1f7c"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "On peut arriver ici.",
       "exampleZh": "在这里可以达到（某种程度目境地等。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a890565bca2844ce80fd13c2ef0144c2800bec389c1e3628115fba0c86285e67"
       }
     },
     {
@@ -49,6 +70,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "185ab306aae5a6bd7bede0bc35229052855f337bb86490c96e14dd28f01a06ec"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Il répond au moins.",
       "exampleZh": "他至少回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "51e7eb9a52439053ab7fe2f4546a5268adedfd4c66b1a179653007b8d37330a3"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Il répond avant.",
       "exampleZh": "他表示时间以前回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fadc405ef330f522905ad2b3d85e1d0957784d30dc845342cee8a83deb84e31c"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "On peut bouger ici.",
       "exampleZh": "在这里可以动。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "32ba13d12a2f06c803145ab8ac792017facc88a93da3ef6b48178f15fe77ed34"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici une consommation.",
       "exampleZh": "这里有一个消费。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "636337f69c7eb074280e25103deca6b3c46bd675e31d7bf7c94cf3c4b7f417a2"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut consommer ici.",
       "exampleZh": "在这里可以消费。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4c803a96139f4b6ac95819509134de75fb2fd385df57a3799dd3df2045344667"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici un équivalent.",
       "exampleZh": "这里有一个相等物。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1780dbf274999ca5f694a9cdf63fd6c956120ae167084dbcabaf326323bdbf72"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici un exemple.",
       "exampleZh": "这里有一个例子。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6c6a38774349d23b7188330bcce514739b2a3aed1c51d332a9387352f8c2ac5a"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Il répond par exemple.",
       "exampleZh": "他例如回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "39624dd781249cd0ffbb2eec8168e3578ce4545eb03dd38ece5fa361ef3dc3db"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "C'est ùfi féculent.",
       "exampleZh": "这是含淀粉的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "754d66370fdd6408d607f4df90ff43b5822b31a3585c842056bb1423078f413d"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici un ijJ.",
       "exampleZh": "这里有一个含淀粉物质。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.191Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "decb0dc817672b92a742bdcf197eea1c8a468040b1c26489b1e03d3ba3f22b16"
       }
     }
   ]

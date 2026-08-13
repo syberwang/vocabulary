@@ -8,11 +8,18 @@
       "exampleFr": "Il répond autrefois.",
       "exampleZh": "他过去回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "839c6ba67ae9b1b3b718de9b01fde171fb651c04e190dfd5c2dcf996d6c73e65"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "On peut attirer ici.",
       "exampleZh": "在这里可以吸引。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c91ba0df65c55a8f2d5fe1d785a16bf8eed79b83d38cc226167c7dd983c86548"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « avoir lieu. »",
       "exampleZh": "蕾雅说：“举行。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "63e2dbf14336d2abfb17040aefe8994ced3051606331c6e5bc787f7dc10057ec"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Léa dit : « convivialité. »",
       "exampleZh": "蕾雅说：“（社交中）亲善。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7c15ece9cfeecf3acb3644191fc237126adee8dd77987d7af05dab38e2dc816a"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Léa dit : « en bas de. »",
       "exampleZh": "蕾雅说：“在一一下方。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d74cede342febf663e57f7756d1b6477be2993e7e80e44e0146ba7b190264a40"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici une face.",
       "exampleZh": "这里有一个脸。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bba4ebc6359e5a49fe0e0cbc8d37fbcd210259b0f1b6c0b183f7e4a047e5fca2"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « face à. »",
       "exampleZh": "蕾雅说：“向着。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4eb5f4d7620f11197efda38b6a2db9309bfcac9253d6282173e0738d8b6d98fd"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Léa dit : « fête. »",
       "exampleZh": "蕾雅说：“节日。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.203Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "82fa5dd7983da718bf64a7e11e4aff12a8d2971010d88e80ee3ccda58e6f99b6"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Léa dit : « en fête. »",
       "exampleZh": "蕾雅说：“在欢乐中。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.204Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8a0abe1fd4588942f9de907444aed8eebd09af5a0a23d22db421043ad4940f71"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une indifférence.",
       "exampleZh": "这里有一个冷漠。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.204Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "29da9a5633e4b88dacaa51484a915c5cf68c30584f603af73bd25c59895d6e2d"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Léa dit : « manifestation. »",
       "exampleZh": "蕾雅说：“引（文化艺术的）集会。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.204Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "57617a898784bd87669f7b62db6697f64770a7ad364fe366708877ab14f0e7cb"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici un million.",
       "exampleZh": "这里有一个百万。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.204Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "97d670bda4e7b463d16708d462186531b39b63d86380032567e752b4cf56b42b"
       }
     }
   ]

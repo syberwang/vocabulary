@@ -1,25 +1,26 @@
 import { NextResponse } from "next/server";
-import { requireApiUser } from "@/lib/supabase/server";
+import { requireApiSession } from "@/lib/auth/session";
+import { query } from "@/lib/db";
 
 export async function GET(request: Request) {
-  const { client, user } = await requireApiUser();
-  if (!client || !user) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  if (!(await requireApiSession())) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const params = new URL(request.url).searchParams;
   const scope = params.get("scope") ?? "due";
   const courseId = params.get("courseId");
-  const limit = Math.min(Number(params.get("limit") ?? (scope === "hard" ? 10 : 100)), 200);
-  let entryIds: string[] = [];
-  if (scope === "course" && courseId) {
-    const result = await client.from("vocabulary_entries").select("id").eq("course_id", courseId).neq("content_status", "quarantined").limit(limit);
-    entryIds = (result.data ?? []).map((row) => row.id);
-  } else if (scope === "hard") {
-    const result = await client.from("hard_word_flags").select("entry_id").eq("user_id", user.id).limit(limit);
-    entryIds = (result.data ?? []).map((row) => row.entry_id);
-  } else {
-    const result = await client.from("card_states").select("entry_id").eq("user_id", user.id).lte("due", new Date().toISOString()).order("due").limit(limit);
-    entryIds = (result.data ?? []).map((row) => row.entry_id);
+  const requestedLimit = Number(params.get("limit") ?? (scope === "hard" ? 10 : 100));
+  const limit = Number.isFinite(requestedLimit) ? Math.max(1, Math.min(requestedLimit, 200)) : 100;
+  try {
+    if (scope === "course" && courseId) {
+      const result = await query("select * from vocabulary_entries where course_id = $1 and content_status = 'approved' order by source_row limit $2", [courseId, limit]);
+      return NextResponse.json(result.rows);
+    }
+    if (scope === "hard") {
+      const result = await query("select v.* from hard_word_flags h join vocabulary_entries v on v.id = h.entry_id where v.content_status = 'approved' order by h.updated_at desc limit $1", [limit]);
+      return NextResponse.json(result.rows);
+    }
+    const result = await query("select v.* from card_states c join vocabulary_entries v on v.id = c.entry_id where c.due <= now() and v.content_status = 'approved' order by c.due limit $1", [limit]);
+    return NextResponse.json(result.rows);
+  } catch (error) {
+    return NextResponse.json({ error: error instanceof Error ? error.message : "Database error" }, { status: 500 });
   }
-  if (!entryIds.length) return NextResponse.json([]);
-  const { data, error } = await client.from("vocabulary_entries").select("*").in("id", entryIds);
-  return error ? NextResponse.json({ error: error.message }, { status: 500 }) : NextResponse.json(data ?? []);
 }

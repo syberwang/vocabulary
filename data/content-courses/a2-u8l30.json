@@ -8,11 +8,18 @@
       "exampleFr": "Léa dit : « âgé. »",
       "exampleZh": "蕾雅说：“年龄为一一一的上了年纪的。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3510d45fe0d97655d5c29c12026ecc07ac3ff6d8af9c9b26e5854261cc222f89"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "On peut agir ici.",
       "exampleZh": "在这里可以有关于。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "606131146f1d8369843748ba5e3fc69e926fe3905fa7b74f41ddc6be573a03d2"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Je connais Avignon.",
       "exampleZh": "我知道阿维尼翁 法国城市。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5aeb35340831487a875fde76564a5ace07b0a332f4493d176d2352410f847378"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "C'est banal.",
       "exampleZh": "这是平常的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "18927019bb02e0d21ea5626e84d1c689037a163adffa9350251c871374f65507"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est bavard.",
       "exampleZh": "这是话多的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "30acfb3418309a3c44c26825a40ddb5794992b621ee0f56cbfc6798fbec52723"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut apparaître ici.",
       "exampleZh": "在这里可以（突然）出现（动词变。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "417679a96b92581e66bd405407d43d2326a36c3c1e98e0a1758fab8fb46bb159"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici un compartiment.",
       "exampleZh": "这里有一个轮船上被隔开的小单间。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "32e0d889b78d15624f4ae7d7b763c83caf10ee62d9cbe0c0505f71eac923d5e1"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "On peut détendre ici.",
       "exampleZh": "在这里可以亻吏轻松。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4557e5787d61ada26181709a3f50dfcdce5e2afca3b751a4f691e8e8f8877f13"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est énervé.",
       "exampleZh": "这是〈俗〉恼火的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9d60213c5d43ef7a50dfd747f4234ba019976a31c0f165e859012f2d5b6eb555"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "On peut enerver ici.",
       "exampleZh": "在这里可以〈俗〉使激动。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "110e428446bff9077e3e4b4d1938c2ae99fc2be8e28cecf46fe7f1db737888a3"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une explication.",
       "exampleZh": "这里有一个对难以理解的东西的）解释。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "392312761be74f327313e6bd7c297eb6686cb87f62a78bdcabb0cd26effe2ec7"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Je connais Guernesey.",
       "exampleZh": "我知道根西 英吉利海峡中英属岛屿。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2aec8ab2e274f92ddd8ca13959a1f7a8d83cdfa3bf2291cdf43b23429c50ffcc"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Je connais Haute Savoie.",
       "exampleZh": "我知道上萨瓦省 法国省份。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fc85abcbc9f4a3e33adeab00b5534ec2ab2d4d3ceb3a752fa0f223c93e46fb24"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici un passage.",
       "exampleZh": "这里有一个（文艺作品等的）段落。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.210Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e86c148c4dc17f81b72c360a27c978f23300e6c859839d7c80bab3eb46eee320"
       }
     }
   ]

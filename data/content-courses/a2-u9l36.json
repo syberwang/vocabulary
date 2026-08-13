@@ -8,11 +8,18 @@
       "exampleFr": "On peut accepter ici.",
       "exampleZh": "在这里可以接受。",
       "usageNote": "动词；结合主语和时态一起练习变位。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7e73554df5aa908f4eca790e2c32370a56660c339bd59143012eb58271b755e7"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Léa dit : « accepter de +inf.. »",
       "exampleZh": "蕾雅说：“同意做答应做。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4301daa49483e344d96f2b3e28b8b74b5dcf8e8271bbd86c466578c0a244b826"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Il répond à la mode.",
       "exampleZh": "他流行回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6964e0c2e74291a5897488d9998155941a46bc5f967a7b504103f63af8878aa7"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici un arrêté.",
       "exampleZh": "这里有一个（政府的）决议。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0eff02d496db824fc1d09f2a120bc8f1ee12a41d974381522e1d8ab7332c1bbf"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici une autorisation.",
       "exampleZh": "这里有一个准许。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "09f5342b38b5f8793a8e7ffded620aecaef7212a4343da143ba845e66934daaf"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut autoriser ici.",
       "exampleZh": "在这里可以准许。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "dc8f9a490d237e102099ff558a49eaea005cb148364bb5f0a15031ef9de36edd"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « autoriser qn à faire qch. »",
       "exampleZh": "蕾雅说：“准许某人做某事。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8cd405d5cf45a48002cfedf4f18847162110cfa1a30d451f6b0007d7c129f4b1"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici une carte.",
       "exampleZh": "这里有一个扑克牌。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a4f6470bb631375ac75a9009d83506e4208285f3cb575293346891f45c7ca267"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un code.",
       "exampleZh": "这里有一个典。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e1cba4046c6ba051c715b79354eebc9b359438c68308d9478daddffcab13b956"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Léa dit : « code du travail. »",
       "exampleZh": "蕾雅说：“劳动法。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f98626f0588d0f1b85dd60de7b48c10ff40a19e9b4f2dd146a127205bebc6499"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "On peut demander ici.",
       "exampleZh": "在这里可以自问。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bc8b86dbd0f3e021de1a1a2e9fde84c439d17d6785d259453c66837a231e7000"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "C'est employé.",
       "exampleZh": "这是职员。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d145c0a71d89268b40b658bc087a850058d6d26394651b6ab29baac2abae7ad3"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Je connais Essonne.",
       "exampleZh": "我知道埃松省。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a55e1aeb11038473986d8a60a3659c2313ab20a94144d441f6e0ddfc8891a40c"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est familial.",
       "exampleZh": "这是家庭的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c293a106b3802c12abc75e3e229c2f45089e52afd472fe769de555226a99a6fe"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "On peut illustrer ici.",
       "exampleZh": "在这里可以（举例、加注）说明、表明。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "187f9b0de9984255a4da2da789825dded8e0183b316df94c3a4db36e62ceae71"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "C'est infirmier.",
       "exampleZh": "这是护士。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.217Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b0af97e91e18066c8b82e6eb21a62d7ee3319b6fbe4a3f2f2434debc7a233048"
       }
     }
   ]

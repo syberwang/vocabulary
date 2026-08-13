@@ -8,11 +8,18 @@
       "exampleFr": "C'est al lernand.",
       "exampleZh": "这是德国的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "096bf449150937629c02da6efbe2b33bf5160d36c77e532dd89ffa1afd90f5ae"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un allemand.",
       "exampleZh": "这里有一个德语。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a691bde5f51338c92a2ad268878745951bc30fd4c7027ce6efac1b415e605706"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Il répond bientôt.",
       "exampleZh": "他不久回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4321abd0c8b88c756d18c1a633d3d94189e72269bb037ea9783f564c6ab9a227"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "C'est britannique.",
       "exampleZh": "这是大不列颠的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2b1712d353ddad9abb7bb183da194d595bf88af43c106c8521fc9c734a609824"
       }
     },
     {
@@ -61,6 +89,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0f59df8ec050dca7c5a5f1e217585e7bc254355bd4352f9e904c842a72316bc2"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "C'est Chicago.",
       "exampleZh": "这是芝加哥（美国城市）。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5e7ea31d40ba170b98f153bce4ecd7bead168d0085215388ebf436f68c4a8c6c"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici un devoir.",
       "exampleZh": "这里有一个作业。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8ecc35c94584707d6227c48b83c7aac4b3edf8e1ef65ce660027b63922c65f62"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici une discussion.",
       "exampleZh": "这里有一个讨论。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.198Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c01361aac6d7d02f20702b5a31aae1ab40c7cbd0cd7e9cb5a1cdbbc9306a06d2"
       }
     }
   ]

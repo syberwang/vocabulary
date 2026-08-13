@@ -8,11 +8,18 @@
       "exampleFr": "Voici une candidature.",
       "exampleZh": "这里有一个候选人资格。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7c6623c282c4f7a2b1578f1731878628ddaaad514b534109ad1a958a5e941b0a"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Elle habite en France.",
       "exampleZh": "她住在法国。",
       "usageNote": "en 可表示地点、方式或材料，也可替代 de + 名词。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bbb170ea98d5867db4d084fc6f4044ec403e32ebbb459c5278f046115d180ca4"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "On peut envoyer ici.",
       "exampleZh": "在这里可以寄。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c58e351b5c5ddf81cca8717127cae425e310ac9f94b29bcf81ffe70b007083a6"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une équipe.",
       "exampleZh": "这里有一个队。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a0ae6c71d1286812f2936a022a28bd78522cc6a89d5226e3396b672b8fc691b4"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un Mexique.",
       "exampleZh": "这里有一个墨西哥。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6bb9d8e3c8bcf7cb0e223a96c8395449d71d9e2eecd228d3d9506c6408ec8f2d"
       }
     },
     {
@@ -73,6 +108,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "92910f7e961dcc5745422ad299fe727644915dda4b39cab5f48b9b4a3b874ef1"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « en or. »",
       "exampleZh": "蕾雅说：“金质的。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f08d70cea67af57251dfecc6aa79cb69cb4e6bf28d14d5b52f3eaf99acc5d434"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "On peut passer ici.",
       "exampleZh": "在这里可以度过。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e62e93fc68d649f15b7bf2c0010804c4065281cb946cc61705f259d8ed641c9d"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un Pérou.",
       "exampleZh": "这里有一个秘鲁。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9dbc1fe575e5f8020ac1f52426971f2137885d5ac1d1986df124fea9d51404d4"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une salsa.",
       "exampleZh": "这里有一个萨尔萨舞（曲）。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.180Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c88b724f3afdafc7ede10c2ccf888df1f68b7a50bdb1a44718fed68046f2a864"
       }
     }
   ]

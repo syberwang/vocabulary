@@ -8,11 +8,18 @@
       "exampleFr": "C'est ado.",
       "exampleZh": "这是<口>青少年的缩。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c4a4a832502d2385a486b102d0a2b470c00b9d9aaffd3e8efedae4d8cf291777"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "C'est agriculteur.",
       "exampleZh": "这是耕作者。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ba1a753d237a7323b61f42f4d0b3a2da564c7aa721830d01fd58904bb31d57eb"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un collège.",
       "exampleZh": "这里有一个初中。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "87bd3209e5480c8e0dd6188ef790219b82a5848f1a4e796399cc0b9783642b42"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "On peut cacher ici.",
       "exampleZh": "在这里可以藏。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "04e96c6508399435df1de9cb4db98a73f21e8cbb667c7fd1dd4fabd4733d8f31"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est dentiste.",
       "exampleZh": "这是牙医。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c4a60011f830e4e2d3c6fc27b2816d50b39178534259a3593e591847967898fc"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "C'est fort.",
       "exampleZh": "这是强壮的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7e2576916c176cde50b2c5dafe69a48cb62f898a08f790590f73efe8bfc575e4"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est futur.",
       "exampleZh": "这是将来的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7bf77ecd6bede3423da931e848de09882ade2a57b56f241b938671bd3642becb"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un marathon.",
       "exampleZh": "这里有一个马拉松赛跑。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "67250031212277b8ce27e4a1f18f4bfc3eceeeceeeaf25d47c1c140a120f7b13"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un métier.",
       "exampleZh": "这里有一个职业。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5400c41c2c24ed187231ec3644f10a7992dec1158f03700068b3c63d2afd76b7"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Je connais Montpellier.",
       "exampleZh": "我知道蒙彼利埃（法国城市。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "12194905ec67c959b1ed300017d8809932cb86845fd945d74e1a63eb7921d094"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "C'est ouvrier.",
       "exampleZh": "这是工人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d9c1da157055ba91607963a759169806eb67c0d47abdca7e914b346e3508f638"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "C'est pauvre.",
       "exampleZh": "这是贫穷的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e2263720cca928e69f080e83ee96edec176c0cab96e62d8eecbb7f18823c4d85"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "C'est pauvre.",
       "exampleZh": "这是穷人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b15d5ba221d5e98f61b68af6c8544e6a8f3f3d150e237a5603d58e5d046b5f92"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici une pauvreté.",
       "exampleZh": "这里有一个贫穷。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.184Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e704a02dcc1cddb96dbb58fdda07f822011332fec2e32f294178a0dafba8cbf3"
       }
     }
   ]

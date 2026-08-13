@@ -8,11 +8,18 @@
       "exampleFr": "On peut baisser ici.",
       "exampleZh": "在这里可以降低。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "69cf0eec6d26e14614f8045886ca92158fb9d272b1a15d1609d189a4dd04c5d5"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Il répond ces dernières années.",
       "exampleZh": "他最近几年回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "854c2ec93efce5968bc4ccdcf48b608ec53876f42bad821d9239fc2587d59b38"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "On peut compter ici.",
       "exampleZh": "在这里可以数。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fb46b280e1daa2a3493a32b3d63191252b3477b58188ad0ed6e833aa68d42920"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une concurrence.",
       "exampleZh": "这里有一个竞争。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cde687d9055b0075cdfd4ba9eac559737732a81f271c9d213da6db80f1d81de8"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "On peut concurrencer ici.",
       "exampleZh": "在这里可以与一。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "17b471dd967d934d0a39b721b801bfede742cbcb554e9e169a13b88218b9416b"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Il répond correctement.",
       "exampleZh": "他正确地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "44d4cc95208220082795a80be90282283e34386cb5bf51cf90102d2e1c683640"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici une crise.",
       "exampleZh": "这里有一个危机。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a488367adcb5a6cfba8926d9f5621424418ceb053f9f03a6ed283aeb14c8b5e6"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Il répond de moins en moins.",
       "exampleZh": "他越来越少（的一）回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5fb4e3ba0dfb6188ed10a394cc29c332b493133451fe48350d259a00188c964f"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut développer ici.",
       "exampleZh": "在这里可以发展。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ffc3cf773e0b4a85c89920e32bd762be04f5e92c271f7b071c310fcccc0edd10"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "C'est élevé.",
       "exampleZh": "这是高的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "db75a05f4e02ff7188eea6a8c971adf280922cf89c4820f3a3ea08ed9b7db331"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Il répond en attendant.",
       "exampleZh": "他在此期间回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c6f839189f3145335d4584262c6f8fd3ec083214a8959e898b4e266748347409"
       }
     },
     {
@@ -145,6 +222,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d18bc30ef2e738b8c8dcd1b4f709a5c1d78bedb27083a892d4e15bc02e1d9ca7"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un exemplaire.",
       "exampleZh": "这里有一个册数。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9714790c09be9a1e46feec7984eb87bce509015900150ab51e2080020bce03b7"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est fréquenté.",
       "exampleZh": "这是人多的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.207Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1a33243b370dbbd68cedf2bbb0050a78c943d4d9a3cb330d3ca0c01630e370dd"
       }
     }
   ]

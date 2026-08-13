@@ -5,6 +5,13 @@ export type CourseStatus = "not_started" | "learning" | "learned";
 export type ContentStatus = "draft" | "approved" | "needs_review" | "quarantined";
 export type ContentRisk = "low" | "medium" | "high";
 export type ExampleSource = { kind: "manual" | "codex"; label: string };
+export type ContentReview = {
+  status: "approved";
+  reviewerType: "human";
+  reviewedAt: string;
+  note: string;
+  contentHash: string;
+};
 
 export interface Course {
   id: string;
@@ -42,6 +49,7 @@ export interface VocabularyEntry {
   contentVersion: number;
   exampleSource?: ExampleSource;
   contentRisk?: ContentRisk;
+  contentReview?: ContentReview;
 }
 
 export interface SerializedCard {

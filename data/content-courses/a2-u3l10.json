@@ -8,11 +8,18 @@
       "exampleFr": "Voici une bicyclette.",
       "exampleZh": "这里有一个自行车。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bb6dbccdd7bd2a48e946d51bc63834bfa14ff59585e19689c0b1d09de5f27d31"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un abonnement.",
       "exampleZh": "这里有一个预订。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "757eb608ca5a39c3089601af4e71030b77618aa0b0d0fc1f25735c1a14c83580"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est commun.",
       "exampleZh": "这是公用的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2fd00a15796f135fde61b26c3229d89cc470eac4f7b7f407c967dddfc11b347b"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "C'est dangereux.",
       "exampleZh": "这是危险的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bdee230d4dbd37823edbe19e51d888c14a10213afe8ed6e389998b8e4f9a2e00"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici une demi-heure.",
       "exampleZh": "这里有一个半小时。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "096b9c165a09949446b045a3d63c96577a456b02a036a1c7747616689795781f"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut déposer ici.",
       "exampleZh": "在这里可以放下。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b5942d69b0c11f3e87e9012fd054bf510a2dd8fed95275fca2d035823ed34f53"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est disponible.",
       "exampleZh": "这是可自由使用的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5bfb9de655844dc23576b0175b49115da0d56edbc5f93a17d6303587ee0293cb"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Il répond également.",
       "exampleZh": "他也回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e01bf4b385f95f148e894e810abce04ac3516d372500b43a8ba1456b21997776"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Il répond environ.",
       "exampleZh": "他大约回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2b83227f33c7fec90fe34253b1151333fc7676bf861f8c85595729865b074a00"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "C'est fatigant.",
       "exampleZh": "这是衣着的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6d621251c45e4690d71f5cf0e987a13e993a9b51a3bb195eec10fa2e2be8faf1"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "C'est libre.",
       "exampleZh": "这是自由的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4f19ef9ea6d17729c450fd18c44827f4fbfe71bc8e4b60567e7962b83c111655"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici un libre-service.",
       "exampleZh": "这里有一个自助服务。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c7e6c9379f29c822e78d88090dfa935b2eaa25fec9386943e3b6c39b0c62da5d"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Léa dit : « libre-service. »",
       "exampleZh": "蕾雅说：“租赁。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "48c0b0af6e21931e38853d79b8c4840741c831c8ae93065e02af66d613697031"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "On peut marcher ici.",
       "exampleZh": "在这里可以（机械仪器等）运行。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.187Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7b228fc4e68d2572d64fd74b51066a61fb31e0e1ae5dad292b4ef4ef3595286f"
       }
     }
   ]

@@ -8,11 +8,18 @@
       "exampleFr": "Voici un anglais.",
       "exampleZh": "这里有一个英语。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "91d4e8c1fe8d7e7569ad8fa339fd1f1521cea18d1367850966390d44b012d780"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une date.",
       "exampleZh": "这里有一个日期。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4e526d91b8778fcd177573dc1cf0abda9446b31a50d8c7552ff05818c0890c01"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est le livre de Paul.",
       "exampleZh": "这是保罗的书。",
       "usageNote": "de 可表示所属、来源或内容；与 le / les 缩合为 du / des。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5032e936c19da2f6c0f90ca094170a0b76995037df15d2bb27eec874caa285af"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Elle habite en France.",
       "exampleZh": "她住在法国。",
       "usageNote": "en 可表示地点、方式或材料，也可替代 de + 名词。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "97faacffae21170edb71dbc70f1fb16fe8cc6e55aac9c3b905acec03a1698114"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "On peut expliquer ici.",
       "exampleZh": "在这里可以解释。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6c669e66c8aa13e13132293c6dd2b0633247a8417ac964592f05a5da01a1d74a"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici une histoire.",
       "exampleZh": "这里有一个历史。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0ce628c66b8e5aae54d702b3d26a0957c3af102a84018d3695f897abcbd1e8ba"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici une information.",
       "exampleZh": "这里有一个信息。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fcf722584405627deeb4bc1ae5271f6cbe9034d9f5233dabebc36cf7f498c3dd"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici une naissance.",
       "exampleZh": "这里有一个出生。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7c9dcba212fc7c46b8a91d52490d20c794e15e30d14d494d9bfa286aaa689cba"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est jeune.",
       "exampleZh": "这是年轻的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0fb58a56df6ce3530d54420d235c1cb253859ecf661dbe223d1d33cf4b616f75"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "C'est jeune.",
       "exampleZh": "这是年轻人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f4513743e092935fa6816423d30f336ff3c08d708cb164391c1ad8320d4ffcac"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une présentation.",
       "exampleZh": "这里有一个介绍。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "aa8befe4f08c1fd4fc9eb1a4cea11118ef905fb47daa2b0ae3080e4335159b6d"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "On peut se trouver ici.",
       "exampleZh": "在这里可以在。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "21dc0d38a240fbe736d8073990badc96b47d6964c9d521c44fb4ff794c6f8379"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici une université.",
       "exampleZh": "这里有一个大学。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e2c693130ae2c742c9f9a6209ede469b8a7d065a34683ed37cb0dfc22fc3da46"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est universitaire.",
       "exampleZh": "这是大学（生）的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.177Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1d2a04d4032e01d13a2c52e75441c78754e0f855bce05e0dc0c2e449c79c6a9e"
       }
     }
   ]

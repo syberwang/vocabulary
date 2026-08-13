@@ -8,11 +8,18 @@
       "exampleFr": "C'est brésilien.",
       "exampleZh": "这是巴西的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.214Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9ec64b8dfa961b40687d5bbac99cabcf5e9ad8c2bd7f3aed06ba6703ec7a08b6"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un bureau.",
       "exampleZh": "这里有一个局、署、处、所等办公地点。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "900dea8a5cc567d503fdd11fe9691922ceb842f6bf600b600b035ac2735e87b7"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « commune. »",
       "exampleZh": "蕾雅说：“行政乡。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "68cf53ef8f4ce4322aa3d74b37b1d6e6fd55ae88654ff57d038d71578049d3f6"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une condition.",
       "exampleZh": "这里有一个条件。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "045a1f4e9bfc9a9b1077416260e6ab37f01983d19eea9bc01a50c57ed95ed118"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est continu.",
       "exampleZh": "这是连续的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b28369ea0fe039f9cc372daa989347d68cb79afabffefd66c4c045336ea35178"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Il répond contrairement.",
       "exampleZh": "他相反地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "829da899e8e04f2d050fa4143b3a0a2014e5d493d2581b3fb5444cbc9a3d4193"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « contrairement à. »",
       "exampleZh": "蕾雅说：“与一相反。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "572c534ff7f8ab4ad8d89a34372d238dae51bf8da2c83a5af2b0f1d77c0dd208"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un courrier.",
       "exampleZh": "这里有一个邮件。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fdf6c46f351c71888449d00986e385e58118146e7da74a89c7c11202b091972f"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut déménager ici.",
       "exampleZh": "在这里可以搬运（家具等）。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2e1a97e759bae1fb32b25f7bdeb7b4326a2485f994864d96cf77475c1e3a1a64"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "On peut déposer ici.",
       "exampleZh": "在这里可以提交。",
       "usageNote": "动词；结合主语和时态一起练习变位。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ce967a9ed80e06a7afcfd28377a0eeb1791380cdb8e15aab81a22a4033bc89e8"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une droite.",
       "exampleZh": "这里有一个右派。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "083cd3764aadfbeb49ec8b451cbc17fee3691e35a0eba7f50da41d6359323c47"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "C'est électeur.",
       "exampleZh": "这是选民。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0219840b708e811666cf3649e13c0ce7e0f36111f1c2aadc9c9af0dc677aa342"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici une élection.",
       "exampleZh": "这里有一个选举。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ec366c6e100812907090b44b61c10a40ca47aa4f806ad30699da0af3c347ae8f"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est électoral.",
       "exampleZh": "这是选举的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.215Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d3b2d9cfc914e46186666163571e308bd8248061489cc84d46ef016bbb72cc22"
       }
     }
   ]

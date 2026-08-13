@@ -8,11 +8,18 @@
       "exampleFr": "On peut adapter ici.",
       "exampleZh": "在这里可以适应。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8e6f49a248c66d8ef8e070abaa6b6e73039c64447e2d4db1454bf706045dca2f"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Il répond ailleurs.",
       "exampleZh": "他在别处回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fa63f3a3617262068cf94018f7725a4a1e8a7c7463ac013041e19c21218637e0"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Il répond d'ailleurs.",
       "exampleZh": "他<转>此外回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b274958591c455ba0f40bab0258afd0be6663150bdc0464bf491edbd1570f0af"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Il répond à la dernière minute, au dernier moment.",
       "exampleZh": "他（在）最后时刻回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "960c53cffd51163d95db64d8ea0d29a3d75a61380bebbe0b59ab6ecdb01b3ebc"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un but by.",
       "exampleZh": "这里有一个目的。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4e53351384a94038b3ebcee9e7d800e5d0537cbc59e3dc85b1c228cc735574ec"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un canoë kanoe.",
       "exampleZh": "这里有一个独木舟。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "541d6f496ea02f0a854eb550295719af8a31a03628d43418ea8668d7436d0294"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « caravane. »",
       "exampleZh": "蕾雅说：“（用汽车牵引的）旅行挂车。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ae962160e843cfaeb7203df268f5e429afc93c1ea1d08cd3e3f72938977f4651"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Je connais Chambéry.",
       "exampleZh": "我知道尚贝里（法国城市。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "358162fabb218d802275a7ff44cdc92f1671c1ad9fc673e358e6e5eb2f1b7d41"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Je connais Charente- Maritime.",
       "exampleZh": "我知道滨海夏朗德省。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f34b0fcb2438d0c17ffd8e9af5fd29c005db56414e07b07ae1ff120f0883a810"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici un comité.",
       "exampleZh": "这里有一个委员会。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "841ece27da1e74ab178d8aecf518e4a68f048fa1e006a642f6de52c70ded7712"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Je connais Creuse.",
       "exampleZh": "我知道科勒兹河（法国河流）。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0caaf3ae601c6bd4fb320d2f9ac2a65fcc369c572cb69b9a2416fb2c9540de1b"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "On peut gagner ici.",
       "exampleZh": "在这里可以博得。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8d664163b5c87886d5b714f9c01f702d317982d0105888ce639f69c24b3c3205"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Je connais Lozère.",
       "exampleZh": "我知道洛泽尔省（法国南部省份）。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "855bcd020c49c00b45f523402daf83ad2f412ed4dbdf6c10117d48bdefc53446"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "On peut manquer ici.",
       "exampleZh": "在这里可以缺少。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.202Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a65b0be7d60a381c54e9797f090c41fcf25a05b8ba66e2c988afb8176fd2c04a"
       }
     }
   ]

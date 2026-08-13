@@ -8,11 +8,18 @@
       "exampleFr": "Léa dit : « adolescence. »",
       "exampleZh": "蕾雅说：“青春。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d14b252f93cdeffc9686d71e513ea90116ec314287c811548f3abc1f8e8f569e"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Il répond à peine.",
       "exampleZh": "他刚刚回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0615a522cc8b4927614376bf7ccb26612b368123ab1781ce0376462c85b970a0"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « à quoi bon. »",
       "exampleZh": "蕾雅说：“有什么用。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e5c1f9c8c2a832f4c5f7afbf13e2c39c01e75ac25ab4fb6326b1f57f0ff59aff"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "C'est ardent.",
       "exampleZh": "这是燃烧的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4136804da2566ea039caf5245352f38a5ff6fd11345b87ec1356fb21b22fe416"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici une aventure.",
       "exampleZh": "这里有一个意外事件。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7b75778edab9b0ba08676cbc73d439df558b071c5f8f52513c28fb0aacfacc60"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut brûler ici.",
       "exampleZh": "在这里可以发烫。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3bd545aa3f7315be8613e3eefecce75b6469bf761fa64ae4d10acc286df943fe"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « car. »",
       "exampleZh": "蕾雅说：“因为。”",
       "usageNote": "连词；用于连接词、短语或分句。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c3ab0898f2cf7f6af0c292125dc3db889f5cc6e8ef26b2021bcb131cbe761c09"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "C'est citadin.",
       "exampleZh": "这是城市居民。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "93639fa6d5e64ea76090eb9a59f34b5765d37629479567f26948d943b16af66b"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un clocher.",
       "exampleZh": "这里有一个钟楼。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6ace76c337c3c5f84bdba9a762cc0e0ecd8f34751375a5fe0ce00fae0c3c0bbf"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici un commentaire.",
       "exampleZh": "这里有一个批注。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.212Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bc2982bea1ac2c83ef51bb449926ccba3b6369e62e21e39314da2861a1845f74"
       }
     }
   ]

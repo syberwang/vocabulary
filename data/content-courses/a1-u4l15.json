@@ -8,11 +8,18 @@
       "exampleFr": "Voici un athlétisme.",
       "exampleZh": "这里有一个田径运动。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3edebd2170e8b037a9c59922e2cccce9b6b6da3b47a86da98c777710da465569"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une boite.",
       "exampleZh": "这里有一个盒子。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ec499a0e7d21be43514392b47ddfdb748d352fb084d4b50653dfc88366b50100"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici une campagne.",
       "exampleZh": "这里有一个乡村。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "269a681750d3d7815c8682d4c86b02df01942dff8d7650f16524e481f8d30053"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une course.",
       "exampleZh": "这里有一个跑。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9e9dc7d467393c3e4d1033da0e50ea35cf6b0e7698a5bdbecc29e2684dd2dd38"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Léa dit : « faire des. »",
       "exampleZh": "蕾雅说：“购物。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fc08442cd576bc9b43f5d9e59e66a70011269610e0b6397358fceea7256d3e3e"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Il répond d'abord.",
       "exampleZh": "他首先回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "91ce88f2f7390c719d4970e4299ab4ca68dec720b91d7e1afeab96ec85145f16"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici un déjeuner.",
       "exampleZh": "这里有一个午饭v.i.吃午饭。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6b16957148a1274dbce33adf888f43c13df78c7e3d0c97611fcc033322d5db31"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "On peut dormir ici.",
       "exampleZh": "在这里可以睡觉。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c304d2b19947cecd88776141e27d8ac3ff5479ff767e232455057b57db1e1b22"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut écouter ici.",
       "exampleZh": "在这里可以听。",
       "usageNote": "动词；结合主语和时态一起练习变位。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0226a58a22dbbe848848088749794abe247f7945adfb1e3e1b0a6ca988f5fe2e"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "On peut écrire ici.",
       "exampleZh": "在这里可以写。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c8bbc3e1618c0b1ad63fdcab63f0467e5784c681460a134b59bf7292d83339f1"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici un enfant.",
       "exampleZh": "这里有一个孩子。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "620b4128b578afe6c455bb0275de1807b9cb2ee99cf6d13c6fd0466e930ac51c"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici un foot.",
       "exampleZh": "这里有一个<俗>足球（运动）(football的缩写形式)。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "31dd7c74c391b488e64df34fc86c0a55dacb6c2c78c88086ebf0935e3378f064"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un footing.",
       "exampleZh": "这里有一个慢跑。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7e0302ca5c6b70ad88916867d99843aafe880064ea56fced5f68e0272b111dc9"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Léa dit : « général. »",
       "exampleZh": "蕾雅说：“pl.générauxadj.一般的。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "69fa298230e2315530366337f681c9cf740e145ecb68fd9d8a6b8c6baa162f39"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "Il répond engénéral.",
       "exampleZh": "他一般而言回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4659f71f9d69f0923386ef6b6b241bb657eef2b4b69dd432bdceb4d57217aef9"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici une gymnastique.",
       "exampleZh": "这里有一个体操。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.147Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5ed99831cb2adf6fd5f8ddc5954fc3e8ec6067545d2c4d6ee79ac87b2e55afdd"
       }
     }
   ]

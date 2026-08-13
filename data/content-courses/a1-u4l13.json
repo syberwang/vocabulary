@@ -8,11 +8,18 @@
       "exampleFr": "Voici un aller.",
       "exampleZh": "这里有一个去程（的火车、飞机）票。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b68b788f40983bc1dda73a00497d86642781ecfcf0818881d442fe611d8e2022"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un aller-retour.",
       "exampleZh": "这里有一个往返票。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e6b9433efcace1d1f583030202b4697686d9f63929574c4c87db410a0712e264"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est après-midi.",
       "exampleZh": "这是inv.下午。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1826b0d73bfcf157731ec1a16c316297700def279492ab5e1c1e534884c56c42"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une classe.",
       "exampleZh": "这里有一个等级。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "946683e127bd5019836374520af34bb2be20be3f7466c99a18eaa49687bbe6c2"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est complet.",
       "exampleZh": "这是满员的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7d3b793dfe20c26758c5849dfc3e74c1c01897463fc9c78a602a19eebd0be04b"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un départ.",
       "exampleZh": "这里有一个出发。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b3185b422fbb3106825d02e6dcf1710b34c10fc94deab481d7dd62ad1bb0722a"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est désolé.",
       "exampleZh": "这是感到遗憾的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e35e5e28480952c2f0eaf96597558ed3021818ae3b3f7df1a1f4dcef984f2252"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "C'est deuxième.",
       "exampleZh": "这是第二的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bb58955a1e34743ee2df09a1dad7b43bf04a4f2af6a5382be972f050f786f0ce"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un dimanche.",
       "exampleZh": "这里有一个周日。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "970bc42d1981cac91a9a84e76a53f05227d08dde5d634709bd0320fa254a8464"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "C'est employé.",
       "exampleZh": "这是雇员。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3c8f1ea34a5472940ae9d4b90683a0d7533200d35372bf810463133707383fcd"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une gare.",
       "exampleZh": "这里有一个车站。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f5aa87608eeac096730c940717adb8493fbd9792bb5f229b0604e2a681281b4b"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici une heure.",
       "exampleZh": "这里有一个时间。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ebb50409e1d69374f9fd22ecc9f04217b705627925950190f96af7f7ab7be54c"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un horaire.",
       "exampleZh": "这里有一个时刻表。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d0478ad856ec78ada5aec8723508f333bc11e940f2e71abffeefa82a7e151a88"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici un jeudi.",
       "exampleZh": "这里有一个周四。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7efb3d0eb36c7911f90443bfe32a91bd1c325ee4f869f34b93e33dfb983eb4ee"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "Voici un lundi.",
       "exampleZh": "这里有一个周一。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4f0b60f09889071b490090a1c6f4f5718fe3d245ad0f3b035d64c7245997c3cd"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici un mardi.",
       "exampleZh": "这里有一个周二。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8662999e55b46ba71947ee80d0e382b09d035f36804e4d4aec6a163b7f8d9bd2"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "Voici un matin.",
       "exampleZh": "这里有一个早晨。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c145d182198e267d5b98c38a15f14d959697e8ada0d67839ed68e15d911ea64a"
       }
     },
     {
@@ -212,11 +331,18 @@
       "exampleFr": "Voici un mercredi.",
       "exampleZh": "这里有一个周三。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b6f43ef33127606032b24049e1eff6d8fb27b14593fed55124b75065eafa6222"
       }
     },
     {
@@ -224,11 +350,18 @@
       "exampleFr": "Voici une pendule.",
       "exampleZh": "这里有一个挂钟。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "00b7d02f09193877bff00810ba4554799358af393b2ca48a554a28c10e99bd1b"
       }
     },
     {
@@ -236,11 +369,18 @@
       "exampleFr": "Voici une place.",
       "exampleZh": "这里有一个地方。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a2f8452b852d3b32819a9bc6e77f982037bfa86ab7b05e403ff2a6d299a6a940"
       }
     },
     {
@@ -248,11 +388,18 @@
       "exampleFr": "C'est prochain.",
       "exampleZh": "这是下一个的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ca23f6f38a7e5ea88b41cf94584e9c65362cfd272a0654cac72c60631c93bfc8"
       }
     },
     {
@@ -260,11 +407,18 @@
       "exampleFr": "Léa dit : « quand. »",
       "exampleZh": "蕾雅说：“ad.interr：什么时候。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d2e913194926615304e20f34ab7c0f87f919de9b81c1331d79105339a0101429"
       }
     },
     {
@@ -272,11 +426,18 @@
       "exampleFr": "Voici un renseignement.",
       "exampleZh": "这里有一个有关资料。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "df8351ee2be2253cb0d7989a6ae809ce8c245ce2d3c5ebd1b14b89dde000ca43"
       }
     },
     {
@@ -284,11 +445,18 @@
       "exampleFr": "Voici un samedi.",
       "exampleZh": "这里有一个周六。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "53549be513808cc082f15d23ab2479056247506dbf6f580e7956712344b7a718"
       }
     },
     {
@@ -296,11 +464,18 @@
       "exampleFr": "C'est simple.",
       "exampleZh": "这是单一的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f219d03192bf110991fe393bc9206831558b1cacce45398ddadb806e83c977b5"
       }
     },
     {
@@ -308,11 +483,18 @@
       "exampleFr": "Voici un tarif.",
       "exampleZh": "这里有一个定价。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e3f293e52d532bd1cec763245f24679e4b2e291849734fcd3d18daaf6d3f100b"
       }
     },
     {
@@ -320,11 +502,18 @@
       "exampleFr": "Voici un vendredi.",
       "exampleZh": "这里有一个周五。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "524555a90e36f3e697a6e5e9f80e1b718da0341c2a1b0f347a242ecb0ec1159d"
       }
     },
     {
@@ -332,11 +521,18 @@
       "exampleFr": "Voici une voie.",
       "exampleZh": "这里有一个道路。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.144Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2d1e1a9f8c333deb44602e1391d0f770116acff542d7fde9dfa1290407ced890"
       }
     }
   ]

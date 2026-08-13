@@ -8,11 +8,18 @@
       "exampleFr": "C'est beau.",
       "exampleZh": "这是美丽的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.151Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0403334e601a686ae1f02e0e74d3e771ee3de4ce083553ea2ed21cf9c215f307"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un cadeau.",
       "exampleZh": "这里有一个礼物。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.151Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "146536c977b33d278e3f500a19d918e701353d347f6039d8d384d68e3d2aac13"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est chaud.",
       "exampleZh": "这是热的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.151Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b31692da34e4185a8f38b192a05aa361cba2d1e24af64777a2205e08de28e70a"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici un dessert.",
       "exampleZh": "这里有一个甜点。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.151Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "708c53b760ff16ab8f3d4f88a220c297625a717917c6686e7ca8526d6dfe267d"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est excellent.",
       "exampleZh": "这是特别好的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.151Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f4ed04d9524cc9e19728b49cf9d2ba16d6a928cb56f6040580110d84eb65ffdc"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Il répond hier.",
       "exampleZh": "他昨天回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "08d61d99a5754200cf71cbe49785478ae20f21610965ce0fabc1c1738a46723b"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est inspecteur.",
       "exampleZh": "这是检察员。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "24a00aa109a9e73237278c68f5de382cd03957edd1c1adef588fefe5143d7470"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Léa dit : « inspecteurdepolice. »",
       "exampleZh": "蕾雅说：“便衣警察。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e220b5923973303f908621ee1b1f7ca3beb8c3bb02d017de893472ca2e29b852"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un magasin.",
       "exampleZh": "这里有一个商店。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d9b6701a4e5597c8008aa717f42ae1f34addc47d2e82553240311e197c0ba818"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une maison.",
       "exampleZh": "这里有一个房子。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bc83dcbf005e7d41939c2acb641d0ea03d5ecf2036f19f37ef45a8a05a16561e"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "« ouais ! » dit Léa.",
       "exampleZh": "蕾雅说：“<俗>哦！”",
       "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2a3533af3f86149a3076ce52067313783ba34aa499d9625f81dff5d5057c2cce"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici des pâtes.",
       "exampleZh": "这里有一些面条。",
       "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "03c24bbec96f7025788d6ada3c0ed7a8ce5c23fc23ab3e5b2d5543691ff5b675"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici une pizza.",
       "exampleZh": "这里有一个比萨饼。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "75ced52681bf571001d93fd6f5611ced66df9782af4390d7eec7ae1d54e4eb33"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "C'est seul.",
       "exampleZh": "这是单独的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b192b498bf48e226ddc34457ef505be09e7ed407cd6594429231a21fc048d8a6"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "C'est tout.",
       "exampleZh": "这是sing.整个的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e63a51f9fd2539c3d85ce4c92384b8ace2242cfbbf679180f4a55f7278bdf6ea"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Léa dit : « tout. »",
       "exampleZh": "蕾雅说：“sing.一切。”",
       "usageNote": "代词；结合它在句中的语法功能整体记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d44078c5d9eb02cf2e0e8fa67ee5e770f92507dbabdfc0b9c5a9c101bd390447"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "« waouh ! » dit Léa.",
       "exampleZh": "蕾雅说：“哇!(表示惊叹、赞美)！”",
       "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.152Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d8a9e031ecaaabcb7e99946a8c71d932e87b6677d3b4ab4adedabef991141768"
       }
     }
   ]

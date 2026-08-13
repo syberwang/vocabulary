@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BookOpen, Dumbbell, Home, Layers3, Settings } from "lucide-react";
+import { BookOpen, Check, CloudOff, Dumbbell, Home, Layers3, LoaderCircle, RefreshCw, Settings } from "lucide-react";
+import { useApp } from "@/components/app-provider";
 
 const navItems = [
   { href: "/", label: "首页", icon: Home },
@@ -14,8 +15,9 @@ const navItems = [
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
-  const immersive = pathname.startsWith("/learn/") || pathname.startsWith("/review/session");
-  const configured = Boolean(process.env.NEXT_PUBLIC_SUPABASE_URL && process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
+  const { syncStatus, syncMessage, retrySync } = useApp();
+  const immersive = pathname === "/login" || pathname.startsWith("/learn/") || pathname.startsWith("/review/session");
+  const configured = true;
 
   return (
     <div className="app-frame">
@@ -28,7 +30,12 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               <small>每天一课 · 稳稳记住</small>
             </span>
           </Link>
-          {!configured && <span className="demo-pill">本地演示</span>}
+          {!configured ? <span className="demo-pill">本地演示</span> : (
+            <button className={`sync-pill ${syncStatus}`} onClick={syncStatus === "error" ? retrySync : undefined} disabled={syncStatus !== "error"} aria-label={syncStatus === "error" ? "同步失败，点击重试" : undefined}>
+              {syncStatus === "loading" || syncStatus === "syncing" ? <LoaderCircle size={14} className="spin" /> : syncStatus === "error" ? <CloudOff size={14} /> : <Check size={14} />}
+              {syncStatus === "loading" ? "载入中" : syncStatus === "syncing" ? "同步中" : syncStatus === "error" ? "重试同步" : "已同步"}
+            </button>
+          )}
         </header>
       )}
       <main className={immersive ? "immersive-main" : "page-main"}>{children}</main>
@@ -44,6 +51,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             );
           })}
         </nav>
+      )}
+      {configured && syncStatus === "error" && (
+        <div className="sync-error" role="alert">
+          <CloudOff size={17} />
+          <span>{syncMessage ?? "学习记录尚未同步。"}</span>
+          <button onClick={retrySync}><RefreshCw size={15} />重试</button>
+        </div>
       )}
     </div>
   );

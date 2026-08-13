@@ -8,11 +8,18 @@
       "exampleFr": "On peut acheter ici.",
       "exampleZh": "在这里可以买。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "33b50d38f22bb4d6f6a859c9ed00480f52dbd13345dd264043f154b3e66d8e83"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Il répond assez.",
       "exampleZh": "他足够地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7026130bb03fa2269753d4a0017f7d0ec466853773703e17449920d1a393ad62"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un beurre.",
       "exampleZh": "这里有一个黄油。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d2f7f9c7e1d475c9b2a8c175a1bda6e7fbfaa8c89eaa0cf7b72dc8070fa0d404"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "On peut boire ici.",
       "exampleZh": "在这里可以喝。",
       "usageNote": "动词；结合主语和时态一起练习变位。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4d5a52f70626072cf4c43a8153383648d8dbbdfb6ff363fc0da79642cefad89a"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici une bouteille.",
       "exampleZh": "这里有一个瓶子。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "10e1e469f24407da2bc0da14b323ffe25fd918ff5d8dcaed24143a3d95035d29"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici une Chandeleur.",
       "exampleZh": "这里有一个圣蜡节（天主教节日）。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a48131eae49b0ceec62df133265152e95a450280063a9a935b06602dfa46cf08"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Voici un cidre.",
       "exampleZh": "这里有一个苹果酒。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bbba422c745bae38fea500acc6bfbf8f1046eb37082a93deacce75ce3ea9e2f0"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un coca.",
       "exampleZh": "这里有一个可乐。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c64f2f25cbcbd142319e1e5b34b0f17d6f75617443c1a85bb15363684d9f0169"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici une confiture.",
       "exampleZh": "这里有一个果酱。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a7087029f81e50fc0086bf36a7b46f02d6dc15bab2a5bbb3ff1907832a0fccba"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une crêpe.",
       "exampleZh": "这里有一个可丽饼（一种以鸡蛋、面粉为原料的 油煎薄饼）。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3f529258faf5f2d1bc1a68087b6ee31668404a15e99eef71f9e1e43b6c0fdb42"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici un dîner.",
       "exampleZh": "这里有一个晚餐v.i.吃晚餐。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fa6118b2a87a6f299c78a7c5462eb01cd5d8f507f10f89ee502fef817d2a6ed2"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici une eau.",
       "exampleZh": "这里有一个水。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "80bf94a472a5b1861c4dac55223bc660b2c376de6936ac76f631fe3102424ebe"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "On peut ilfaut ici.",
       "exampleZh": "在这里可以mpers.需要。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "82adea4bb7eab102d42d996c4efa450956c08330cc0f5258943df06bf0d40a46"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici une farine.",
       "exampleZh": "这里有一个面粉。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4ffd097934dfa9938f0ea7a1364e52be38d1fba238b49e26ee03c165aa48e2d2"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "Voici un fromage.",
       "exampleZh": "这里有一个奶酪。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "607746f3d8e19243fa176a7e735633d26a249b7b1d7e8c8253537b41d166c3d8"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici un gramme.",
       "exampleZh": "这里有一个克。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2a1e32ed124833463e3354c27b498f66759b24278337f39aa3a7e621571447c1"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "On peut inviter ici.",
       "exampleZh": "在这里可以邀请。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5a8e2a6f3710fba3d6d6cdbaa404a8afd5eeefffc479ac57e8820c7b4711929d"
       }
     },
     {
@@ -212,11 +331,18 @@
       "exampleFr": "Voici un kilo.",
       "exampleZh": "这里有一个公斤。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4e14a2ce5f32206e1fcd3fac48e5f307592fef005131d4ee9b634098177b8bbf"
       }
     },
     {
@@ -224,11 +350,18 @@
       "exampleFr": "Voici un lait.",
       "exampleZh": "这里有一个牛奶。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "040ebdb5a07fc0dbeb332933c3bf60da0a06051d7fdb97710f63e557226ea6aa"
       }
     },
     {
@@ -236,11 +369,18 @@
       "exampleFr": "Voici des légumes.",
       "exampleZh": "这里有一些蔬菜。",
       "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "64cf904c1bdd24f85547398106049864741d2b087aa42d50ca5441644a582687"
       }
     },
     {
@@ -248,11 +388,18 @@
       "exampleFr": "Voici une liste.",
       "exampleZh": "这里有一个单子。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cdbc298c91743fee4ea01678dfdb85281b26138df475aa6ab528bd402b43cc65"
       }
     },
     {
@@ -260,11 +407,18 @@
       "exampleFr": "Voici une livre.",
       "exampleZh": "这里有一个半公斤。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "449a62d9718d22e0e6ee7e4e21d75d9acc148e9ef3f61a7e82dabee88bf35c94"
       }
     },
     {
@@ -272,11 +426,18 @@
       "exampleFr": "Voici un litre.",
       "exampleZh": "这里有一个升。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3fa77092eb9b962b5129baa84d098b7b0f621817bab8861dba9958d83c6a84aa"
       }
     },
     {
@@ -284,11 +445,18 @@
       "exampleFr": "C'est minéral.",
       "exampleZh": "这是矿物质的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c665fcbc78a2f429df96064c4d587a917a464fbb334c83df57138ff9e9ad5249"
       }
     },
     {
@@ -296,11 +464,18 @@
       "exampleFr": "Léa dit : « eau minérale. »",
       "exampleZh": "蕾雅说：“矿泉水。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "23fed66cb176cf22e26ee1786c6126bd5923c041819d73639ed7235f305a0f29"
       }
     },
     {
@@ -308,11 +483,18 @@
       "exampleFr": "Voici un œuf.",
       "exampleZh": "这里有一个鸡蛋。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0bd34d6902055a76a44da336f6baf56ae350172ec4e08d0267d67e89dcc6157a"
       }
     },
     {
@@ -320,11 +502,18 @@
       "exampleFr": "Voici un pain.",
       "exampleZh": "这里有一个面包。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "64182bb3fc5925ca263509b4a7ee0698a3ed99ba7a0d25be64c7bbc5fb94ea09"
       }
     },
     {
@@ -332,11 +521,18 @@
       "exampleFr": "Voici un poisson.",
       "exampleZh": "这里有一个鱼。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2fd8494af54ef2cabeb956734c270fb674bcd2304f8d5e4700d51d701899672c"
       }
     },
     {
@@ -344,11 +540,18 @@
       "exampleFr": "Voici une pomme.",
       "exampleZh": "这里有一个苹果。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d4817dd63ddbe7f4eb2408f49e26d5735e7fd6bf9d56eb0bd0ed4d450daaf2d7"
       }
     },
     {
@@ -356,11 +559,18 @@
       "exampleFr": "Léa dit : « pomme de terre. »",
       "exampleZh": "蕾雅说：“土豆。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "292f367a4b15cf69e7233614838681ac362461b11b2f935efcd424bd74ba152b"
       }
     },
     {
@@ -368,11 +578,18 @@
       "exampleFr": "Voici un repas.",
       "exampleZh": "这里有一个餐。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c36c38d222a2f6c42d27eb07a144997d24cad0d30f50f05417254052404b85a3"
       }
     },
     {
@@ -380,11 +597,18 @@
       "exampleFr": "Voici un riz.",
       "exampleZh": "这里有一个大米。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2e39ea8375b242fb15cfd2a41b24b0083ae68ff54b7ef0a4d333d621dbe9d0df"
       }
     },
     {
@@ -392,11 +616,18 @@
       "exampleFr": "Voici une salade.",
       "exampleZh": "这里有一个凉拌生菜。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a5da80e0b97f7a0800a127ed87b699df3461fbeccbfa0419e22dc851df2fda41"
       }
     },
     {
@@ -404,11 +635,18 @@
       "exampleFr": "Voici un sucre.",
       "exampleZh": "这里有一个糖。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "14426f38c1cdb63fd4ca61d68ef354ff5648629545f00522c3278db063133181"
       }
     },
     {
@@ -416,11 +654,18 @@
       "exampleFr": "Voici un supermarché.",
       "exampleZh": "这里有一个超市。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d66604ef96b8e08b048ee6a0ab441781fa22c3cdc8b474cffb2dc0c8fa9646fc"
       }
     },
     {
@@ -428,11 +673,18 @@
       "exampleFr": "On peut téléphoner ici.",
       "exampleZh": "在这里可以打电话。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c5c7d94d2ea4d174716e0aaac14656e91bd2aaa86f9816d0f6f214c7bd3cc851"
       }
     },
     {
@@ -440,11 +692,18 @@
       "exampleFr": "Léa dit : « téléphoneràqn. »",
       "exampleZh": "蕾雅说：“给某人打电话。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cc00ada91db4a55ef9e8c542cfcbcdb74621fb17501aa07c05dc92f07d3eef88"
       }
     },
     {
@@ -452,11 +711,18 @@
       "exampleFr": "Voici un tout.",
       "exampleZh": "这里有一个sing.全部。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "65b515f370f714d83f4cf463a089f0eeb608abd178ed17f56afcb01d392789aa"
       }
     },
     {
@@ -464,11 +730,18 @@
       "exampleFr": "Voici une viande.",
       "exampleZh": "这里有一个肉。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a04309468acafe7c0912bec86b6a493d021d2a62476395176a2502d3ad439526"
       }
     },
     {
@@ -476,11 +749,18 @@
       "exampleFr": "Voici un vin.",
       "exampleZh": "这里有一个葡萄酒。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.150Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d540da745536ddb01bb7c9205d9171f8b4a3eb41fa0b8b3f22a8035b7c04be8e"
       }
     }
   ]

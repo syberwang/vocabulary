@@ -13,6 +13,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d5e88f553eb17f37708c1353e4558950110a48340fdd26e746e38b8b47d273c4"
       }
     },
     {
@@ -25,6 +32,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f89dfc86e20d6ff1e7abaea5f18bef8b25af68e4753b98798136a9d0115834d2"
       }
     },
     {
@@ -37,6 +51,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "63d68a957fc6e4e650af14a7693727ca918ebb1f29fcba24f542203886adf308"
       }
     },
     {
@@ -49,6 +70,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4fd39319fa4003802b340a4890b5e614ec153035d8099b431f08f64033a46959"
       }
     },
     {
@@ -61,6 +89,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9900916eafe5897c0e36e3b731c4c33b1849e5308321eab0a0c7aab2677ac507"
       }
     },
     {
@@ -73,6 +108,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f2ee53a8d07e9637b2f40b90d3b4bef3e5b22fbdb78b1fa3d953a408a52e5e2f"
       }
     },
     {
@@ -85,6 +127,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6432649eb042e34319f64a4f955c31236be5b43857689998e0da4de4b3e0a8f2"
       }
     },
     {
@@ -97,6 +146,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b552ee045e387b2dafaf1d5fc24e9e0a28675deae55f4397ce4c37b1ac160d9d"
       }
     },
     {
@@ -109,6 +165,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bcc7bb795d6c493fb8b68672dc98e0ee12fb3900e5bfa8272314348d6e310e7a"
       }
     },
     {
@@ -121,6 +184,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "73cba198aa9448e4a46fc27a3a811dc8c57495c6b312f9927e0092bdf74651e0"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Paul est Français.",
       "exampleZh": "保罗是法国人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "df9d5993737cbfb35f73651f159a9d89f0d6ff290b37ca58e2f27d25f504e52d"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Il est étudiant.",
       "exampleZh": "他是大学生。",
       "usageNote": "il 作阳性第三人称单数主语，也用于无人称结构。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e00156586e589af9c9ab2d6514aaed2e24edbad1ac6f403c03bf74f4dd5f55a4"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Ce restaurant est italien.",
       "exampleZh": "这是一家意大利餐厅。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d7a7175af63ae7c4d173b571c83ef8f50c8204a8426259b7e912d1b1f5d2e736"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Luca est Italien.",
       "exampleZh": "卢卡是意大利人。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "39edf6c1ac040c8e9b8d27eb66ca16a2fc085a577068252f79de27d2f1627aa9"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "Je parle français.",
       "exampleZh": "我说法语。",
       "usageNote": "je 作第一人称单数主语；元音或哑音 h 前省音为 j'。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "20d9b8adc1ef1ec053b7dd1f61ac2d940a1c256056179d5555688bd56f50438d"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici ma carte.",
       "exampleZh": "这是我的卡片。",
       "usageNote": "ma 修饰单数阴性名词；元音或哑音 h 前通常改用 mon。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c397d717a4778f49ac01d3a1b5aee927e27c63e469b499f962c0b22ccf362abe"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "Bonjour, madame.",
       "exampleZh": "您好，女士。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "12b74e6f8ddd176796413eb88dc21f746f7cd1766649f19903547c81060e9a21"
       }
     },
     {
@@ -212,11 +331,18 @@
       "exampleFr": "C'est mon mari.",
       "exampleZh": "这是我的丈夫。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "15927a7014a90e6f997192a013a4537598efb6f4b144870722b3cb9f094e16f7"
       }
     },
     {
@@ -224,11 +350,18 @@
       "exampleFr": "Voici mon livre.",
       "exampleZh": "这是我的书。",
       "usageNote": "mon 修饰单数阳性名词，也用于元音或哑音 h 开头的阴性名词前。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d49ad70fdca6be6936566976ef63fc5d28513b6fdc9e73e321671d7e22a1cf71"
       }
     },
     {
@@ -236,11 +369,18 @@
       "exampleFr": "Bonjour, monsieur.",
       "exampleZh": "您好，先生。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2b131d905377f7135db03eb98091faeac3932ff33adbf9d645ffd012f11ac71d"
       }
     },
     {
@@ -248,11 +388,18 @@
       "exampleFr": "Quelle est votre nationalité ?",
       "exampleZh": "您的国籍是什么？",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9fe9c431a4ca8c22a037f4613c4666b201977c4f18fbaea35ee655a06aae0a7c"
       }
     },
     {
@@ -260,11 +407,18 @@
       "exampleFr": "Mon nom est Martin.",
       "exampleZh": "我姓马丁。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5ed4c6d3ef803f74b209bb0fb7ab8f94c4405538c5fb7a8523c4062dad9e0c65"
       }
     },
     {
@@ -272,11 +426,18 @@
       "exampleFr": "Non, je ne suis pas français.",
       "exampleZh": "不，我不是法国人。",
       "usageNote": "non 用于否定回答；句内否定通常使用 ne ... pas。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d6f526f9c6606ce7cea428aec7fb7e5536b5fc39d18e575cbf9f085b846208bb"
       }
     },
     {
@@ -284,11 +445,18 @@
       "exampleFr": "Oui, je comprends.",
       "exampleZh": "是的，我明白。",
       "usageNote": "oui 用于肯定回答；反驳否定问句时常用 si。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a2e83702da21db3742babac295047bf09f6938e31898e0324d29c716a4d962e0"
       }
     },
     {
@@ -296,11 +464,18 @@
       "exampleFr": "Mon prénom est Léa.",
       "exampleZh": "我叫蕾雅。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "bc6027f88393688fe1609ce7472577f48d6a38886edbfa4da602a2723f6b1020"
       }
     },
     {
@@ -308,11 +483,18 @@
       "exampleFr": "Qui est cette femme ?",
       "exampleZh": "这位女士是谁？",
       "usageNote": "qui 可询问人，也可作关系代词并在从句中充当主语。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d4d0e21cd4ab8a9f184e9c3f25905af7cb47159b3ff3ebcbde09060ed253ad9d"
       }
     },
     {
@@ -320,11 +502,18 @@
       "exampleFr": "Tu habites à Montréal ?",
       "exampleZh": "你住在蒙特利尔吗？",
       "usageNote": "tu 用于熟人、朋友或儿童之间的单数非正式称呼。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "76c8d28eec1ad40dc6a97dc86798bf4fb04562b4aab16ee26df1753681df286f"
       }
     },
     {
@@ -332,11 +521,18 @@
       "exampleFr": "Voici mon professeur.",
       "exampleZh": "这是我的老师。",
       "usageNote": "voici 用于介绍眼前的人或事物，后面可直接接名词或代词。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2a75778c80790c7b8112941198a103acd35a2c9cbc4f1f7c0e12f6844aab61f4"
       }
     },
     {
@@ -344,11 +540,18 @@
       "exampleFr": "Vous parlez français ?",
       "exampleZh": "您说法语吗？",
       "usageNote": "vous 可表示复数“你们”，也可作为单数礼貌称呼“您”。",
-      "risk": "medium",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.125Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fb43e44c45742feb1cc608bfdc2001e29bf8114f2435aed564903e6fe5763026"
       }
     }
   ]

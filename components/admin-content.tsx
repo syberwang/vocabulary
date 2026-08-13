@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Save, Search, Send } from "lucide-react";
+import { Save, Search } from "lucide-react";
 
 type AdminEntry = Record<string, unknown> & { id: string; word: string; part_of_speech: string; translation_zh: string; example_fr: string; example_zh: string; usage_note: string; accepted_answers: string[]; content_status: "draft" | "approved" | "needs_review" | "quarantined"; raw_values: { word?: string; pos?: string; zh?: string }; source_page: number };
 
@@ -11,7 +11,6 @@ export function AdminContent() {
   const [query, setQuery] = useState("");
   const [status, setStatus] = useState("needs_review");
   const [message, setMessage] = useState("");
-  const [inviteEmail, setInviteEmail] = useState("");
 
   async function load() {
     const response = await fetch(`/api/admin/entries?status=${status}&q=${encodeURIComponent(query)}`);
@@ -28,19 +27,11 @@ export function AdminContent() {
     if (response.ok) setSelected(await response.json());
   }
 
-  async function invite(event: React.FormEvent) {
-    event.preventDefault();
-    const response = await fetch("/api/admin/invite", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email: inviteEmail }) });
-    setMessage(response.ok ? "邀请邮件已发送。" : "邀请发送失败。");
-    if (response.ok) setInviteEmail("");
-  }
-
   function update(field: keyof AdminEntry, value: unknown) { setSelected((current) => current ? { ...current, [field]: value } : current); }
 
   return (
     <section className="page-section">
       <h1 className="page-title">内容后台</h1><p className="page-subtitle">校订词条、审批例句并查看原始来源。每次保存都会留下修订记录。</p>
-      <form className="panel" onSubmit={invite} style={{ display: "flex", gap: 8, marginBottom: 12 }}><input className="answer-input" type="email" value={inviteEmail} onChange={(e) => setInviteEmail(e.target.value)} placeholder="邀请邮箱" required /><button className="primary-button"><Send size={16} /> 邀请</button></form>
       <div className="panel" style={{ marginBottom: 12 }}>
         <div style={{ display: "grid", gridTemplateColumns: "1fr auto auto", gap: 8 }}><input className="answer-input" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="搜索法语或中文" /><select value={status} onChange={(e) => setStatus(e.target.value)}><option value="needs_review">待审核</option><option value="draft">草稿</option><option value="approved">已批准</option><option value="quarantined">已隔离</option><option value="all">全部</option></select><button className="icon-button" onClick={load} aria-label="搜索"><Search size={18} /></button></div>
       </div>

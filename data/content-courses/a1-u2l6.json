@@ -8,11 +8,18 @@
       "exampleFr": "C'est autre.",
       "exampleZh": "这是另一个的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fd8adfe8f752849c3ae4c9a58fd839a65f4ffc3349122c7a985da618c6eed085"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une basket.",
       "exampleZh": "这里有一个篮球鞋。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b8debe6f755b8f430cc03fbf5e8aac76692bff26c36e44e97758dc6d9f47d664"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "C'est blanc.",
       "exampleZh": "这是白的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "81274b548d8e195f6c4545780eb917f1b527e138e7644a5400d36aea1f7edfdf"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Léa dit : « ne…pas. »",
       "exampleZh": "蕾雅说：“不。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2a39ab1df317f11e91da41799440984f0e94c94c2aa8067e6588bdbe65bb989a"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "C'est bleu.",
       "exampleZh": "这是蓝色的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "41f72818e33c19e507f56190af82cc2877cf7f894e429de03b61ad0b4f71d3ba"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "C'est noir.",
       "exampleZh": "这是黑的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "efa6923a0edd60029844bc2667966a800681225fb2a560c1a6df22d549f1eb4f"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "C'est blond.",
       "exampleZh": "这是金色的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c7b50f39bf9b12316656deb6e057a6da57a2e69f641198b396b4fc9c462148a0"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un pantalon.",
       "exampleZh": "这里有一个长裤。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1d051c4451fcc6a7dbf4eaa631c88dbab420bc92ca80b7fc277c5e6cb3d9a007"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est brun.",
       "exampleZh": "这是棕色的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9173c18262ed1b63bd46d46b790dd9595da47ef11ed9b852093bc61b4df6d362"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une personne.",
       "exampleZh": "这里有一个人。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e554b45bcd7009d8c397c531d0f8b375c72578331fc47c24ea22bd7bed998123"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une chaussure.",
       "exampleZh": "这里有一个鞋。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "68361019f202338e144c215ab7023e5d2233cbffb6f3a2e0fa5f10a05640e806"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "C'est petit.",
       "exampleZh": "这是矮小的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d4740affd589a6ddb79ab2adf16bbbd800d0b13d43550179ba00b90042171cf7"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici une chemise.",
       "exampleZh": "这里有一个男式衬衫。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "36607421913ecb7bde3583a2583fda34cc1d1877a7517570cb2d80daf94f39ae"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "On peut porter ici.",
       "exampleZh": "在这里可以穿戴。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "71ae1263aa825cda41410b6e4a3f56c121c30e42024caedfadf02dc1f3611ea7"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "Voici une chose.",
       "exampleZh": "这里有一个事情。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "859cd52132c69e3f14e95a3b5f88b679667b0f9cd64243464add5047fa7e3b00"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici un portrait-robot.",
       "exampleZh": "这里有一个(警方综合搜捕对象的特征所制的) 模拟 画像。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0c6af0cceacdce01367b47f9c7a9bd4ef83b0c008a1cb5d58affb3cef0d8442a"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "Voici une couleur.",
       "exampleZh": "这里有一个色。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c5390ba21e4d6630d83f8397553a23f036945ce56d686a46915d89612415eeec"
       }
     },
     {
@@ -212,11 +331,18 @@
       "exampleFr": "Il répond d'accord.",
       "exampleZh": "他同意回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "29b420b91ea2714fd9d59647f9a039894ae34e04dc61724e4292855e5113c71a"
       }
     },
     {
@@ -224,11 +350,18 @@
       "exampleFr": "Voici une robe.",
       "exampleZh": "这里有一个(女用）长外衣。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "943ffa0686484e3c90538a18aa7a2efd43ecb865fd4f436dc48ed99476c8e81d"
       }
     },
     {
@@ -236,11 +369,18 @@
       "exampleFr": "C'est grand.",
       "exampleZh": "这是高大的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "90a9609d789bee6e773e36ed02fdbc940540995a5db5838b8ab0974bbcfde72b"
       }
     },
     {
@@ -248,11 +388,18 @@
       "exampleFr": "C'est rouge.",
       "exampleZh": "这是红色的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6a1b409e0138135263a5c5b430adfdc742c25422e09489a483466c05200f9222"
       }
     },
     {
@@ -260,11 +407,18 @@
       "exampleFr": "C'est jaune.",
       "exampleZh": "这是黄色的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f30c1dc3c7aa8d67fe8e20615b951eff2b005f2b433beb273c3d648f3091352f"
       }
     },
     {
@@ -272,11 +426,18 @@
       "exampleFr": "Voici un tee-shirt.",
       "exampleZh": "这里有一个短袖圆领棉汗衫。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5538cb895f5f6e6846ae131b98e8d26f0e7fdfcf36f34ba2effae3efbf0252fb"
       }
     },
     {
@@ -284,11 +445,18 @@
       "exampleFr": "Voici un jean.",
       "exampleZh": "这里有一个牛仔裤。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "786fae867a3bb74e7fed4bb168b542b6d766c2a96516c5fd3b3c7053af4b43d7"
       }
     },
     {
@@ -296,11 +464,18 @@
       "exampleFr": "C'est vert.",
       "exampleZh": "这是青的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4e8b6946a311d3ba13613fb33b8041a3dc6663fff2df4b997e5ea8e204c95ed9"
       }
     },
     {
@@ -308,11 +483,18 @@
       "exampleFr": "Voici des lunettes.",
       "exampleZh": "这里有一些眼镜。",
       "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8b0e80fe748f19d7efc5d1a82fcf2047c7f6555201d1f503d32070f21e31ef6c"
       }
     },
     {
@@ -320,11 +502,18 @@
       "exampleFr": "Voici un vêtement.",
       "exampleZh": "这里有一个衣服。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8664d626d6397ddfc4dbf0cf786c857e0f97259aa1234b44d84cef400ced070f"
       }
     },
     {
@@ -337,6 +526,13 @@
       "source": {
         "kind": "manual",
         "label": "讲义校订"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.132Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "15acbeefe1ed23ccbe729f2fa9c3869bd7e2571d5c6eb4d68997619e2e20c7f3"
       }
     }
   ]

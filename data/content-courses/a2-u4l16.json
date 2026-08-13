@@ -8,11 +8,18 @@
       "exampleFr": "On peut augmenter ici.",
       "exampleZh": "在这里可以增加。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "43f0f9b869daf0eecef933f4152fb51b0c4b2d7b4ba4b4b77a1f8470508607f0"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une cause.",
       "exampleZh": "这里有一个原因。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6b250870f15db724685193d4c15151ce7b7a1fbbc4b4e47b3917ab7c63747210"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un décès.",
       "exampleZh": "这里有一个死亡。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d752c07a86cd72ca8a703700637afd907173a6709de40bf64c580ac9ad091de7"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici une décision.",
       "exampleZh": "这里有一个决心。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "56d0643f7089b456b56aee5a6ac7a267077b35122a8c954984431a4f6c11a106"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Léa dit : « prendre des décisions. »",
       "exampleZh": "蕾雅说：“做决定。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3cc85dc5196271e5be12afe2ed49cceefac849a14da7830bf6a85251e72e0105"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut déplacer ici.",
       "exampleZh": "在这里可以移动。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "792951b6377a69e39a1ee50fbe55f0671fe7d110626fd08bbe4cb7e50d87ea85"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "On peut entraîner ici.",
       "exampleZh": "在这里可以招致。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0a8f6d1d419a52e1d98d7753f4fae4e2ad06db014e044e8b7aa442a60ce54d43"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un exercice.",
       "exampleZh": "这里有一个训练。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5a93013b7180066d0d68b65a279cb038ced2673eee2cf3bf4fa1faccb110c198"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "On peut indiquer ici.",
       "exampleZh": "在这里可以指。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "67138e661045a6a65bc3e2b3c31143c9cfc90b10eb2bbb2367dddbd3ef7c4036"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une influence.",
       "exampleZh": "这里有一个影响。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.193Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7665938890ae69cd2b83191a4b45084f3f7ff89d251327b893811fa4fd59642e"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Léa dit : « avoir une influence sur. »",
       "exampleZh": "蕾雅说：“对一一有影响。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.194Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1133b84852840eeef47f185f1529fa321d695d2e0f9d68c3ad469d6f48e61886"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Voici une maladie.",
       "exampleZh": "这里有一个病。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.194Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "19e0be8725bc84813d23d0ce69d99ee144c5fbbfb1debb9d0643b28c818119e2"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un manifeste.",
       "exampleZh": "这里有一个宣言。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.194Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "f3d275e5a0555274739b256d10e80062cb3d33c2b3ac7de72a5692932ef71e96"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici un manque.",
       "exampleZh": "这里有一个缺少。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.194Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "3d4fd4f7202755ce8d300dba601df817219102d8dfa86ae14c525d81d9429be9"
       }
     }
   ]

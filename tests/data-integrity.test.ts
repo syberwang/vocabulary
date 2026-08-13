@@ -14,7 +14,9 @@ describe("imported vocabulary", () => {
     expect(entries.every((entry) => entry.exampleFr && entry.exampleZh && entry.usageNote)).toBe(true);
     const active = entries.filter((entry) => entry.contentStatus !== "quarantined");
     expect(active).toHaveLength(1432);
+    expect(active.every((entry) => entry.contentStatus === "approved")).toBe(true);
     expect(active.every((entry) => entry.exampleSource?.kind === "manual" || entry.exampleSource?.kind === "codex")).toBe(true);
+    expect(active.every((entry) => entry.contentRisk === "low" && entry.contentReview?.reviewerType === "human" && entry.contentReview.contentHash)).toBe(true);
     expect(active.some((entry) => entry.usageNote.includes("导入占位"))).toBe(false);
     expect(active.some((entry) => entry.exampleFr.includes("Dans cette leçon, on apprend"))).toBe(false);
   });

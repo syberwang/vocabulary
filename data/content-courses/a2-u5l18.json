@@ -8,11 +8,18 @@
       "exampleFr": "Voici une Angleterre.",
       "exampleZh": "这里有一个英格兰。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "637d303647e8bc39554b331272a28b0fcb2e3e1d7bf7ade40819fa8567892246"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici une bibliothèque.",
       "exampleZh": "这里有一个图书馆。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "391f22b5755bac138bcfc012814bc9b0b8b2fdc389941c2e9303d7f6ca1f9fdd"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un choix.",
       "exampleZh": "这里有一个选择。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "775471943b2bda9dcc725f8d8b73097606e791827915a0ae26ba88c126b7c1e8"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Il répond concrètement.",
       "exampleZh": "他具体地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8223e9917979e80922333c595c9b48dc9b32b3d7303f4381e61b584b78773d69"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un congé.",
       "exampleZh": "这里有一个假期。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6976c4391b6be3df92b587dfa5623046f2dfd7edc32a6160a51a4903288b771c"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Léa dit : « depuis. »",
       "exampleZh": "蕾雅说：“自一一以来。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c407996ac96c8f7fb1759a977b55d38693179293754cc871b055021b33e24574"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Il répond différemment diferamà.",
       "exampleZh": "他不同地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e61516facd19c74d9c38471d3df1a7913f7578591167118f893e72cbfb7cdb73"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Il répond facilement.",
       "exampleZh": "他容易地回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ce6a6fd81f042ec67ffd5b4e15e9245228ba7596823b59f500ff1f63fe7e41ee"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est grand.",
       "exampleZh": "这是年龄大的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "029a759834e68869efb4fa4736bf4fea3e698c350471b9353d8f748082a0997d"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "On peut interroger ici.",
       "exampleZh": "在这里可以提问（动词变位同）。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d9d919427e90238bd5eeaaee780c76bed0aa9f85a7734ae816245809b64398c4"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "C'est marié.",
       "exampleZh": "这是已婚的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "aaf743fb0f0cb6188f38ce377aaa8c16ad0f05ff01b46b4d28d0f92296010929"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Léa dit : « mi-temps. »",
       "exampleZh": "蕾雅说：“半日工制）。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2a10604641f236e75c06b4adbab1abbb42928b33368a111b84fbaaf86ee72ece"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Il répond à mi-temps.",
       "exampleZh": "他半日制回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "fa7c7e076511231f9753503322b678ad056d47fa6d13b12144ea59d09ef38cc8"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici une nourrice.",
       "exampleZh": "这里有一个保姆。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.196Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2020fd282c39ff1f8f4616f317716e24fead21e5c075554634f7922b4d4debde"
       }
     }
   ]

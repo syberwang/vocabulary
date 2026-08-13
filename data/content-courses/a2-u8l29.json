@@ -8,11 +8,18 @@
       "exampleFr": "Léa dit : « apprendre à inf.. »",
       "exampleZh": "蕾雅说：“（动词变位同。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4dd52f6ecd9fdd0123a50bcf9d7459eed8dc6c0894ca85d44a88144052fc5382"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un automne.",
       "exampleZh": "这里有一个秋天。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b82b34a7bcd0d352f155ef6231f5c47ded7099b4562e7fcacbea1e5243751bdb"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « autre. »",
       "exampleZh": "蕾雅说：“另一个人。”",
       "usageNote": "代词；结合它在句中的语法功能整体记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9eef317b9670b5bd532238451ca4aba71fc70edea60332b8af12efdd6bfbac93"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Léa dit : « les autres. »",
       "exampleZh": "蕾雅说：“所有其他的人。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "999b5e3df1feb138637ca0c3ea2736726cd5ace45a0a95e7aea0c0b6fc8417a0"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un bonheur.",
       "exampleZh": "这里有一个幸福。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d125d63db8c188c48c683a5d63f51d5dd7711c056d8332a13f9fd2864babf76f"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un cas.",
       "exampleZh": "这里有一个情况。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7981c0fc207867810b41a4fc34848f3bf36466d7274f94dc7a87d194723285b1"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Il répond en tout tous cas.",
       "exampleZh": "他不管怎样回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6580e45580051e962058b110e58922b8fd51255d996630697757a5928bb81589"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "On peut chercher ici.",
       "exampleZh": "在这里可以寻求。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a2d06f98202fd49b7686bc042b428f9740eb431b8a2721012eb2e72358aa6b5e"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Léa dit : « chercher à inf.. »",
       "exampleZh": "蕾雅说：“力图力求做某事。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6fe8a9997f5425e45bbc519a3bd5f8f65a33295fa0bfd8f325caeb19dfebba68"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici un BJA circuit.",
       "exampleZh": "这里有一个弯曲的路。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e71eb43a83d8f5648543c50b8c043a83f4f61d74e93b526058bfe773029c7bf7"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici un circuit.",
       "exampleZh": "这里有一个弯曲的路。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "0aa7e8e7d92ce594b965ddf6261f26932aebb541061a9a032e57f58452b395f8"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "On peut communiquer ici.",
       "exampleZh": "在这里可以有联系。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.209Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "63308a3279f460c945a161e35d32b353b140bff1038c253b839b0fdb182158ad"
       }
     }
   ]

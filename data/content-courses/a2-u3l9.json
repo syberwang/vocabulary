@@ -8,11 +8,18 @@
       "exampleFr": "On peut agrandir ici.",
       "exampleZh": "在这里可以增大。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.185Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c420d97c58772e03a9f06124d78cd863834e24ce8d0f9dea404281cc65a33aa7"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un besoin.",
       "exampleZh": "这里有一个需要。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.185Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cea7ea88b3178a814cb2f671d2bd857af05ec76673163b628258db70ad9c837a"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « avoir besoin. »",
       "exampleZh": "蕾雅说：“需要。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "88073b6430f0f8613c040ed9697fb774b1856d61666621f5395762a3b4bc62f8"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici un bruit.",
       "exampleZh": "这里有一个声音。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "23f98c9e3b3a917df4bec4f14c6365312badfed23c366696d9066c9f52c3ee33"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un centre-ville.",
       "exampleZh": "这里有一个市中心。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5c3443b3685990181ebb265a760d420789ab73c0049c943b28c2de7fabbe3fbd"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un cadre.",
       "exampleZh": "这里有一个周围。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "96d83d0de0169164536d8fe0f9a1b50074cbd19e03a8978d80359e99325ee494"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Léa dit : « cadre de vie. »",
       "exampleZh": "蕾雅说：“生活环境。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "55c0ae79342cf0d0f99ce061fc4e2b624393390b8fd8411dff51263eb7148afb"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici un confort.",
       "exampleZh": "这里有一个（使）生活舒适的起居设备。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1b9fb382160c3a36a4ce0017407fe1350477ea76709ae4f20953e94da9c6fe93"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "C'est confortable.",
       "exampleZh": "这是舒适的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7dba7f2ba343774d9fc490636e5e363bc45d0094e49fdcab1ea1d07f25c48391"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une disposition.",
       "exampleZh": "这里有一个安排。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.186Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "b70f8d4f4c9f1b1cfbddf38987caef3e8d38506ceae88586888110713bb68ecf"
       }
     }
   ]

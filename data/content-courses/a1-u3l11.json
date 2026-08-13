@@ -8,11 +8,18 @@
       "exampleFr": "Voici un air.",
       "exampleZh": "这里有一个空气。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e502b5e07983ba4d787e3330241ffa7cb8ba41a2a4766fa5675aeb5587cd5e5e"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Voici un ouest.",
       "exampleZh": "这里有一个西。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "289567df977ae2c6f1512592bad2a23b2d081434d57d7cf1943cd4f47e4dbffd"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Léa dit : « air conditionné. »",
       "exampleZh": "蕾雅说：“空调。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "07670588b60d18e3e397975529c842058045c2b7db76ac33deaab742caeacc5f"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "C'est parfait.",
       "exampleZh": "这是完美的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "9553deb24544a0c8eb3100242cd1d726666b4410c9b1837066ca30848a7a94f2"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Voici un bar.",
       "exampleZh": "这里有一个酒吧。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "7ce7a1bfa670203145fb7bf0f2814ac20bba5961efc32aeaef589b147d6eb951"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "On peut partir ici.",
       "exampleZh": "在这里可以出发。",
       "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "957b8e936ab6a436303d1e3bedfc4a1f41f2008a0d49d44a080d48a2e1b57295"
       }
     },
     {
@@ -80,11 +122,18 @@
       "exampleFr": "Il répond biensûr.",
       "exampleZh": "他当然回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "579d36945e7655b99c13bfd8d5a49e341af8185d6cb931e04c0de5f3b64cfcaa"
       }
     },
     {
@@ -92,11 +141,18 @@
       "exampleFr": "Voici une piscine.",
       "exampleZh": "这里有一个游泳池。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ce7be4bb711d79200367f9087398e7fe6f02aa0846ef595c6de475db6dffaffa"
       }
     },
     {
@@ -104,11 +160,18 @@
       "exampleFr": "Voici un bord.",
       "exampleZh": "这里有一个边。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1b4e64e7439f3edd0e99b9fc2a7284e7a46e84b425c091ad265f76bada0b76c3"
       }
     },
     {
@@ -116,11 +179,18 @@
       "exampleFr": "Voici une plage.",
       "exampleZh": "这里有一个沙滩。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "412c89182dcaea5bd05f3c1758fb76f9782be2808134e1f36d69f8c8f4d8331d"
       }
     },
     {
@@ -128,11 +198,18 @@
       "exampleFr": "Voici une carte.",
       "exampleZh": "这里有一个地图。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "a7570855ac6aa0be86f4cd7b6399f9221cc1d9b225ec3c85d62c7714792f6726"
       }
     },
     {
@@ -140,11 +217,18 @@
       "exampleFr": "Il répond puis.",
       "exampleZh": "他然后回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2bdecdd6666f440aa37a86038a4b775e348b499f0920625db437c71aa8bc2e51"
       }
     },
     {
@@ -152,11 +236,18 @@
       "exampleFr": "Voici un circuit.",
       "exampleZh": "这里有一个旅游线路。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c52c4e85d17a033d6645245b30bbbb37772f5e057193f39d1a8f0716098553c9"
       }
     },
     {
@@ -164,11 +255,18 @@
       "exampleFr": "Voici une réception.",
       "exampleZh": "这里有一个接待处。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "237810a294cb67a0180155da18227f10cfcb3fc29f5893ce44bb95dab5b11ae9"
       }
     },
     {
@@ -176,11 +274,18 @@
       "exampleFr": "C'est conditionné.",
       "exampleZh": "这是有条件的的。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8d398b5af37aed459417db74f958908a7bcbc5071f3b7c14ed80d87dcb26d62b"
       }
     },
     {
@@ -188,11 +293,18 @@
       "exampleFr": "Voici un restaurant.",
       "exampleZh": "这里有一个饭店（通俗语中简称为resto)。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4d023344868e38879fe338d4c31227b719afb72ab2eecb4527e61640495f7af4"
       }
     },
     {
@@ -200,11 +312,18 @@
       "exampleFr": "Voici un conseil.",
       "exampleZh": "这里有一个建议。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "cd0535ff28d3633c142d54f816319d24b555393d8f3970759518f9284d9ac0c1"
       }
     },
     {
@@ -212,11 +331,18 @@
       "exampleFr": "Voici un sud.",
       "exampleZh": "这里有一个南。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d932671fd2dd2be0c9356ddcd47677db2fb4ac57e9c69b3641abd5e8ac7d6c49"
       }
     },
     {
@@ -224,11 +350,18 @@
       "exampleFr": "Voici une différence.",
       "exampleZh": "这里有一个差异。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "e22ea0000451045de28d1b87bcac63c4a532bfe5380b8e9aa436aaac45a119a9"
       }
     },
     {
@@ -236,11 +369,18 @@
       "exampleFr": "Voici une télévision.",
       "exampleZh": "这里有一个电视（系统）。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4f0b1733c496b588541a3f1131cb57f819ada606fa9ac454cffd3fa01767c672"
       }
     },
     {
@@ -248,11 +388,18 @@
       "exampleFr": "Voici un est.",
       "exampleZh": "这里有一个东。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "34ec7c242f6d46815204ebf2b7c84cb86228dfce0d0d826d5978bb40bcafc9f3"
       }
     },
     {
@@ -260,11 +407,18 @@
       "exampleFr": "Voici un hélicoptère.",
       "exampleZh": "这里有一个直升机。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "c8bb72167b49c035183b780e5beda070aa3e3bc5ffc6ba0d75d985dfa66380d7"
       }
     },
     {
@@ -272,11 +426,18 @@
       "exampleFr": "Voici une terrasse.",
       "exampleZh": "这里有一个餐馆设在人行道上的）露天加座露台。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "ec03dd6c9353f92deb1a6911804865cc600e5c34bcafa6385138bca6a8982f56"
       }
     },
     {
@@ -284,11 +445,18 @@
       "exampleFr": "Voici une île.",
       "exampleZh": "这里有一个岛。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "5fbdb41e04d835e2d83e510a078c5ef71ba464da74a1132bb5e0cb6866ae6879"
       }
     },
     {
@@ -296,11 +464,18 @@
       "exampleFr": "Voici un jour.",
       "exampleZh": "这里有一个日子。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "1241e47a91f297090709f5371eb6d00e8c6a48109084c3a745bee70922b857ff"
       }
     },
     {
@@ -308,11 +483,18 @@
       "exampleFr": "Voici une ville.",
       "exampleZh": "这里有一个城市。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "6fc9503b9ad90d6e7207e697e4fe69236495aa935c8a072784e2fb4da417bb9a"
       }
     },
     {
@@ -320,11 +502,18 @@
       "exampleFr": "Il répond juste.",
       "exampleZh": "他正好回答。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "efd1e6bc8444dc15ca3f02c58cd02825aea6170b977e0b6d3fb2048c789e754e"
       }
     },
     {
@@ -332,11 +521,18 @@
       "exampleFr": "On peut visiter ici.",
       "exampleZh": "在这里可以参观。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "01797a5366ff48bb74dfd4ee93c2029921ab958adccf0bd081afa7efebd10c08"
       }
     },
     {
@@ -344,11 +540,18 @@
       "exampleFr": "Voici une mer.",
       "exampleZh": "这里有一个大海。",
       "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "23fcd25972d39cf77d0e3a39dd300a33ed1d5593e6878bb564559a49462347b4"
       }
     },
     {
@@ -356,11 +559,18 @@
       "exampleFr": "Voici un voyage.",
       "exampleZh": "这里有一个旅行。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.141Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "def94eab917d4f7caaed71af9c5c1fde6e5898fcf821595130d36881ff84de81"
       }
     }
   ]

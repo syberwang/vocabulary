@@ -73,6 +73,7 @@ for (const file of files) {
       usageNote: generated.usageNote,
       exampleSource: generated.source,
       contentRisk: generated.risk,
+      contentReview: generated.review,
       contentStatus: generated.status === "approved" ? "approved" : "needs_review",
     };
     const isChanged = Object.entries(next).some(([key, value]) => JSON.stringify(entry[key]) !== JSON.stringify(value));
@@ -98,8 +99,13 @@ data.metadata.generatedAt = new Date().toISOString();
 data.metadata.courseContentFiles = files.length;
 data.metadata.codexMerged = merged;
 data.metadata.placeholderCount = placeholders;
-data.metadata.codexDraftExamples = active.filter((entry) => entry.exampleSource?.kind === "codex").length;
+delete data.metadata.codexDraftExamples;
+data.metadata.codexGeneratedExamples = active.filter((entry) => entry.exampleSource?.kind === "codex").length;
 data.metadata.manualExamples = active.filter((entry) => entry.exampleSource?.kind === "manual").length;
+data.metadata.humanReviewedExamples = active.filter((entry) => entry.contentReview?.reviewerType === "human").length;
+data.metadata.approvedExamples = active.filter((entry) => entry.contentStatus === "approved").length;
+data.metadata.needsReview = active.filter((entry) => entry.contentStatus === "needs_review").length;
+data.metadata.quarantined = data.entries.filter((entry) => entry.contentStatus === "quarantined").length;
 data.metadata.validationIssues = issues.length;
 
 const report = {

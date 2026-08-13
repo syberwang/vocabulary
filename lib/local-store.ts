@@ -90,6 +90,8 @@ export function startDailyCourse(state: LocalLearningState, requestedCourseId: s
 }
 
 export interface RecordAttemptInput {
+  id?: string;
+  occurredAt?: string;
   entryId: string;
   courseId: string;
   rating: RatingValue;
@@ -102,7 +104,7 @@ export interface RecordAttemptInput {
 
 export function recordAttempt(state: LocalLearningState, input: RecordAttemptInput) {
   const next = structuredClone(state);
-  const now = new Date();
+  const now = input.occurredAt ? new Date(input.occurredAt) : new Date();
   const isNew = !next.cards[input.entryId];
   const updatesSchedule = Boolean(input.scheduled || isNew);
   if (updatesSchedule) {
@@ -110,7 +112,7 @@ export function recordAttempt(state: LocalLearningState, input: RecordAttemptInp
   }
 
   const attempt: ReviewAttempt = {
-    id: crypto.randomUUID(),
+    id: input.id ?? crypto.randomUUID(),
     entryId: input.entryId,
     courseId: input.courseId,
     mode: input.mode,
@@ -151,16 +153,18 @@ export function recordAttempt(state: LocalLearningState, input: RecordAttemptInp
 }
 
 export function isAutomaticallyHard(state: LocalLearningState, entryId: string) {
-  const attempts = state.attempts
-    .filter((attempt) => attempt.entryId === entryId && attempt.isPrimary)
-    .slice(-10);
-  const lastTwoAgain = attempts.length >= 2 && attempts.slice(-2).every((attempt) => attempt.rating === "again");
-  if (lastTwoAgain) return true;
-  if (attempts.length < 5) return false;
-  const difficult = attempts.filter((attempt) => attempt.rating === "again" || attempt.rating === "hard").length;
-  const recentThreeStrong = attempts.slice(-3).every((attempt) => attempt.rating === "good" || attempt.rating === "easy");
-  if (difficult / attempts.length <= 0.2 && recentThreeStrong) return false;
-  return difficult / attempts.length >= 0.4;
+  const history = state.attempts.filter((attempt) => attempt.entryId === entryId && attempt.isPrimary);
+  let automatic = false;
+  for (let index = 0; index < history.length; index += 1) {
+    const attempts = history.slice(Math.max(0, index - 9), index + 1);
+    const lastTwoAgain = attempts.length >= 2 && attempts.slice(-2).every((attempt) => attempt.rating === "again");
+    const difficult = attempts.filter((attempt) => attempt.rating === "again" || attempt.rating === "hard").length;
+    const difficultRate = attempts.length ? difficult / attempts.length : 0;
+    const recentThreeStrong = attempts.length >= 3 && attempts.slice(-3).every((attempt) => attempt.rating === "good" || attempt.rating === "easy");
+    if (lastTwoAgain || (attempts.length >= 5 && difficultRate >= 0.4)) automatic = true;
+    else if (automatic && attempts.length >= 5 && difficultRate <= 0.2 && recentThreeStrong) automatic = false;
+  }
+  return automatic;
 }
 
 export function hardEntryIds(state: LocalLearningState) {

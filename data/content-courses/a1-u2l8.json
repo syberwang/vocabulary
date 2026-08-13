@@ -8,11 +8,18 @@
       "exampleFr": "C'est artiste.",
       "exampleZh": "这是艺术家。",
       "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8ff70c3ad05b5591818f43f4397af0d07b4067f9ecdaf155c987395adbf9f3e5"
       }
     },
     {
@@ -20,11 +27,18 @@
       "exampleFr": "Léa dit : « entre. »",
       "exampleZh": "蕾雅说：“在……之间 （常与et连用。”",
       "usageNote": "介词；与后面的名词或代词构成介词短语。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "aa3262c599584f503383cbb3a1a537063baa3d7bb734552072a573974ce59cd7"
       }
     },
     {
@@ -32,11 +46,18 @@
       "exampleFr": "Voici un coin.",
       "exampleZh": "这里有一个角。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "d5637595e06af95312faafa524e97055317ef749f9bc889d629a4dfa78382411"
       }
     },
     {
@@ -44,11 +65,18 @@
       "exampleFr": "Voici un tapis.",
       "exampleZh": "这里有一个地毯。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "8284628fb8734c04ad442d3be29fae56d49002928b327a7f51edbfb9492df3f9"
       }
     },
     {
@@ -56,11 +84,18 @@
       "exampleFr": "Léa dit : « des. »",
       "exampleZh": "蕾雅说：“[介词de和定冠 词les的缩合形。”",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "4860b9f7cb6e6c49c59b629ad0c23ac518569924687617aa5772c1677fc80c32"
       }
     },
     {
@@ -68,11 +103,18 @@
       "exampleFr": "Voici un film.",
       "exampleZh": "这里有一个电影。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
-      "risk": "high",
-      "status": "needs_review",
+      "risk": "low",
+      "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 课程草稿"
+        "label": "Codex 生成（人工审核）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-13T09:24:26.135Z",
+        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
+        "contentHash": "2fb6dd306e355a4797a8acc83bdd20f65ebaf2774c243bcb20e44cdeb40ef67e"
       }
     }
   ]
