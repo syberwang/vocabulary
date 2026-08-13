@@ -1,0 +1,103 @@
+{
+  "courseId": "a2-u5l20",
+  "generatedAt": "2026-08-13T08:58:31.454Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1207",
+      "exampleFr": "C'est al lernand.",
+      "exampleZh": "这是德国的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1208",
+      "exampleFr": "Voici un allemand.",
+      "exampleZh": "这里有一个德语。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1209",
+      "exampleFr": "Il répond bientôt.",
+      "exampleZh": "他不久回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1210",
+      "exampleFr": "C'est britannique.",
+      "exampleZh": "这是大不列颠的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1211",
+      "exampleFr": "Vous mangez à la carte ?",
+      "exampleZh": "您要按菜单单点吗？",
+      "usageNote": "manger à la carte：按菜单单点；与套餐 menu 相对。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-1212",
+      "exampleFr": "C'est Chicago.",
+      "exampleZh": "这是芝加哥（美国城市）。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1213",
+      "exampleFr": "Voici un devoir.",
+      "exampleZh": "这里有一个作业。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1214",
+      "exampleFr": "Voici une discussion.",
+      "exampleZh": "这里有一个讨论。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

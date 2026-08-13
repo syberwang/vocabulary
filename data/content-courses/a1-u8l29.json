@@ -1,0 +1,379 @@
+{
+  "courseId": "a1-u8l29",
+  "generatedAt": "2026-08-13T08:58:31.432Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-771",
+      "exampleFr": "Voici un album.",
+      "exampleZh": "这里有一个影集。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-772",
+      "exampleFr": "Voici un article.",
+      "exampleZh": "这里有一个（报刊）文章。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-773",
+      "exampleFr": "Voici un basket.",
+      "exampleZh": "这里有一个篮球。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-774",
+      "exampleFr": "Voici une chanson.",
+      "exampleZh": "这里有一个歌曲。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-775",
+      "exampleFr": "Voici un chaton.",
+      "exampleZh": "这里有一个小猫。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-776",
+      "exampleFr": "Léa dit : « comme. »",
+      "exampleZh": "蕾雅说：“作为。”",
+      "usageNote": "连词；用于连接词、短语或分句。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-777",
+      "exampleFr": "Voici un corps.",
+      "exampleZh": "这里有一个身体。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-778",
+      "exampleFr": "On peut demander ici.",
+      "exampleZh": "在这里可以请求。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-779",
+      "exampleFr": "Léa dit : « demanderàqndefaireqch.. »",
+      "exampleZh": "蕾雅说：“要求某人做某事。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-780",
+      "exampleFr": "Voici une enfance.",
+      "exampleZh": "这里有一个童年。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-781",
+      "exampleFr": "Voici une époque.",
+      "exampleZh": "这里有一个时代。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-782",
+      "exampleFr": "C'est fan.",
+      "exampleZh": "这是粉丝。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-783",
+      "exampleFr": "Voici une grand-mère.",
+      "exampleZh": "这里有一个（外）祖母。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-785",
+      "exampleFr": "Voici un grand-père.",
+      "exampleZh": "这里有一个（外）祖父。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-787",
+      "exampleFr": "C'est heureux.",
+      "exampleZh": "这是快乐的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-788",
+      "exampleFr": "Voici une interview.",
+      "exampleZh": "这里有一个采访。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-789",
+      "exampleFr": "Voici un jouet.",
+      "exampleZh": "这里有一个玩具。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-790",
+      "exampleFr": "C'est malade.",
+      "exampleZh": "这是生病的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-791",
+      "exampleFr": "Voici des parents.",
+      "exampleZh": "这里有一些父母。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-792",
+      "exampleFr": "On peut parler ici.",
+      "exampleZh": "在这里可以ind.谈。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-793",
+      "exampleFr": "Léa dit : « parlerdeqn/qch.. »",
+      "exampleZh": "蕾雅说：“谈到某人/某事。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-794",
+      "exampleFr": "Léa dit : « parleràqn. »",
+      "exampleZh": "蕾雅说：“对某人说话。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-795",
+      "exampleFr": "Léa dit : « parlerde...àqn. »",
+      "exampleZh": "蕾雅说：“同某人谈……。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-796",
+      "exampleFr": "C'est particulier.",
+      "exampleZh": "这是特殊的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-797",
+      "exampleFr": "C'est prof.",
+      "exampleZh": "这是<俗>教师。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-798",
+      "exampleFr": "Léa dit : « quand. »",
+      "exampleZh": "蕾雅说：“当……时感谢。”",
+      "usageNote": "连词；用于连接词、短语或分句。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-799",
+      "exampleFr": "On peut remercier ici.",
+      "exampleZh": "在这里可以感谢。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-800",
+      "exampleFr": "Voici un slam.",
+      "exampleZh": "这里有一个诗喃（音乐）。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-801",
+      "exampleFr": "On peut sortir ici.",
+      "exampleZh": "在这里可以出版。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-802",
+      "exampleFr": "C'est sportif.",
+      "exampleZh": "这是从事体育运动的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-803",
+      "exampleFr": "Voici un texte.",
+      "exampleZh": "这里有一个歌词（与音乐相对）。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "courseId": "a1-u7l26",
+  "generatedAt": "2026-08-13T08:58:31.431Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-691",
+      "exampleFr": "Je connais Albi.",
+      "exampleZh": "我知道阿尔比（法国城镇。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-692",
+      "exampleFr": "Voici un argent.",
+      "exampleZh": "这里有一个银。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-693",
+      "exampleFr": "On peut attendre ici.",
+      "exampleZh": "在这里可以等待(动词变位同détendre)。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-694",
+      "exampleFr": "Voici un avantage.",
+      "exampleZh": "这里有一个好处。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-695",
+      "exampleFr": "On peut changer ici.",
+      "exampleZh": "在这里可以ind.换。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-696",
+      "exampleFr": "Il répond comment.",
+      "exampleZh": "他怎么回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-697",
+      "exampleFr": "On peut comprendre ici.",
+      "exampleZh": "在这里可以理解。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-698",
+      "exampleFr": "Voici un contre.",
+      "exampleZh": "这里有一个反对。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-699",
+      "exampleFr": "Il répond ensemble.",
+      "exampleZh": "他一起回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-700",
+      "exampleFr": "Voici un espace.",
+      "exampleZh": "这里有一个空间。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-701",
+      "exampleFr": "Léa dit : « espacevert. »",
+      "exampleZh": "蕾雅说：“绿地。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-702",
+      "exampleFr": "C'est fatigué.",
+      "exampleZh": "这是疲倦的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-703",
+      "exampleFr": "On peut gagner ici.",
+      "exampleZh": "在这里可以．赚取。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-704",
+      "exampleFr": "C'est gens.",
+      "exampleZh": "这是人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-705",
+      "exampleFr": "Il répond ici.",
+      "exampleZh": "他这里回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-706",
+      "exampleFr": "On peut imaginer ici.",
+      "exampleZh": "在这里可以想象。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-707",
+      "exampleFr": "Voici un inconvénient.",
+      "exampleZh": "这里有一个弊端。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-708",
+      "exampleFr": "On peut marier ici.",
+      "exampleZh": "在这里可以结婚。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-709",
+      "exampleFr": "Voici un monde.",
+      "exampleZh": "这里有一个人们。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-710",
+      "exampleFr": "C'est ouvert.",
+      "exampleZh": "这是打开的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-711",
+      "exampleFr": "Léa dit : « parceque. »",
+      "exampleZh": "蕾雅说：“因为。”",
+      "usageNote": "连词；用于连接词、短语或分句。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-712",
+      "exampleFr": "On peut penser ici.",
+      "exampleZh": "在这里可以认为。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-713",
+      "exampleFr": "Voici une pollution.",
+      "exampleZh": "这里有一个污染。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-714",
+      "exampleFr": "Voici un pour.",
+      "exampleZh": "这里有一个赞成。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-715",
+      "exampleFr": "Voici une raison.",
+      "exampleZh": "这里有一个理智。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-716",
+      "exampleFr": "Léa dit : « avoirraison. »",
+      "exampleZh": "蕾雅说：“有理。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-717",
+      "exampleFr": "Il répond trop.",
+      "exampleZh": "他过多地回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-718",
+      "exampleFr": "Léa dit : « tous,toutes. »",
+      "exampleZh": "蕾雅说：“pl.所有的人。”",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-719",
+      "exampleFr": "On peut vivre ici.",
+      "exampleZh": "在这里可以生活。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-720",
+      "exampleFr": "On peut voyager ici.",
+      "exampleZh": "在这里可以旅行（动词变位同manger）。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

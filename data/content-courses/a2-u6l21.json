@@ -1,0 +1,175 @@
+{
+  "courseId": "a2-u6l21",
+  "generatedAt": "2026-08-13T08:58:31.455Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1215",
+      "exampleFr": "Voici un achat.",
+      "exampleZh": "这里有一个购买。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1216",
+      "exampleFr": "Léa dit : « faire des achats. »",
+      "exampleZh": "蕾雅说：“买东西。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1217",
+      "exampleFr": "On peut cocher ici.",
+      "exampleZh": "在这里可以刻出痕迹。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1218",
+      "exampleFr": "On peut dialoguer ici.",
+      "exampleZh": "在这里可以对话。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1219",
+      "exampleFr": "Il répond directement.",
+      "exampleZh": "他直接地回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1220",
+      "exampleFr": "Voici un direct.",
+      "exampleZh": "这里有一个直达列车。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1221",
+      "exampleFr": "Nous regardons une émission en direct.",
+      "exampleZh": "我们正在看直播节目。",
+      "usageNote": "en direct：现场直播、直播的。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-1222",
+      "exampleFr": "On peut discuter ici.",
+      "exampleZh": "在这里可以争论。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1223",
+      "exampleFr": "On peut discuter ici.",
+      "exampleZh": "在这里可以争论。",
+      "usageNote": "动词；结合主语和时态一起练习变位。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1224",
+      "exampleFr": "Il répond encore.",
+      "exampleZh": "他还回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1225",
+      "exampleFr": "On peut enregistrer ici.",
+      "exampleZh": "在这里可以登记。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1226",
+      "exampleFr": "Il répond financièrement.",
+      "exampleZh": "他财政上地回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1227",
+      "exampleFr": "C'est internaute.",
+      "exampleZh": "这是〈新〉互联网使用者。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1228",
+      "exampleFr": "Il répond jamais.",
+      "exampleZh": "他从来没有回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

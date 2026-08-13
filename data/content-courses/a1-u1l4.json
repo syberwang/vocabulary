@@ -1,0 +1,403 @@
+{
+  "courseId": "a1-u1l4",
+  "generatedAt": "2026-08-13T08:58:31.414Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-97",
+      "exampleFr": "On peut aimer ici.",
+      "exampleZh": "在这里可以爱。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-98",
+      "exampleFr": "Voici un an.",
+      "exampleZh": "这里有一个年。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-99",
+      "exampleFr": "Il répond aussi.",
+      "exampleZh": "他也回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-100",
+      "exampleFr": "Il répond beaucoup.",
+      "exampleZh": "他很回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-101",
+      "exampleFr": "Voici une Belgique.",
+      "exampleZh": "这里有一个比利时。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-102",
+      "exampleFr": "C'est boulanger.",
+      "exampleZh": "这是面包师。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-103",
+      "exampleFr": "Léa dit : « bientôt. »",
+      "exampleZh": "蕾雅说：“不久。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-104",
+      "exampleFr": "Voici un football.",
+      "exampleZh": "这里有一个足球。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-105",
+      "exampleFr": "Voici un frère.",
+      "exampleZh": "这里有一个兄弟。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-106",
+      "exampleFr": "Voici une littérature.",
+      "exampleZh": "这里有一个文学。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-107",
+      "exampleFr": "Voici une mère.",
+      "exampleZh": "这里有一个母亲。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-108",
+      "exampleFr": "Voici un père.",
+      "exampleZh": "这里有一个父亲。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-109",
+      "exampleFr": "Je connais Bruxelles.",
+      "exampleZh": "我知道布鲁塞尔(比利时)。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-110",
+      "exampleFr": "Je connais Cayenne.",
+      "exampleZh": "我知道卡宴(法属圭亚那的首府)。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-111",
+      "exampleFr": "On peut chercher ici.",
+      "exampleZh": "在这里可以找。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-112",
+      "exampleFr": "Voici un cinéma.",
+      "exampleZh": "这里有一个电影。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-113",
+      "exampleFr": "C'est classique.",
+      "exampleZh": "这是古典的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-114",
+      "exampleFr": "Voici un cinéma.",
+      "exampleZh": "这里有一个电影。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-115",
+      "exampleFr": "Voici une correspondance.",
+      "exampleZh": "这里有一个通信。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-116",
+      "exampleFr": "C'est serveur.",
+      "exampleZh": "这是服务员。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-117",
+      "exampleFr": "Voici un espagnol.",
+      "exampleZh": "这里有一个西班牙语。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-118",
+      "exampleFr": "Voici une danse.",
+      "exampleZh": "这里有一个舞蹈。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-119",
+      "exampleFr": "C'est correspondant.",
+      "exampleZh": "这是通信者。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-120",
+      "exampleFr": "Voici une Europe.",
+      "exampleZh": "这里有一个欧洲。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-121",
+      "exampleFr": "Voici un golf.",
+      "exampleZh": "这里有一个高尔夫球运动。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-122",
+      "exampleFr": "C'est guyanais.",
+      "exampleZh": "这是圭亚那的。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-123",
+      "exampleFr": "Je connais Lausanne.",
+      "exampleZh": "我知道洛桑(瑞士)。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-124",
+      "exampleFr": "Voici une lecture.",
+      "exampleZh": "这里有一个阅读。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-125",
+      "exampleFr": "Voici un monde.",
+      "exampleZh": "这里有一个世界。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-126",
+      "exampleFr": "Voici une musique.",
+      "exampleZh": "这里有一个音乐。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-127",
+      "exampleFr": "Voici une nature.",
+      "exampleZh": "这里有一个自然(界)。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-128",
+      "exampleFr": "Voici une photo.",
+      "exampleZh": "这里有一个摄影。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-129",
+      "exampleFr": "Léa dit : « un. »",
+      "exampleZh": "蕾雅说：“peu。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

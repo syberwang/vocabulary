@@ -1,0 +1,175 @@
+{
+  "courseId": "a2-u5l17",
+  "generatedAt": "2026-08-13T08:58:31.451Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1165",
+      "exampleFr": "On peut accueillir ici.",
+      "exampleZh": "在这里可以迎接。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1166",
+      "exampleFr": "C'est actif.",
+      "exampleZh": "这是活动的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1167",
+      "exampleFr": "Léa dit : « population active. »",
+      "exampleZh": "蕾雅说：“劳动力总人口。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1168",
+      "exampleFr": "Voici une aide.",
+      "exampleZh": "这里有一个帮助。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1169",
+      "exampleFr": "Léa dit : « à l'aide de. »",
+      "exampleZh": "蕾雅说：“借。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1170",
+      "exampleFr": "Léa dit : « avec l'aide de. »",
+      "exampleZh": "蕾雅说：“在（某人的）帮助。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1171",
+      "exampleFr": "C'est chômeur.",
+      "exampleZh": "这是失业者。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1172",
+      "exampleFr": "C'est commercial.",
+      "exampleZh": "这是商业的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1173",
+      "exampleFr": "On peut créer ici.",
+      "exampleZh": "在这里可以创造。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1174",
+      "exampleFr": "Voici un CV.",
+      "exampleZh": "这里有一个履历。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1175",
+      "exampleFr": "C'est égal.",
+      "exampleZh": "这是平等的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1176",
+      "exampleFr": "Voici des études.",
+      "exampleZh": "这里有一些学业。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1177",
+      "exampleFr": "Léa dit : « faire des ménages. »",
+      "exampleZh": "蕾雅说：“做保洁。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1178",
+      "exampleFr": "On peut fermer ici.",
+      "exampleZh": "在这里可以关门。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

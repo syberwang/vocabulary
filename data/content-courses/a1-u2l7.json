@@ -1,0 +1,271 @@
+{
+  "courseId": "a1-u2l7",
+  "generatedAt": "2026-08-13T08:58:31.417Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-191",
+      "exampleFr": "Il répond bien.",
+      "exampleZh": "他许多回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-192",
+      "exampleFr": "C'est bon.",
+      "exampleZh": "这是[用作感叹词的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-193",
+      "exampleFr": "Voici une boutique.",
+      "exampleZh": "这里有一个店铺。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-194",
+      "exampleFr": "C'est cher.",
+      "exampleZh": "这是高价的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-195",
+      "exampleFr": "Il répond combien.",
+      "exampleZh": "他interr: 多少（用于疑问句中）回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-196",
+      "exampleFr": "On peut coûter ici.",
+      "exampleZh": "在这里可以价值(多少钱)。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-197",
+      "exampleFr": "Paul et Marie sont français.",
+      "exampleZh": "保罗和玛丽是法国人。",
+      "usageNote": "et 连接两个并列成分",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-198",
+      "exampleFr": "Voici un euro.",
+      "exampleZh": "这里有一个欧元。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-199",
+      "exampleFr": "On peut faire ici.",
+      "exampleZh": "在这里可以〈俗〉价值（价格）为……。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-200",
+      "exampleFr": "C'est gris.",
+      "exampleZh": "这是灰色的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-201",
+      "exampleFr": "« *hum ! » dit Léa.",
+      "exampleZh": "蕾雅说：“嗯!（表示怀疑不耐烦或持保留意见）！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-202",
+      "exampleFr": "C'est joli.",
+      "exampleZh": "这是漂亮的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-203",
+      "exampleFr": "Léa dit : « pour. »",
+      "exampleZh": "蕾雅说：“对于。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-204",
+      "exampleFr": "Voici un prix.",
+      "exampleZh": "这里有一个价格。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-205",
+      "exampleFr": "Voici un pull.",
+      "exampleZh": "这里有一个〈俗〉羊毛套衫（pull-over 的缩写）。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-206",
+      "exampleFr": "Voici une quantité.",
+      "exampleZh": "这里有一个量。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-207",
+      "exampleFr": "Voici un shopping.",
+      "exampleZh": "这里有一个在商店购物。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-208",
+      "exampleFr": "Voici une taille.",
+      "exampleZh": "这里有一个（成衣的）尺码。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-209",
+      "exampleFr": "Il répond très.",
+      "exampleZh": "他很回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-210",
+      "exampleFr": "On peut trouver ici.",
+      "exampleZh": "在这里可以感到。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-211",
+      "exampleFr": "Voici un type.",
+      "exampleZh": "这里有一个类型。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-212",
+      "exampleFr": "C'est vendeur.",
+      "exampleZh": "这是营业员。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

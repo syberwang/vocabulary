@@ -1,0 +1,151 @@
+{
+  "courseId": "a2-u6l24",
+  "generatedAt": "2026-08-13T08:58:31.457Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1261",
+      "exampleFr": "Il répond autrefois.",
+      "exampleZh": "他过去回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1262",
+      "exampleFr": "On peut attirer ici.",
+      "exampleZh": "在这里可以吸引。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1263",
+      "exampleFr": "Léa dit : « avoir lieu. »",
+      "exampleZh": "蕾雅说：“举行。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1264",
+      "exampleFr": "Léa dit : « convivialité. »",
+      "exampleZh": "蕾雅说：“（社交中）亲善。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1265",
+      "exampleFr": "Léa dit : « en bas de. »",
+      "exampleZh": "蕾雅说：“在一一下方。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1266",
+      "exampleFr": "Voici une face.",
+      "exampleZh": "这里有一个脸。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1267",
+      "exampleFr": "Léa dit : « face à. »",
+      "exampleZh": "蕾雅说：“向着。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1268",
+      "exampleFr": "Léa dit : « fête. »",
+      "exampleZh": "蕾雅说：“节日。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1269",
+      "exampleFr": "Léa dit : « en fête. »",
+      "exampleZh": "蕾雅说：“在欢乐中。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1270",
+      "exampleFr": "Voici une indifférence.",
+      "exampleZh": "这里有一个冷漠。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1271",
+      "exampleFr": "Léa dit : « manifestation. »",
+      "exampleZh": "蕾雅说：“引（文化艺术的）集会。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1272",
+      "exampleFr": "Voici un million.",
+      "exampleZh": "这里有一个百万。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

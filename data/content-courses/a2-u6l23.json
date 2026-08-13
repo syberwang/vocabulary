@@ -1,0 +1,175 @@
+{
+  "courseId": "a2-u6l23",
+  "generatedAt": "2026-08-13T08:58:31.456Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1247",
+      "exampleFr": "On peut adapter ici.",
+      "exampleZh": "在这里可以适应。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1248",
+      "exampleFr": "Il répond ailleurs.",
+      "exampleZh": "他在别处回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1249",
+      "exampleFr": "Il répond d'ailleurs.",
+      "exampleZh": "他<转>此外回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1250",
+      "exampleFr": "Il répond à la dernière minute, au dernier moment.",
+      "exampleZh": "他（在）最后时刻回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1251",
+      "exampleFr": "Voici un but by.",
+      "exampleZh": "这里有一个目的。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1252",
+      "exampleFr": "Voici un canoë kanoe.",
+      "exampleZh": "这里有一个独木舟。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1253",
+      "exampleFr": "Léa dit : « caravane. »",
+      "exampleZh": "蕾雅说：“（用汽车牵引的）旅行挂车。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1254",
+      "exampleFr": "Je connais Chambéry.",
+      "exampleZh": "我知道尚贝里（法国城市。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1255",
+      "exampleFr": "Je connais Charente- Maritime.",
+      "exampleZh": "我知道滨海夏朗德省。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1256",
+      "exampleFr": "Voici un comité.",
+      "exampleZh": "这里有一个委员会。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1257",
+      "exampleFr": "Je connais Creuse.",
+      "exampleZh": "我知道科勒兹河（法国河流）。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1258",
+      "exampleFr": "On peut gagner ici.",
+      "exampleZh": "在这里可以博得。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1259",
+      "exampleFr": "Je connais Lozère.",
+      "exampleZh": "我知道洛泽尔省（法国南部省份）。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1260",
+      "exampleFr": "On peut manquer ici.",
+      "exampleZh": "在这里可以缺少。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

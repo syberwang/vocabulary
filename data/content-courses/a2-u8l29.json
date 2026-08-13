@@ -1,0 +1,151 @@
+{
+  "courseId": "a2-u8l29",
+  "generatedAt": "2026-08-13T08:58:31.460Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1337",
+      "exampleFr": "Léa dit : « apprendre à inf.. »",
+      "exampleZh": "蕾雅说：“（动词变位同。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1338",
+      "exampleFr": "Voici un automne.",
+      "exampleZh": "这里有一个秋天。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1339",
+      "exampleFr": "Léa dit : « autre. »",
+      "exampleZh": "蕾雅说：“另一个人。”",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1340",
+      "exampleFr": "Léa dit : « les autres. »",
+      "exampleZh": "蕾雅说：“所有其他的人。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1341",
+      "exampleFr": "Voici un bonheur.",
+      "exampleZh": "这里有一个幸福。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1342",
+      "exampleFr": "Voici un cas.",
+      "exampleZh": "这里有一个情况。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1343",
+      "exampleFr": "Il répond en tout tous cas.",
+      "exampleZh": "他不管怎样回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1344",
+      "exampleFr": "On peut chercher ici.",
+      "exampleZh": "在这里可以寻求。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1345",
+      "exampleFr": "Léa dit : « chercher à inf.. »",
+      "exampleZh": "蕾雅说：“力图力求做某事。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1346",
+      "exampleFr": "Voici un BJA circuit.",
+      "exampleZh": "这里有一个弯曲的路。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1347",
+      "exampleFr": "Voici un circuit.",
+      "exampleZh": "这里有一个弯曲的路。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1348",
+      "exampleFr": "On peut communiquer ici.",
+      "exampleZh": "在这里可以有联系。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "courseId": "a1-u8l31",
+  "generatedAt": "2026-08-13T08:58:31.434Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-832",
+      "exampleFr": "Voici un amour.",
+      "exampleZh": "这里有一个爱。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-833",
+      "exampleFr": "C'est amoureux.",
+      "exampleZh": "这是恋爱中的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-834",
+      "exampleFr": "Le magasin ouvre à partir de neuf heures.",
+      "exampleZh": "商店从九点开始营业。",
+      "usageNote": "à partir de + 时间或地点：从……开始。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-835",
+      "exampleFr": "On peut apprendre ici.",
+      "exampleZh": "在这里可以学习(动词变位同prendre)。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-836",
+      "exampleFr": "Voici un casting.",
+      "exampleZh": "这里有一个试镜。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-837",
+      "exampleFr": "Voici un été.",
+      "exampleZh": "这里有一个夏天。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-838",
+      "exampleFr": "Voici une histoire.",
+      "exampleZh": "这里有一个故事。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-839",
+      "exampleFr": "Voici une Irlande.",
+      "exampleZh": "这里有一个爱尔兰。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-840",
+      "exampleFr": "Voici une jupe.",
+      "exampleZh": "这里有一个裙子。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-841",
+      "exampleFr": "On peut souvenir ici.",
+      "exampleZh": "在这里可以记得。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-842",
+      "exampleFr": "C'est voisin.",
+      "exampleZh": "这是相邻的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

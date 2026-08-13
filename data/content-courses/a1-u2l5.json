@@ -1,0 +1,403 @@
+{
+  "courseId": "a1-u2l5",
+  "generatedAt": "2026-08-13T08:58:31.415Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-130",
+      "exampleFr": "Voici une affiche.",
+      "exampleZh": "这里有一个海报。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-131",
+      "exampleFr": "Voici une assiette.",
+      "exampleZh": "这里有一个盘子。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-132",
+      "exampleFr": "Il répond au-dessous.",
+      "exampleZh": "他在下面回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-133",
+      "exampleFr": "Il répond au-dessus.",
+      "exampleZh": "他在上面回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-134",
+      "exampleFr": "Je viens avec Marie.",
+      "exampleZh": "我和玛丽一起来。",
+      "usageNote": "avec 表示伴随、工具或具有某种特征。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-135",
+      "exampleFr": "Voici un blouson.",
+      "exampleZh": "这里有一个夹克衫。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-136",
+      "exampleFr": "Voici une chaise.",
+      "exampleZh": "这里有一个椅子。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-137",
+      "exampleFr": "Voici une chambre.",
+      "exampleZh": "这里有一个房间。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-138",
+      "exampleFr": "Voici un chapeau.",
+      "exampleZh": "这里有一个帽子。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-139",
+      "exampleFr": "C'est chat.",
+      "exampleZh": "这是猫。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-140",
+      "exampleFr": "Léa dit : « contre. »",
+      "exampleZh": "蕾雅说：“靠。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-141",
+      "exampleFr": "Voici un côté.",
+      "exampleZh": "这里有一个旁。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-142",
+      "exampleFr": "Léa dit : « à côté. »",
+      "exampleZh": "蕾雅说：“在(……的）旁边。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-143",
+      "exampleFr": "Voici une cuillère.",
+      "exampleZh": "这里有一个匙。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-144",
+      "exampleFr": "C'est le livre de Paul.",
+      "exampleZh": "这是保罗的书。",
+      "usageNote": "de 可表示所属、来源或内容；与 le / les 缩合为 du / des。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-145",
+      "exampleFr": "Léa dit : « devant. »",
+      "exampleZh": "蕾雅说：“在……前面。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-146",
+      "exampleFr": "Voici une droite.",
+      "exampleZh": "这里有一个右面。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-147",
+      "exampleFr": "Léa dit : « à droite. »",
+      "exampleZh": "蕾雅说：“在（……的）右边。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-148",
+      "exampleFr": "Voici une étagère.",
+      "exampleZh": "这里有一个(固定在墙上的)格。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-149",
+      "exampleFr": "Voici un fauteuil.",
+      "exampleZh": "这里有一个扶手椅。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-150",
+      "exampleFr": "Voici une fenêtre.",
+      "exampleZh": "这里有一个窗。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-151",
+      "exampleFr": "Voici une fleur.",
+      "exampleZh": "这里有一个花。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-152",
+      "exampleFr": "Voici une gauche.",
+      "exampleZh": "这里有一个左。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-153",
+      "exampleFr": "Léa dit : « à gauche. »",
+      "exampleZh": "蕾雅说：“在(……的）左边。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-154",
+      "exampleFr": "Léa dit : « il y a. »",
+      "exampleZh": "蕾雅说：“有……。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-155",
+      "exampleFr": "« là ! » dit Léa.",
+      "exampleZh": "蕾雅说：“得啦！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-156",
+      "exampleFr": "Voici un lit.",
+      "exampleZh": "这里有一个床。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-157",
+      "exampleFr": "Voici un livre.",
+      "exampleZh": "这里有一个书。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-158",
+      "exampleFr": "Voici un meuble.",
+      "exampleZh": "这里有一个家具。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-159",
+      "exampleFr": "Voici un mur.",
+      "exampleZh": "这里有一个墙。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-160",
+      "exampleFr": "Voici un nounours.",
+      "exampleZh": "这里有一个小熊毛绒玩偶（儿语）。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-161",
+      "exampleFr": "Voici un objet.",
+      "exampleZh": "这里有一个物。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-162",
+      "exampleFr": "« oh ! » dit Léa.",
+      "exampleZh": "蕾雅说：“啊!哦!呦!哎呀!！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

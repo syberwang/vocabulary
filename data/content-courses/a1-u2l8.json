@@ -1,0 +1,79 @@
+{
+  "courseId": "a1-u2l8",
+  "generatedAt": "2026-08-13T08:58:31.418Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-213",
+      "exampleFr": "C'est artiste.",
+      "exampleZh": "这是艺术家。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-214",
+      "exampleFr": "Léa dit : « entre. »",
+      "exampleZh": "蕾雅说：“在……之间 （常与et连用。”",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-215",
+      "exampleFr": "Voici un coin.",
+      "exampleZh": "这里有一个角。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-216",
+      "exampleFr": "Voici un tapis.",
+      "exampleZh": "这里有一个地毯。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-217",
+      "exampleFr": "Léa dit : « des. »",
+      "exampleZh": "蕾雅说：“[介词de和定冠 词les的缩合形。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-218",
+      "exampleFr": "Voici un film.",
+      "exampleZh": "这里有一个电影。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

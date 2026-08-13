@@ -1,0 +1,175 @@
+{
+  "courseId": "a2-u4l14",
+  "generatedAt": "2026-08-13T08:58:31.449Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1123",
+      "exampleFr": "C'est adulte.",
+      "exampleZh": "这是成年人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1124",
+      "exampleFr": "Voici un appétit.",
+      "exampleZh": "这里有一个食欲。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1125",
+      "exampleFr": "On peut arriver ici.",
+      "exampleZh": "在这里可以达到（某种程度目境地等。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1126",
+      "exampleFr": "J'arrive à finir ce travail.",
+      "exampleZh": "我终于完成了这项工作。",
+      "usageNote": "arriver à + 动词不定式：成功做到某事。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-1127",
+      "exampleFr": "Il répond au moins.",
+      "exampleZh": "他至少回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1128",
+      "exampleFr": "Il répond avant.",
+      "exampleZh": "他表示时间以前回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1129",
+      "exampleFr": "On peut bouger ici.",
+      "exampleZh": "在这里可以动。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1130",
+      "exampleFr": "Voici une consommation.",
+      "exampleZh": "这里有一个消费。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1131",
+      "exampleFr": "On peut consommer ici.",
+      "exampleZh": "在这里可以消费。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1132",
+      "exampleFr": "Voici un équivalent.",
+      "exampleZh": "这里有一个相等物。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1133",
+      "exampleFr": "Voici un exemple.",
+      "exampleZh": "这里有一个例子。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1134",
+      "exampleFr": "Il répond par exemple.",
+      "exampleZh": "他例如回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1135",
+      "exampleFr": "C'est ùfi féculent.",
+      "exampleZh": "这是含淀粉的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1136",
+      "exampleFr": "Voici un ijJ.",
+      "exampleZh": "这里有一个含淀粉物质。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

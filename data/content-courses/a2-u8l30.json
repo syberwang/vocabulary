@@ -1,0 +1,175 @@
+{
+  "courseId": "a2-u8l30",
+  "generatedAt": "2026-08-13T08:58:31.461Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1349",
+      "exampleFr": "Léa dit : « âgé. »",
+      "exampleZh": "蕾雅说：“年龄为一一一的上了年纪的。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1350",
+      "exampleFr": "On peut agir ici.",
+      "exampleZh": "在这里可以有关于。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1351",
+      "exampleFr": "Je connais Avignon.",
+      "exampleZh": "我知道阿维尼翁 法国城市。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1352",
+      "exampleFr": "C'est banal.",
+      "exampleZh": "这是平常的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1353",
+      "exampleFr": "C'est bavard.",
+      "exampleZh": "这是话多的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1354",
+      "exampleFr": "On peut apparaître ici.",
+      "exampleZh": "在这里可以（突然）出现（动词变。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1355",
+      "exampleFr": "Voici un compartiment.",
+      "exampleZh": "这里有一个轮船上被隔开的小单间。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1356",
+      "exampleFr": "On peut détendre ici.",
+      "exampleZh": "在这里可以亻吏轻松。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1357",
+      "exampleFr": "C'est énervé.",
+      "exampleZh": "这是〈俗〉恼火的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1358",
+      "exampleFr": "On peut enerver ici.",
+      "exampleZh": "在这里可以〈俗〉使激动。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1359",
+      "exampleFr": "Voici une explication.",
+      "exampleZh": "这里有一个对难以理解的东西的）解释。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1360",
+      "exampleFr": "Je connais Guernesey.",
+      "exampleZh": "我知道根西 英吉利海峡中英属岛屿。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1361",
+      "exampleFr": "Je connais Haute Savoie.",
+      "exampleZh": "我知道上萨瓦省 法国省份。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1362",
+      "exampleFr": "Voici un passage.",
+      "exampleZh": "这里有一个（文艺作品等的）段落。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

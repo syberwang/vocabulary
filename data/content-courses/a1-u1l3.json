@@ -1,0 +1,391 @@
+{
+  "courseId": "a1-u1l3",
+  "generatedAt": "2026-08-13T08:58:31.413Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-65",
+      "exampleFr": "Voici une adresse.",
+      "exampleZh": "这里有一个地址。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-66",
+      "exampleFr": "Il répond maintenant.",
+      "exampleZh": "他现在回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-67",
+      "exampleFr": "Voici un âge.",
+      "exampleZh": "这里有一个年龄。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-68",
+      "exampleFr": "« merci ! » dit Léa.",
+      "exampleZh": "蕾雅说：“谢谢!！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-69",
+      "exampleFr": "On peut aller ici.",
+      "exampleZh": "在这里可以去。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-70",
+      "exampleFr": "Je connais Montréal.",
+      "exampleZh": "我知道蒙特利尔(加拿大)。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-71",
+      "exampleFr": "Voici une Notre-Dame.",
+      "exampleZh": "这里有一个inv 圣母院。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-72",
+      "exampleFr": "Je connais Paris.",
+      "exampleZh": "我知道巴黎(法国)。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-73",
+      "exampleFr": "Il répond alors.",
+      "exampleZh": "他那么回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-74",
+      "exampleFr": "On peut parler ici.",
+      "exampleZh": "在这里可以说话。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-75",
+      "exampleFr": "C'est ami.",
+      "exampleZh": "这是朋友。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-76",
+      "exampleFr": "Je viens avec Marie.",
+      "exampleZh": "我和玛丽一起来。",
+      "usageNote": "avec 表示伴随、工具或具有某种特征。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-77",
+      "exampleFr": "C'est quel.",
+      "exampleZh": "这是inerr. 什么样的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-78",
+      "exampleFr": "On peut avoir ici.",
+      "exampleZh": "在这里可以有。",
+      "usageNote": "avoir 表示“有”，也用于年龄和多种固定表达。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-79",
+      "exampleFr": "Voici une rue.",
+      "exampleZh": "这里有一个街。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-80",
+      "exampleFr": "« salut ! » dit Léa.",
+      "exampleZh": "蕾雅说：“interji.〈俗〉(上前与朋友交谈或离开他们时)你好！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-81",
+      "exampleFr": "Voici un bébé.",
+      "exampleZh": "这里有一个婴儿。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-82",
+      "exampleFr": "Il répond bien.",
+      "exampleZh": "他好回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-83",
+      "exampleFr": "C'est son.",
+      "exampleZh": "这是他的的。",
+      "usageNote": "主有形容词；形式取决于后接名词的性和数。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-84",
+      "exampleFr": "Léa dit : « ça. »",
+      "exampleZh": "蕾雅说：“〈俗>这个。”",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-85",
+      "exampleFr": "Voici un Canada.",
+      "exampleZh": "这里有一个加拿大。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-86",
+      "exampleFr": "Et toi, tu habites où ?",
+      "exampleZh": "那你呢，你住在哪里？",
+      "usageNote": "toi 是重读人称代词，可用于强调或介词后。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-87",
+      "exampleFr": "Il répond comment.",
+      "exampleZh": "他如何回答。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-88",
+      "exampleFr": "C'est ton.",
+      "exampleZh": "这是你的(后接单数阳性名词)的。",
+      "usageNote": "主有形容词；形式取决于后接名词的性和数。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-89",
+      "exampleFr": "Voici un e-mail.",
+      "exampleZh": "这里有一个电子邮件。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-90",
+      "exampleFr": "Léa dit : « un. »",
+      "exampleZh": "蕾雅说：“(不确指的).....某。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-91",
+      "exampleFr": "Voici une fille.",
+      "exampleZh": "这里有一个女孩。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-92",
+      "exampleFr": "Voici un fils.",
+      "exampleZh": "这里有一个儿子。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-93",
+      "exampleFr": "C'est votre.",
+      "exampleZh": "这是你们的的。",
+      "usageNote": "主有形容词；形式取决于后接名词的性和数。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-94",
+      "exampleFr": "Voici un garçon.",
+      "exampleZh": "这里有一个男孩。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-95",
+      "exampleFr": "Et vous, vous habitez où ?",
+      "exampleZh": "那您呢，您住在哪里？",
+      "usageNote": "vous 可作主语，也可作重读形式；用于复数或礼貌称呼。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-96",
+      "exampleFr": "Voici une journée.",
+      "exampleZh": "这里有一个一天。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

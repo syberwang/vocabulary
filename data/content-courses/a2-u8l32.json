@@ -1,0 +1,127 @@
+{
+  "courseId": "a2-u8l32",
+  "generatedAt": "2026-08-13T08:58:31.462Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1377",
+      "exampleFr": "Léa dit : « adolescence. »",
+      "exampleZh": "蕾雅说：“青春。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1378",
+      "exampleFr": "Il répond à peine.",
+      "exampleZh": "他刚刚回答。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1379",
+      "exampleFr": "Léa dit : « à quoi bon. »",
+      "exampleZh": "蕾雅说：“有什么用。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1380",
+      "exampleFr": "C'est ardent.",
+      "exampleZh": "这是燃烧的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1381",
+      "exampleFr": "Voici une aventure.",
+      "exampleZh": "这里有一个意外事件。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1382",
+      "exampleFr": "On peut brûler ici.",
+      "exampleZh": "在这里可以发烫。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1383",
+      "exampleFr": "Léa dit : « car. »",
+      "exampleZh": "蕾雅说：“因为。”",
+      "usageNote": "连词；用于连接词、短语或分句。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1384",
+      "exampleFr": "C'est citadin.",
+      "exampleZh": "这是城市居民。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1385",
+      "exampleFr": "Voici un clocher.",
+      "exampleZh": "这里有一个钟楼。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1386",
+      "exampleFr": "Voici un commentaire.",
+      "exampleZh": "这里有一个批注。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

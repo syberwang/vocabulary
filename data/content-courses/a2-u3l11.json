@@ -1,0 +1,79 @@
+{
+  "courseId": "a2-u3l11",
+  "generatedAt": "2026-08-13T08:58:31.446Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1085",
+      "exampleFr": "Le climat est agréable ici.",
+      "exampleZh": "这里的气候宜人。",
+      "usageNote": "阳性名词；常见搭配有 climat océanique、continental、méditerranéen。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-1086",
+      "exampleFr": "On peut coucher ici.",
+      "exampleZh": "在这里可以（日、月、星辰等）沉下。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1087",
+      "exampleFr": "C'est cyclable.",
+      "exampleZh": "这是供自行车和轻便摩托车行驶的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1088",
+      "exampleFr": "Voici un environnement.",
+      "exampleZh": "这里有一个环境。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1089",
+      "exampleFr": "On peut installer ici.",
+      "exampleZh": "在这里可以安家。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1090",
+      "exampleFr": "Voici un moral.",
+      "exampleZh": "这里有一个精神。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

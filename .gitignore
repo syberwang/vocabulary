@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env
+.env.local
+.env.*.local
+coverage/
+data/openai-batch-input.jsonl
+data/openai-batch-output.jsonl
+data/openai-batch-job.json
+*.tsbuildinfo
+tmp/

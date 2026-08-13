@@ -1,0 +1,127 @@
+{
+  "courseId": "a2-u1l4",
+  "generatedAt": "2026-08-13T08:58:31.441Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-1001",
+      "exampleFr": "Voici une candidature.",
+      "exampleZh": "这里有一个候选人资格。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1002",
+      "exampleFr": "Elle habite en France.",
+      "exampleZh": "她住在法国。",
+      "usageNote": "en 可表示地点、方式或材料，也可替代 de + 名词。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1003",
+      "exampleFr": "On peut envoyer ici.",
+      "exampleZh": "在这里可以寄。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1004",
+      "exampleFr": "Voici une équipe.",
+      "exampleZh": "这里有一个队。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1005",
+      "exampleFr": "Voici un Mexique.",
+      "exampleZh": "这里有一个墨西哥。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1006",
+      "exampleFr": "Cette famille est en or.",
+      "exampleZh": "这个家庭非常珍贵、完美。",
+      "usageNote": "en or 可表示“非常珍贵或完美的”",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-1007",
+      "exampleFr": "Léa dit : « en or. »",
+      "exampleZh": "蕾雅说：“金质的。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1008",
+      "exampleFr": "On peut passer ici.",
+      "exampleZh": "在这里可以度过。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1009",
+      "exampleFr": "Voici un Pérou.",
+      "exampleZh": "这里有一个秘鲁。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-1010",
+      "exampleFr": "Voici une salsa.",
+      "exampleZh": "这里有一个萨尔萨舞（曲）。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

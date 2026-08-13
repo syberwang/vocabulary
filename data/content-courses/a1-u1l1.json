@@ -1,0 +1,355 @@
+{
+  "courseId": "a1-u1l1",
+  "generatedAt": "2026-08-13T08:58:31.408Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-5",
+      "exampleFr": "Je m'appelle Léa.",
+      "exampleZh": "我叫蕾雅。",
+      "usageNote": "s'appeler + 姓名：名叫……",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-6",
+      "exampleFr": "Bienvenue à Montréal !",
+      "exampleZh": "欢迎来到蒙特利尔！",
+      "usageNote": "Bienvenue à + 地点",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-7",
+      "exampleFr": "Bonjour, madame !",
+      "exampleZh": "您好，女士！",
+      "usageNote": "白天见面时的常用问候语",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-8",
+      "exampleFr": "Qu'est-ce que c'est ?",
+      "exampleZh": "这是什么？",
+      "usageNote": "ce 是指示代词或限定词的一部分",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-9",
+      "exampleFr": "Elle est étudiante.",
+      "exampleZh": "她是大学生。",
+      "usageNote": "elle 作阴性第三人称单数主语",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-10",
+      "exampleFr": "Paul et Marie sont français.",
+      "exampleZh": "保罗和玛丽是法国人。",
+      "usageNote": "et 连接两个并列成分",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-11",
+      "exampleFr": "Je suis étudiant.",
+      "exampleZh": "我是大学生。",
+      "usageNote": "être + 身份或形容词",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-12",
+      "exampleFr": "Elle est étudiante à Paris.",
+      "exampleZh": "她在巴黎读大学。",
+      "usageNote": "阴性形式为 étudiante",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-13",
+      "exampleFr": "Cette femme est française.",
+      "exampleZh": "这位女士是法国人。",
+      "usageNote": "femme 是阴性名词",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-14",
+      "exampleFr": "Il parle français.",
+      "exampleZh": "他说法语。",
+      "usageNote": "语言名词 français 通常不用冠词",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "manual",
+        "label": "讲义校订"
+      }
+    },
+    {
+      "entryId": "entry-15",
+      "exampleFr": "Paul est Français.",
+      "exampleZh": "保罗是法国人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-16",
+      "exampleFr": "Il est étudiant.",
+      "exampleZh": "他是大学生。",
+      "usageNote": "il 作阳性第三人称单数主语，也用于无人称结构。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-17",
+      "exampleFr": "Ce restaurant est italien.",
+      "exampleZh": "这是一家意大利餐厅。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-18",
+      "exampleFr": "Luca est Italien.",
+      "exampleZh": "卢卡是意大利人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-19",
+      "exampleFr": "Je parle français.",
+      "exampleZh": "我说法语。",
+      "usageNote": "je 作第一人称单数主语；元音或哑音 h 前省音为 j'。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-20",
+      "exampleFr": "Voici ma carte.",
+      "exampleZh": "这是我的卡片。",
+      "usageNote": "ma 修饰单数阴性名词；元音或哑音 h 前通常改用 mon。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-21",
+      "exampleFr": "Bonjour, madame.",
+      "exampleZh": "您好，女士。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-22",
+      "exampleFr": "C'est mon mari.",
+      "exampleZh": "这是我的丈夫。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-23",
+      "exampleFr": "Voici mon livre.",
+      "exampleZh": "这是我的书。",
+      "usageNote": "mon 修饰单数阳性名词，也用于元音或哑音 h 开头的阴性名词前。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-24",
+      "exampleFr": "Bonjour, monsieur.",
+      "exampleZh": "您好，先生。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-25",
+      "exampleFr": "Quelle est votre nationalité ?",
+      "exampleZh": "您的国籍是什么？",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-26",
+      "exampleFr": "Mon nom est Martin.",
+      "exampleZh": "我姓马丁。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-27",
+      "exampleFr": "Non, je ne suis pas français.",
+      "exampleZh": "不，我不是法国人。",
+      "usageNote": "non 用于否定回答；句内否定通常使用 ne ... pas。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-28",
+      "exampleFr": "Oui, je comprends.",
+      "exampleZh": "是的，我明白。",
+      "usageNote": "oui 用于肯定回答；反驳否定问句时常用 si。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-29",
+      "exampleFr": "Mon prénom est Léa.",
+      "exampleZh": "我叫蕾雅。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-30",
+      "exampleFr": "Qui est cette femme ?",
+      "exampleZh": "这位女士是谁？",
+      "usageNote": "qui 可询问人，也可作关系代词并在从句中充当主语。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-31",
+      "exampleFr": "Tu habites à Montréal ?",
+      "exampleZh": "你住在蒙特利尔吗？",
+      "usageNote": "tu 用于熟人、朋友或儿童之间的单数非正式称呼。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-32",
+      "exampleFr": "Voici mon professeur.",
+      "exampleZh": "这是我的老师。",
+      "usageNote": "voici 用于介绍眼前的人或事物，后面可直接接名词或代词。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-33",
+      "exampleFr": "Vous parlez français ?",
+      "exampleZh": "您说法语吗？",
+      "usageNote": "vous 可表示复数“你们”，也可作为单数礼貌称呼“您”。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

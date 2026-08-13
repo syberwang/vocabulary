@@ -1,0 +1,379 @@
+{
+  "courseId": "a1-u1l2",
+  "generatedAt": "2026-08-13T08:58:31.412Z",
+  "generator": "codex-course-v1-local",
+  "entries": [
+    {
+      "entryId": "entry-34",
+      "exampleFr": "Je vais à Paris.",
+      "exampleZh": "我去巴黎。",
+      "usageNote": "à 可表示地点、方向或间接宾语；与 le / les 连用时缩合为 au / aux。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-35",
+      "exampleFr": "« ah ! » dit Léa.",
+      "exampleZh": "蕾雅说：“啊！”",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-36",
+      "exampleFr": "C'est assistant.",
+      "exampleZh": "这是助理。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-37",
+      "exampleFr": "C'est belge.",
+      "exampleZh": "这是比利时的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-38",
+      "exampleFr": "C'est Belge.",
+      "exampleZh": "这是比利时人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-39",
+      "exampleFr": "Voici un café.",
+      "exampleZh": "这里有一个咖啡。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-40",
+      "exampleFr": "C'est chinois.",
+      "exampleZh": "这是中国的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-41",
+      "exampleFr": "C'est Chinois.",
+      "exampleZh": "这是中国人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-42",
+      "exampleFr": "On peut habiter ici.",
+      "exampleZh": "在这里可以居住（在）。",
+      "usageNote": "动词；结合主语和时态一起练习变位。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-43",
+      "exampleFr": "Voici un Japon.",
+      "exampleZh": "这里有一个日本。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-44",
+      "exampleFr": "C'est japonais.",
+      "exampleZh": "这是日本的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-45",
+      "exampleFr": "C'est Japonais.",
+      "exampleZh": "这是日本人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-46",
+      "exampleFr": "Tu veux du thé ou du café ?",
+      "exampleZh": "你想喝茶还是咖啡？",
+      "usageNote": "ou 表示选择，意为“或者”；不要与 où（哪里）混淆。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-47",
+      "exampleFr": "Voici un professeur.",
+      "exampleZh": "这里有一个中学教师。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-48",
+      "exampleFr": "C'est rendez-vous.",
+      "exampleZh": "这是约会。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-49",
+      "exampleFr": "Léa dit : « sur rendez-vous. »",
+      "exampleZh": "蕾雅说：“（医生接待）预约就诊（的病人）。”",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-50",
+      "exampleFr": "C'est secrétaire.",
+      "exampleZh": "这是秘书。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-51",
+      "exampleFr": "Voici un cours.",
+      "exampleZh": "这里有一个课。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-52",
+      "exampleFr": "Le livre est dans le sac.",
+      "exampleZh": "书在包里。",
+      "usageNote": "dans 表示在某个空间内部，也可表示“在……之后”的时间。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-53",
+      "exampleFr": "C'est directeur.",
+      "exampleZh": "这是经理。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-54",
+      "exampleFr": "Elle habite en France.",
+      "exampleZh": "她住在法国。",
+      "usageNote": "en 可表示地点、方式或材料，也可替代 de + 名词。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-55",
+      "exampleFr": "C'est espagnol.",
+      "exampleZh": "这是西班牙的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-56",
+      "exampleFr": "C'est Espagnol.",
+      "exampleZh": "这是西班牙人。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-57",
+      "exampleFr": "Voici un français.",
+      "exampleZh": "这里有一个法语。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-58",
+      "exampleFr": "Voici une France.",
+      "exampleZh": "这里有一个法国。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-59",
+      "exampleFr": "C'est Genève.",
+      "exampleZh": "这是日内瓦（瑞士）。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-60",
+      "exampleFr": "Un café, s'il vous plaît.",
+      "exampleZh": "请给我一杯咖啡。",
+      "usageNote": "礼貌请求时使用；熟人单数形式是 s'il te plaît。",
+      "risk": "medium",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-61",
+      "exampleFr": "Voici une Suisse.",
+      "exampleZh": "这里有一个瑞士。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-62",
+      "exampleFr": "C'est sympa.",
+      "exampleZh": "这是〈俗〉给人好感的的。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-63",
+      "exampleFr": "Voici un téléphone.",
+      "exampleZh": "这里有一个电话。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    },
+    {
+      "entryId": "entry-64",
+      "exampleFr": "Voici un thé.",
+      "exampleZh": "这里有一个（泡好的）茶。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "high",
+      "status": "needs_review",
+      "source": {
+        "kind": "codex",
+        "label": "Codex 课程草稿"
+      }
+    }
+  ]
+}

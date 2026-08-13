@@ -1,0 +1,48 @@
+{
+  "name": "french-vocabulary-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data:import": "node scripts/import-vocabulary.mjs && node scripts/generate-supabase-seed.mjs",
+    "data:seed": "node scripts/generate-supabase-seed.mjs",
+    "content:prepare": "node scripts/prepare-openai-batch.mjs",
+    "content:submit": "node scripts/submit-openai-batch.mjs",
+    "content:download": "node scripts/download-openai-batch.mjs",
+    "content:merge": "node scripts/merge-openai-batch.mjs",
+    "content:codex:course": "node scripts/generate-course-content.mjs --course",
+    "content:codex:all": "node scripts/generate-course-content.mjs --all",
+    "content:codex:merge": "node scripts/merge-course-content.mjs"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.57.0",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "openai": "^6.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "ts-fsrs": "^5.0.0",
+    "xlsx": "^0.18.5",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.3",
+    "@types/react-dom": "^19.0.2",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^16.0.0",
+    "jsdom": "^25.0.1",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
