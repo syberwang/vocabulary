@@ -1,3 +1,4 @@
+// @vitest-environment node
 import { afterEach, describe, expect, it } from "vitest";
 import { clientAddress, loginLimitIdentities, LOGIN_RATE_LIMIT_POLICIES } from "@/lib/auth/rate-limit";
 
