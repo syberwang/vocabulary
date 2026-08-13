@@ -27,9 +27,9 @@ export function LoginForm() {
   return (
     <form className="panel" style={{ width: "min(100%, 420px)" }} onSubmit={submit}>
       <label htmlFor="username" style={{ display: "block", marginBottom: 8, fontWeight: 700 }}>账号</label>
-      <input id="username" className="answer-input" required value={username} onChange={(event) => setUsername(event.target.value)} autoComplete="username" />
+      <input id="username" className="answer-input" required maxLength={100} value={username} onChange={(event) => setUsername(event.target.value)} autoComplete="username" autoCapitalize="none" spellCheck={false} />
       <label htmlFor="password" style={{ display: "block", margin: "14px 0 8px", fontWeight: 700 }}>密码</label>
-      <input id="password" className="answer-input" type="password" required value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" />
+      <input id="password" className="answer-input" type="password" required maxLength={500} value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" />
       <button className="primary-button" style={{ width: "100%", marginTop: 16 }} disabled={loading}>{loading ? "登录中…" : "登录"}</button>
       {message && <p role="alert" style={{ margin: "12px 0 0", color: "var(--danger)", fontSize: 13, lineHeight: 1.6 }}>{message}</p>}
     </form>

@@ -88,6 +88,24 @@ npm.cmd run data:seed
 - Service Worker 只缓存离线页、PWA 图标和版本化静态资源；登录、管理页面、用户 HTML 和 API 不进入公共缓存。
 - 登录接口有基础频率限制；生产环境还应在 Nginx 对 `/api/auth/login` 配置限速。
 
+### 登录防暴力破解
+
+- PostgreSQL 按来源 IP 记录失败：15 分钟内第 5 次失败后锁定 15 分钟。
+- 同时对唯一账号做全局保护：30 分钟内第 12 次失败后锁定 30 分钟，可阻挡分布式换 IP 尝试。
+- 限流键是使用 `SESSION_SECRET` 计算的 HMAC，数据库不保存原始 IP 或用户名。
+- 限流状态保存在 `auth_login_limits`，应用重启后仍然有效；30 天未更新的记录会自动清理。
+- 生产会话 Cookie 使用 `__Host-` 前缀、`Secure`、`HttpOnly` 和 `SameSite=Lax`，有效期为 7 天。
+- 会话同时绑定当前密码哈希；修改 `APP_PASSWORD_HASH` 后，旧设备上的会话会自动失效。
+- Nginx 示例位于 `deploy/nginx-french-cards.conf.example`，还会在进入 Node.js 前限制登录接口为每个 IP 每分钟 5 个请求。
+
+确认攻击已经停止后，如需紧急解除所有登录锁定，可在数据库管理终端执行：
+
+```sql
+delete from auth_login_limits;
+```
+
+应用必须只监听 `127.0.0.1`，由 Nginx 写入可信的 `X-Real-IP`。如果直接把 Node.js 的 3000 端口暴露到公网，攻击者可能伪造转发头并削弱 IP 限流。
+
 ## 自有服务器部署
 
 服务器建议使用 Linux、Node.js LTS、PostgreSQL 和 Nginx。应用只监听 `127.0.0.1:3000`，由 Nginx 通过 HTTPS 反向代理。

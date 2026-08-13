@@ -27,7 +27,20 @@ describe("production data and cache boundaries", () => {
     const packageJson = fs.readFileSync(path.join(root, "package.json"), "utf8");
     expect(session).toContain("httpOnly: true");
     expect(session).toContain("sameSite: \"lax\"");
+    expect(session).toContain("credentialVersion");
     expect(packageJson).not.toContain("@supabase/");
+  });
+
+  it("persists login limits and ships a reverse-proxy rate limit", () => {
+    const migration = fs.readFileSync(path.join(root, "postgres/migrations/0003_login_rate_limits.sql"), "utf8");
+    const limiter = fs.readFileSync(path.join(root, "lib/auth/rate-limit.ts"), "utf8");
+    const nginx = fs.readFileSync(path.join(root, "deploy/nginx-french-cards.conf.example"), "utf8");
+    expect(migration).toContain("create table auth_login_limits");
+    expect(limiter).toContain("maximumAttempts: 5");
+    expect(limiter).toContain("maximumAttempts: 12");
+    expect(limiter).toContain("pg_advisory_xact_lock");
+    expect(nginx).toContain("limit_req zone=french_cards_login");
+    expect(nginx).toContain("X-Real-IP $remote_addr");
   });
 
   it("does not precache authenticated application pages", () => {
