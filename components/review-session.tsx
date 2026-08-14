@@ -35,6 +35,7 @@ export function ReviewSession() {
   const [revealed, setRevealed] = useState(false);
   const [suggested, setSuggested] = useState<RatingValue>("good");
   const inputRef = useRef<HTMLInputElement>(null);
+  const autoSpokenRef = useRef(false);
   const hardSuccesses = useRef(new Map<string, number>());
   const hardPrimarySeen = useRef(new Set<string>());
 
@@ -67,10 +68,13 @@ export function ReviewSession() {
   const bookmarked = state.manualHardEntryIds.includes(entry.id);
   const spelling = mode !== "fr_to_zh";
 
-  function reveal() {
+  function reveal(forgotten = false) {
     if (spelling) {
       const result = gradeFrenchAnswer(answer, activeEntry.acceptedAnswers);
-      setSuggested(result.rating);
+      setSuggested(forgotten ? "again" : result.rating);
+      if (!forgotten && result.reason === "exact" && !autoSpokenRef.current) {
+        autoSpokenRef.current = speak(activeEntry.word);
+      }
     }
     setRevealed(true);
   }
@@ -104,6 +108,7 @@ export function ReviewSession() {
     setAnswer("");
     setRevealed(false);
     setSuggested("good");
+    autoSpokenRef.current = false;
   }
 
   function insertAccent(character: string) {
@@ -141,7 +146,10 @@ export function ReviewSession() {
           )}
           {revealed && (
             <div className={`feedback ${spelling ? suggested : "good"}`} style={{ width: "100%" }}>
-              <strong lang="fr">{entry.word} <small>{entry.pos}</small></strong>
+              <div className="feedback-topline">
+                <strong lang="fr">{entry.word} <small>{entry.pos}</small></strong>
+                <button className="audio-button" type="button" onClick={() => speak(entry.word)} disabled={!voices.length} aria-label="播放法语单词"><Volume2 size={16} /> 发音</button>
+              </div>
               <p>{entry.zh}</p>
               <p lang="fr" style={{ marginTop: 9, fontFamily: "Georgia, serif", fontStyle: "italic" }}>{entry.exampleFr}</p>
               <p style={{ marginTop: 3 }}>{entry.exampleZh}</p>
@@ -150,9 +158,14 @@ export function ReviewSession() {
         </article>
       </div>
       <div className="session-actions">
-        {!revealed ? <button className="primary-button" onClick={reveal} disabled={spelling && !answer.trim()}>揭晓答案</button> : (
+        {!revealed ? (
+          <div className="session-action-pair">
+            <button className="secondary-button forget-action" type="button" onClick={() => reveal(true)} disabled={!canRecordProgress}><span>忘记</span><small>Forgot</small></button>
+            <button className="primary-button" type="button" onClick={() => reveal()} disabled={spelling && !answer.trim()}>揭晓答案</button>
+          </div>
+        ) : (
           <div className="rating-grid">
-            <button className="rating-button rating-again" onClick={() => rate("again")} disabled={!canRecordProgress}>重来<small>Again</small></button>
+            <button className="rating-button rating-again" onClick={() => rate("again")} disabled={!canRecordProgress}>忘记<small>Again</small></button>
             <button className="rating-button rating-hard" onClick={() => rate("hard")} disabled={!canRecordProgress}>困难<small>Hard</small></button>
             <button className="rating-button rating-good" onClick={() => rate("good")} disabled={!canRecordProgress}>记得<small>Good</small></button>
             <button className="rating-button rating-easy" onClick={() => rate("easy")} disabled={!canRecordProgress}>简单<small>Easy</small></button>
