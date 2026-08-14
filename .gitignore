@@ -11,3 +11,7 @@ data/openai-batch-output.jsonl
 data/openai-batch-job.json
 *.tsbuildinfo
 tmp/
+.dump
+法语A1-A2每课词汇表.xlsx
+A1讲义完整版.pdf
+A2讲义完整版25.4.15改.pdf
