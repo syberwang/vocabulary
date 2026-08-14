@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { requireApiSession } from "@/lib/auth/session";
-import { entryById } from "@/lib/vocabulary";
+import { query } from "@/lib/db";
+import { mapDbEntry } from "@/lib/content-mappers";
 import {
   buildSpeechSsml,
   DEFAULT_SPEECH_VOICE,
@@ -65,7 +66,9 @@ export async function GET(request: Request) {
     return json({ error: "Invalid speech parameters" }, 400);
   }
 
-  const entry = entryId ? entryById.get(entryId) : undefined;
+  const entry = entryId
+    ? await query("select * from vocabulary_entries where id = $1 and content_status = 'approved'", [entryId]).then((result) => result.rows[0] ? mapDbEntry(result.rows[0] as Parameters<typeof mapDbEntry>[0]) : undefined)
+    : undefined;
   const text = speechText(entry, kind);
   if (!text) return json({ error: "Vocabulary entry not found" }, 404);
 

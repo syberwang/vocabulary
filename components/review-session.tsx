@@ -7,6 +7,7 @@ import { useApp } from "@/components/app-provider";
 import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { dueEntryIds, hardEntryIds } from "@/lib/local-store";
+import { mapDbCourse, mapDbEntry } from "@/lib/content-mappers";
 import type { RatingValue, ReviewMode } from "@/lib/types";
 import { entries, entriesForCourse } from "@/lib/vocabulary";
 
@@ -21,12 +22,14 @@ export function ReviewSession() {
   const scope = params.get("scope") ?? "due";
   const courseId = params.get("courseId") ?? undefined;
   const requestedMode = params.get("mode") ?? "mixed";
+  const [remoteEntries, setRemoteEntries] = useState<typeof entries | null>(null);
+  const [remoteLoading, setRemoteLoading] = useState(scope === "course" && Boolean(courseId));
   const sourceQueue = useMemo(() => {
-    if (scope === "course" && courseId) return entriesForCourse(courseId);
+    if (scope === "course" && courseId) return remoteEntries ?? entriesForCourse(courseId);
     const ids = scope === "hard" ? hardEntryIds(state).slice(0, 10) : dueEntryIds(state);
     const wanted = new Set(ids);
     return entries.filter((entry) => wanted.has(entry.id));
-  }, [courseId, scope, state]);
+  }, [courseId, remoteEntries, scope, state]);
   const [sessionIds, setSessionIds] = useState<string[] | null>(null);
   const [sessionTotal, setSessionTotal] = useState(0);
   const [index, setIndex] = useState(0);
@@ -40,14 +43,37 @@ export function ReviewSession() {
   const hardPrimarySeen = useRef(new Set<string>());
 
   useEffect(() => {
-    if (!hydrated || sessionIds !== null) return;
+    if (scope !== "course" || !courseId) {
+      setRemoteEntries(null);
+      setRemoteLoading(false);
+      return;
+    }
+    let cancelled = false;
+    setRemoteLoading(true);
+    setSessionIds(null);
+    fetch(`/api/courses/${encodeURIComponent(courseId)}`, { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error("课程载入失败")))
+      .then((payload: { course: Parameters<typeof mapDbCourse>[0]; entries: Parameters<typeof mapDbEntry>[0][] }) => {
+        if (!cancelled) {
+          const course = mapDbCourse(payload.course);
+          setRemoteEntries(payload.entries.map((entry) => mapDbEntry(entry, course)));
+        }
+      })
+      .catch(() => { if (!cancelled) setRemoteEntries([]); })
+      .finally(() => { if (!cancelled) setRemoteLoading(false); });
+    return () => { cancelled = true; };
+  }, [courseId, scope]);
+
+  useEffect(() => {
+    if (!hydrated || remoteLoading || sessionIds !== null) return;
     const ids = sourceQueue.map((entry) => entry.id);
     setSessionIds(ids);
     setSessionTotal(ids.length);
-  }, [hydrated, sessionIds, sourceQueue]);
+  }, [hydrated, remoteLoading, sessionIds, sourceQueue]);
 
   const entryId = scope === "hard" ? sessionIds?.[0] : sessionIds?.[index];
-  const entry = entryId ? entries.find((candidate) => candidate.id === entryId) : undefined;
+  const availableEntries = remoteEntries ?? entries;
+  const entry = entryId ? availableEntries.find((candidate) => candidate.id === entryId) : undefined;
   const mixedModes = modes;
   const mode: ReviewMode = requestedMode === "mixed" ? mixedModes[attemptNumber % mixedModes.length] : (requestedMode as ReviewMode);
 

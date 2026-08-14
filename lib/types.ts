@@ -1,4 +1,4 @@
-export type Level = "A1" | "A2";
+export type Level = string;
 export type ReviewMode = "zh_to_fr" | "fr_to_zh" | "audio_to_fr";
 export type RatingValue = "again" | "hard" | "good" | "easy";
 export type CourseStatus = "not_started" | "learning" | "learned";
@@ -16,6 +16,7 @@ export type ContentReview = {
 export interface Course {
   id: string;
   level: Level;
+  levelTitle?: string;
   unit: number;
   lesson: number;
   code: string;

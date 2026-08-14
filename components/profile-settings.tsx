@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useApp } from "@/components/app-provider";
 import { useSpeech } from "@/hooks/use-speech";
 
@@ -24,6 +25,7 @@ export function ProfileSettings() {
         </div>
         <div className="setting-row"><label htmlFor="rate">语速：{state.speechRate === 0.75 ? "慢速" : "正常"}</label><input id="rate" type="range" min="0.75" max="0.9" step="0.15" value={state.speechRate} onChange={(event) => setSpeechSettings(Number(event.target.value))} /></div>
         <div className="setting-row"><strong>学习时区</strong><p>{state.timezone}。每天当地零点开启新的课程日期。</p></div>
+        <div className="setting-row"><strong>内容后台</strong><p>添加阶段、课程和单词，或审核已有词条。</p><Link className="ghost-button" href="/admin">打开内容后台</Link></div>
         <div className="setting-row"><strong>退出账号</strong><p>退出只会清除当前浏览器的登录会话，不会删除 PostgreSQL 中的学习记录。</p><form action="/auth/signout" method="post"><button className="danger-button" type="submit">退出登录</button></form></div>
       </div>
     </section>

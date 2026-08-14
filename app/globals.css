@@ -186,11 +186,33 @@ button { color: inherit; }
 .setting-row select, .setting-row input[type="range"] { width: 100%; min-height: 44px; }
 .danger-button { min-height: 44px; border: 1px solid #e7bcb6; border-radius: 13px; background: #fff6f4; color: #a24438; padding: 0 14px; cursor: pointer; font-weight: 700; }
 
+.admin-page { padding-bottom: 20px; }
+.admin-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; padding: 5px; margin: 8px 0 18px; border-radius: 16px; background: var(--surface-2); }
+.admin-tabs button { min-height: 44px; display: inline-flex; align-items: center; justify-content: center; gap: 7px; border: 0; border-radius: 12px; background: transparent; color: var(--muted); font-weight: 800; cursor: pointer; }
+.admin-tabs button.active { background: var(--surface); color: var(--green); box-shadow: 0 4px 14px rgba(40,44,37,.08); }
+.admin-create-stack { display: grid; gap: 12px; }
+.admin-form-grid, .admin-review-grid { display: grid; gap: 12px; }
+.admin-section-title { display: flex; align-items: flex-start; gap: 9px; color: var(--green); }
+.admin-section-title h2 { margin: 0; color: var(--ink); font-size: 17px; }
+.admin-section-title p { margin: 3px 0 0; color: var(--muted); font-size: 11px; line-height: 1.5; }
+.admin-form-grid label, .admin-create-stack > form label, .admin-review-grid label { display: grid; gap: 5px; color: var(--muted); font-size: 12px; font-weight: 700; }
+.admin-form-grid .answer-input, .admin-create-stack > form .answer-input, .admin-review-grid .answer-input { min-height: 46px; padding: 9px 12px; font-size: 15px; text-align: left; }
+.admin-inline-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; }
+.admin-textarea { min-height: 78px !important; resize: vertical; line-height: 1.5; }
+.admin-search-row { display: grid; grid-template-columns: 1fr auto auto; gap: 8px; margin-bottom: 12px; }
+.admin-search-row .answer-input { min-height: 44px; padding: 8px 12px; text-align: left; font-size: 14px; }
+.admin-entry-list { max-height: 330px; overflow: auto; padding: 0; }
+.admin-entry-list button { display: flex; width: 100%; min-height: 54px; flex-direction: column; align-items: flex-start; justify-content: center; gap: 3px; padding: 8px 12px; border: 0; border-bottom: 1px solid var(--line); background: transparent; text-align: left; cursor: pointer; }
+.admin-entry-list button.selected { background: var(--green-soft); }
+.admin-entry-list button span { color: var(--muted); font-size: 11px; }
+.admin-source, .empty-copy { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.6; }
+
 @media (min-width: 700px) {
   .page-main { padding-left: 26px; padding-right: 26px; }
   .course-list { grid-template-columns: 1fr 1fr; }
   .review-grid { grid-template-columns: 1fr 1fr; }
   .hero-card { padding: 32px; }
+  .admin-form-grid, .admin-review-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; }
 }
 
 @media (prefers-reduced-motion: reduce) {

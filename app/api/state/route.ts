@@ -16,7 +16,7 @@ export async function GET() {
   if (!(await requireApiSession())) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   try {
     const [settings, assignments, progress, cards, attempts, flags] = await Promise.all([
-      query<{ timezone: string; selected_level: "A1" | "A2" }>("select timezone, selected_level from app_settings where id = 1"),
+      query<{ timezone: string; selected_level: string }>("select timezone, selected_level from app_settings where id = 1"),
       query<{ local_date: string; course_id: string; carried_from: string | null; completed_at: Date | string | null }>("select local_date, course_id, carried_from, completed_at from daily_course_assignments"),
       query<{ course_id: string; status: "not_started" | "learning" | "learned"; mastered_entry_ids: string[]; started_at: Date | string | null; completed_at: Date | string | null }>("select course_id, status, mastered_entry_ids, started_at, completed_at from course_progress"),
       query<{ entry_id: string; due: Date | string; stability: number; difficulty: number; elapsed_days: number; scheduled_days: number; learning_steps: number; reps: number; lapses: number; state: number; last_review: Date | string | null }>("select * from card_states"),
@@ -39,7 +39,7 @@ export async function GET() {
 }
 
 const Preferences = z.object({
-  selectedLevel: z.enum(["A1", "A2"]).optional(),
+  selectedLevel: z.string().regex(/^[A-Za-z0-9][A-Za-z0-9._-]{0,19}$/).optional(),
   timezone: z.string().min(1).max(80).optional(),
 }).refine((value) => value.selectedLevel || value.timezone, "No preference supplied");
 
@@ -53,7 +53,7 @@ export async function PATCH(request: Request) {
   }
   try {
     await query(
-      "update app_settings set selected_level = coalesce($1::app_level, selected_level), timezone = coalesce($2::text, timezone), updated_at = now() where id = 1",
+      "update app_settings set selected_level = coalesce($1::text, selected_level), timezone = coalesce($2::text, timezone), updated_at = now() where id = 1",
       [parsed.data.selectedLevel ?? null, parsed.data.timezone ?? null],
     );
     return NextResponse.json({ success: true });

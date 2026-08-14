@@ -1,23 +1,34 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import { Check, ChevronRight, LockKeyhole } from "lucide-react";
 import { useApp } from "@/components/app-provider";
 import { getCourseProgress, localDate } from "@/lib/local-store";
+import { mapDbCourse } from "@/lib/content-mappers";
 import { courses } from "@/lib/vocabulary";
+import type { Course } from "@/lib/types";
 
 export function CourseList() {
   const { state, setLevel } = useApp();
+  const [catalog, setCatalog] = useState<Course[]>(courses);
   const todayAssignment = state.dailyAssignments[localDate(state.timezone)];
-  const visible = courses.filter((course) => course.level === state.selectedLevel);
+  useEffect(() => {
+    fetch("/api/courses", { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error("课程目录载入失败")))
+      .then((rows: unknown[]) => setCatalog(rows.map((row) => mapDbCourse(row as Parameters<typeof mapDbCourse>[0]))))
+      .catch(() => undefined);
+  }, []);
+  const levels = [...new Set(catalog.map((course) => course.level))];
+  const visible = catalog.filter((course) => course.level === state.selectedLevel);
 
   return (
     <section className="page-section">
       <h1 className="page-title">课程</h1>
       <p className="page-subtitle">每个级别 9 个单元、36 课。每天只开启一门新课。</p>
       <div className="level-switch" role="group" aria-label="选择法语级别">
-        {(["A1", "A2"] as const).map((level) => (
-          <button key={level} className={state.selectedLevel === level ? "active" : ""} onClick={() => setLevel(level)}>{level} 基础</button>
+        {levels.map((level) => (
+          <button key={level} className={state.selectedLevel === level ? "active" : ""} onClick={() => setLevel(level)}>{catalog.find((course) => course.level === level)?.levelTitle ?? `${level} 基础`}</button>
         ))}
       </div>
       <div className="course-list">

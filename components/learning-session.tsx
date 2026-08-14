@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowLeft, Bookmark, BookmarkCheck, Volume2 } from "lucide-react";
 import { useApp } from "@/components/app-provider";
@@ -8,6 +8,7 @@ import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { currentLearningCourse, getCourseProgress, localDate } from "@/lib/local-store";
 import type { RatingValue } from "@/lib/types";
+import { mapDbCourse, mapDbEntry } from "@/lib/content-mappers";
 import { courseById, entriesForCourse } from "@/lib/vocabulary";
 
 const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î", "ï", "œ", "æ"];
@@ -16,8 +17,9 @@ export function LearningSession({ courseId }: { courseId: string }) {
   const router = useRouter();
   const { state, assignCourse, submitAttempt, toggleHard, canRecordProgress } = useApp();
   const { speak, speechError, speechState } = useSpeech();
-  const course = courseById.get(courseId);
-  const allEntries = useMemo(() => entriesForCourse(courseId), [courseId]);
+  const [course, setCourse] = useState(courseById.get(courseId));
+  const [allEntries, setAllEntries] = useState(entriesForCourse(courseId));
+  const [loading, setLoading] = useState(!courseById.has(courseId));
   const progress = getCourseProgress(state, courseId);
   const firstIncomplete = allEntries.findIndex((entry) => !progress.masteredEntryIds.includes(entry.id));
   const [index, setIndex] = useState(Math.max(0, firstIncomplete));
@@ -31,6 +33,21 @@ export function LearningSession({ courseId }: { courseId: string }) {
   const assigned = state.dailyAssignments[today]?.courseId ?? currentLearningCourse(state);
 
   useEffect(() => {
+    let cancelled = false;
+    fetch(`/api/courses/${encodeURIComponent(courseId)}`, { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error("课程载入失败")))
+      .then((payload: { course: Parameters<typeof mapDbCourse>[0]; entries: Parameters<typeof mapDbEntry>[0][] }) => {
+        if (cancelled) return;
+        const mappedCourse = mapDbCourse(payload.course);
+        setCourse(mappedCourse);
+        setAllEntries(payload.entries.map((entry) => mapDbEntry(entry, mappedCourse)));
+      })
+      .catch(() => undefined)
+      .finally(() => { if (!cancelled) setLoading(false); });
+    return () => { cancelled = true; };
+  }, [courseId]);
+
+  useEffect(() => {
     if (!course) return;
     if (assigned && assigned !== courseId) {
       router.replace(`/learn/${assigned}`);
@@ -42,6 +59,10 @@ export function LearningSession({ courseId }: { courseId: string }) {
   useEffect(() => {
     if (phase === "recall") inputRef.current?.focus();
   }, [phase]);
+
+  if (loading) {
+    return <section className="empty-state"><p>正在载入课程……</p></section>;
+  }
 
   if (!course || !entry) {
     return <section className="empty-state"><h1>课程不存在</h1><button className="primary-button" onClick={() => router.push("/courses")}>返回课程</button></section>;
