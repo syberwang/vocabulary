@@ -7,6 +7,7 @@ const contentSecurityPolicy = [
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data:",
   "font-src 'self'",
+  "media-src 'self'",
   `connect-src 'self'${development ? " ws: wss:" : ""}`,
   "object-src 'none'",
   "base-uri 'self'",

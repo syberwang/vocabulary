@@ -7,7 +7,7 @@ import { useApp } from "@/components/app-provider";
 import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { currentLearningCourse, getCourseProgress, localDate } from "@/lib/local-store";
-import type { RatingValue, VocabularyEntry } from "@/lib/types";
+import type { RatingValue } from "@/lib/types";
 import { courseById, entriesForCourse } from "@/lib/vocabulary";
 
 const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î", "ï", "œ", "æ"];
@@ -15,7 +15,7 @@ const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î
 export function LearningSession({ courseId }: { courseId: string }) {
   const router = useRouter();
   const { state, assignCourse, submitAttempt, toggleHard, canRecordProgress } = useApp();
-  const { speak, hasFrenchVoice } = useSpeech();
+  const { speak, speechError, speechState } = useSpeech();
   const course = courseById.get(courseId);
   const allEntries = useMemo(() => entriesForCourse(courseId), [courseId]);
   const progress = getCourseProgress(state, courseId);
@@ -54,7 +54,7 @@ export function LearningSession({ courseId }: { courseId: string }) {
     const result = gradeFrenchAnswer(answer, entry.acceptedAnswers);
     setSuggested(result.rating);
     if (result.reason === "exact" && !autoSpokenRef.current) {
-      autoSpokenRef.current = speak(entry.word);
+      autoSpokenRef.current = speak(entry.id);
     }
     setPhase("feedback");
   }
@@ -119,9 +119,15 @@ export function LearningSession({ courseId }: { courseId: string }) {
               <div className={`feedback ${suggested}`}>
                 <div className="feedback-topline">
                   <strong>{suggested === "good" ? "拼写正确" : suggested === "hard" ? "很接近，注意拼写" : "再记一次"}</strong>
-                  <button className="audio-button" type="button" onClick={() => speak(entry.word)} disabled={!hasFrenchVoice} aria-label="播放法语单词"><Volume2 size={16} /> 发音</button>
+                  <div className="audio-row" style={{ justifyContent: "flex-start", marginTop: 0 }}>
+                    <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={16} /> 单词</button>
+                    <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"} aria-label="播放法语例句"><Volume2 size={16} /> 例句</button>
+                  </div>
                 </div>
                 <p>正确答案：<b lang="fr">{entry.word}</b></p>
+                <p lang="fr" style={{ marginTop: 9, fontFamily: "Georgia, serif", fontStyle: "italic" }}>{entry.exampleFr}</p>
+                <p style={{ marginTop: 3 }}>{entry.exampleZh}</p>
+                {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
               </div>
             )}
           </>

@@ -17,7 +17,7 @@ export function ReviewSession() {
   const router = useRouter();
   const params = useSearchParams();
   const { state, hydrated, submitAttempt, toggleHard, canRecordProgress } = useApp();
-  const { speak, voices } = useSpeech();
+  const { speak, speechError, speechState } = useSpeech();
   const scope = params.get("scope") ?? "due";
   const courseId = params.get("courseId") ?? undefined;
   const requestedMode = params.get("mode") ?? "mixed";
@@ -48,7 +48,7 @@ export function ReviewSession() {
 
   const entryId = scope === "hard" ? sessionIds?.[0] : sessionIds?.[index];
   const entry = entryId ? entries.find((candidate) => candidate.id === entryId) : undefined;
-  const mixedModes = voices.length ? modes : modes.filter((candidate) => candidate !== "audio_to_fr");
+  const mixedModes = modes;
   const mode: ReviewMode = requestedMode === "mixed" ? mixedModes[attemptNumber % mixedModes.length] : (requestedMode as ReviewMode);
 
   if (!hydrated || sessionIds === null) {
@@ -73,7 +73,7 @@ export function ReviewSession() {
       const result = gradeFrenchAnswer(answer, activeEntry.acceptedAnswers);
       setSuggested(forgotten ? "again" : result.rating);
       if (!forgotten && result.reason === "exact" && !autoSpokenRef.current) {
-        autoSpokenRef.current = speak(activeEntry.word);
+        autoSpokenRef.current = speak(activeEntry.id);
       }
     }
     setRevealed(true);
@@ -132,27 +132,31 @@ export function ReviewSession() {
           <span className="card-label">{mode === "zh_to_fr" ? "看中文，拼法语" : mode === "fr_to_zh" ? "看法语，想中文" : "听发音，拼法语"}</span>
           {mode === "audio_to_fr" && !revealed ? (
             <>
-              <button className="audio-button" style={{ alignSelf: "center", width: 88, height: 88, borderRadius: 28, justifyContent: "center" }} onClick={() => speak(entry.word)} disabled={!voices.length} aria-label="播放法语单词"><Volume2 size={34} /></button>
-              {!voices.length && <p className="example-zh" style={{ marginTop: 16 }}>设备未发现法语音色，请在系统语言或辅助功能中安装法语语音。</p>}
+              <button className="audio-button" style={{ alignSelf: "center", width: 88, height: 88, borderRadius: 28, justifyContent: "center" }} onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={34} /></button>
+              {speechError && <p className="example-zh" role="status" style={{ marginTop: 16 }}>{speechError}</p>}
             </>
           ) : (
             <h1 className={mode === "fr_to_zh" ? "french-word" : "translation"} lang={mode === "fr_to_zh" ? "fr" : undefined}>{prompt}</h1>
           )}
           {spelling && (
             <div style={{ width: "100%", marginTop: 28 }}>
-              <input ref={inputRef} className="answer-input" value={answer} onChange={(event) => setAnswer(event.target.value)} onKeyDown={(event) => event.key === "Enter" && !revealed && answer.trim() && reveal()} placeholder="输入法语…" autoCapitalize="none" autoCorrect="off" spellCheck={false} disabled={revealed || (mode === "audio_to_fr" && !voices.length)} aria-label="法语答案" />
-              <div className="accent-bar" aria-label="法语特殊字符">{accents.map((accent) => <button key={accent} onClick={() => insertAccent(accent)} disabled={revealed || (mode === "audio_to_fr" && !voices.length)}>{accent}</button>)}</div>
+              <input ref={inputRef} className="answer-input" value={answer} onChange={(event) => setAnswer(event.target.value)} onKeyDown={(event) => event.key === "Enter" && !revealed && answer.trim() && reveal()} placeholder="输入法语…" autoCapitalize="none" autoCorrect="off" spellCheck={false} disabled={revealed} aria-label="法语答案" />
+              <div className="accent-bar" aria-label="法语特殊字符">{accents.map((accent) => <button key={accent} onClick={() => insertAccent(accent)} disabled={revealed}>{accent}</button>)}</div>
             </div>
           )}
           {revealed && (
             <div className={`feedback ${spelling ? suggested : "good"}`} style={{ width: "100%" }}>
               <div className="feedback-topline">
                 <strong lang="fr">{entry.word} <small>{entry.pos}</small></strong>
-                <button className="audio-button" type="button" onClick={() => speak(entry.word)} disabled={!voices.length} aria-label="播放法语单词"><Volume2 size={16} /> 发音</button>
+                <div className="audio-row" style={{ justifyContent: "flex-start", marginTop: 0 }}>
+                  <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={16} /> 单词</button>
+                  <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"} aria-label="播放法语例句"><Volume2 size={16} /> 例句</button>
+                </div>
               </div>
               <p>{entry.zh}</p>
               <p lang="fr" style={{ marginTop: 9, fontFamily: "Georgia, serif", fontStyle: "italic" }}>{entry.exampleFr}</p>
               <p style={{ marginTop: 3 }}>{entry.exampleZh}</p>
+              {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
             </div>
           )}
         </article>

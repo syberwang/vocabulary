@@ -16,9 +16,18 @@ APP_USERNAME=owner
 APP_PASSWORD_HASH=scrypt:生成的盐:生成的哈希
 SESSION_SECRET=至少32位的随机字符串
 NEXT_PUBLIC_APP_URL=http://127.0.0.1:3000
+AZURE_SPEECH_KEY=服务端 Speech 资源密钥
+AZURE_SPEECH_REGION=canadacentral
+AZURE_SPEECH_VOICE=fr-FR-DeniseNeural
 ```
 
 `DATABASE_URL`、`APP_PASSWORD_HASH` 和 `SESSION_SECRET` 只能保存在服务器环境变量中，不能提交到 Git。
+
+## 标准法语发音
+
+应用默认通过服务端代理 Azure Speech 的 `fr-FR-DeniseNeural` 音色，浏览器不会接触 Azure 密钥，也不依赖设备是否安装法语系统音色。单词和例句音频使用同源 `/api/speech` 接口，并由浏览器缓存重复播放。
+
+需要在 Azure Speech 资源的服务端环境变量中配置 `AZURE_SPEECH_KEY`、`AZURE_SPEECH_REGION` 和可选的 `AZURE_SPEECH_VOICE`。生产环境应同时启用 `deploy/nginx-french-cards.conf.example` 中的 `/api/speech` 限流。若 Azure 暂时不可用，个人设置页可以主动选择设备本地发音作为备用，不会静默替代标准音频。
 
 在 PowerShell 中安全生成登录密码哈希：
 
