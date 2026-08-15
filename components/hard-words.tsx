@@ -1,15 +1,26 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import { BookmarkX, Dumbbell } from "lucide-react";
 import { useApp } from "@/components/app-provider";
+import { mapDbEntry } from "@/lib/content-mappers";
 import { hardEntryIds, isAutomaticallyHard } from "@/lib/local-store";
-import { entryById } from "@/lib/vocabulary";
+import { entries, entryById } from "@/lib/vocabulary";
+import type { VocabularyEntry } from "@/lib/types";
 
 export function HardWords() {
   const { state, toggleHard } = useApp();
+  const [remoteEntries, setRemoteEntries] = useState<VocabularyEntry[]>([]);
   const ids = hardEntryIds(state);
-  const words = ids.map((id) => entryById.get(id)).filter(Boolean);
+  useEffect(() => {
+    fetch("/api/reviews/queue?scope=hard&limit=200", { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error("hard words load failed")))
+      .then((rows: Parameters<typeof mapDbEntry>[0][]) => setRemoteEntries(rows.map((row) => mapDbEntry(row))))
+      .catch(() => undefined);
+  }, [ids.length]);
+  const entryMap = new Map([...entries, ...remoteEntries].map((entry) => [entry.id, entry]));
+  const words = ids.map((id) => entryMap.get(id) ?? entryById.get(id)).filter(Boolean);
   return (
     <section className="page-section">
       <h1 className="page-title">强化记忆本</h1>

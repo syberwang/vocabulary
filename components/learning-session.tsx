@@ -1,13 +1,14 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, Bookmark, BookmarkCheck, Volume2 } from "lucide-react";
+import { ArrowLeft, Bookmark, BookmarkCheck, Headphones, Volume2 } from "lucide-react";
 import { useApp } from "@/components/app-provider";
 import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { currentLearningCourse, getCourseProgress, localDate } from "@/lib/local-store";
-import type { RatingValue, VocabularyEntry } from "@/lib/types";
+import type { RatingValue } from "@/lib/types";
+import { mapDbCourse, mapDbEntry } from "@/lib/content-mappers";
 import { courseById, entriesForCourse } from "@/lib/vocabulary";
 
 const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î", "ï", "œ", "æ"];
@@ -15,13 +16,14 @@ const accents = ["é", "è", "ê", "ë", "à", "â", "ç", "ù", "û", "ô", "î
 export function LearningSession({ courseId }: { courseId: string }) {
   const router = useRouter();
   const { state, assignCourse, submitAttempt, toggleHard, canRecordProgress } = useApp();
-  const { speak, hasFrenchVoice } = useSpeech();
-  const course = courseById.get(courseId);
-  const allEntries = useMemo(() => entriesForCourse(courseId), [courseId]);
+  const { speak, speechError, speechState } = useSpeech();
+  const [course, setCourse] = useState(courseById.get(courseId));
+  const [allEntries, setAllEntries] = useState(entriesForCourse(courseId));
+  const [loading, setLoading] = useState(!courseById.has(courseId));
   const progress = getCourseProgress(state, courseId);
   const firstIncomplete = allEntries.findIndex((entry) => !progress.masteredEntryIds.includes(entry.id));
   const [index, setIndex] = useState(Math.max(0, firstIncomplete));
-  const [phase, setPhase] = useState<"recall" | "feedback">("recall");
+  const [phase, setPhase] = useState<"study" | "recall" | "feedback">("study");
   const [answer, setAnswer] = useState("");
   const [suggested, setSuggested] = useState<RatingValue>("good");
   const inputRef = useRef<HTMLInputElement>(null);
@@ -29,6 +31,21 @@ export function LearningSession({ courseId }: { courseId: string }) {
   const entry = allEntries[index];
   const today = localDate(state.timezone);
   const assigned = state.dailyAssignments[today]?.courseId ?? currentLearningCourse(state);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`/api/courses/${encodeURIComponent(courseId)}`, { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error("课程载入失败")))
+      .then((payload: { course: Parameters<typeof mapDbCourse>[0]; entries: Parameters<typeof mapDbEntry>[0][] }) => {
+        if (cancelled) return;
+        const mappedCourse = mapDbCourse(payload.course);
+        setCourse(mappedCourse);
+        setAllEntries(payload.entries.map((entry) => mapDbEntry(entry, mappedCourse)));
+      })
+      .catch(() => undefined)
+      .finally(() => { if (!cancelled) setLoading(false); });
+    return () => { cancelled = true; };
+  }, [courseId]);
 
   useEffect(() => {
     if (!course) return;
@@ -43,6 +60,10 @@ export function LearningSession({ courseId }: { courseId: string }) {
     if (phase === "recall") inputRef.current?.focus();
   }, [phase]);
 
+  if (loading) {
+    return <section className="empty-state"><p>正在载入课程……</p></section>;
+  }
+
   if (!course || !entry) {
     return <section className="empty-state"><h1>课程不存在</h1><button className="primary-button" onClick={() => router.push("/courses")}>返回课程</button></section>;
   }
@@ -50,11 +71,17 @@ export function LearningSession({ courseId }: { courseId: string }) {
   const bookmarked = state.manualHardEntryIds.includes(entry.id);
   const mastered = progress.masteredEntryIds.includes(entry.id);
 
+  function beginRecall() {
+    setAnswer("");
+    autoSpokenRef.current = false;
+    setPhase("recall");
+  }
+
   function checkAnswer() {
     const result = gradeFrenchAnswer(answer, entry.acceptedAnswers);
     setSuggested(result.rating);
     if (result.reason === "exact" && !autoSpokenRef.current) {
-      autoSpokenRef.current = speak(entry.word);
+      autoSpokenRef.current = speak(entry.id);
     }
     setPhase("feedback");
   }
@@ -80,7 +107,7 @@ export function LearningSession({ courseId }: { courseId: string }) {
       return;
     }
     setIndex((current) => current + 1);
-    setPhase("recall");
+    setPhase("study");
     setAnswer("");
     autoSpokenRef.current = false;
   }
@@ -108,26 +135,52 @@ export function LearningSession({ courseId }: { courseId: string }) {
       </header>
       <div className="session-body">
         <article className="word-card">
-          <>
-            <span className="card-label">学习新词 · 看中文，拼出法语 {mastered ? "· 已掌握" : ""}</span>
-            <p className="translation" style={{ fontSize: "clamp(22px,7vw,34px)" }}>{entry.zh}</p>
-            <div style={{ width: "100%", marginTop: 28 }}>
-              <input ref={inputRef} className="answer-input" value={answer} onChange={(event) => setAnswer(event.target.value)} onKeyDown={(event) => event.key === "Enter" && phase === "recall" && answer.trim() && checkAnswer()} placeholder="输入法语…" autoCapitalize="none" autoCorrect="off" spellCheck={false} disabled={phase === "feedback"} aria-label="法语答案" />
-              <div className="accent-bar" aria-label="法语特殊字符">{accents.map((accent) => <button key={accent} type="button" onClick={() => insertAccent(accent)} disabled={phase === "feedback"}>{accent}</button>)}</div>
-            </div>
-            {phase === "feedback" && (
-              <div className={`feedback ${suggested}`}>
-                <div className="feedback-topline">
-                  <strong>{suggested === "good" ? "拼写正确" : suggested === "hard" ? "很接近，注意拼写" : "再记一次"}</strong>
-                  <button className="audio-button" type="button" onClick={() => speak(entry.word)} disabled={!hasFrenchVoice} aria-label="播放法语单词"><Volume2 size={16} /> 发音</button>
-                </div>
-                <p>正确答案：<b lang="fr">{entry.word}</b></p>
+          {phase === "study" ? (
+            <>
+              <span className="card-label">学习新词 {mastered ? "· 已掌握" : ""}</span>
+              <h1 className="french-word" lang="fr">{entry.word}</h1>
+              <span className="part-of-speech">{entry.pos}</span>
+              <p className="translation">{entry.zh}</p>
+              <div className="example-box">
+                <p className="example-fr" lang="fr">{entry.exampleFr}</p>
+                <p className="example-zh">{entry.exampleZh}</p>
+                <p className="usage-note">{entry.usageNote}</p>
               </div>
-            )}
-          </>
+              <div className="audio-row">
+                <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"}><Volume2 size={16} /> 单词</button>
+                <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"}><Headphones size={16} /> 例句</button>
+              </div>
+              {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
+            </>
+          ) : (
+            <>
+              <span className="card-label">看中文，拼出法语</span>
+              <p className="translation" style={{ fontSize: "clamp(22px,7vw,34px)" }}>{entry.zh}</p>
+              <div style={{ width: "100%", marginTop: 28 }}>
+                <input ref={inputRef} className="answer-input" value={answer} onChange={(event) => setAnswer(event.target.value)} onKeyDown={(event) => event.key === "Enter" && phase === "recall" && answer.trim() && checkAnswer()} placeholder="输入法语…" autoCapitalize="none" autoCorrect="off" spellCheck={false} disabled={phase === "feedback"} aria-label="法语答案" />
+                <div className="accent-bar" aria-label="法语特殊字符">{accents.map((accent) => <button key={accent} type="button" onClick={() => insertAccent(accent)} disabled={phase === "feedback"}>{accent}</button>)}</div>
+              </div>
+              {phase === "feedback" && (
+                <div className={`feedback ${suggested}`}>
+                  <div className="feedback-topline">
+                    <strong>{suggested === "good" ? "拼写正确" : suggested === "hard" ? "很接近，注意拼写" : "再记一次"}</strong>
+                    <div className="audio-row" style={{ justifyContent: "flex-start", marginTop: 0 }}>
+                      <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={16} /> 单词</button>
+                      <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"} aria-label="播放法语例句"><Headphones size={16} /> 例句</button>
+                    </div>
+                  </div>
+                  <p>正确答案：<b lang="fr">{entry.word}</b></p>
+                  <p lang="fr" style={{ marginTop: 9, fontFamily: "Georgia, serif", fontStyle: "italic" }}>{entry.exampleFr}</p>
+                  <p style={{ marginTop: 3 }}>{entry.exampleZh}</p>
+                  {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
+                </div>
+              )}
+            </>
+          )}
         </article>
       </div>
       <div className="session-actions">
+        {phase === "study" && <button className="primary-button" type="button" onClick={beginRecall}>隐藏答案，开始拼写</button>}
         {phase === "recall" && (
           <div className="session-action-pair">
             <button className="secondary-button forget-action" type="button" onClick={forget} disabled={!canRecordProgress}><span>忘记</span><small>Forgot</small></button>

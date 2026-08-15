@@ -130,7 +130,10 @@ export function recordAttempt(state: LocalLearningState, input: RecordAttemptInp
     const mastered = new Set(progress.masteredEntryIds);
     mastered.add(input.entryId);
     const total = entriesForCourse(input.courseId).length;
-    const learned = mastered.size >= total;
+    // Dynamically added courses are loaded from PostgreSQL at runtime and are
+    // intentionally absent from the offline seed. Do not mark them learned
+    // after the first card just because the fallback list is empty.
+    const learned = total > 0 && mastered.size >= total;
     next.courseProgress[input.courseId] = {
       ...progress,
       status: learned ? "learned" : "learning",

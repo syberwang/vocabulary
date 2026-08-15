@@ -1,5 +1,5 @@
 import vocabularyData from "@/data/vocabulary.json";
-import type { Course, VocabularyEntry } from "@/lib/types";
+import type { Course, Level, VocabularyEntry } from "@/lib/types";
 
 export const courses = vocabularyData.courses as Course[];
 export const entries = vocabularyData.entries as VocabularyEntry[];
@@ -14,6 +14,6 @@ export function entriesForCourse(courseId: string) {
   );
 }
 
-export function nextCourse(level: "A1" | "A2", learnedCourseIds: Set<string>) {
+export function nextCourse(level: Level, learnedCourseIds: Set<string>) {
   return courses.find((course) => course.level === level && !learnedCourseIds.has(course.id));
 }

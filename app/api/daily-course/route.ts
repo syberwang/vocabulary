@@ -2,7 +2,6 @@ import { NextResponse } from "next/server";
 import { z } from "zod";
 import { requireApiSession } from "@/lib/auth/session";
 import { query } from "@/lib/db";
-import { courses } from "@/lib/vocabulary";
 
 const Assignment = z.object({
   courseId: z.string().min(1),
@@ -12,10 +11,12 @@ const Assignment = z.object({
 export async function POST(request: Request) {
   if (!(await requireApiSession())) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const parsed = Assignment.safeParse(await request.json().catch(() => null));
-  if (!parsed.success || !courses.some((course) => course.id === parsed.data?.courseId)) {
+  if (!parsed.success) {
     return NextResponse.json({ error: "Invalid course assignment" }, { status: 400 });
   }
   try {
+    const course = await query("select id from courses where id = $1", [parsed.data.courseId]);
+    if (!course.rows[0]) return NextResponse.json({ error: "Invalid course assignment" }, { status: 400 });
     const result = await query<{ assignment: Record<string, unknown> }>(
       "select assign_daily_course_transaction($1, $2::date) as assignment",
       [parsed.data.courseId, parsed.data.localDate],

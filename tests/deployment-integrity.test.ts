@@ -46,9 +46,14 @@ describe("production data and cache boundaries", () => {
 
   it("does not precache authenticated application pages", () => {
     const worker = fs.readFileSync(path.join(root, "public/sw.js"), "utf8");
+    const registration = fs.readFileSync(path.join(root, "components/service-worker-register.tsx"), "utf8");
     expect(worker).not.toMatch(/APP_SHELL/);
     expect(worker).not.toMatch(/PRECACHE\s*=\s*\[[^\]]*"\/courses"/s);
+    expect(worker).not.toContain('url.pathname.startsWith("/_next/static/")');
     expect(worker).toContain('request.mode === "navigate"');
     expect(worker).toContain('url.pathname.startsWith("/auth/")');
+    expect(worker.indexOf("response.clone()"))
+      .toBeLessThan(worker.indexOf("await caches.open(CACHE_NAME)"));
+    expect(registration).toContain('updateViaCache: "none"');
   });
 });

@@ -42,7 +42,7 @@ interface AppContextValue {
   assignCourse: (courseId: string) => string;
   submitAttempt: (input: RecordAttemptInput) => void;
   toggleHard: (entryId: string) => void;
-  setSpeechSettings: (voiceUri: string | undefined, rate: number) => void;
+  setSpeechSettings: (rate: number) => void;
 }
 
 const OUTBOX_KEY = "french-vocabulary-pwa:cloud-outbox:v1";
@@ -240,8 +240,8 @@ export function AppProvider({ children }: { children: ReactNode }) {
     enqueueMutation({ id: crypto.randomUUID(), url: `/api/hard-words/${entryId}`, method: "PUT", body: { manual } });
   }, [cloudConfigured, enqueueMutation, online, state.manualHardEntryIds]);
 
-  const setSpeechSettings = useCallback((voiceUri: string | undefined, rate: number) => {
-    setState((current) => ({ ...current, voiceUri, speechRate: rate }));
+  const setSpeechSettings = useCallback((rate: number) => {
+    setState((current) => ({ ...current, speechRate: rate === 0.75 ? 0.75 : 0.9 }));
   }, []);
 
   const value = useMemo(
