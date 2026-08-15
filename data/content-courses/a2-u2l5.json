@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u2l5",
-  "generatedAt": "2026-08-13T08:58:31.442Z",
+  "generatedAt": "2026-08-15T13:13:00.857Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -191,6 +191,177 @@
         "reviewedAt": "2026-08-13T09:24:26.181Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "7e725a8a474b4f57bd46a764f7c09b581ac548179468c83d347bbccd9eccc55b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-011",
+      "exampleFr": "Le terme « habitant » signifie ici « 居民 ».",
+      "exampleZh": "这里的“habitant”表示“居民”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "09262d33f4c6bf6d436879960c1a35b205222a14b80b4c50f2afb653b489a232"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-012",
+      "exampleFr": "Le terme « loyer » signifie ici « 房租 ».",
+      "exampleZh": "这里的“loyer”表示“房租”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "beb0471c085e4a2c5b1f605b695c7431174d5b9863f71edba041ce58c16570b0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-013",
+      "exampleFr": "Le terme « mécanicien » signifie ici « 机械师 ».",
+      "exampleZh": "这里的“mécanicien”表示“机械师”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d24ee9e5360af7d7a80ac6c7b8cd45d4a6fd8d638f3a23f909d789212833d710"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-014",
+      "exampleFr": "Le terme « Montmartre » signifie ici « 蒙马特 ».",
+      "exampleZh": "这里的“Montmartre”表示“蒙马特”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "41d4885e9cc6d32af10fc41377d3a6576dfc277f727c89829884ae74c1b015a3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-015",
+      "exampleFr": "Le terme « passion » signifie ici « 酷爱 ».",
+      "exampleZh": "这里的“passion”表示“酷爱”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c70c5604eded1b360c22a3822eeb2f556257786464ca2f121d4a7bd64fe822e9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-016",
+      "exampleFr": "Le terme « payer » signifie ici « 支付 ».",
+      "exampleZh": "这里的“payer”表示“支付”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c01ff1d2eb26e945ee41ea8f3ff6042f4c601ece836972a283b112814552b68b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-017",
+      "exampleFr": "Le terme « plaisir » signifie ici « 乐趣 ».",
+      "exampleZh": "这里的“plaisir”表示“乐趣”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8094cd48a5cbf44222d1a2749fd8622434e6f70bef1ff9d18c0533ea02107a31"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-018",
+      "exampleFr": "Le terme « proposer » signifie ici « 建议 ».",
+      "exampleZh": "这里的“proposer”表示“建议”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.310Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2bd1f6c1b4c83d3b14d205571c914e771cb92033671e314d23220b6dfcb575f0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l5-019",
+      "exampleFr": "Le terme « studio » signifie ici « 单间公寓 ».",
+      "exampleZh": "这里的“studio”表示“单间公寓”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e28581911ab5de0afe73fa8a317c5c7ecaedaefbbd9461a32cb97c4a28de6b9a"
       }
     }
   ]

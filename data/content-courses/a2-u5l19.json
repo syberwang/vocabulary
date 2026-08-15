@@ -1,25 +1,25 @@
 {
   "courseId": "a2-u5l19",
-  "generatedAt": "2026-08-13T08:58:31.453Z",
+  "generatedAt": "2026-08-15T13:13:00.869Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
       "entryId": "entry-1193",
-      "exampleFr": "Voici un accueil [akoejJ.",
-      "exampleZh": "这里有一个待接待处。",
+      "exampleFr": "Le terme « accueil » signifie ici « 迎接 ».",
+      "exampleZh": "这里的“accueil”表示“迎接”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.197Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "c45a8d96b8b18aead694e3146577cf7230406b94202fc1608d448be3a5043858"
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d8c923b821f9e8c98dcccc4eb6aa2de771a37d30c888a37b897abae7ad08132a"
       }
     },
     {
@@ -252,21 +252,268 @@
     },
     {
       "entryId": "entry-1206",
-      "exampleFr": "Voici un journal l. ournaux.",
-      "exampleZh": "这里有一个日记。",
+      "exampleFr": "Le terme « journal » signifie ici « 日记 ».",
+      "exampleZh": "这里的“journal”表示“日记”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.197Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "d4c184899f9d3c3f20adafb0a72946b0c32f0ff5b9be952dde41097ae5cce158"
+        "reviewedAt": "2026-08-15T13:13:01.096Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b0a2b4658f845da208f1b85c7af65232acd7f04f68da15c0f5ca0ba5b0f544a2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-015",
+      "exampleFr": "Le terme « paraître » signifie ici « 出现 ».",
+      "exampleZh": "这里的“paraître”表示“出现”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "804d35eed89f5cdd3460eda584bf00e756e16d8059847e1106e7f55a9f8ef051"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-016",
+      "exampleFr": "Le terme « parution » signifie ici « 出版 ».",
+      "exampleZh": "这里的“parution”表示“出版”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "128efdf151a6f5aa0000dc6c9758cb9a1a8f439b4acfa5c802f457a6d2409727"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-017",
+      "exampleFr": "Le terme « plaire » signifie ici « 使喜爱 ».",
+      "exampleZh": "这里的“plaire”表示“使喜爱”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.096Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b9bc9a10b8b9d99574ec3dfafe97262c149288ee5b663d8e532e001eb9999a12"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-018",
+      "exampleFr": "Le terme « presse » signifie ici « 出版 ».",
+      "exampleZh": "这里的“presse”表示“出版”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "54487335e0216c02f4478f580362bfc96f04a3a5ca7b0cd297920310bd3f5477"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-019",
+      "exampleFr": "Le terme « prix » signifie ici « 价格 ».",
+      "exampleZh": "这里的“prix”表示“价格”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b59c851c8fa8b5e8d16ba041bc41a561b1a32ed6894aaeea17c680eadd636ebb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-020",
+      "exampleFr": "Le terme « principal » signifie ici « 主要的 ».",
+      "exampleZh": "这里的“principal”表示“主要的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.096Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a24d9437d65993c180f7ca2a2beb519c9b78f0ce30309689e2308c174dd229ab"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-021",
+      "exampleFr": "Le terme « résultats » signifie ici « 考试或选举、比赛等的结果 ».",
+      "exampleZh": "这里的“résultats”表示“考试或选举、比赛等的结果”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "65061380b38e88edce37ea8f1435f62afb8914bbec9e16601147d6694c3a0691"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-022",
+      "exampleFr": "Le terme « retrouver » signifie ici « 找回自己 ».",
+      "exampleZh": "这里的“retrouver”表示“找回自己”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "017927c2dd97d8506536738d14c8dcf658f027d5f2f48cd5cf4f341b7c20ebd7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-023",
+      "exampleFr": "Le terme « rêver » signifie ici « 梦想 ».",
+      "exampleZh": "这里的“rêver”表示“梦想”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.096Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5fd993943bad71af16f986ce416c4ca4377d0fe7fc031ef6eba82400d7591b07"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-024",
+      "exampleFr": "Le terme « rire » signifie ici « 笑 ».",
+      "exampleZh": "这里的“rire”表示“笑”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "61d4cc6a4672e07add9306f47579fc032c8cb45d2e042ab15932acd65f25978f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-025",
+      "exampleFr": "Le terme « univers » signifie ici « 宇宙 ».",
+      "exampleZh": "这里的“univers”表示“宇宙”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "400752f619103ea502fd116ef8c82d23af63ec8f60a8fcf04d761bc93826cbea"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-026",
+      "exampleFr": "Le terme « yéyé » signifie ici « 青年流行歌手的 ».",
+      "exampleZh": "这里的“yéyé”表示“青年流行歌手的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "36e93c387e87be078ff6b465134a7370c3defa22c382d42355386187961c718d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l19-027",
+      "exampleFr": "Le terme « yéyé » signifie ici « 青年流行歌手 ».",
+      "exampleZh": "这里的“yéyé”表示“青年流行歌手”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f6ac4d2cb27b1fc355624e106731759e98294f4465047d8b3304c8da39265617"
       }
     }
   ]

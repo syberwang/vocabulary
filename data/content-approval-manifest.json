@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T09:24:26.123Z",
+  "updatedAt": "2026-08-15T13:13:01.055Z",
   "levels": [
     "A1",
     "A2"
@@ -7114,9 +7114,9 @@
     "entry-1024": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.182Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "7eb16b92d081e6f3fc235b0d5935f5435b21218b0867a1bb5f96d5417fa86a95"
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "67571751fd4e709f513f3ea94c5ab67160472d07d0514a6a6b61cfb719053996"
     },
     "entry-1025": {
       "status": "approved",
@@ -7891,16 +7891,16 @@
     "entry-1135": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.191Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "754d66370fdd6408d607f4df90ff43b5822b31a3585c842056bb1423078f413d"
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9dd22001d090b28d5f14cdd4fc0edfa93198dc66feb11438951060756c5f409f"
     },
     "entry-1136": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.191Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "decb0dc817672b92a742bdcf197eea1c8a468040b1c26489b1e03d3ba3f22b16"
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5547f0d3af6749878b0f89ac453743d6dfa7f0060eeed208082cafb56ba6e01f"
     },
     "entry-1137": {
       "status": "approved",
@@ -7961,9 +7961,9 @@
     "entry-1145": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.193Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "c70a2bd47a3c25435ae6ee18d6be545de110ea1fa10d4ba8141c09b107eb8314"
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dbeaacbe198c0a3f1b430aede55c518bf3bc6a4f8a5cb96b46c2aa4d92d3bc93"
     },
     "entry-1146": {
       "status": "approved",
@@ -7982,23 +7982,23 @@
     "entry-1148": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.193Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "ef711203dc7078e8a054fccf4be9a7d8477963e55ff9e824ce1910adbc6108b6"
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f0b9afa2b1c77ae861e6bbf769f20a36958db330daa218927fdea6a274a0f6c9"
     },
     "entry-1149": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.193Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "f2c2883aa65edcd24c26a1704f99337a2ef93e51af8b96af5dbd55538827229a"
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f7ed8ca2ec9b0ae013b5173c51f52e2ea711df0ae18a54e64e1ff443ee884468"
     },
     "entry-1150": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.193Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "bce36e0888f1162c593f8a782a948da4c03c8fbc6c3bee68f5020e10c94ecaa0"
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "025bd55b53ba91f51e3d79d17c148158a4484ea7aa734dfcdb3dcb3ff48f67fc"
     },
     "entry-1151": {
       "status": "approved",
@@ -8241,9 +8241,9 @@
     "entry-1185": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.196Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "e61516facd19c74d9c38471d3df1a7913f7578591167118f893e72cbfb7cdb73"
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "aeadd434a5202f54e3be01b94b6abbc683c2f7ae7d03e2608a39dd4190f87983"
     },
     "entry-1186": {
       "status": "approved",
@@ -8297,9 +8297,9 @@
     "entry-1193": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.197Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "c45a8d96b8b18aead694e3146577cf7230406b94202fc1608d448be3a5043858"
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d8c923b821f9e8c98dcccc4eb6aa2de771a37d30c888a37b897abae7ad08132a"
     },
     "entry-1194": {
       "status": "approved",
@@ -8388,16 +8388,16 @@
     "entry-1206": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.197Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "d4c184899f9d3c3f20adafb0a72946b0c32f0ff5b9be952dde41097ae5cce158"
+      "reviewedAt": "2026-08-15T13:13:01.096Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b0a2b4658f845da208f1b85c7af65232acd7f04f68da15c0f5ca0ba5b0f544a2"
     },
     "entry-1207": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.198Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "096bf449150937629c02da6efbe2b33bf5160d36c77e532dd89ffa1afd90f5ae"
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cfcebf554a79b2ee7d1971a9b158561b080a0ecb0b3f0d2d7aea13c65754e241"
     },
     "entry-1208": {
       "status": "approved",
@@ -8675,9 +8675,9 @@
     "entry-1247": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.202Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "8e6f49a248c66d8ef8e070abaa6b6e73039c64447e2d4db1454bf706045dca2f"
+      "reviewedAt": "2026-08-15T13:13:01.099Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a10b15988bae9331dbe1368b4c2d935c1da7242e5c9b045f2adde274933897c2"
     },
     "entry-1248": {
       "status": "approved",
@@ -8703,16 +8703,16 @@
     "entry-1251": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.202Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "4e53351384a94038b3ebcee9e7d800e5d0537cbc59e3dc85b1c228cc735574ec"
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a17a508b16b4c8465e62f10352d4748efa140fe52f4f9be86cc3e88c9928cf77"
     },
     "entry-1252": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.202Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "541d6f496ea02f0a854eb550295719af8a31a03628d43418ea8668d7436d0294"
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8856514092a287c6173d67bb53e329f763c17bda14a67e42ba15c39a52162fab"
     },
     "entry-1253": {
       "status": "approved",
@@ -9186,9 +9186,9 @@
     "entry-1320": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.208Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "2499c43286ee126c39b8eb342121bfdc9e5ffd24407f47d5b8c35f28cd691716"
+      "reviewedAt": "2026-08-15T13:13:01.102Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9965d07ef6c92f02a9369560943eeb453a15cd928667bec44b96872e8b13c803"
     },
     "entry-1321": {
       "status": "approved",
@@ -9305,9 +9305,9 @@
     "entry-1337": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "4dd52f6ecd9fdd0123a50bcf9d7459eed8dc6c0894ca85d44a88144052fc5382"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5544e25fbfd2fe09dd1680ad8f68e4fc649a8a26e949178f4e929aedbb3a48c3"
     },
     "entry-1338": {
       "status": "approved",
@@ -9326,9 +9326,9 @@
     "entry-1340": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "999b5e3df1feb138637ca0c3ea2736726cd5ace45a0a95e7aea0c0b6fc8417a0"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3879f55d6faf0db4846c5b724bfbdd946702f85aab9164d4eec2bbceb62dc86f"
     },
     "entry-1341": {
       "status": "approved",
@@ -9347,9 +9347,9 @@
     "entry-1343": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "6580e45580051e962058b110e58922b8fd51255d996630697757a5928bb81589"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3ee4a8f39bf96862cbf6a1bbfcc6d8c6aea47bdac584c21af1ab36b518a85125"
     },
     "entry-1344": {
       "status": "approved",
@@ -9361,23 +9361,23 @@
     "entry-1345": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "6fe8a9997f5425e45bbc519a3bd5f8f65a33295fa0bfd8f325caeb19dfebba68"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "da2de680ac1a2e7e6fbc74f15d897a8ba000e17cc2a8e81a1915ed259198b8c4"
     },
     "entry-1346": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "e71eb43a83d8f5648543c50b8c043a83f4f61d74e93b526058bfe773029c7bf7"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d3158ab1da418abc9e5945af446a9f66abb5178e449089e7d68c3ac8ca764752"
     },
     "entry-1347": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.209Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "0aa7e8e7d92ce594b965ddf6261f26932aebb541061a9a032e57f58452b395f8"
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "569d6af7109095104c006406997fb5ac896b8f08d929a0a9d2117b8701929d28"
     },
     "entry-1348": {
       "status": "approved",
@@ -9396,9 +9396,9 @@
     "entry-1350": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.210Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "606131146f1d8369843748ba5e3fc69e926fe3905fa7b74f41ddc6be573a03d2"
+      "reviewedAt": "2026-08-15T13:13:01.104Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9d8a7fc7afa5beaa0f7d15ac74105cb795c319c8b14e82c8617216327415d0c7"
     },
     "entry-1351": {
       "status": "approved",
@@ -9452,9 +9452,9 @@
     "entry-1358": {
       "status": "approved",
       "reviewerType": "human",
-      "reviewedAt": "2026-08-13T09:24:26.210Z",
-      "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-      "contentHash": "110e428446bff9077e3e4b4d1938c2ae99fc2be8e28cecf46fe7f1db737888a3"
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2986ebc2f09b45cd3f026605d05cd4ae4ee61cc78c2fa8da5ef67d710b226eec"
     },
     "entry-1359": {
       "status": "approved",
@@ -10029,7 +10029,2940 @@
       "reviewedAt": "2026-08-13T09:24:26.217Z",
       "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
       "contentHash": "b0af97e91e18066c8b82e6eb21a62d7ee3319b6fbe4a3f2f2434debc7a233048"
+    },
+    "pdf-a2-u2l5-011": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "09262d33f4c6bf6d436879960c1a35b205222a14b80b4c50f2afb653b489a232"
+    },
+    "pdf-a2-u2l5-012": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "beb0471c085e4a2c5b1f605b695c7431174d5b9863f71edba041ce58c16570b0"
+    },
+    "pdf-a2-u2l5-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d24ee9e5360af7d7a80ac6c7b8cd45d4a6fd8d638f3a23f909d789212833d710"
+    },
+    "pdf-a2-u2l5-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "41d4885e9cc6d32af10fc41377d3a6576dfc277f727c89829884ae74c1b015a3"
+    },
+    "pdf-a2-u2l5-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c70c5604eded1b360c22a3822eeb2f556257786464ca2f121d4a7bd64fe822e9"
+    },
+    "pdf-a2-u2l5-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c01ff1d2eb26e945ee41ea8f3ff6042f4c601ece836972a283b112814552b68b"
+    },
+    "pdf-a2-u2l5-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8094cd48a5cbf44222d1a2749fd8622434e6f70bef1ff9d18c0533ea02107a31"
+    },
+    "pdf-a2-u2l5-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.310Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2bd1f6c1b4c83d3b14d205571c914e771cb92033671e314d23220b6dfcb575f0"
+    },
+    "pdf-a2-u2l5-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e28581911ab5de0afe73fa8a317c5c7ecaedaefbbd9461a32cb97c4a28de6b9a"
+    },
+    "pdf-a2-u2l6-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "22505978758210e0d8f0e5d0990d6c7a7c18077fb27a9c4af024592e9181ba9c"
+    },
+    "pdf-a2-u2l6-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4cb79ff33ff883ac5ed54fa7f7f70c48c6614740ee1b5b140b6021b9f45acb18"
+    },
+    "pdf-a2-u2l6-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9c0bb2b05fcefbedef8ccddea990c07d6d19e63fc5be483cb327e13efcacc0dc"
+    },
+    "pdf-a2-u2l6-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0ea1f8bfc3bb69771ac8844a1dcc4b5a839d0207d41ca9dd6e804724ac7465e4"
+    },
+    "pdf-a2-u2l6-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5e2cd5714d9688f613093016557c2525c677e3a8dc22237b0eb74904cbf9bf48"
+    },
+    "pdf-a2-u2l6-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "779640138143b1cbcdb6fe2c5e7e98d6e0a9b6bd22704deecf64b36d09923673"
+    },
+    "pdf-a2-u2l6-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cd199f78f2973a18b6d6b1bfc33e6e92d32afa36ddb9d6d9682506ebd652bd80"
+    },
+    "pdf-a2-u2l6-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f1823f21e2c07fb4226dcb68e663e7a4cfd5a495d7a6772d444035cb597756f2"
+    },
+    "pdf-a2-u2l6-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fa983fbca0ca16cc1e47591d04bbab1cf5141e1115557e92a8e52d03aecafc34"
+    },
+    "pdf-a2-u2l6-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "232f44bb3474c8b4f9156ce0c526de18be036ed4e844e571c7045207e8889918"
+    },
+    "pdf-a2-u2l6-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.311Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b8814955ad34599ec7578f4df2564c958e8ed76ce8dea3794846ffb84b175533"
+    },
+    "pdf-a2-u2l7-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6ff38f07b3130e61a1e9820973f090cd5eca092869092d1e54ad49f7dd9590df"
+    },
+    "pdf-a2-u2l7-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5785bcffdc9186945361bf1a105693c49b859e59e33088aea3ee2b10dbe3c145"
+    },
+    "pdf-a2-u2l7-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4a6aa0197cf5cabf429d771410db395f4387cc24c031437ecf2ebd59a54d3acc"
+    },
+    "pdf-a2-u2l7-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "918372d92e0da27b122d5c9dd5b6ad24e363cc43b93e5c7d181b2f9197799500"
+    },
+    "pdf-a2-u2l7-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.090Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "eb8e9dcfc1fb530a980e7db34156fd4ca58c88cdb55ba920672096cb3c82f36c"
+    },
+    "pdf-a2-u2l7-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8779b51da121fc94089abefbf4793294568b6bf04280ecb6aeff36a30cf36733"
+    },
+    "pdf-a2-u2l7-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6b3dfb9878784a703aa546c0217de8b84fa0e7d24f87af9fc39dcc5080e73c04"
+    },
+    "pdf-a2-u2l7-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dd28ff172804e421572f62bf035f19783b569fe6b71b2a7ee481a22408803452"
+    },
+    "pdf-a2-u2l7-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "14bc3ce6daf58a0df4aca46b1594e9ac2bc66ca88e292386647b56a81545a4ca"
+    },
+    "pdf-a2-u2l7-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.312Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ee0955b8bb80deb698f7ce0c42f5c06fe765702d8f66048bfcd789d150bc74fb"
+    },
+    "pdf-a2-u2l8-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "78ff8d8250b6a82f625dbc830eafeda6ba2e219ba4ec71ff30b28b2eb65777a3"
+    },
+    "pdf-a2-u2l8-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a225faa2f0097fcd80eabbff162ec6f9b25bf5d3788b5465bc582def326b6ba4"
+    },
+    "pdf-a2-u2l8-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0f7e2066b99a716d9769c57a7a2b716e2e9b78e506b76f3d7ad4715978be906b"
+    },
+    "pdf-a2-u2l8-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "55f0d9060b852738d2e3f5c271458639b238bf9c7ef75f1cc0842732c73bf977"
+    },
+    "pdf-a2-u2l8-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "876664c85687bcb7e05c64bb5a4e574dbdf9ee9413fba44d2d88b703a2a6ff7e"
+    },
+    "pdf-a2-u2l8-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5de0fdbff3637a3ca418f5205cac4c66458b5f7308962e62a085b2f6503fd299"
+    },
+    "pdf-a2-u2l8-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "18e3952fcd55753157e5eb99d729907e12c3dfea297916bfcbedafdcaed04815"
+    },
+    "pdf-a2-u2l8-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c3069ebf3e4edb9e872e89cb992cf1a92817082b142e6e81d305e55061961ed8"
+    },
+    "pdf-a2-u2l8-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f8f0c40fbe8b7b3037e0bc02a0bbc507c7238f41a3531f412b90d0a70d51eb29"
+    },
+    "pdf-a2-u2l8-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3ea6ea0b6938600e16a22c5d12ae3858cd0b562d53c463a6618c0580297dd452"
+    },
+    "pdf-a2-u2l8-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6f4aa6730530ed7f67fa0b3064a4eecf7b997b95c0355891eaab895b3f32467f"
+    },
+    "pdf-a2-u2l8-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5ce1fe45d72dd50c8fa5f03a22d5f3c7a9ac101c782cba538344d5a1367cdba3"
+    },
+    "pdf-a2-u3l9-011": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4a15cff997db631ad666269d355dc22a1f2082039df1324363b35b7b464addde"
+    },
+    "pdf-a2-u3l9-012": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "27f41ca45616d0da617aecbd51acd1bdba4224df4fe6d175e45a7bc39628ea22"
+    },
+    "pdf-a2-u3l9-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cf87cc3d6a562bf1efed3d315732ac510eaf352d88b3b2936e5fc534f7f710af"
+    },
+    "pdf-a2-u3l9-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d3d5383e2df74d7e2e7b72b7c3d50530473fa370755c2399186cfe9e9761c49b"
+    },
+    "pdf-a2-u3l9-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4a655fe87052218841b2d3d1c5138ee99f2df6decdff89227e5083a61b3867a2"
+    },
+    "pdf-a2-u3l9-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ef6af3524c9068a8a50713dd477308a608997bf8daa1c2bafdfc156cbd56a0ca"
+    },
+    "pdf-a2-u3l9-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "50b0065ecff584fdbb2c7904be333673a3c2b095a97c8a6d6a9519759000392f"
+    },
+    "pdf-a2-u3l9-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b1e9e1fb4e8a3e3be495a46fd941b48ee4350ee140375383dd73aa558a6d4611"
+    },
+    "pdf-a2-u3l9-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.313Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5b46c219fec65a58caf90b3d6e4e51a0af0c7136a952d08ca590d4785b58e743"
+    },
+    "pdf-a2-u3l10-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "da3b50988093edea4510e177936f072ca237f379d3f6a84ca9957288c5d7cce2"
+    },
+    "pdf-a2-u3l10-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a404d3854bab8a37eb005e11523931e97ee5d3d5e4ffa9f427f69403639a39b7"
+    },
+    "pdf-a2-u3l10-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "47e0e89e4eb4574c4f28d9dcac0ee36961a0d145be2512ee4283f894e7b4fc35"
+    },
+    "pdf-a2-u3l10-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dfbb750b454bcd09b9ff20bfb8f4467d62b92791ae7291cb6bf71ad234754558"
+    },
+    "pdf-a2-u3l10-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fd629790e1d55648f014aaa501b5fa46ca515285a9cfbb2aa86b540d75fa4c11"
+    },
+    "pdf-a2-u3l10-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "518e3c784ca14a7fa9b903c25c89304ae5489b19a5330c21c0ca1305b82fab64"
+    },
+    "pdf-a2-u3l10-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "537ddfab2fb2428c45303e3dde2e89477737c1a0150632186a286914a9538ceb"
+    },
+    "pdf-a2-u3l10-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4fee4e5ec40e6961cc921eef5866595b8fc3ed31a209aec3f34235b31f14cfb4"
+    },
+    "pdf-a2-u3l10-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0fed62f9e987ad5b764b51615e39cb84594c54fc36a41e04b8aeab52d0407c4f"
+    },
+    "pdf-a2-u3l10-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a295501aa0927c02b9254d515d9cb278b1de2cbb96fe8a8dec6d6f40b9e45875"
+    },
+    "pdf-a2-u3l11-007": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f16a04670b7fc158049340d137202e26cbe9e47d4b1837699845679b5249a70f"
+    },
+    "pdf-a2-u3l11-008": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2ea9fbdc70630f53681d92cf822f3ce9e6fed301ae2ee4ddfb79125ac5e231a9"
+    },
+    "pdf-a2-u3l11-009": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "42a74af6c6865c712a745d4e9aa4675d6ddb81b08cd8a72692c0780e095df190"
+    },
+    "pdf-a2-u3l11-010": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "32fa61f3e5fa81ab555d8e740dabcbe11278381bd92360cecf63f3b91e2a108e"
+    },
+    "pdf-a2-u3l11-011": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e386b617615374e8e141adfcc44fdbbbfdf2893eb14c5e40439e18917681c2c9"
+    },
+    "pdf-a2-u3l11-012": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.092Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "687287cb282bc6b0214429d633347d04101bfdc9b72efb832532ce6948f11599"
+    },
+    "pdf-a2-u3l11-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.314Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a5098e5e0bcd92d23dc6da4517767f897fd0f33384d1c8c632777c0483cb4c21"
+    },
+    "pdf-a2-u3l11-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "7441ad2593375147fc031024161e6b879771091578a1b262da5632b4bdd5d16f"
+    },
+    "pdf-a2-u3l12-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "35d2a3b686bca1a6c4d5853cc315e7c7ac113de80ef5e5e1e257e478414ba285"
+    },
+    "pdf-a2-u3l12-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "15bb743c6e6459ac9d211f1597ff37bc74b9d360281718ac8b6dcc21fb76310a"
+    },
+    "pdf-a2-u3l12-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.092Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fd1fba8c44fa7a1714aba9acc67c5d9e59720f57517834edc6b1d01d1cf2c8ff"
+    },
+    "pdf-a2-u3l12-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fd9c676d2fc5cdb0a28dfb02aa77e57afe3fd5704db7b5320ae168a0a83a4a97"
+    },
+    "pdf-a2-u3l12-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "eeb23ade8ad652198bcd032103cb443d029a280f5d96d71e3df3389f2e0438b7"
+    },
+    "pdf-a2-u3l12-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "aa521aa126a997af723a929b49adec37430725c7ae9e200310060278e6f30c2d"
+    },
+    "pdf-a2-u3l12-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8b5d55fa53b0ae014942a36a9c2a7c691395ddc6cf1bc15d5c06f205b728a153"
+    },
+    "pdf-a2-u3l12-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bbaa52d4f5c6c8b10db27262b647d4376c87b7e76344059da99713131f585370"
+    },
+    "pdf-a2-u3l12-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "20e27f2b107ba49c6fc2689ed575bba136e3e007196ceb9e1a151bcc4d7c44bf"
+    },
+    "pdf-a2-u3l12-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8948b78aa4d7975b72d28511ac58ee026e7c31211e3b2dcd33e0731386b34269"
+    },
+    "pdf-a2-u3l12-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.315Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5871b7fcb294bc3ded6a376b46fb6c07fabe45b3ed55920836cd3767e2e7efe7"
+    },
+    "pdf-a2-u4l13-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c4a44002c0f7ad7f717cd0e3ea5e18ab08ef798be22f7652a152afd96480b7ea"
+    },
+    "pdf-a2-u4l13-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6bb3ebc64ea63969c2ea75dbe310c9b3fd802eedbe7644889271b148017ce69a"
+    },
+    "pdf-a2-u4l13-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e3d82f5f3c72fa9c809327fcc26df9e502881908ee1fb65405832a6ed17a0401"
+    },
+    "pdf-a2-u4l13-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1b3333084fe44dece1220698b295f5aac370b1122ed9898810524a659e8356df"
+    },
+    "pdf-a2-u4l13-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "50a9cd1b8bf70f08bf1abc6f06568516814e502d3796b2f2e41bf183be37f342"
+    },
+    "pdf-a2-u4l13-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8078f3faf228b4a9b7ed4e5590b11214a14bc9c3275ab8b8a5f853250dad31e0"
+    },
+    "pdf-a2-u4l13-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "68bf229183a518331f57e26c70ee24f26c33fdea9378c4de72a72bc3b7c3a531"
+    },
+    "pdf-a2-u4l13-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c6e92de08d6f350f4de72ee971bf18a65aeda62b2d5a7f3f929f7367fb9583ac"
+    },
+    "pdf-a2-u4l13-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f1e02cb0f68eea190bcff4703868286de287a3f79f7658f81a537fcd4c062f40"
+    },
+    "pdf-a2-u4l13-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1e7aaecb04bebc846a1581c4b6649a4f5cc324130312d9566c3a170ac16ea405"
+    },
+    "pdf-a2-u4l13-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "615ddef869fc44de5fd5e64d705d5e08bff7cd1422f5746caaeb0ae832a0ce07"
+    },
+    "pdf-a2-u4l13-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "39e199d48bf0d02355746b39b1bd5d883ecd8abcab661533e32ed64645585f2f"
+    },
+    "pdf-a2-u4l14-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e030705808f8e1c53c795d67c12e563fe45fd6c93669f643954366e074efc8bc"
+    },
+    "pdf-a2-u4l14-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c6e2e5ec6f355c8a926fb138dbc29a21ed8e80e220cc7fe52d071ccd313e6abc"
+    },
+    "pdf-a2-u4l14-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d93fa0cb63aa7cd845ef444ac67bfab1a5b1422c75824df1ae94061900a4e81d"
+    },
+    "pdf-a2-u4l14-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ae079cdbfddec14ee8567475e120930e5a51fd9fff8b287f6cd204a712b6ec16"
+    },
+    "pdf-a2-u4l14-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "de131e4327130a5ffa27c8e5b34607fe6b76ba5a48936c0f746674c71016f161"
+    },
+    "pdf-a2-u4l14-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3b1d024e9f63d5817f6067c9f9e14aeec940e47af7d744a4fcb2b0d07fdb0283"
+    },
+    "pdf-a2-u4l14-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c4e44383b60d5cc8c799d32c6437e0f6ce25ba869d4a1dfa3a5c20bda0d6a11e"
+    },
+    "pdf-a2-u4l14-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dde71011f47abcd34eabd558b43293b3c9189b96f0ec912c6aa61cd31b7ae301"
+    },
+    "pdf-a2-u4l14-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1a2364ffdc385c7df3dd8676e31ca5aa50b96164d2d57b832a53c89b2f02bb29"
+    },
+    "pdf-a2-u4l14-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8f1c39bc6af1799fc912176102abf9aeaf04c17935b06018d9af5f689d7d3648"
+    },
+    "pdf-a2-u4l14-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d20efeacd07f04b302ec250d1d6ea7110c5f5c8a617996b13315c1fb9e411def"
+    },
+    "pdf-a2-u4l14-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c59b9b8ee51cdf468d5736ea3aeda70474e5f99be7a3e18b00708ebe52cc8834"
+    },
+    "pdf-a2-u4l14-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "da8e11ed585f156300a14019cbfe83791bf199cb1a9417ace8d055d236711911"
+    },
+    "pdf-a2-u4l14-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d51a91d6125d2b8c3636c4b8f8b21638363de72ee3beac00750d58f3c24c505b"
+    },
+    "pdf-a2-u4l14-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f9c3a67d927d7400c6280fcb01a23a87621836ba671fd040b8ba2260b980f33b"
+    },
+    "pdf-a2-u4l14-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1f87bb4194780b8ae652539a02da917fe279d328e63705e9dcbe26b0ba56d25c"
+    },
+    "pdf-a2-u4l14-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0b5bd9884dca4d56952e6781006af361c7bb47b32665ff978539dbdff3f4edd4"
+    },
+    "pdf-a2-u4l14-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0a91366386fce147f55d6d05dcc96d6a6d310b54adb79ba628239f2543d237c9"
+    },
+    "pdf-a2-u4l14-033": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6b4560ca741dc361cb12bf0291c542d0413214d2e72d09b42670544ac140e4bf"
+    },
+    "pdf-a2-u4l14-034": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.317Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9c3997f94b891581efefc5865c47f07e4953b7d440bf8bbf499ea6cd696be9e0"
+    },
+    "pdf-a2-u4l15-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3c6d2acb034cfb054a78a5f2fb4b0b2ff653b5745b7ecc36fb1cfcf47061480f"
+    },
+    "pdf-a2-u4l15-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0cbbd698abbcd85deae63b332d0691754b91f0b3de0cee3fed8b20c1e18ce178"
+    },
+    "pdf-a2-u4l15-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1ecd505732ef16ee53c81fa9ff0f5f6e0528412080d8d4bdf2f6cfe101950002"
+    },
+    "pdf-a2-u4l15-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bfb50eda565e2729e239153b725b9458ef3c1ada6b4598fe640f5b24fdc558ec"
+    },
+    "pdf-a2-u4l15-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cf60a9362750b17a858d9d48310881c7ca7f18583d85addcaa3a41c13c5ea2d5"
+    },
+    "pdf-a2-u4l15-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "7616cca0decc820d0df082aac03541d3c2e07dcd5c71d92e512914eb366e504c"
+    },
+    "pdf-a2-u4l15-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b5afd680e4ecaedfac31e561734003374dab31d01a61748a89f61cb0dbedf427"
+    },
+    "pdf-a2-u4l15-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "25b312327b7a4543e2f15a512a4f035e6c1478a5a460c1061f7c98e0a19e63f6"
+    },
+    "pdf-a2-u4l15-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "326853bfa8c0c18499ce53b19a245fccfcb92552c698eee3bbc0e83592ed5a62"
+    },
+    "pdf-a2-u4l15-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6ab3084fbfd75bb273f023e4fba05e58de30653cda1bb15a3f1f2e143f56465d"
+    },
+    "pdf-a2-u4l15-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "326fac147476b0434b4498772b1e997e1094271a931a68ef4dfae3e5730db9cd"
+    },
+    "pdf-a2-u4l15-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8a507fe0b42a27ddd32f76d184f4e8dcac07b811785e41af4a44745b72552fdf"
+    },
+    "pdf-a2-u4l15-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8c8414a39dc21e0e3ffaa697a1a171d518352693b25099f5967b0711a566caa4"
+    },
+    "pdf-a2-u4l15-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "7108de1f03e45664c158fbd95161996765bf72677c67df7a4497bb25be922c8c"
+    },
+    "pdf-a2-u4l15-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cefd4ecbbcaf49ffd308bb8b8b6745d5320a71402411c0360764ea9009bbd70e"
+    },
+    "pdf-a2-u4l15-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4ab0d48e8e9a16a56378ed82888b8787f20f2678cc03cce2080ba0d8705a4d64"
+    },
+    "pdf-a2-u4l15-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3635b898ef04a9375c04b9a0c25bbc35b0bc244d249a9b4b38dd23d247fae774"
+    },
+    "pdf-a2-u4l15-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "811cc7e7c66b65ccbcc9940a3a5521fa46f574dbb59f6bdb9e8007e7fae54bc9"
+    },
+    "pdf-a2-u4l15-033": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2b2830f383fa119aba1247939ef4930df460435113e814a08633e7b40179f351"
+    },
+    "pdf-a2-u4l15-034": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.094Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "293e04c073cc83183b4376e8cdb0e3747f43c4fee52f7b9f48ac6ab924f421c6"
+    },
+    "pdf-a2-u4l15-035": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "36e116ba3d0a51200d7c67d39e573370026fb717d6b81f597b1e8730dd4b157d"
+    },
+    "pdf-a2-u4l15-036": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e63abecaa781b04fa232b446f8fc6d4c656102ac28a39ba68e4f776437385ed8"
+    },
+    "pdf-a2-u4l15-037": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.318Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d10dd8ce468a18050b2b390ba8ae9e1c16bd2d7095b7773c7018ecbf6d5a50ed"
+    },
+    "pdf-a2-u4l16-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "049214be841a19621331a788ad989866b6fc5bdaf8d876d39853583c64d0a13a"
+    },
+    "pdf-a2-u4l16-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c94a63f4bda95c21631a4bae8672aed4ee022063640141fa5d973c944cf002cc"
+    },
+    "pdf-a2-u4l16-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "63be08056d93a5b4fb7a1ad39db095f1ecb71ec79455b727e12b228b2a7bbeb2"
+    },
+    "pdf-a2-u4l16-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.094Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4d922cc90ec8b10d3f84392431951eef358354cc7e8c42bd71b23f7596929726"
+    },
+    "pdf-a2-u4l16-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a336154614a88e6b959c639d546e362efafec7bc2d2cf2c718f78b03e1ec81dd"
+    },
+    "pdf-a2-u4l16-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "eefb4a9895893ccb99c26ada68ad850742cf28aa9b3d70b73c66e8902cf0f807"
+    },
+    "pdf-a2-u4l16-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b3662231474c660bbd0aa4b8a5fdfe30a38cc5844cfb40e60fe83db973cf8a0b"
+    },
+    "pdf-a2-u4l16-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "35f3e69f3ea8fc282d7d8cb34c1650f62bc19877a3c5e3b172a01e89a7401484"
+    },
+    "pdf-a2-u4l16-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.094Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8fe97a30d0afb853c917d334a77859ad67cf1b8e199b6c1c551de50589dc4b20"
+    },
+    "pdf-a2-u4l16-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "99ad5a60a9173caabd1faf2440be5c4b5aa60cb88ef1d2b5f9d5fb32bd5b642f"
+    },
+    "pdf-a2-u4l16-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "18c2734ce7402881d1519a5630d3ac32cce7ee1ebd93b32ab40519c63b2852ba"
+    },
+    "pdf-a2-u4l16-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f85d24fd69a40ce9a7cab55588e55bac0a2f5dc30fb38d1eb675b992be25f38b"
+    },
+    "pdf-a2-u4l16-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "598b8342fbcd07bf36c7f732877f11b02713e597fe45dbe49c7fb6cd63137484"
+    },
+    "pdf-a2-u4l16-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4e6c7b2c9a4457def2a7e091f8085564db82b476c2b4b5d03409883e161f1294"
+    },
+    "pdf-a2-u4l16-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.319Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a9efd6ea601be1dcd3fe9b92b55ea07b87d3d7a65af4db88c6ded43292b3e6a7"
+    },
+    "pdf-a2-u5l17-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6c4b2f8d9f964c0a703c2cfa243b29fb0c3be92a02ec25631efc8ea9bf5f03b8"
+    },
+    "pdf-a2-u5l17-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8333028f97c18dfe75eda1a79259004ef8581cb5ce7a4b63debcff667dafc774"
+    },
+    "pdf-a2-u5l17-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "360ee0f599483a072403735ebdd8d6b9cd23ec3f114e1d9f932e3ed22bf369e0"
+    },
+    "pdf-a2-u5l17-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "060168b45924858aa1aa1bd62a5c727f0c6e7912711eb080d0c5d44d5d6f7e5f"
+    },
+    "pdf-a2-u5l17-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1402bd0b394316a72ffbc52d3ddd689a93099a6d9467890886fa03e6c1a1d744"
+    },
+    "pdf-a2-u5l17-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "32e922d12608b9580240027ed7c747844951480c131a46c77307e39ab8424bc0"
+    },
+    "pdf-a2-u5l17-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e3791cdbb8e6b8d559b7e7ce0406295bd111317a57bc74951b84fadb54d10a39"
+    },
+    "pdf-a2-u5l17-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e739100393416f028039e14b0a91296a5ab27bbf0d3419acc6cac45981550167"
+    },
+    "pdf-a2-u5l17-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2a0d161fe69aa77e7cbefa07385f675eae408593bee4e2625b3f2befb6b8c14a"
+    },
+    "pdf-a2-u5l17-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "875c59d0cc9453ccdd594a6e9cdb5ac50e34ae5087a0ddc494ee65b99b84331f"
+    },
+    "pdf-a2-u5l17-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b077d03e13a85c33fb07803a61d9e4bf4ff6c8b1ec50fff2547cb7b270d33cf8"
+    },
+    "pdf-a2-u5l17-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.320Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fa612e7ccf2cdcba82e399feaed06cdad85cd59bf380128432e55b096b0667c2"
+    },
+    "pdf-a2-u5l18-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.096Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "91aca2207dd8b94aafbd313489a2e184294ea98321a445420e26a72229dc6608"
+    },
+    "pdf-a2-u5l18-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1b785cc77c3cb1c02d4cc1903f659960ef67099bc8491e80b79f43db371a08e7"
+    },
+    "pdf-a2-u5l18-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d8c768bf6a91b2acdc6273ecf3134c027a20ebbb84b71b487aeb08ac75c65594"
+    },
+    "pdf-a2-u5l18-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "7ed8c73e3aa5bf4ebc7d0f5c60cfa1b565b06f91305ef3f6b526577e1e516b56"
+    },
+    "pdf-a2-u5l18-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e1fa82c49abec971ba742a369735b76468e14e851d18803fc4baf883623fd637"
+    },
+    "pdf-a2-u5l18-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1b870f3283e9d211988a0c88ee787d12619b2969bb2c56321064f202b669f70d"
+    },
+    "pdf-a2-u5l18-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e6c87a4f6c9dffe23af3aab029bd8c04adfd18b839ffbc2c815f86fdca631611"
+    },
+    "pdf-a2-u5l18-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "df5bd06482f37092d33ada74854c36a4d0303102fa56713e05e27daac80f72fe"
+    },
+    "pdf-a2-u5l18-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c20cba2a54a6eece84d1457081fcaa772437b0d4410e3b0a8c81a6f3aebb26c6"
+    },
+    "pdf-a2-u5l18-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f5e79acc8b8b74e85665ea7c32aafacc8887106d52dbc62c10bf496a07cb8056"
+    },
+    "pdf-a2-u5l18-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "428343024b2b6ecbb71f0c57b3045ae9ba4e0586c5c99e09e33da6ea44c81210"
+    },
+    "pdf-a2-u5l18-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c0091e96a48e2a44dac1f210d5d0b3a312507b9952f58504630192e59959e200"
+    },
+    "pdf-a2-u5l18-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.321Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "47c45e24a81ce802ea2d588793f4506e22c3bc71653b476686d1dec1a018eade"
+    },
+    "pdf-a2-u5l19-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "804d35eed89f5cdd3460eda584bf00e756e16d8059847e1106e7f55a9f8ef051"
+    },
+    "pdf-a2-u5l19-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "128efdf151a6f5aa0000dc6c9758cb9a1a8f439b4acfa5c802f457a6d2409727"
+    },
+    "pdf-a2-u5l19-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.096Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b9bc9a10b8b9d99574ec3dfafe97262c149288ee5b663d8e532e001eb9999a12"
+    },
+    "pdf-a2-u5l19-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "54487335e0216c02f4478f580362bfc96f04a3a5ca7b0cd297920310bd3f5477"
+    },
+    "pdf-a2-u5l19-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b59c851c8fa8b5e8d16ba041bc41a561b1a32ed6894aaeea17c680eadd636ebb"
+    },
+    "pdf-a2-u5l19-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.096Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a24d9437d65993c180f7ca2a2beb519c9b78f0ce30309689e2308c174dd229ab"
+    },
+    "pdf-a2-u5l19-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "65061380b38e88edce37ea8f1435f62afb8914bbec9e16601147d6694c3a0691"
+    },
+    "pdf-a2-u5l19-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "017927c2dd97d8506536738d14c8dcf658f027d5f2f48cd5cf4f341b7c20ebd7"
+    },
+    "pdf-a2-u5l19-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.096Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5fd993943bad71af16f986ce416c4ca4377d0fe7fc031ef6eba82400d7591b07"
+    },
+    "pdf-a2-u5l19-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "61d4cc6a4672e07add9306f47579fc032c8cb45d2e042ab15932acd65f25978f"
+    },
+    "pdf-a2-u5l19-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "400752f619103ea502fd116ef8c82d23af63ec8f60a8fcf04d761bc93826cbea"
+    },
+    "pdf-a2-u5l19-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "36e93c387e87be078ff6b465134a7370c3defa22c382d42355386187961c718d"
+    },
+    "pdf-a2-u5l19-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f6ac4d2cb27b1fc355624e106731759e98294f4465047d8b3304c8da39265617"
+    },
+    "pdf-a2-u5l20-001": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5cc2be8b1813254d32f1bfb4588a1ab6cd81122e401c50dfab1202369d53af1d"
+    },
+    "pdf-a2-u5l20-006": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0f51a6bc8f24a2203379225851e4b1499092260b61ccdc4350f901eade246f3c"
+    },
+    "pdf-a2-u5l20-011": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b75f2aace4931fe4deb75b49f786c3bca54cd54c745edb73beed20c803ae57d3"
+    },
+    "pdf-a2-u5l20-012": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b6b70e85b538d485e9071c8df0289e5d95c70fdb21c8571b527a029b44c9c770"
+    },
+    "pdf-a2-u5l20-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b1f00625b694b102223a4a5977ae7eee2f14e665e158d737953353dc593ec920"
+    },
+    "pdf-a2-u5l20-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "61ca330d3ec7d3156e3da3f706bcad0d0cf8af40adc9c8064bf7f7fcf41fbe6f"
+    },
+    "pdf-a2-u5l20-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "54fd20fc34451bd7df61b72bc41191bff9f3a46a2cfb9eca5893c89300f92094"
+    },
+    "pdf-a2-u5l20-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3f144a5f91787d3fbe8e2e53ec98e7b0641b1db928e232bb6a4624018c2ce508"
+    },
+    "pdf-a2-u5l20-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a32f8e645d386f7606c1b18f33321e4c53896c71256ba74805efcdd3d7be8a05"
+    },
+    "pdf-a2-u5l20-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "65396e1a94384accf728880bc391307904f098e684e065f5ec3bd69c3c08b9a9"
+    },
+    "pdf-a2-u5l20-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5695ef8112848d7f3d3e52c61da95b7e22c82aad5ad1eeb45291f308dedf806c"
+    },
+    "pdf-a2-u5l20-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1b2b8c75e75403b28043648338b51ad6340ca6fd5a129b43261e9104245e513b"
+    },
+    "pdf-a2-u5l20-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b02db1373b7d0593d2db507230fa60ef096296a448cd1f40c50d5b88f0eda864"
+    },
+    "pdf-a2-u5l20-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8fabf48d1a27224a3322a99c92076d2476084e1a0a9fa86eeb9bba8fad1eb29f"
+    },
+    "pdf-a2-u5l20-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "972833b0a881d02038a6c5c066d881e263f22089f942e75a8bb6827803a3572c"
+    },
+    "pdf-a2-u5l20-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "df1e611378aeca377f0bdfb6c578602e2e8a3c945fb7fc536cf889604abbf2bb"
+    },
+    "pdf-a2-u5l20-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.097Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bb550bb2c2f8b1d1a860606e893042f7544c27b868d860870a73f9efc1a1523d"
+    },
+    "pdf-a2-u5l20-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a73e05c55325ce1b422565892566c83b646a323dbb86e9134cc7446723935203"
+    },
+    "pdf-a2-u5l20-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "71b80391c1543eb29907d1913c9fcec053f2054219c36e145435e35afc40b844"
+    },
+    "pdf-a2-u5l20-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5ccd4f94c5f206de3cc7249c061180433a8d1e36bf414b37a639ac4a6fe7dc0f"
+    },
+    "pdf-a2-u5l20-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f03550e4787aad7552811a7750cdca819b047eda889c16d11e7da606c172d87f"
+    },
+    "pdf-a2-u5l20-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3494246aa46a6ac2bdf2cbeb5386b604cfc3e4165f9aa8dd2a8434715ed35b09"
+    },
+    "pdf-a2-u5l20-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4eea4342031e2463ec20897bd3daedc9c46687f4ffc6d47a5c3fdcc8abc8b818"
+    },
+    "pdf-a2-u5l20-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.322Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "27805de3488fde101bf285592daf2377bc486f87531723bd61e35458e0eaa1d0"
+    },
+    "pdf-a2-u6l21-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "208d2b1d6837b4456b09c84c5305ad9e4dba287f221db62413a089e95c600284"
+    },
+    "pdf-a2-u6l21-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6071de446d7bb13e9f75a8ce43bf4149c23e89eb0216dcc8fd183ab03075184d"
+    },
+    "pdf-a2-u6l21-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d3d63304f01409208c380b540e8333c491fe291c7dd745aaa4a310f008ffa45a"
+    },
+    "pdf-a2-u6l21-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "86ace1e524f3541692b330dee3896cf58e80c0655d17e684d1e84b2bb75ea1ea"
+    },
+    "pdf-a2-u6l21-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b9b69a1493cc7c12c12371e376a6fb422678419b811b07ae4e9dc0b15a053e5f"
+    },
+    "pdf-a2-u6l21-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c730c6c58fa323dd78e29ee82ffd286a4a08a374d8629b22e476a0a06af87881"
+    },
+    "pdf-a2-u6l21-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "71d959580294cff51f4588b9969f3bec7b879758716e0cee6e33c6584de87063"
+    },
+    "pdf-a2-u6l21-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "25a36b2d54484518560748017eb185bbf24ea8071ec66f9cc1a50cfd83db1746"
+    },
+    "pdf-a2-u6l21-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "af55e072d1136e1df6ba3de056322cc2e79978ff72776066e6029dbbc1c53704"
+    },
+    "pdf-a2-u6l21-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "84df0def18f5bb89f3f7ad359b388af1d3e5a75d67fd1ef46befe457da0ecd47"
+    },
+    "pdf-a2-u6l21-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ba094e732ba222d379ab85c9c01b53f43d232a224bcbd691d0c4d168aa604299"
+    },
+    "pdf-a2-u6l21-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.323Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "58d2c8ac24cdedde390983fbafc0e7fc4eb10c2b98e71d57bfebc6ce756d1062"
+    },
+    "pdf-a2-u6l22-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fffd75dcdcd38912fb8d889cf0f2e77e6aa1278f33fd2715fc907f42be3444a0"
+    },
+    "pdf-a2-u6l22-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9350ff32966e190a360ab5e3bf5642bf466260b6e0b5ba2d3f8270226a9564a4"
+    },
+    "pdf-a2-u6l22-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0950f828345e2f354588ce3fa888b078f1079ef549f10c883d1ebc818425e170"
+    },
+    "pdf-a2-u6l22-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "eed705ff590c7972585eecb3a393ef33b4988e3a116607c3367dbc14770dabbc"
+    },
+    "pdf-a2-u6l22-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d682ecefbb682a2be50632e6d78144846fbf92e0f4e505378d76a6407faa53cb"
+    },
+    "pdf-a2-u6l22-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0752c83f7e8dfcc9727799585d792bbe88bf69a2b0ba008115bac689e6093f2a"
+    },
+    "pdf-a2-u6l22-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "97d8a210acc51a8e5bc82749dd10809ef5c1a18d79309a8e4666df7d33ace767"
+    },
+    "pdf-a2-u6l22-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "84aab2f415fc2619953c84ba3b100bef8178b2078abb8fa56d36cab63f8bd8a2"
+    },
+    "pdf-a2-u6l22-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1ac973d1605c45d5dbf9fe762903c1281a498f63b65e84a5f7e7b1181fae9fac"
+    },
+    "pdf-a2-u6l22-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "683059afe4cd0993ace14503aaf153df037fcfd03e20008221c2ec17bc5d3372"
+    },
+    "pdf-a2-u6l22-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "486a274618c02dd48eb83f1e1983e3d6e6bb6b8408ceb2bc03a39fb60fc4a877"
+    },
+    "pdf-a2-u6l22-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "aec12a8d3c4effeb685f22e494f396d487a5c3bdffa7e2f512cd775bd41a19c9"
+    },
+    "pdf-a2-u6l22-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "255054059a726eb619d74dfd4a368a629e9ddd56982136347fe5027ea83067a5"
+    },
+    "pdf-a2-u6l22-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "076eff6de8f0d850324b341de275145df2f6bcbbe4d53109c00d380a610b14c7"
+    },
+    "pdf-a2-u6l22-033": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2833867c84752f4c2dcd89fbbe9c485856664ade46f529a64ff36b77b7a79974"
+    },
+    "pdf-a2-u6l22-034": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "46d97fa0b0021bbfc88f01512d01fb80335ee59813046926c4c3af0d920d5c5f"
+    },
+    "pdf-a2-u6l22-035": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bc236e69a591230a291ad0850f0e6a1148644cb2a05ac46de648fe98e96e0280"
+    },
+    "pdf-a2-u6l22-036": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ad018e77659471847bcb587000381d08e2aef8d00779a4994d977b2c56b12e76"
+    },
+    "pdf-a2-u6l22-037": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f8c823c2067b7adc10aa983831d203c11ccc09b75a4f9c817aade243b319d3d7"
+    },
+    "pdf-a2-u6l22-038": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.324Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4a7ebcc6db8644bec60d1eab29720f1ee99f44fc7c82300edb84c15e4764199d"
+    },
+    "pdf-a2-u6l23-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a15f3603945022cb60355d9d4be3d61071d99d1292fbedf34cc04c04a0301678"
+    },
+    "pdf-a2-u6l23-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f6e9e77a3c2d473a14ceb73a98c2b519c84eff66eee10df337ae70cbfbb7b4db"
+    },
+    "pdf-a2-u6l23-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b5b9dc7df813193c1d2624339d589eeeec0f318cd6ce29d39e4af5cd4ad4f09a"
+    },
+    "pdf-a2-u6l23-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "195fb9547b1919d0a96514bc0e8a895ccc8b8d58f495501d6fde88530de3ccef"
+    },
+    "pdf-a2-u6l23-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ca9bcffebe28041f60eacbf38e2e9d9377f98c9466a9946c743b96e5b596430f"
+    },
+    "pdf-a2-u6l23-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dbd1e65029e57b9bc75843df1165f62039a76e49f9a6b6267745c3173bca2ab4"
+    },
+    "pdf-a2-u6l23-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "964b0071ba883bd3401bef755492f277ead52cebce96ec57c55e02fec3f28efa"
+    },
+    "pdf-a2-u6l23-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "24a946b283f41e0286e196475a2b0ed8b85eee183acb68a8f905a0f5d9d37436"
+    },
+    "pdf-a2-u6l23-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.099Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "565b61bdca31a77ac30c105346e6bd402ccb54e2f9cd942793e0ee73eaef59fe"
+    },
+    "pdf-a2-u6l23-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ec27c1c0486c6a3f67129d49ccab0d1a7ad7a31b91c290885b6c37bafd4cf448"
+    },
+    "pdf-a2-u6l23-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.325Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f46eefceea2ba7494ba20a0cc060fe3f8a014a119f2a2d15b03e3eb95d864b32"
+    },
+    "pdf-a2-u6l24-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bc4538cff1bfe2e0be1d1d70fed3ea817c4a789c7f56f87afd60d32a8dd3c036"
+    },
+    "pdf-a2-u6l24-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ff5e1a0dfef3c431333675c7b75e74a3bb385f4e63acd4e671a432e8e330a569"
+    },
+    "pdf-a2-u6l24-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1bcea053a0601f0776a313b349d9dea7271400afaa5453fc669669a4a6aa9ac1"
+    },
+    "pdf-a2-u6l24-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.100Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b8330712d52a6cb9707a2c0d3930987aff03c1f747c4d8b395706fcab6301159"
+    },
+    "pdf-a2-u6l24-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f04d0f07ab03fbac9ff763e32f96d35395e354db35759d50e875ca758aaf8d61"
+    },
+    "pdf-a2-u6l24-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6f5bd49fcb20c26dfb20a93c269b4452b803083cf1958f0bd9f8911908b2847f"
+    },
+    "pdf-a2-u6l24-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b7a3fbb0fdbf5bdf8ca5f3c69f493be17dcd3b8e24edfad73e8ef6961a6832df"
+    },
+    "pdf-a2-u6l24-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "65f15625d09eef7016a0be8f1f4e022cb874f3be84cc54d8237a43f8af9efa9d"
+    },
+    "pdf-a2-u7l25-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a6d15ab57f075fc334e3db99ff4a0bff8d781194fcfd6cc12d3ca7b5a3693480"
+    },
+    "pdf-a2-u7l25-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "ab70c6c941809087576b8d5dc383a0dbef54714adfa940cd3bf3b1d0f80f7b5c"
+    },
+    "pdf-a2-u7l25-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "81638043cc64db5965a628840b36caaae83823e54e3362a422a623565e24bdf8"
+    },
+    "pdf-a2-u7l25-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "569b56726dd23f98b9c5dd5763a539b810967d3c49878f47314739cdf191fe8b"
+    },
+    "pdf-a2-u7l25-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "00cdb4298fb5c4a6a3c8894e9d1715f7c735cc34a1d6f8bd5e4e76a3ed116999"
+    },
+    "pdf-a2-u7l25-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "164d69afdd9950f401c14c161cec5e00f0fdb4a747b89212020b8af55b3f42d4"
+    },
+    "pdf-a2-u7l25-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "63c7c3f832d4bcdfeb37f75ce4e74d83c4a39e35be5026b19979c692f7f6e384"
+    },
+    "pdf-a2-u7l25-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6ddfcc1059bb885320ef6de29938e8762448e4f9ce4dd2fed73a217a58255414"
+    },
+    "pdf-a2-u7l25-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1f5a8ea3cb1dbe0c874daf71457ebf28b7b6363eaba09a970b3a26a0a02393bf"
+    },
+    "pdf-a2-u7l25-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "afd615e66308e563140363656f5c9f9c4a3e6b7c2cec42740969f04817be04a4"
+    },
+    "pdf-a2-u7l25-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "da517e151137be700afdb4b4b9e6635c09723cb349bc9f29f77170f3d7d35e58"
+    },
+    "pdf-a2-u7l25-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2a42f42f50a7d5c2fe467b65ee955b8b2b47294e914a2e65c705272eab936f81"
+    },
+    "pdf-a2-u7l25-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e7dbf6b746a5cebd03baf875541308ec8b959c258231553ee8178e4757abaf8b"
+    },
+    "pdf-a2-u7l25-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5367ecbca9c7e7af75faff46bf3f5e61bce5d50b779f21ddef115ad3545bcdd8"
+    },
+    "pdf-a2-u7l25-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.326Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "71d7ff3198809c452046cabba8597c4e4b2dc6d625e27e95e5261e1ca88f695a"
+    },
+    "pdf-a2-u7l26-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cf6a36d8254c4eec300778623d712a642b6baadea4345a3d2a4f5949bba028a6"
+    },
+    "pdf-a2-u7l26-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0ee7a47269a5380013507d989618f3d2bf6c3e5c3a453c2cec993f07d10d765f"
+    },
+    "pdf-a2-u7l26-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "381354a78233021e9d95c427578c68817ac3ed8ff241fcebbd2c55f4475604dd"
+    },
+    "pdf-a2-u7l26-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e092c688d876fd113e4f7374ae555bbd40fea768d20098e85edeb1ada8dcb3d2"
+    },
+    "pdf-a2-u7l26-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d652d8dfbd30e4d732fb3b0ced3f1358703bc93eeecf53c676cdbb61b7116312"
+    },
+    "pdf-a2-u7l26-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "35a2544f3fc2e17a073baa2e10855aa2407111064c020a58e2cbb9265c1b954c"
+    },
+    "pdf-a2-u7l26-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e5516b85ca4fa71141f27e34e7ac663338c8c7471e9409e0a07820b30a7fd85a"
+    },
+    "pdf-a2-u7l26-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bed83a15d86d8ef2d64ee5e41686f360c9af48161125b5c19516110af9b22afa"
+    },
+    "pdf-a2-u7l26-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bf5197be9823adcc10a18df68aefd857ff76093c2cd503ae61b3df323cd2b420"
+    },
+    "pdf-a2-u7l26-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9a3d93dce6c74f435e1dcdf8ba4fad8264126d5cf27f87bb13e5607d2fdcd268"
+    },
+    "pdf-a2-u7l26-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "90fe129f5aa485636f0cdf70a79aed979829c33b217e33174c5953d52c82734d"
+    },
+    "pdf-a2-u7l26-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "25ac00f2303d3368f9c79a3aedf671800a6c38f8449b3a746f1344d97206577d"
+    },
+    "pdf-a2-u7l27-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fad2bd8dfa6aec88e1570846bda25fa4c8ac8a89997553cc338733c435407246"
+    },
+    "pdf-a2-u7l27-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "7725025e5518fa4482c36f99cab2925198c6329d8a8abd5b9c4ea0f233db8157"
+    },
+    "pdf-a2-u7l27-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "416a996a276177e6284fe2e36324ae19d6e45cdc8f765a07ab27d8cb8655d77e"
+    },
+    "pdf-a2-u7l27-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a232f45190b385994d3a1ed56f8d87b70ee47861f8e6c0075653d95609796348"
+    },
+    "pdf-a2-u7l27-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.327Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d4980e6b03cfb0b3e33ab2d4c157f978a12b0bf9827e20f6d689c0b8e2674531"
+    },
+    "pdf-a2-u7l27-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.102Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "56ae85031a82766f7f8e0aaadd2ab35281f0f15b5c9c8a2392c746373091a892"
+    },
+    "pdf-a2-u7l27-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1e555f90a8f3a3413e5f61627f7cfe6b1b50421f334b7ad8ea4bd844b3cb1898"
+    },
+    "pdf-a2-u7l27-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "502241c19444c55c4651a7adefff57d0e9a4005ea3699205e60b6223e1d1790d"
+    },
+    "pdf-a2-u7l27-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9b25763c2a5ab87dbd8673f4a5e36e61fb1101c25079a1775831a7ae30ccb44a"
+    },
+    "pdf-a2-u7l27-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "09677c51866f43f09c7152adaa034b8f4fba93607582cf61d8f85e0ace55b5c1"
+    },
+    "pdf-a2-u7l27-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5aeb809722939fa65341a429ef7056e1a75c666286506665d0a9d3a50122a461"
+    },
+    "pdf-a2-u7l27-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fecd7b29dba688db8b456c07332bdf8f4d2c32db9ff08a18e6999cb945fffee0"
+    },
+    "pdf-a2-u7l27-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "06cd7fe54f3ce4d6085c57451eb6e89e470ac7d6ddc33de7a93f4a69482015b3"
+    },
+    "pdf-a2-u7l27-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d9c6d1af5b11b9a22791e301daba53aa553a0f0965b63d16d1d809d2233a5dbd"
+    },
+    "pdf-a2-u7l27-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "52f6d9139f412016e157cbc1d476e517f45e187b732eee4f4b3cebb8b50925cf"
+    },
+    "pdf-a2-u7l27-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5b46a3fc1283a28c742ca5fee353c983f27126751e9ab9ffbad99da8b484af91"
+    },
+    "pdf-a2-u7l27-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fc6d7729b9f14c5e56364730a54d63d6d585bde40f8f3929a2d42ee709219c6c"
+    },
+    "pdf-a2-u7l27-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e3dd581f25c4358aee3c4c245cd4327fbf17f51318c246bb63c499ff49fcbada"
+    },
+    "pdf-a2-u7l28-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "abad47b8178cc6d6fb48ae50926642a2b29e0309036fd9716428b8c84eb2bbda"
+    },
+    "pdf-a2-u7l28-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "22eeb2f2c813c2d74821a27435e19f3a5ca40b18be7cb5cb49aa086162485b2c"
+    },
+    "pdf-a2-u7l28-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0c919cbc887b5e3794a5dbb8c9854a62cd469b02db8920faec71576ef694f14a"
+    },
+    "pdf-a2-u7l28-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fb45678350580c1ed1399c0700ff45dbed3dc4ac0adf46f37ce95d5f6acc6530"
+    },
+    "pdf-a2-u7l28-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "381be2e5097c37ad05930b8b70e5e1845eae5024e20039b293af852fb0561e7e"
+    },
+    "pdf-a2-u7l28-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a2b89164bebb469ed9ae3520855fd08ee5b6750c86cbce454d5aa7b1f4978ba3"
+    },
+    "pdf-a2-u7l28-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "95358ce9277239abd4c78c1e96732250b906728ace33a5336159de7d98740a90"
+    },
+    "pdf-a2-u7l28-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0487c7385fbf7bc47942557ea681dd0ec8d6a253c97c9bd7a34987e7ed8e4a70"
+    },
+    "pdf-a2-u7l28-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.328Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d96a509b0b0eb0295473820c93ad28ed409e9985edab945d870e90d28d66bfe4"
+    },
+    "pdf-a2-u8l29-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cad69ac5190a42605c325d142351cfe0e1cf12115bf459fc7ebf1b16ce026864"
+    },
+    "pdf-a2-u8l29-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5a6f900ee21fed25a8c5e7b7eb905c07d8d9b8f35ed26c941e720171a94218c6"
+    },
+    "pdf-a2-u8l29-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3de96247f4c57b7fd97cfa22edcafc1eb1a2d824953fbf0c11c04f02182b7b76"
+    },
+    "pdf-a2-u8l29-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f21c83e8c82e1fd74283e079fec94c91983af8cca61b56586023f2d2ad7df8c1"
+    },
+    "pdf-a2-u8l29-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5b6f00f513858708b98ce9bcf2126a8effd30b712ec88d1f1d4e2c033f026648"
+    },
+    "pdf-a2-u8l29-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c0b5b545fdc2b27d5f9dcaf6be6ae6f90d019f155f96fa86274c17fe026b398e"
+    },
+    "pdf-a2-u8l29-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4b23fa7eb3c4f964645ba3ea38b6d3f2e6e335c72870a5e556fe6687ec473388"
+    },
+    "pdf-a2-u8l29-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "664aef028a8bc1cc106a412b80e94ffc3cd1df78b28319eb06f76f4176b25002"
+    },
+    "pdf-a2-u8l29-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3953c7686ae67fcaa76cb57c95cc34f9c0e61af7c819c987468b59029af2748a"
+    },
+    "pdf-a2-u8l29-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1aef5a0f1565f9e6068655391073ab8021199f705bbb12f5758cea577619b011"
+    },
+    "pdf-a2-u8l29-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f461e4cb0e53625a1d72c3df5b3e3e51e61bfc2026a9b63b674fbf7d8488310f"
+    },
+    "pdf-a2-u8l29-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.329Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c287c0d21740e72d50e612578d39af10bf959f3c339156844d6cb03cd053720c"
+    },
+    "pdf-a2-u8l30-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.104Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "06253ecbc0529dc82cff65a4d48324da906274ed63ef02ed41f5b75d4c0fe3bb"
+    },
+    "pdf-a2-u8l30-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "42aa59f13f4be3fdf7c0f46ab99b5c547d262f14adae864d494672c21befa7dd"
+    },
+    "pdf-a2-u8l30-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "045349db5298e49cc01e2b3ed12bc2c77826eb8fd45081945815a2c63e87bbec"
+    },
+    "pdf-a2-u8l30-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0eb9ceeada8e92a53e56cd2df1d444ecebbe5e7b6cae01b29d05203c0bfa8241"
+    },
+    "pdf-a2-u8l30-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "29ea6e725c6774a3481e08057a87569718b622ad937c3e47723839846dfb2cdf"
+    },
+    "pdf-a2-u8l30-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0825dc936db26344fc9f661f744b47157f567cde0f0a43e585d050ce4e7b50ca"
+    },
+    "pdf-a2-u8l30-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3d0407ef7e9621a70ca9f4e5aea9174b86b578d822000bb37237acc9e12a418a"
+    },
+    "pdf-a2-u8l30-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "398e5d0fbc73c8457835863c4e827bf5bf6643c773a625b9e1bdfdbf5e42bc4d"
+    },
+    "pdf-a2-u8l30-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9d1f6fa126ea9e3f5baf0f2bd37b0ef3900c16424551f672529c12398cfd9c44"
+    },
+    "pdf-a2-u8l30-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dce3eca4360ba4e0eba29f8dc9d07b11eb536ddf0f3d4d4df58379c88c9cfe81"
+    },
+    "pdf-a2-u8l30-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f36979e64dd6faa7ca3a3d1f012f6bef4e3991100d472bb5fe92db9015ee108e"
+    },
+    "pdf-a2-u8l30-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.330Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "90266e69982c898037ea77d035ba6747a8bf2093719061795f87983b59eeb4e5"
+    },
+    "pdf-a2-u8l31-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.104Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "040ed693b5ab65af3a99c1ece26255888062ddb9ebcc2c212d8575a1cf1d02f0"
+    },
+    "pdf-a2-u8l31-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8e55f0d7f76df1a17d15b9e2b649fffdbf4b1bd33c70e0394b1cef2e6337d336"
+    },
+    "pdf-a2-u8l31-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "4ee530be1c7ca99d1441abd00739aa2e08b3fd094aaa3d86a90a8b2bb9cf01b6"
+    },
+    "pdf-a2-u8l31-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e233a97478b147e5b1ec837a2e606948c89055d9fd0fb2b144443d94f80d6b39"
+    },
+    "pdf-a2-u8l31-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f0b03eac765e08f22af0e220105d8abff199ec5a20406158dd8dcff607139312"
+    },
+    "pdf-a2-u8l31-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "32c6be11e1e4679756d388f19de3c0d3df34f691fc1ddf695467acc033e5bea7"
+    },
+    "pdf-a2-u8l31-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "dbc21b41975530981ec9ef3d5941803540bee9fc00a4b9a3ed0745f285acfedd"
+    },
+    "pdf-a2-u8l31-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a34a18c8a5338d9dac8a535e6734c296be46f2585f60b81bff4f8f5dde214c78"
+    },
+    "pdf-a2-u8l31-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2c97b33df21e01005b5241b9173bc218877d5a94733cf5e2107cd98af723d39a"
+    },
+    "pdf-a2-u8l31-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "80a101ef8d536a816241fd2bfbb9434b7b4e406ca8fb8a9f04a45a1b1ae1beb7"
+    },
+    "pdf-a2-u8l31-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "51ecff76e9342f6086cae6ef7038f03798ded5a5e655357af2f72915e4034a58"
+    },
+    "pdf-a2-u8l32-011": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "80239661e93a37df57c669dc69b6ac2abbdeac5b4b7253736e2f14a4ef588aec"
+    },
+    "pdf-a2-u8l32-012": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bf0230e1c904192e04e3ec22989ca38388b1cc1193be747da137a26f3924ef37"
+    },
+    "pdf-a2-u8l32-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "19d425d5225bef0e28ed1f25e3278a3a0ed3fc43a20d87a9c435fa0b620ff1fc"
+    },
+    "pdf-a2-u8l32-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "27fd851c3badc3d8b54ce644b11261024b4017b42fd1640d5a93258616a03f79"
+    },
+    "pdf-a2-u8l32-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e903c0b655f13cc891f8ffbab57b1bb9fead4e9a540781bec44d28ede7cc6440"
+    },
+    "pdf-a2-u8l32-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:13:01.105Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e786c9e5df961728336c6f805a5853dbdfeac32b53ff9efa9bbda059cf5e967c"
+    },
+    "pdf-a2-u8l32-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "010f2adfec60a663be869d47ce644947f113c782675a10c25ad578bc08fb9ab4"
+    },
+    "pdf-a2-u8l32-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f4e4fab923cc892ba226015cb05de3d52b9f118f7cd549167f1cbb1e58999d20"
+    },
+    "pdf-a2-u8l32-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "258069d57fceba89b24e3a3a8d8549d54a936f0665c87e3b5d965e1cfae8cd7e"
+    },
+    "pdf-a2-u8l32-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6ab1f627e425b2ba1fac1e913705747b1221a95603401552bae2b70f128e753f"
+    },
+    "pdf-a2-u8l32-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "5c276bfad45f5fd39b0b8a059d1f953758966a3916eedc58689aa8144f27831b"
+    },
+    "pdf-a2-u8l32-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1b113aa73fa04d8c64bb54243f9c141f187e1343845f297480c9e8ff490f814d"
+    },
+    "pdf-a2-u8l32-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2f84c9d4c38d1e122271cf0fa0b2fd595ba2a327d2a07970db8d8d63d6e8ca8a"
+    },
+    "pdf-a2-u8l32-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f7bc56c1e565c6f248a421bf9af805e34157bec71c7540c27818fe648848db97"
+    },
+    "pdf-a2-u8l32-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "82032a6ab35a314b4e7ea57a32bbce1676a878e17422069f19d28e01a3623a36"
+    },
+    "pdf-a2-u8l32-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "15b0f93c811f4a54874aea8afd3d22d0275d7ddc0896ae63860f2b327a50b32c"
+    },
+    "pdf-a2-u8l32-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "b1a6277b35bcc63b689f798bff6341e0b684ab2dc2b11cf6d0e2679acc195717"
+    },
+    "pdf-a2-u8l32-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "6fd774f2fc7d40a955c06470bc469b8b4a986e9f88dcdda2fef627b56c68dcf1"
+    },
+    "pdf-a2-u8l32-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.331Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f6e5c3fe93ac47f47b8d82c1074deb07ec501e599ec3c57599d7129f27ec63be"
+    },
+    "pdf-a2-u9l33-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2330c762fac08845c43ceb065f9624e1cad07f6445e8f93b4e5b9bae9b8e6ebc"
+    },
+    "pdf-a2-u9l33-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "24e8ecbfaa5645c4ba8b885f55d93fa57bd3b3d8a8da25f3ff01a379a3437b56"
+    },
+    "pdf-a2-u9l33-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "016a5cfdfcd9be4a89b238f56dce2b1ec00d6353b7bb43835095417dd84268a5"
+    },
+    "pdf-a2-u9l33-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "2f54d8441d582bd3327335633ddf74cc57650804b201aac7c3fafb7e20865275"
+    },
+    "pdf-a2-u9l33-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "265d79393540aae03d73996f9b8105eb62777b0fa53a6f07149c9ce203764f0b"
+    },
+    "pdf-a2-u9l33-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "43f19cbb11b3b08583a4a267eea84c133108ef2d0c9725f5b2cb422a33a0de32"
+    },
+    "pdf-a2-u9l33-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a7143195a02db8106a2acac615d1b8f43591260c5e582fc4908d75ff4ebf0ef2"
+    },
+    "pdf-a2-u9l33-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "473b44bf0b8ff4de242ab77e1a56bcc1fef370527d779d73fa86aa3da6257419"
+    },
+    "pdf-a2-u9l34-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0a05ec4d94e17bc81c00d454de0bb8f03e1213fd8eb4281d59d54fe99f71a7d4"
+    },
+    "pdf-a2-u9l34-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c64e52859390f6de42cf6323c749b828ee5209f32d9f81d173204ff158414942"
+    },
+    "pdf-a2-u9l34-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "c209b6fe92147b6c847f1c6921747bea816f169ac2f9bfcdfdc5b0955f42a8c6"
+    },
+    "pdf-a2-u9l34-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "e9c63abbf597d5ec6cd8ef9bb6b81def9611ddfcfddd42406166b8e2f773ba5a"
+    },
+    "pdf-a2-u9l34-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3d6bd2f393a11cbcb959f0d71df3b25a8c29ccc2f7ba6849b74ee73d96ab5a0c"
+    },
+    "pdf-a2-u9l34-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "8afb0017f97f1f87ab7a140beeb18df33c1a12e28b6d447a450b9869b90c173a"
+    },
+    "pdf-a2-u9l34-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "72304ac8e8447c37a05444afca07438ceefca0ab2bd11f66338587a0ceb6b3aa"
+    },
+    "pdf-a2-u9l34-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3234d56f5ac782a2a6f8788beb0aa27c1d5873db68c3c00cffe029f3f4e077d5"
+    },
+    "pdf-a2-u9l34-023": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "50bdb14d59058d691c3883e6f176445b35b52461964ce626d43817beaa4ceb39"
+    },
+    "pdf-a2-u9l34-024": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.332Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9e872dc5e3db608420d8c044b9d98eb017a8a7721ec50728479625ea5e64b02a"
+    },
+    "pdf-a2-u9l34-025": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a053a14dfb4298595ab8e159353263107bbfaaa96e2d301c8abf36bc859e56d4"
+    },
+    "pdf-a2-u9l34-026": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "616450c39a1b701e3bbc481561956c68ca28e9284bed527bdcc86f5c7f929688"
+    },
+    "pdf-a2-u9l34-027": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d42abb3736273cca25fe2c9d59184cc904070577618120a60626a5d822c92173"
+    },
+    "pdf-a2-u9l34-028": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9393252e729231a21baf186ee269a9e6b7fc4b621bf9cbee6dea5cc521e952ea"
+    },
+    "pdf-a2-u9l34-029": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d3b3ddc09fe95b982ad6b86df814369a4e5d828e5033827f5712dbb0b01417cf"
+    },
+    "pdf-a2-u9l34-030": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "78779aa3f098f4ef9f7d8ca3a8f2e2722fc648ff3777cb4c4a0b9673401e0530"
+    },
+    "pdf-a2-u9l34-031": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f57e43cf01f86e7f4231e094c9086306b49ad6a590910acafe039170a64c79cb"
+    },
+    "pdf-a2-u9l34-032": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "9a0f5f5391428249c0292e7fce29465da454428c12b3bd5795fbdc67bb6a8222"
+    },
+    "pdf-a2-u9l34-033": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bd9b2ede57f2168164d58e80e6cca8b558ae90207b50e464f19671476c425070"
+    },
+    "pdf-a2-u9l34-034": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "483b3181823e1beb714c35fe752249ed22b96d8bc68084a7e6e5f807ff1c35ce"
+    },
+    "pdf-a2-u9l34-035": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "677de3440f23081b34ba735259467ae931776fc48e52aaae4e84ff6855cbdfc2"
+    },
+    "pdf-a2-u9l34-036": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "077d9d93bc5c3554ad4ebed0434849d58e2fe59f6bdd5c2a144318c7435fe6e9"
+    },
+    "pdf-a2-u9l34-037": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "1eb5476bb76309b6593fcd14b249194ce7f6502f5429a7edf9b2c30e366ea18d"
+    },
+    "pdf-a2-u9l34-038": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "791872f23b7a9e4486cbf277d1c5fee9eac6635b3cb49a7c78c51db1e0c765cb"
+    },
+    "pdf-a2-u9l35-013": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a8f999d6c6e6e7a37bc67afaa99952218b37edea0906156f421271f385471e84"
+    },
+    "pdf-a2-u9l35-014": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "d9bd6af39e67681aef72ad3136badefe9f04c8999d4b831713e101ec40115caf"
+    },
+    "pdf-a2-u9l35-015": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "889da1bac9ebe73d217e4e576df37cd10e8edf2bec7ebaf6fe6580917cc7dd8f"
+    },
+    "pdf-a2-u9l35-016": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "65b24e771d97abca1140f828e62b96fcee9dae319e2d4326fedf971f51578f06"
+    },
+    "pdf-a2-u9l35-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "cc5abccb66dbc5e3c8941033c6177d5d1af67e1a4af228645c6a8efa49fc076b"
+    },
+    "pdf-a2-u9l35-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "0fbc6e9016a467286f410370f552fd3f937f6a9455f9f1ccbde5aacbed3a153a"
+    },
+    "pdf-a2-u9l35-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "bfbfe99cfa18fc9c7138df0c007ba50dff469fa26fa0b104cc2a0c2f6b19cbc2"
+    },
+    "pdf-a2-u9l35-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "01c991cf84183cbca4335b8f5e6eb593497645b6d6a6b08ea2aeb0ab17387ec2"
+    },
+    "pdf-a2-u9l35-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "77923fbe55a84981d857282b244000f568177301a54a1f78b9d63c1e2ca8c94e"
+    },
+    "pdf-a2-u9l35-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.333Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "f65192543c553298f756d518b0f5b91b10dfd566a60b5c645931d4c0adb09e78"
+    },
+    "pdf-a2-u9l36-017": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "fb29844a792e1ca0c0eace010bf1d4698c9628c375b6f34705ef51f3d580e874"
+    },
+    "pdf-a2-u9l36-018": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "3bea57d8800431500f9cb79e72d0e8672505ed88c154285c5aff2ce6d8f0b59a"
+    },
+    "pdf-a2-u9l36-019": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "a4590d23df70d46cf701ad743a4a8d8eb44211552597c0d17b9a10b91106efcd"
+    },
+    "pdf-a2-u9l36-020": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "573dccf772592ef20d5f21410b302cb7073868646eaebd6c3dda79eb50baaba5"
+    },
+    "pdf-a2-u9l36-021": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "45d1ce176a3bc01d9d3883e53e6e4bf14cab41a8dcf2d2e32389c1df62b05126"
+    },
+    "pdf-a2-u9l36-022": {
+      "status": "approved",
+      "reviewerType": "human",
+      "reviewedAt": "2026-08-15T13:12:26.334Z",
+      "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+      "contentHash": "33e30ce22d8d7da63ea656a5c3306ad5a28172cdec98ee66c392fc3c6bcad869"
     }
   },
-  "approvedEntries": 1432
+  "approvedEntries": 1851
 }

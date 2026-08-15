@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u5l18",
-  "generatedAt": "2026-08-13T08:58:31.452Z",
+  "generatedAt": "2026-08-15T13:13:00.868Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -119,21 +119,21 @@
     },
     {
       "entryId": "entry-1185",
-      "exampleFr": "Il répond différemment diferamà.",
-      "exampleZh": "他不同地回答。",
+      "exampleFr": "Le terme « différemment » signifie ici « 不同地 ».",
+      "exampleZh": "这里的“différemment”表示“不同地”。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.196Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "e61516facd19c74d9c38471d3df1a7913f7578591167118f893e72cbfb7cdb73"
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "aeadd434a5202f54e3be01b94b6abbc683c2f7ae7d03e2608a39dd4190f87983"
       }
     },
     {
@@ -267,6 +267,253 @@
         "reviewedAt": "2026-08-13T09:24:26.196Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "2020fd282c39ff1f8f4616f317716e24fead21e5c075554634f7922b4d4debde"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-015",
+      "exampleFr": "Le terme « occuper » signifie ici « 关心 ».",
+      "exampleZh": "这里的“occuper”表示“关心”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.096Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "91aca2207dd8b94aafbd313489a2e184294ea98321a445420e26a72229dc6608"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-016",
+      "exampleFr": "Le terme « partiel » signifie ici « 部分的 ».",
+      "exampleZh": "这里的“partiel”表示“部分的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1b785cc77c3cb1c02d4cc1903f659960ef67099bc8491e80b79f43db371a08e7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-017",
+      "exampleFr": "Le terme « à temps partiel » signifie ici « 半日制 ».",
+      "exampleZh": "这里的“à temps partiel”表示“半日制”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d8c768bf6a91b2acdc6273ecf3134c027a20ebbb84b71b487aeb08ac75c65594"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-018",
+      "exampleFr": "Le terme « Pays-Bas » signifie ici « 荷兰 ».",
+      "exampleZh": "这里的“Pays-Bas”表示“荷兰”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "7ed8c73e3aa5bf4ebc7d0f5c60cfa1b565b06f91305ef3f6b526577e1e516b56"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-019",
+      "exampleFr": "Le terme « petit » signifie ici « 幼小的 ».",
+      "exampleZh": "这里的“petit”表示“幼小的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e1fa82c49abec971ba742a369735b76468e14e851d18803fc4baf883623fd637"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-020",
+      "exampleFr": "Le terme « réaction » signifie ici « 〈转〉反应 ».",
+      "exampleZh": "这里的“réaction”表示“〈转〉反应”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1b870f3283e9d211988a0c88ee787d12619b2969bb2c56321064f202b669f70d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-021",
+      "exampleFr": "Le terme « réagir » signifie ici « （对……）作出反应（动词变位同 agrandir） ».",
+      "exampleZh": "这里的“réagir”表示“（对……）作出反应（动词变位同 agrandir）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e6c87a4f6c9dffe23af3aab029bd8c04adfd18b839ffbc2c815f86fdca631611"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-022",
+      "exampleFr": "Le terme « situation » signifie ici « 处境 ».",
+      "exampleZh": "这里的“situation”表示“处境”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "df5bd06482f37092d33ada74854c36a4d0303102fa56713e05e27daac80f72fe"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-023",
+      "exampleFr": "Le terme « solution » signifie ici « 解答 ».",
+      "exampleZh": "这里的“solution”表示“解答”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c20cba2a54a6eece84d1457081fcaa772437b0d4410e3b0a8c81a6f3aebb26c6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-024",
+      "exampleFr": "Le terme « Suède » signifie ici « 瑞典 ».",
+      "exampleZh": "这里的“Suède”表示“瑞典”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f5e79acc8b8b74e85665ea7c32aafacc8887106d52dbc62c10bf496a07cb8056"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-025",
+      "exampleFr": "Le terme « surpris » signifie ici « 惊讶的 ».",
+      "exampleZh": "这里的“surpris”表示“惊讶的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "428343024b2b6ecbb71f0c57b3045ae9ba4e0586c5c99e09e33da6ea44c81210"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-026",
+      "exampleFr": "Le terme « surprise » signifie ici « 令人惊奇的事物 ».",
+      "exampleZh": "这里的“surprise”表示“令人惊奇的事物”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c0091e96a48e2a44dac1f210d5d0b3a312507b9952f58504630192e59959e200"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l18-027",
+      "exampleFr": "Le terme « travailleur » signifie ici « 劳动者 ».",
+      "exampleZh": "这里的“travailleur”表示“劳动者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.321Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "47c45e24a81ce802ea2d588793f4506e22c3bc71653b476686d1dec1a018eade"
       }
     }
   ]

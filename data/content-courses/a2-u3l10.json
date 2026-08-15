@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u3l10",
-  "generatedAt": "2026-08-13T08:58:31.446Z",
+  "generatedAt": "2026-08-15T13:13:00.860Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,196 @@
         "reviewedAt": "2026-08-13T09:24:26.187Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "7b228fc4e68d2572d64fd74b51066a61fb31e0e1ae5dad292b4ef4ef3595286f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-015",
+      "exampleFr": "Le terme « millier » signifie ici « 千 ».",
+      "exampleZh": "这里的“millier”表示“千”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "da3b50988093edea4510e177936f072ca237f379d3f6a84ca9957288c5d7cce2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-016",
+      "exampleFr": "Le terme « pff » signifie ici « 呸 ».",
+      "exampleZh": "这里的“pff”表示“呸”。",
+      "usageNote": "感叹词；常单独使用，语气取决于具体情境。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a404d3854bab8a37eb005e11523931e97ee5d3d5e4ffa9f427f69403639a39b7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-017",
+      "exampleFr": "Le terme « plus » signifie ici « 更多 ».",
+      "exampleZh": "这里的“plus”表示“更多”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "47e0e89e4eb4574c4f28d9dcac0ee36961a0d145be2512ee4283f894e7b4fc35"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-018",
+      "exampleFr": "Le terme « plus de » signifie ici « 更多的…… ».",
+      "exampleZh": "这里的“plus de”表示“更多的……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dfbb750b454bcd09b9ff20bfb8f4467d62b92791ae7291cb6bf71ad234754558"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-019",
+      "exampleFr": "Le terme « station » signifie ici « 车站 ».",
+      "exampleZh": "这里的“station”表示“车站”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fd629790e1d55648f014aaa501b5fa46ca515285a9cfbb2aa86b540d75fa4c11"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-020",
+      "exampleFr": "Le terme « supplémentaire » signifie ici « 增补的 ».",
+      "exampleZh": "这里的“supplémentaire”表示“增补的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "518e3c784ca14a7fa9b903c25c89304ae5489b19a5330c21c0ca1305b82fab64"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-021",
+      "exampleFr": "Le terme « système » signifie ici « 系统 ».",
+      "exampleZh": "这里的“système”表示“系统”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "537ddfab2fb2428c45303e3dde2e89477737c1a0150632186a286914a9538ceb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-022",
+      "exampleFr": "Le terme « transports » signifie ici « 交通运输行业 ».",
+      "exampleZh": "这里的“transports”表示“交通运输行业”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4fee4e5ec40e6961cc921eef5866595b8fc3ed31a209aec3f34235b31f14cfb4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-023",
+      "exampleFr": "Le terme « transports en commun » signifie ici « 公共交通 ».",
+      "exampleZh": "这里的“transports en commun”表示“公共交通”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0fed62f9e987ad5b764b51615e39cb84594c54fc36a41e04b8aeab52d0407c4f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l10-024",
+      "exampleFr": "Le terme « utilisation » signifie ici « 利用 ».",
+      "exampleZh": "这里的“utilisation”表示“利用”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a295501aa0927c02b9254d515d9cb278b1de2cbb96fe8a8dec6d6f40b9e45875"
       }
     }
   ]

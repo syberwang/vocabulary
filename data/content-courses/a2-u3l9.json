@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u3l9",
-  "generatedAt": "2026-08-13T08:58:31.445Z",
+  "generatedAt": "2026-08-15T13:13:00.860Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -191,6 +191,177 @@
         "reviewedAt": "2026-08-13T09:24:26.186Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "b70f8d4f4c9f1b1cfbddf38987caef3e8d38506ceae88586888110713bb68ecf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-011",
+      "exampleFr": "Le terme « endroit » signifie ici « 地方 ».",
+      "exampleZh": "这里的“endroit”表示“地方”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4a15cff997db631ad666269d355dc22a1f2082039df1324363b35b7b464addde"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-012",
+      "exampleFr": "Le terme « locataire » signifie ici « 房客 ».",
+      "exampleZh": "这里的“locataire”表示“房客”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "27f41ca45616d0da617aecbd51acd1bdba4224df4fe6d175e45a7bc39628ea22"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-013",
+      "exampleFr": "Le terme « logement » signifie ici « 住宅 ».",
+      "exampleZh": "这里的“logement”表示“住宅”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cf87cc3d6a562bf1efed3d315732ac510eaf352d88b3b2936e5fc534f7f710af"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-014",
+      "exampleFr": "Le terme « luminosité » signifie ici « 明亮 ».",
+      "exampleZh": "这里的“luminosité”表示“明亮”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d3d5383e2df74d7e2e7b72b7c3d50530473fa370755c2399186cfe9e9761c49b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-015",
+      "exampleFr": "Le terme « Nantes » signifie ici « 南特（法国城市） ».",
+      "exampleZh": "这里的“Nantes”表示“南特（法国城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4a655fe87052218841b2d3d1c5138ee99f2df6decdff89227e5083a61b3867a2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-016",
+      "exampleFr": "Le terme « propriétaire » signifie ici « 所有者 ».",
+      "exampleZh": "这里的“propriétaire”表示“所有者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ef6af3524c9068a8a50713dd477308a608997bf8daa1c2bafdfc156cbd56a0ca"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-017",
+      "exampleFr": "Le terme « satisfait » signifie ici « 满意的 ».",
+      "exampleZh": "这里的“satisfait”表示“满意的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "50b0065ecff584fdbb2c7904be333673a3c2b095a97c8a6d6a9519759000392f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-018",
+      "exampleFr": "Le terme « situé » signifie ici « 位于……的 ».",
+      "exampleZh": "这里的“situé”表示“位于……的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b1e9e1fb4e8a3e3be495a46fd941b48ee4350ee140375383dd73aa558a6d4611"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l9-019",
+      "exampleFr": "Le terme « taille » signifie ici « 尺寸 ».",
+      "exampleZh": "这里的“taille”表示“尺寸”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5b46c219fec65a58caf90b3d6e4e51a0af0c7136a952d08ca590d4785b58e743"
       }
     }
   ]

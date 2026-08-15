@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u8l31",
-  "generatedAt": "2026-08-13T08:58:31.461Z",
+  "generatedAt": "2026-08-15T13:13:00.875Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,215 @@
         "reviewedAt": "2026-08-13T09:24:26.212Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "a6838cdcbcf3cd55e493839c69af3250c573114cfa18493312ddf6b324497d5d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-015",
+      "exampleFr": "Le terme « Parthénon » signifie ici « 希腊雅典的帕特农神庙 ».",
+      "exampleZh": "这里的“Parthénon”表示“希腊雅典的帕特农神庙”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.104Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "040ed693b5ab65af3a99c1ece26255888062ddb9ebcc2c212d8575a1cf1d02f0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-016",
+      "exampleFr": "Le terme « Pise » signifie ici « 比萨（意大利中西部城市） ».",
+      "exampleZh": "这里的“Pise”表示“比萨（意大利中西部城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8e55f0d7f76df1a17d15b9e2b649fffdbf4b1bd33c70e0394b1cef2e6337d336"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-017",
+      "exampleFr": "Le terme « planète » signifie ici « 行星 ».",
+      "exampleZh": "这里的“planète”表示“行星”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4ee530be1c7ca99d1441abd00739aa2e08b3fd094aaa3d86a90a8b2bb9cf01b6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-018",
+      "exampleFr": "Le terme « prendre » signifie ici « 记录 ».",
+      "exampleZh": "这里的“prendre”表示“记录”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e233a97478b147e5b1ec837a2e606948c89055d9fd0fb2b144443d94f80d6b39"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-019",
+      "exampleFr": "Le terme « P.-S. » signifie ici « 〈拉〉Post-Scriptum 的缩写形式 ».",
+      "exampleZh": "这里的“P.-S.”表示“〈拉〉Post-Scriptum 的缩写形式”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f0b03eac765e08f22af0e220105d8abff199ec5a20406158dd8dcff607139312"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-020",
+      "exampleFr": "Le terme « regard » signifie ici « 目光 ».",
+      "exampleZh": "这里的“regard”表示“目光”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "32c6be11e1e4679756d388f19de3c0d3df34f691fc1ddf695467acc033e5bea7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-021",
+      "exampleFr": "Le terme « Rome » signifie ici « 罗马（意大利首都） ».",
+      "exampleZh": "这里的“Rome”表示“罗马（意大利首都）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dbc21b41975530981ec9ef3d5941803540bee9fc00a4b9a3ed0745f285acfedd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-022",
+      "exampleFr": "Le terme « short » signifie ici « 短运动裤 ».",
+      "exampleZh": "这里的“short”表示“短运动裤”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a34a18c8a5338d9dac8a535e6734c296be46f2585f60b81bff4f8f5dde214c78"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-023",
+      "exampleFr": "Le terme « surprenant » signifie ici « 出人意料的 ».",
+      "exampleZh": "这里的“surprenant”表示“出人意料的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2c97b33df21e01005b5241b9173bc218877d5a94733cf5e2107cd98af723d39a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-024",
+      "exampleFr": "Le terme « touriste » signifie ici « 旅行者 ».",
+      "exampleZh": "这里的“touriste”表示“旅行者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "80a101ef8d536a816241fd2bfbb9434b7b4e406ca8fb8a9f04a45a1b1ae1beb7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l31-025",
+      "exampleFr": "Le terme « Venise » signifie ici « 威尼斯（意大利东北部文化古都） ».",
+      "exampleZh": "这里的“Venise”表示“威尼斯（意大利东北部文化古都）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "51ecff76e9342f6086cae6ef7038f03798ded5a5e655357af2f72915e4034a58"
       }
     }
   ]

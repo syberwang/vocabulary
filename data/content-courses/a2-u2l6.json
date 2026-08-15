@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u2l6",
-  "generatedAt": "2026-08-13T08:58:31.442Z",
+  "generatedAt": "2026-08-15T13:13:00.857Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -62,21 +62,21 @@
     },
     {
       "entryId": "entry-1024",
-      "exampleFr": "Léa dit : « cool [kul. »",
-      "exampleZh": "蕾雅说：“洒脱的。”",
-      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "exampleFr": "Le terme « cool » signifie ici « 洒脱的 ».",
+      "exampleZh": "这里的“cool”表示“洒脱的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.182Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "7eb16b92d081e6f3fc235b0d5935f5435b21218b0867a1bb5f96d5417fa86a95"
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "67571751fd4e709f513f3ea94c5ab67160472d07d0514a6a6b61cfb719053996"
       }
     },
     {
@@ -229,6 +229,215 @@
         "reviewedAt": "2026-08-13T09:24:26.182Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "807048678d8d418457cb7ee7304c378cb8bb61dc2a1b3c94d099abe9a82fd79b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-013",
+      "exampleFr": "Le terme « partout » signifie ici « 到处 ».",
+      "exampleZh": "这里的“partout”表示“到处”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "22505978758210e0d8f0e5d0990d6c7a7c18077fb27a9c4af024592e9181ba9c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-014",
+      "exampleFr": "Le terme « personnalité » signifie ici « 个性 ».",
+      "exampleZh": "这里的“personnalité”表示“个性”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4cb79ff33ff883ac5ed54fa7f7f70c48c6614740ee1b5b140b6021b9f45acb18"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-015",
+      "exampleFr": "Le terme « piercing » signifie ici « 〈英〉为戴首饰的穿刺 ».",
+      "exampleZh": "这里的“piercing”表示“〈英〉为戴首饰的穿刺”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9c0bb2b05fcefbedef8ccddea990c07d6d19e63fc5be483cb327e13efcacc0dc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-016",
+      "exampleFr": "Le terme « question » signifie ici « 问题 ».",
+      "exampleZh": "这里的“question”表示“问题”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0ea1f8bfc3bb69771ac8844a1dcc4b5a839d0207d41ca9dd6e804724ac7465e4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-017",
+      "exampleFr": "Le terme « question de + n. » signifie ici « 〈俗〉关于…… ».",
+      "exampleZh": "这里的“question de + n.”表示“〈俗〉关于……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5e2cd5714d9688f613093016557c2525c677e3a8dc22237b0eb74904cbf9bf48"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-018",
+      "exampleFr": "Le terme « slogan » signifie ici « 标语 ».",
+      "exampleZh": "这里的“slogan”表示“标语”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "779640138143b1cbcdb6fe2c5e7e98d6e0a9b6bd22704deecf64b36d09923673"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-019",
+      "exampleFr": "Le terme « spécialement » signifie ici « 专门 ».",
+      "exampleZh": "这里的“spécialement”表示“专门”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cd199f78f2973a18b6d6b1bfc33e6e92d32afa36ddb9d6d9682506ebd652bd80"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-020",
+      "exampleFr": "Le terme « surf » signifie ici « 〈英〉冲浪运动 ».",
+      "exampleZh": "这里的“surf”表示“〈英〉冲浪运动”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f1823f21e2c07fb4226dcb68e663e7a4cfd5a495d7a6772d444035cb597756f2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-021",
+      "exampleFr": "Le terme « surfeur » signifie ici « 冲浪运动者 ».",
+      "exampleZh": "这里的“surfeur”表示“冲浪运动者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fa983fbca0ca16cc1e47591d04bbab1cf5141e1115557e92a8e52d03aecafc34"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-022",
+      "exampleFr": "Le terme « tatouage » signifie ici « （皮肤上的）刺花纹 ».",
+      "exampleZh": "这里的“tatouage”表示“（皮肤上的）刺花纹”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "232f44bb3474c8b4f9156ce0c526de18be036ed4e844e571c7045207e8889918"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l6-023",
+      "exampleFr": "Le terme « vestimentaire » signifie ici « 衣着的 ».",
+      "exampleZh": "这里的“vestimentaire”表示“衣着的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.311Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b8814955ad34599ec7578f4df2564c958e8ed76ce8dea3794846ffb84b175533"
       }
     }
   ]

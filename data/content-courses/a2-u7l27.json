@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u7l27",
-  "generatedAt": "2026-08-13T08:58:31.459Z",
+  "generatedAt": "2026-08-15T13:13:00.873Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,348 @@
         "reviewedAt": "2026-08-13T09:24:26.207Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "1a33243b370dbbd68cedf2bbb0050a78c943d4d9a3cb330d3ca0c01630e370dd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-015",
+      "exampleFr": "Le terme « fréquenter » signifie ici « 常去 ».",
+      "exampleZh": "这里的“fréquenter”表示“常去”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fad2bd8dfa6aec88e1570846bda25fa4c8ac8a89997553cc338733c435407246"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-016",
+      "exampleFr": "Le terme « gouvernement » signifie ici « 政府 ».",
+      "exampleZh": "这里的“gouvernement”表示“政府”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "7725025e5518fa4482c36f99cab2925198c6329d8a8abd5b9c4ea0f233db8157"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-017",
+      "exampleFr": "Le terme « informer » signifie ici « 搜集情况 ».",
+      "exampleZh": "这里的“informer”表示“搜集情况”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "416a996a276177e6284fe2e36324ae19d6e45cdc8f765a07ab27d8cb8655d77e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-018",
+      "exampleFr": "Le terme « journal télévisé » signifie ici « 电视新闻 ».",
+      "exampleZh": "这里的“journal télévisé”表示“电视新闻”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a232f45190b385994d3a1ed56f8d87b70ee47861f8e6c0075653d95609796348"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-019",
+      "exampleFr": "Le terme « kiosque » signifie ici « 凉亭 ».",
+      "exampleZh": "这里的“kiosque”表示“凉亭”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d4980e6b03cfb0b3e33ab2d4c157f978a12b0bf9827e20f6d689c0b8e2674531"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-020",
+      "exampleFr": "Le terme « kiosque » signifie ici « 报亭 ».",
+      "exampleZh": "这里的“kiosque”表示“报亭”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.102Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "56ae85031a82766f7f8e0aaadd2ab35281f0f15b5c9c8a2392c746373091a892"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-021",
+      "exampleFr": "Le terme « lister » signifie ici « 把……列成表 ».",
+      "exampleZh": "这里的“lister”表示“把……列成表”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1e555f90a8f3a3413e5f61627f7cfe6b1b50421f334b7ad8ea4bd844b3cb1898"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-022",
+      "exampleFr": "Le terme « médias » signifie ici « 〈美〉大众传播媒介 ».",
+      "exampleZh": "这里的“médias”表示“〈美〉大众传播媒介”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "502241c19444c55c4651a7adefff57d0e9a4005ea3699205e60b6223e1d1790d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-023",
+      "exampleFr": "Le terme « montrer » signifie ici « 表明 ».",
+      "exampleZh": "这里的“montrer”表示“表明”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9b25763c2a5ab87dbd8673f4a5e36e61fb1101c25079a1775831a7ae30ccb44a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-024",
+      "exampleFr": "Le terme « par » signifie ici « （表示时间 ».",
+      "exampleZh": "这里的“par”表示“（表示时间”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "09677c51866f43f09c7152adaa034b8f4fba93607582cf61d8f85e0ace55b5c1"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-025",
+      "exampleFr": "Le terme « par tous les temps » signifie ici « 在所有天气状况下 ».",
+      "exampleZh": "这里的“par tous les temps”表示“在所有天气状况下”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5aeb809722939fa65341a429ef7056e1a75c666286506665d0a9d3a50122a461"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-026",
+      "exampleFr": "Le terme « présent » signifie ici « 在场的 ».",
+      "exampleZh": "这里的“présent”表示“在场的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fecd7b29dba688db8b456c07332bdf8f4d2c32db9ff08a18e6999cb945fffee0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-027",
+      "exampleFr": "Le terme « proposition » signifie ici « 提议 ».",
+      "exampleZh": "这里的“proposition”表示“提议”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "06cd7fe54f3ce4d6085c57451eb6e89e470ac7d6ddc33de7a93f4a69482015b3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-028",
+      "exampleFr": "Le terme « rapport » signifie ici « 报告 ».",
+      "exampleZh": "这里的“rapport”表示“报告”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d9c6d1af5b11b9a22791e301daba53aa553a0f0965b63d16d1d809d2233a5dbd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-029",
+      "exampleFr": "Le terme « ridicule » signifie ici « 可笑的 ».",
+      "exampleZh": "这里的“ridicule”表示“可笑的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "52f6d9139f412016e157cbc1d476e517f45e187b732eee4f4b3cebb8b50925cf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-030",
+      "exampleFr": "Le terme « servir » signifie ici « 为……服务 ».",
+      "exampleZh": "这里的“servir”表示“为……服务”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5b46a3fc1283a28c742ca5fee353c983f27126751e9ab9ffbad99da8b484af91"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-031",
+      "exampleFr": "Le terme « vente » signifie ici « 卖 ».",
+      "exampleZh": "这里的“vente”表示“卖”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fc6d7729b9f14c5e56364730a54d63d6d585bde40f8f3929a2d42ee709219c6c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l27-032",
+      "exampleFr": "Le terme « vie » signifie ici « 〈转〉生命力 ».",
+      "exampleZh": "这里的“vie”表示“〈转〉生命力”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e3dd581f25c4358aee3c4c245cd4327fbf17f51318c246bb63c499ff49fcbada"
       }
     }
   ]

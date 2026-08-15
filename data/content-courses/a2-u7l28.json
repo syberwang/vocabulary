@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u7l28",
-  "generatedAt": "2026-08-13T08:58:31.460Z",
+  "generatedAt": "2026-08-15T13:13:00.873Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -24,21 +24,21 @@
     },
     {
       "entryId": "entry-1320",
-      "exampleFr": "On peut abonner ici.",
-      "exampleZh": "在这里可以订阅。",
+      "exampleFr": "Le terme « abonner » signifie ici « 订阅 ».",
+      "exampleZh": "这里的“abonner”表示“订阅”。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.208Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "2499c43286ee126c39b8eb342121bfdc9e5ffd24407f47d5b8c35f28cd691716"
+        "reviewedAt": "2026-08-15T13:13:01.102Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9965d07ef6c92f02a9369560943eeb453a15cd928667bec44b96872e8b13c803"
       }
     },
     {
@@ -343,6 +343,177 @@
         "reviewedAt": "2026-08-13T09:24:26.208Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "81606ce82ae95d056322c2eba8df0060ec46959829f6b4d0e9871124d89e6b25"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-019",
+      "exampleFr": "Le terme « poche » signifie ici « 衣袋 ».",
+      "exampleZh": "这里的“poche”表示“衣袋”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "abad47b8178cc6d6fb48ae50926642a2b29e0309036fd9716428b8c84eb2bbda"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-020",
+      "exampleFr": "Le terme « point » signifie ici « 点 ».",
+      "exampleZh": "这里的“point”表示“点”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "22eeb2f2c813c2d74821a27435e19f3a5ca40b18be7cb5cb49aa086162485b2c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-021",
+      "exampleFr": "Le terme « première » signifie ici « （戏剧的）首次演出 ».",
+      "exampleZh": "这里的“première”表示“（戏剧的）首次演出”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0c919cbc887b5e3794a5dbb8c9854a62cd469b02db8920faec71576ef694f14a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-022",
+      "exampleFr": "Le terme « revue » signifie ici « 检查 ».",
+      "exampleZh": "这里的“revue”表示“检查”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fb45678350580c1ed1399c0700ff45dbed3dc4ac0adf46f37ce95d5f6acc6530"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-023",
+      "exampleFr": "Le terme « sciences » signifie ici « 自然科学 ».",
+      "exampleZh": "这里的“sciences”表示“自然科学”。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "381be2e5097c37ad05930b8b70e5e1845eae5024e20039b293af852fb0561e7e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-024",
+      "exampleFr": "Le terme « site » signifie ici « 位置 ».",
+      "exampleZh": "这里的“site”表示“位置”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a2b89164bebb469ed9ae3520855fd08ee5b6750c86cbce454d5aa7b1f4978ba3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-025",
+      "exampleFr": "Le terme « star » signifie ici « 明星 ».",
+      "exampleZh": "这里的“star”表示“明星”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "95358ce9277239abd4c78c1e96732250b906728ace33a5336159de7d98740a90"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-026",
+      "exampleFr": "Le terme « vendu » signifie ici « 已出售的 ».",
+      "exampleZh": "这里的“vendu”表示“已出售的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0487c7385fbf7bc47942557ea681dd0ec8d6a253c97c9bd7a34987e7ed8e4a70"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l28-027",
+      "exampleFr": "Le terme « version » signifie ici « 版本 ».",
+      "exampleZh": "这里的“version”表示“版本”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.328Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d96a509b0b0eb0295473820c93ad28ed409e9985edab945d870e90d28d66bfe4"
       }
     }
   ]

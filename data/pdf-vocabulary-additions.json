@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "scope": "A1/A2 每课首页词汇表",
+  "sourceRowRanges": { "A1": 100000, "A2": 200000 },
+  "sourceMethod": "讲义首页词汇表高分辨率逐页核对；详细讲解仅用于校正词形、词性和释义",
+  "reviewNote": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+  "courses": {
+    "a2-u2l5": {
+      "sourcePage": 47,
+      "pdfWordCount": 19,
+      "entries": [
+        { "position": 11, "word": "habitant(e)", "pos": "n.", "zh": "居民" },
+        { "position": 12, "word": "loyer", "pos": "n.m.", "zh": "房租；租金" },
+        { "position": 13, "word": "mécanicien(ne)", "pos": "n.", "zh": "机械师；技工" },
+        { "position": 14, "word": "Montmartre", "pos": "n.pr.", "zh": "蒙马特，位于法国巴黎北部城区" },
+        { "position": 15, "word": "passion", "pos": "n.f.", "zh": "酷爱，迷恋；酷爱物，迷恋物" },
+        { "position": 16, "word": "payer", "pos": "v.t.", "zh": "支付，缴纳；花钱购买；付钱给（某人）；给（某人报酬）" },
+        { "position": 17, "word": "plaisir", "pos": "n.m.", "zh": "乐趣" },
+        { "position": 18, "word": "proposer", "pos": "v.t.", "zh": "建议；推荐" },
+        { "position": 19, "word": "studio", "pos": "n.m.", "zh": "单间公寓，单间套房" }
+      ]
+    },
+    "a2-u2l6": {
+      "sourcePage": 63,
+      "pdfWordCount": 23,
+      "entries": [
+        { "position": 13, "word": "partout", "pos": "adv.", "zh": "到处，各处，处处" },
+        { "position": 14, "word": "personnalité", "pos": "n.f.", "zh": "个性，性格；人格" },
+        { "position": 15, "word": "piercing", "pos": "n.m.", "zh": "〈英〉为戴首饰的穿刺" },
+        { "position": 16, "word": "question", "pos": "n.f.", "zh": "问题，提问；事情，问题" },
+        { "position": 17, "word": "question de + n.", "pos": "loc.", "zh": "〈俗〉关于……" },
+        { "position": 18, "word": "slogan", "pos": "n.m.", "zh": "标语，口号" },
+        { "position": 19, "word": "spécialement", "pos": "adv.", "zh": "专门，特地；特别，尤其" },
+        { "position": 20, "word": "surf", "pos": "n.m.", "zh": "〈英〉冲浪运动" },
+        { "position": 21, "word": "surfeur(se)", "pos": "n.", "zh": "冲浪运动者，冲浪运动员" },
+        { "position": 22, "word": "tatouage", "pos": "n.m.", "zh": "（皮肤上的）刺花纹，文身" },
+        { "position": 23, "word": "vestimentaire", "pos": "adj.", "zh": "衣着的，服装的" }
+      ]
+    },
+    "a2-u2l7": {
+      "sourcePage": 73,
+      "pdfWordCount": 24,
+      "entries": [
+        { "position": 15, "word": "message", "pos": "n.m.", "zh": "信息" },
+        { "position": 16, "word": "organiser", "pos": "v.t.", "zh": "组织；安排；筹备" },
+        { "position": 17, "word": "passer", "pos": "v.t.", "zh": "放映（电影），播放（节目）" },
+        { "position": 18, "word": "Pau", "pos": "n.pr.", "zh": "波城（法国西南部城市）" },
+        { "position": 19, "word": "Pyrénées (les)", "pos": "n.f.pl.", "zh": "比利牛斯山脉" },
+        { "position": 20, "word": "réaliser", "pos": "v.t.", "zh": "实现，实行，完成；建立，制造" },
+        { "position": 21, "word": "région", "pos": "n.f.", "zh": "地区" },
+        { "position": 22, "word": "seul", "pos": "adj.", "zh": "唯一的，独一无二的；单独的" },
+        { "position": 23, "word": "spectacle", "pos": "n.m.", "zh": "演出" },
+        { "position": 24, "word": "suivant(e)", "pos": "adj.", "zh": "下述的，下列的；后面的，随后的" }
+      ]
+    },
+    "a2-u2l8": {
+      "sourcePage": 88,
+      "pdfWordCount": 26,
+      "entries": [
+        { "position": 15, "word": "Pontivy", "pos": "n.pr.", "zh": "蓬蒂维（法国城市，位于莫尔比昂省）" },
+        { "position": 16, "word": "préoccupation", "pos": "n.f.", "zh": "担心，忧虑；首先考虑的事情" },
+        { "position": 17, "word": "racisme", "pos": "n.m.", "zh": "种族主义" },
+        { "position": 18, "word": "réellement", "pos": "adv.", "zh": "实际上，事实上；确实，真正地" },
+        { "position": 19, "word": "Renault", "pos": "n.pr.", "zh": "雷诺汽车；雷诺公司" },
+        { "position": 20, "word": "rêve", "pos": "n.m.", "zh": "梦；梦想；愿望" },
+        { "position": 21, "word": "riche", "pos": "adj.", "zh": "有钱的" },
+        { "position": 22, "word": "riche", "pos": "n.", "zh": "有钱人" },
+        { "position": 23, "word": "science-fiction", "pos": "n.f.", "zh": "科学幻想（小说、电影等）" },
+        { "position": 24, "word": "surfer", "pos": "v.i.", "zh": "进行冲浪运动；上网" },
+        { "position": 25, "word": "tour", "pos": "n.m.", "zh": "周游，环行" },
+        { "position": 26, "word": "vétérinaire", "pos": "n.", "zh": "兽医" }
+      ]
+    },
+    "a2-u3l9": {
+      "sourcePage": 95,
+      "pdfWordCount": 19,
+      "entries": [
+        { "position": 11, "word": "endroit", "pos": "n.m.", "zh": "地方，场所" },
+        { "position": 12, "word": "locataire", "pos": "n.", "zh": "房客，租户，承租人" },
+        { "position": 13, "word": "logement", "pos": "n.m.", "zh": "住宅，住所" },
+        { "position": 14, "word": "luminosité", "pos": "n.f.", "zh": "明亮，光明；亮度" },
+        { "position": 15, "word": "Nantes", "pos": "n.pr.", "zh": "南特（法国城市）" },
+        { "position": 16, "word": "propriétaire", "pos": "n.", "zh": "所有者，物主；房产业主；房东" },
+        { "position": 17, "word": "satisfait(e)", "pos": "adj.", "zh": "满意的，满足的" },
+        { "position": 18, "word": "situé(e)", "pos": "adj.", "zh": "位于……的" },
+        { "position": 19, "word": "taille", "pos": "n.f.", "zh": "尺寸，大小" }
+      ]
+    },
+    "a2-u3l10": {
+      "sourcePage": 109,
+      "pdfWordCount": 24,
+      "entries": [
+        { "position": 15, "word": "millier", "pos": "n.m.", "zh": "千，千数，约千数" },
+        { "position": 16, "word": "pff(t)", "pos": "interj.", "zh": "呸！咳！（表示轻蔑或不在乎）" },
+        { "position": 17, "word": "plus", "pos": "adv.", "zh": "更多；更加" },
+        { "position": 18, "word": "plus de", "pos": "loc.", "zh": "更多的……" },
+        { "position": 19, "word": "station", "pos": "n.f.", "zh": "车站，停车站" },
+        { "position": 20, "word": "supplémentaire", "pos": "adj.", "zh": "增补的，外加的，额外的" },
+        { "position": 21, "word": "système", "pos": "n.m.", "zh": "系统；体系；体制" },
+        { "position": 22, "word": "transports", "pos": "n.m.pl.", "zh": "交通运输行业" },
+        { "position": 23, "word": "transports en commun", "pos": "n.m.pl.", "zh": "公共交通" },
+        { "position": 24, "word": "utilisation", "pos": "n.f.", "zh": "利用，使用" }
+      ]
+    },
+    "a2-u3l11": {
+      "sourcePage": 128,
+      "pdfWordCount": 14,
+      "entries": [
+        { "position": 7, "word": "partie", "pos": "n.f.", "zh": "部分" },
+        { "position": 8, "word": "faire partie de", "pos": "loc.v.", "zh": "是……的一部分，属于" },
+        { "position": 9, "word": "piste", "pos": "n.f.", "zh": "跑道，专用道" },
+        { "position": 10, "word": "piste cyclable", "pos": "n.f.", "zh": "自行车道" },
+        { "position": 11, "word": "tomber", "pos": "v.i.", "zh": "突然成为，突然变得（后接表语）" },
+        { "position": 12, "word": "tomber amoureux(se) (de)", "pos": "loc.v.", "zh": "开始恋爱" },
+        { "position": 13, "word": "tramway", "pos": "n.m.", "zh": "有轨电车" },
+        { "position": 14, "word": "Valenciennes", "pos": "n.pr.", "zh": "瓦朗谢纳（法国城镇）" }
+      ]
+    },
+    "a2-u3l12": {
+      "sourcePage": 140,
+      "pdfWordCount": 23,
+      "entries": [
+        { "position": 13, "word": "lumière", "pos": "n.f.", "zh": "光，光线，日光；灯光；灯，照明器" },
+        { "position": 14, "word": "maximal(e)", "pos": "adj.", "zh": "最大的，最高的" },
+        { "position": 15, "word": "Méditerranée (la)", "pos": "n.pr.", "zh": "地中海" },
+        { "position": 16, "word": "recherche", "pos": "n.f.", "zh": "研究" },
+        { "position": 17, "word": "retenir", "pos": "v.t.", "zh": "记住，记牢（动词变位同 venir）" },
+        { "position": 18, "word": "rose", "pos": "adj.", "zh": "玫瑰红的，粉红色" },
+        { "position": 19, "word": "santé", "pos": "n.f.", "zh": "健康；健康状况；（公共）卫生" },
+        { "position": 20, "word": "séjour", "pos": "n.m.", "zh": "起居室（多用于房产广告中）" },
+        { "position": 21, "word": "spatial(e)", "pos": "adj.", "zh": "宇宙间的，航天的" },
+        { "position": 22, "word": "Thalys", "pos": "n.pr.", "zh": "塔里斯高速列车" },
+        { "position": 23, "word": "Toulouse", "pos": "n.pr.", "zh": "图卢兹（法国南部城市）" }
+      ]
+    },
+    "a2-u4l13": {
+      "sourcePage": 150,
+      "pdfWordCount": 32,
+      "entries": [
+        { "position": 21, "word": "professionnel(le)", "pos": "adj.", "zh": "职业的；专业的" },
+        { "position": 22, "word": "rarement", "pos": "adv.", "zh": "难得，很少地" },
+        { "position": 23, "word": "règle", "pos": "n.f.", "zh": "规则；习惯；规律" },
+        { "position": 24, "word": "régulier(ère)", "pos": "adj.", "zh": "有规则的；合法的" },
+        { "position": 25, "word": "régulièrement", "pos": "adv.", "zh": "有规律地；按时地" },
+        { "position": 26, "word": "résolution", "pos": "n.f.", "zh": "决心；解决" },
+        { "position": 27, "word": "respecter", "pos": "v.t.", "zh": "尊敬；遵守" },
+        { "position": 28, "word": "soi", "pos": "pron.", "zh": "自己" },
+        { "position": 29, "word": "souhaiter", "pos": "v.t.", "zh": "祝愿" },
+        { "position": 30, "word": "se souhaiter", "pos": "v.pr.", "zh": "相互祝愿" },
+        { "position": 31, "word": "timide", "pos": "adj.", "zh": "胆怯的；羞涩的" },
+        { "position": 32, "word": "truc", "pos": "n.m.", "zh": "小窍门；玩意" }
+      ]
+    },
+    "a2-u4l14": {
+      "sourcePage": 166,
+      "pdfWordCount": 34,
+      "entries": [
+        { "position": 15, "word": "fiche", "pos": "n.f.", "zh": "卡，卡片" },
+        { "position": 16, "word": "gras(se)", "pos": "adj.", "zh": "脂肪的，油脂的" },
+        { "position": 17, "word": "laitier(ère)", "pos": "adj.", "zh": "有关乳品的；产乳的" },
+        { "position": 18, "word": "limiter", "pos": "v.t.", "zh": "限制，限定" },
+        { "position": 19, "word": "marche", "pos": "n.f.", "zh": "步行，行走，散步" },
+        { "position": 20, "word": "matière", "pos": "n.f.", "zh": "物质；材料；题材，内容；方面，问题" },
+        { "position": 21, "word": "matières grasses", "pos": "n.f.pl.", "zh": "油脂" },
+        { "position": 22, "word": "nutrition", "pos": "n.f.", "zh": "营养" },
+        { "position": 23, "word": "produit", "pos": "n.m.", "zh": "产品" },
+        { "position": 24, "word": "quotidien(ne)", "pos": "adj.", "zh": "每日的，天天的，日常的；单调平常的" },
+        { "position": 25, "word": "quotidien", "pos": "n.m.", "zh": "日报" },
+        { "position": 26, "word": "au quotidien", "pos": "loc.adv.", "zh": "每天，日常地" },
+        { "position": 27, "word": "rapide", "pos": "adj.", "zh": "快的，迅速的" },
+        { "position": 28, "word": "repère", "pos": "n.m.", "zh": "标记，标志，方位标；地标，标线" },
+        { "position": 29, "word": "sel", "pos": "n.m.", "zh": "盐" },
+        { "position": 30, "word": "selon", "pos": "prép.", "zh": "根据……；按照……" },
+        { "position": 31, "word": "semblable", "pos": "adj.", "zh": "相似的，相像的，相同的" },
+        { "position": 32, "word": "voire", "pos": "adv.", "zh": "甚至" },
+        { "position": 33, "word": "volonté", "pos": "n.f.", "zh": "意志，毅力；意愿，心愿，希望" },
+        { "position": 34, "word": "à volonté", "pos": "loc.adv.", "zh": "随意地" }
+      ]
+    },
+    "a2-u4l15": {
+      "sourcePage": 184,
+      "pdfWordCount": 37,
+      "entries": [
+        { "position": 15, "word": "en fait [fɛt]", "pos": "loc.adv.", "zh": "其实；的确，事实上，实际上" },
+        { "position": 16, "word": "fumeur(se)", "pos": "n.", "zh": "吸烟者" },
+        { "position": 17, "word": "juste", "pos": "adv.", "zh": "只是" },
+        { "position": 18, "word": "obligation", "pos": "n.f.", "zh": "责任，义务；必须，必要" },
+        { "position": 19, "word": "période", "pos": "n.f.", "zh": "时期，阶段" },
+        { "position": 20, "word": "permettre", "pos": "v.t.", "zh": "许可，允许（动词变位同 mettre）" },
+        { "position": 21, "word": "permettre à qn de + inf.", "pos": "loc.v.", "zh": "准许某人做某事" },
+        { "position": 22, "word": "permettre qch à qn", "pos": "loc.v.", "zh": "准许某人（做）某事" },
+        { "position": 23, "word": "personnel(le)", "pos": "adj.", "zh": "个人的，私人的" },
+        { "position": 24, "word": "poids", "pos": "n.m.", "zh": "重量，分量；体重" },
+        { "position": 25, "word": "prendre", "pos": "v.t.", "zh": "具有，呈现；受，接受" },
+        { "position": 26, "word": "prendre du poids", "pos": "loc.v.", "zh": "发胖，长胖" },
+        { "position": 27, "word": "prendre un rendez-vous", "pos": "loc.v.", "zh": "接受一个约会" },
+        { "position": 28, "word": "principalement", "pos": "adv.", "zh": "主要地；尤其，特别" },
+        { "position": 29, "word": "recevoir", "pos": "v.t.", "zh": "收到，得到，领到；遭受；接待，接见，迎接" },
+        { "position": 30, "word": "succès", "pos": "n.m.", "zh": "成功，胜利" },
+        { "position": 31, "word": "tabac", "pos": "n.m.", "zh": "烟草" },
+        { "position": 32, "word": "bureau de tabac", "pos": "n.m.", "zh": "烟草店" },
+        { "position": 33, "word": "thème", "pos": "n.m.", "zh": "主题，题目，专题" },
+        { "position": 34, "word": "trop (de)... pour + n./inf.", "pos": "loc.", "zh": "太……以至于不……" },
+        { "position": 35, "word": "tuer", "pos": "v.t.", "zh": "杀死，致死；〈转〉破坏，有害于；累垮身体，损害健康" },
+        { "position": 36, "word": "valoir", "pos": "v.i.", "zh": "值，价值" },
+        { "position": 37, "word": "il vaut mieux que...", "pos": "loc.v.", "zh": "最好，宁可，还是……好" }
+      ]
+    },
+    "a2-u4l16": {
+      "sourcePage": 209,
+      "pdfWordCount": 29,
+      "entries": [
+        { "position": 15, "word": "mode", "pos": "n.m.", "zh": "形式，方式" },
+        { "position": 16, "word": "mondial(e)", "pos": "adj.", "zh": "世界的，世界性的" },
+        { "position": 17, "word": "nombreux(se)", "pos": "adj.", "zh": "为数众多的；许多" },
+        { "position": 18, "word": "participer (à)", "pos": "v.t.ind.", "zh": "参加，参与" },
+        { "position": 19, "word": "physique", "pos": "adj.", "zh": "物质的，有形的；身体的，肉体的；物理的" },
+        { "position": 20, "word": "politique", "pos": "adj.", "zh": "政治的，政治上的" },
+        { "position": 21, "word": "population", "pos": "n.f.", "zh": "人口，（全体）居民" },
+        { "position": 22, "word": "pratiquer", "pos": "v.t.", "zh": "从事（某种职业），进行（某种活动）" },
+        { "position": 23, "word": "Québec (le)", "pos": "n.pr.", "zh": "魁北克省（加拿大）" },
+        { "position": 24, "word": "raison", "pos": "n.f.", "zh": "理由，原因" },
+        { "position": 25, "word": "rappeler", "pos": "v.t.", "zh": "提醒，使想起" },
+        { "position": 26, "word": "rappeler... à qn", "pos": "loc.v.", "zh": "提醒某人……，使某人想起……" },
+        { "position": 27, "word": "rappeler à qn que...", "pos": "loc.v.", "zh": "提醒某人……，使某人想起……" },
+        { "position": 28, "word": "risque", "pos": "n.m.", "zh": "危险，风险；冒险（活动）" },
+        { "position": 29, "word": "suffisant(e)", "pos": "adj.", "zh": "足够的，充足的" }
+      ]
+    },
+    "a2-u5l17": {
+      "sourcePage": 216,
+      "pdfWordCount": 26,
+      "entries": [
+        { "position": 15, "word": "important(e)", "pos": "adj.", "zh": "大量的，多的" },
+        { "position": 16, "word": "licencier", "pos": "v.t.", "zh": "解雇，辞退" },
+        { "position": 17, "word": "moitié", "pos": "n.f.", "zh": "半，一半；一半左右" },
+        { "position": 18, "word": "passionnant(e)", "pos": "adj.", "zh": "迷人的，着迷的，引人入胜的" },
+        { "position": 19, "word": "perdre", "pos": "v.t.", "zh": "丢失，失去" },
+        { "position": 20, "word": "poste", "pos": "n.m.", "zh": "职位，工作岗位" },
+        { "position": 21, "word": "presque", "pos": "adv.", "zh": "几乎，差不多" },
+        { "position": 22, "word": "représenter", "pos": "v.t.", "zh": "相当于，代表" },
+        { "position": 23, "word": "salaire", "pos": "n.m.", "zh": "工资，薪水" },
+        { "position": 24, "word": "s'en sortir", "pos": "loc.v.", "zh": "应付，脱身" },
+        { "position": 25, "word": "stage", "pos": "n.m.", "zh": "实习期，见习期；培训期" },
+        { "position": 26, "word": "vendeur(se)", "pos": "n.", "zh": "销售者，商贩，摊贩；营业员，售货员，店员" }
+      ]
+    },
+    "a2-u5l18": {
+      "sourcePage": 227,
+      "pdfWordCount": 27,
+      "entries": [
+        { "position": 15, "word": "occuper (s'~ de)", "pos": "v.pr.", "zh": "关心，留意，照顾" },
+        { "position": 16, "word": "partiel(le)", "pos": "adj.", "zh": "部分的，局部的，不完全的" },
+        { "position": 17, "word": "à temps partiel", "pos": "loc.adv.", "zh": "半日制，部分时间制（低于法定周时数的工作时间）" },
+        { "position": 18, "word": "Pays-Bas", "pos": "n.m.pl.", "zh": "荷兰" },
+        { "position": 19, "word": "petit(e)", "pos": "adj.; n.", "zh": "幼小的，年幼的；小孩，子女；家里最小的孩子" },
+        { "position": 20, "word": "réaction", "pos": "n.f.", "zh": "〈转〉反应，反响" },
+        { "position": 21, "word": "réagir", "pos": "v.t.ind.", "zh": "（对……）作出反应（动词变位同 agrandir）" },
+        { "position": 22, "word": "situation", "pos": "n.f.", "zh": "处境，状况，地位；形势，局面" },
+        { "position": 23, "word": "solution", "pos": "n.f.", "zh": "解答，答案；解决办法" },
+        { "position": 24, "word": "Suède", "pos": "n.f.", "zh": "瑞典" },
+        { "position": 25, "word": "surpris(e)", "pos": "adj.", "zh": "惊讶的，惊奇的" },
+        { "position": 26, "word": "surprise", "pos": "n.f.", "zh": "令人惊奇的事物，意想不到的事物；意想不到的礼物，令人惊喜的事" },
+        { "position": 27, "word": "travailleur(se)", "pos": "n.", "zh": "劳动者，工作者" }
+      ]
+    },
+    "a2-u5l19": {
+      "sourcePage": 238,
+      "pdfWordCount": 27,
+      "entries": [
+        { "position": 15, "word": "paraître", "pos": "v.i.", "zh": "出现；出版，发表" },
+        { "position": 16, "word": "parution", "pos": "n.f.", "zh": "出版，问世，发表" },
+        { "position": 17, "word": "plaire (à)", "pos": "v.t.ind.", "zh": "使喜爱，使高兴；（间接宾语省略时）讨人喜欢" },
+        { "position": 18, "word": "presse", "pos": "n.f.", "zh": "出版；出版物；〈集〉报刊；新闻" },
+        { "position": 19, "word": "prix", "pos": "n.m.", "zh": "价格，价钱，物价；奖，奖金，奖品" },
+        { "position": 20, "word": "principal(e) (pl. principaux)", "pos": "adj.", "zh": "主要的，首要的，最重要的" },
+        { "position": 21, "word": "résultats", "pos": "n.m.pl.", "zh": "考试或选举、比赛等的结果，比赛成绩" },
+        { "position": 22, "word": "retrouver(se)", "pos": "v.pr.", "zh": "找回自己" },
+        { "position": 23, "word": "rêver (de qch. / de faire qch.)", "pos": "v.t.ind.", "zh": "梦想；渴望，向往" },
+        { "position": 24, "word": "rire", "pos": "v.i.", "zh": "笑" },
+        { "position": 25, "word": "univers", "pos": "n.m.", "zh": "宇宙，天地万物；全球，全世界；领域，天地，世界" },
+        { "position": 26, "word": "yéyé", "pos": "adj.inv.", "zh": "青年流行歌手的；崇拜和模仿流行歌手的青少年的" },
+        { "position": 27, "word": "yéyé", "pos": "n.inv.", "zh": "青年流行歌手；崇拜和模仿流行歌手的青少年" }
+      ]
+    },
+    "a2-u5l20": {
+      "sourcePage": 255,
+      "pdfWordCount": 32,
+      "entries": [
+        { "position": 1, "word": "Allemagne", "pos": "n.f.", "zh": "德国" },
+        { "position": 6, "word": "carte", "pos": "n.f.", "zh": "菜单" },
+        { "position": 11, "word": "Dublin", "pos": "n.pr.", "zh": "都柏林（爱尔兰首都）" },
+        { "position": 12, "word": "éducatif(ve)", "pos": "adj.", "zh": "教育的" },
+        { "position": 13, "word": "examen", "pos": "n.m.", "zh": "考试" },
+        { "position": 14, "word": "job", "pos": "n.m.", "zh": "〈俗〉短工，零工，临时工作" },
+        { "position": 15, "word": "licence", "pos": "n.f.", "zh": "学士学位" },
+        { "position": 16, "word": "maîtrise", "pos": "n.f.", "zh": "硕士学位" },
+        { "position": 17, "word": "manière", "pos": "n.f.", "zh": "方式，方法" },
+        { "position": 18, "word": "matière", "pos": "n.f.", "zh": "课程，科目" },
+        { "position": 19, "word": "math(s)", "pos": "n.f.pl.", "zh": "〈俗〉数学（mathématiques）" },
+        { "position": 20, "word": "noter", "pos": "v.t.", "zh": "（给……）评分，下评语" },
+        { "position": 21, "word": "obligatoire", "pos": "adj.", "zh": "义务的，强制的，必须遵行的；必然的，不可避免的" },
+        { "position": 22, "word": "particularité", "pos": "n.f.", "zh": "特点，特色，特殊性" },
+        { "position": 23, "word": "physique", "pos": "n.f.", "zh": "物理（学）" },
+        { "position": 24, "word": "plein(e)", "pos": "adj.", "zh": "满的，充满的" },
+        { "position": 25, "word": "plein de (+ n.)", "pos": "loc.prép.", "zh": "充满……的，满是……的" },
+        { "position": 26, "word": "redoublement", "pos": "n.m.", "zh": "留级，重读" },
+        { "position": 27, "word": "rendre", "pos": "v.t.", "zh": "还，归还；交" },
+        { "position": 28, "word": "Stuttgart", "pos": "n.pr.", "zh": "斯图加特（德国城市）" },
+        { "position": 29, "word": "suivre", "pos": "v.t.", "zh": "关注，关照，关心，注意" },
+        { "position": 30, "word": "tolérant(e)", "pos": "adj.", "zh": "宽容的" },
+        { "position": 31, "word": "tutorat", "pos": "n.m.", "zh": "监护制；导师辅导制" },
+        { "position": 32, "word": "York", "pos": "n.pr.", "zh": "约克（英国城市）" }
+      ]
+    },
+    "a2-u6l21": {
+      "sourcePage": 261,
+      "pdfWordCount": 26,
+      "entries": [
+        { "position": 15, "word": "jeu", "pos": "n.m.", "zh": "游戏" },
+        { "position": 16, "word": "lecteur", "pos": "n.m.", "zh": "读者；播放器" },
+        { "position": 17, "word": "lecteur MP3", "pos": "n.m.", "zh": "MP3 播放器" },
+        { "position": 18, "word": "opération", "pos": "n.f.", "zh": "作用；活动；操作，行动；运动" },
+        { "position": 19, "word": "personne", "pos": "pron.; n.f.", "zh": "无人，没有人；人，个人" },
+        { "position": 20, "word": "rapidement", "pos": "adv.", "zh": "快，迅速地" },
+        { "position": 21, "word": "rechercher", "pos": "v.t.", "zh": "仔细寻找，搜索" },
+        { "position": 22, "word": "rien", "pos": "pron.", "zh": "没有什么东西；什么东西都没有" },
+        { "position": 23, "word": "spécialisé(e)", "pos": "adj.", "zh": "专门的；专业的" },
+        { "position": 24, "word": "télécharger", "pos": "v.t.", "zh": "下载（动漫或视频）" },
+        { "position": 25, "word": "vidéo", "pos": "n.f.", "zh": "录像；视频" },
+        { "position": 26, "word": "webcam", "pos": "n.f.", "zh": "（网络）摄像头" }
+      ]
+    },
+    "a2-u6l22": {
+      "sourcePage": 273,
+      "pdfWordCount": 38,
+      "entries": [
+        { "position": 19, "word": "grâce à", "pos": "loc.prép.", "zh": "多亏，幸亏" },
+        { "position": 20, "word": "installer(s')", "pos": "v.pr.", "zh": "呆住，坐定" },
+        { "position": 21, "word": "intérieur", "pos": "n.m.", "zh": "内部；室内" },
+        { "position": 22, "word": "jungle", "pos": "n.f.", "zh": "热带雨林" },
+        { "position": 23, "word": "mémoire", "pos": "n.f.", "zh": "记忆力；记忆" },
+        { "position": 24, "word": "de mémoire", "pos": "loc.adv.", "zh": "单凭记忆" },
+        { "position": 25, "word": "Mexico", "pos": "n.pr.", "zh": "墨西哥城" },
+        { "position": 26, "word": "négatif(ve)", "pos": "adj.", "zh": "消极的，负面的" },
+        { "position": 27, "word": "pareil(le)", "pos": "adj.", "zh": "相同的，相似的" },
+        { "position": 28, "word": "positif(ve)", "pos": "adj.", "zh": "肯定的；正面的" },
+        { "position": 29, "word": "ressembler(se)", "pos": "v.pr.", "zh": "相像，相似" },
+        { "position": 30, "word": "rester", "pos": "v.i.", "zh": "残留，剩下" },
+        { "position": 31, "word": "il reste...", "pos": "loc.impers.", "zh": "剩下……" },
+        { "position": 32, "word": "retrouver(se)", "pos": "v.pr.", "zh": "重逢，再相见" },
+        { "position": 33, "word": "roman", "pos": "n.m.", "zh": "小说" },
+        { "position": 34, "word": "sujet", "pos": "n.m.", "zh": "问题；题材" },
+        { "position": 35, "word": "Tokyo", "pos": "n.pr.", "zh": "东京" },
+        { "position": 36, "word": "traditionnel(le)", "pos": "adj.", "zh": "传统的" },
+        { "position": 37, "word": "triste", "pos": "adj.", "zh": "伤心的，悲伤的" },
+        { "position": 38, "word": "UV", "pos": "n.m.", "zh": "紫外线（ultraviolet 的缩写）" }
+      ]
+    },
+    "a2-u6l23": {
+      "sourcePage": 285,
+      "pdfWordCount": 25,
+      "entries": [
+        { "position": 15, "word": "mettre", "pos": "v.t.", "zh": "穿，戴" },
+        { "position": 16, "word": "neige", "pos": "n.f.", "zh": "雪" },
+        { "position": 17, "word": "pêcher", "pos": "v.i.", "zh": "钓（鱼），捕鱼" },
+        { "position": 18, "word": "prêt(e)", "pos": "adj.", "zh": "准备好的，预备好的" },
+        { "position": 19, "word": "possibilité", "pos": "n.f.", "zh": "可能，可能性；可用之事物或情况" },
+        { "position": 20, "word": "professionnel(le)", "pos": "n.", "zh": "专业人员；职业运动员" },
+        { "position": 21, "word": "prolongé(e)", "pos": "adj.", "zh": "持续的，延长的" },
+        { "position": 22, "word": "réduction", "pos": "n.f.", "zh": "减少，缩减" },
+        { "position": 23, "word": "Savoie (la)", "pos": "n.pr.", "zh": "萨瓦地区（法国东南部）" },
+        { "position": 24, "word": "ski", "pos": "n.m.", "zh": "滑雪板；滑雪运动" },
+        { "position": 25, "word": "visite", "pos": "n.f.", "zh": "参观，游览" }
+      ]
+    },
+    "a2-u6l24": {
+      "sourcePage": 295,
+      "pdfWordCount": 20,
+      "entries": [
+        { "position": 13, "word": "objectif", "pos": "n.m.", "zh": "目标，目的" },
+        { "position": 14, "word": "participant(e)", "pos": "n.", "zh": "参加者" },
+        { "position": 15, "word": "peur", "pos": "n.f.", "zh": "害怕，恐惧" },
+        { "position": 16, "word": "avoir peur (de + n. / inf.)", "pos": "loc.v.", "zh": "怕，害怕" },
+        { "position": 17, "word": "pique-nique", "pos": "n.m.", "zh": "野餐" },
+        { "position": 18, "word": "regrouper", "pos": "v.t.", "zh": "集中；再聚集" },
+        { "position": 19, "word": "réunir(se)", "pos": "v.pr.", "zh": "聚集，集合；开会" },
+        { "position": 20, "word": "solitude", "pos": "n.f.", "zh": "孤独，孤单；孤独感，寂寞" }
+      ]
+    },
+    "a2-u7l25": {
+      "sourcePage": 300,
+      "pdfWordCount": 29,
+      "entries": [
+        { "position": 15, "word": "moyens de transport", "pos": "n.m.pl.", "zh": "交通工具" },
+        { "position": 16, "word": "nul(le)", "pos": "adj.", "zh": "无价值的，无效的；无能的" },
+        { "position": 17, "word": "offrir(s')", "pos": "v.pr.", "zh": "为自己买；给自己" },
+        { "position": 18, "word": "PlayStation", "pos": "n.f.", "zh": "索尼公司出品的电视游戏机" },
+        { "position": 19, "word": "polluant(e)", "pos": "adj.", "zh": "污染环境的" },
+        { "position": 20, "word": "portable", "pos": "adj.", "zh": "可携带的，手提的" },
+        { "position": 21, "word": "probablement", "pos": "adv.", "zh": "可能，大概" },
+        { "position": 22, "word": "prochainement", "pos": "adv.", "zh": "不久后，即将" },
+        { "position": 23, "word": "proche", "pos": "adj.", "zh": "邻近的，接近的" },
+        { "position": 24, "word": "programme", "pos": "n.m.", "zh": "程序，节目单；节目" },
+        { "position": 25, "word": "rallumer", "pos": "v.t.", "zh": "重新点燃，重新接通电源" },
+        { "position": 26, "word": "respirer", "pos": "v.i.", "zh": "呼吸" },
+        { "position": 27, "word": "ridicule", "pos": "adj.", "zh": "可笑的，滑稽的；荒唐的" },
+        { "position": 28, "word": "sans", "pos": "prép.", "zh": "没有，无，不" },
+        { "position": 29, "word": "séminaire", "pos": "n.m.", "zh": "（大学的）研究班，研讨会；（专家的）讨论会" }
+      ]
+    },
+    "a2-u7l26": {
+      "sourcePage": 312,
+      "pdfWordCount": 30,
+      "entries": [
+        { "position": 19, "word": "priorité", "pos": "n.f.", "zh": "优先（权），先行（权）" },
+        { "position": 20, "word": "raccrocher", "pos": "v.t.", "zh": "挂断电话" },
+        { "position": 21, "word": "réduire", "pos": "v.t.", "zh": "减少，降低" },
+        { "position": 22, "word": "routier(ère)", "pos": "adj.", "zh": "道路的，公路的" },
+        { "position": 23, "word": "seconde", "pos": "n.f.", "zh": "秒" },
+        { "position": 24, "word": "sécurité", "pos": "n.f.", "zh": "安全" },
+        { "position": 25, "word": "sécurité routière", "pos": "n.f.", "zh": "道路（交通）安全" },
+        { "position": 26, "word": "sérieux(se)", "pos": "adj.", "zh": "认真的，严肃的；严重的" },
+        { "position": 27, "word": "souci(s)", "pos": "n.m.", "zh": "担心，烦恼；问题，麻烦" },
+        { "position": 28, "word": "surtout", "pos": "adv.", "zh": "尤其，特别" },
+        { "position": 29, "word": "volant", "pos": "n.m.", "zh": "驾驶盘，方向盘" },
+        { "position": 30, "word": "au volant", "pos": "loc.adv.", "zh": "驾车行进中" }
+      ]
+    },
+    "a2-u7l27": {
+      "sourcePage": 325,
+      "pdfWordCount": 32,
+      "entries": [
+        { "position": 15, "word": "fréquenter", "pos": "v.t.", "zh": "常去，时常出入于；经常与（某人）来往" },
+        { "position": 16, "word": "gouvernement", "pos": "n.m.", "zh": "政府" },
+        { "position": 17, "word": "informer(s')", "pos": "v.pr.", "zh": "搜集情况，打听消息" },
+        { "position": 18, "word": "journal télévisé", "pos": "n.m.", "zh": "电视新闻" },
+        { "position": 19, "word": "kiosque", "pos": "n.m.", "zh": "凉亭，亭子" },
+        { "position": 20, "word": "kiosque (à journaux)", "pos": "n.m.", "zh": "报亭" },
+        { "position": 21, "word": "lister", "pos": "v.t.", "zh": "把……列成表，把……编成目录，把……编成清单" },
+        { "position": 22, "word": "médias", "pos": "n.m.pl.", "zh": "〈美〉大众传播媒介，大众媒体，传媒" },
+        { "position": 23, "word": "montrer", "pos": "v.t.", "zh": "表明，说明，证明" },
+        { "position": 24, "word": "par", "pos": "prép.", "zh": "（表示时间，尤指天气）在……时候" },
+        { "position": 25, "word": "par tous les temps", "pos": "loc.adv.", "zh": "在所有天气状况下，风雨无阻地" },
+        { "position": 26, "word": "présent(e)", "pos": "adj.", "zh": "在场的，到场的；存在的，出现的；目前的，现在的" },
+        { "position": 27, "word": "proposition", "pos": "n.f.", "zh": "提议；提案" },
+        { "position": 28, "word": "rapport", "pos": "n.m.", "zh": "报告，汇报；报道" },
+        { "position": 29, "word": "ridicule", "pos": "adj.", "zh": "可笑的，滑稽的；微小的，微不足道的；荒唐的" },
+        { "position": 30, "word": "servir", "pos": "v.t.", "zh": "为……服务，为……尽责，伺候，服侍" },
+        { "position": 31, "word": "vente", "pos": "n.f.", "zh": "卖；销售" },
+        { "position": 32, "word": "vie", "pos": "n.f.", "zh": "〈转〉生命力，生气，活力，活跃" }
+      ]
+    },
+    "a2-u7l28": {
+      "sourcePage": 338,
+      "pdfWordCount": 27,
+      "entries": [
+        { "position": 19, "word": "poche", "pos": "n.f.", "zh": "衣袋，口袋；袋，包" },
+        { "position": 20, "word": "point", "pos": "n.m.", "zh": "点；要点，问题" },
+        { "position": 21, "word": "première", "pos": "n.f.", "zh": "（戏剧的）首次演出，（电影的）首映" },
+        { "position": 22, "word": "revue", "pos": "n.f.", "zh": "检查，回顾；杂志，期刊" },
+        { "position": 23, "word": "sciences", "pos": "n.f.pl.", "zh": "自然科学" },
+        { "position": 24, "word": "site", "pos": "n.m.", "zh": "位置，网络站点" },
+        { "position": 25, "word": "star", "pos": "n.f.", "zh": "明星" },
+        { "position": 26, "word": "vendu(e)", "pos": "adj.", "zh": "已出售的；被收买的" },
+        { "position": 27, "word": "version", "pos": "n.f.", "zh": "版本；译本；说法" }
+      ]
+    },
+    "a2-u8l29": {
+      "sourcePage": 344,
+      "pdfWordCount": 24,
+      "entries": [
+        { "position": 13, "word": "découverte", "pos": "n.f.", "zh": "发现；发现物" },
+        { "position": 14, "word": "découvrir", "pos": "v.t.", "zh": "揭开盖子；发现，发觉（动词变位同 offrir）" },
+        { "position": 15, "word": "emmener", "pos": "v.t.", "zh": "带走（人），领走（人）（动词变位同 acheter）" },
+        { "position": 16, "word": "façon", "pos": "n.f.", "zh": "方式，方法" },
+        { "position": 17, "word": "fantastique", "pos": "adj.", "zh": "〈引，俗〉难以置信的，不同寻常的" },
+        { "position": 18, "word": "génial(e)", "pos": "adj.", "zh": "天才的，有才华的" },
+        { "position": 19, "word": "hiver", "pos": "n.m.", "zh": "冬天，冬季" },
+        { "position": 20, "word": "liberté", "pos": "n.f.", "zh": "自由" },
+        { "position": 21, "word": "merveilleux(se)", "pos": "adj.", "zh": "令人赞叹的，卓越的，出色的" },
+        { "position": 22, "word": "navigateur(trice)", "pos": "n.", "zh": "航海者，航海家" },
+        { "position": 23, "word": "printemps", "pos": "n.m.", "zh": "春天，春季" },
+        { "position": 24, "word": "séjour", "pos": "n.m.", "zh": "逗留，旅居；逗留期" }
+      ]
+    },
+    "a2-u8l30": {
+      "sourcePage": 356,
+      "pdfWordCount": 26,
+      "entries": [
+        { "position": 15, "word": "profiter (de)", "pos": "v.t.ind.", "zh": "利用，从……得益" },
+        { "position": 16, "word": "proposer... à qn", "pos": "loc.v.", "zh": "向某人推荐……" },
+        { "position": 17, "word": "proposer de faire qch. à qn", "pos": "loc.v.", "zh": "向某人推荐做某事" },
+        { "position": 18, "word": "quitter(se)", "pos": "v.pr.", "zh": "分离，分别" },
+        { "position": 19, "word": "récit", "pos": "n.m.", "zh": "叙述，叙事；故事" },
+        { "position": 20, "word": "réapparaître", "pos": "v.i.", "zh": "再现，重新出现（动词变位同 paraître）" },
+        { "position": 21, "word": "reconnaître", "pos": "v.t.", "zh": "认出，辨认出；承认（动词变位同 connaître）" },
+        { "position": 22, "word": "redonner", "pos": "v.t.", "zh": "归还；再给" },
+        { "position": 23, "word": "rencontrer", "pos": "v.t.", "zh": "碰见，遇见；会面，会见" },
+        { "position": 24, "word": "terminus", "pos": "n.m.", "zh": "（铁路、公共汽车等的）终点站" },
+        { "position": 25, "word": "titre", "pos": "n.m.", "zh": "书名，标题，题目" },
+        { "position": 26, "word": "vague", "pos": "adj.", "zh": "不明确的，含混不清的，含糊的" }
+      ]
+    },
+    "a2-u8l31": {
+      "sourcePage": 372,
+      "pdfWordCount": 25,
+      "entries": [
+        { "position": 15, "word": "Parthénon (le)", "pos": "n.pr.", "zh": "希腊雅典的帕特农神庙" },
+        { "position": 16, "word": "Pise", "pos": "n.pr.", "zh": "比萨（意大利中西部城市）" },
+        { "position": 17, "word": "planète", "pos": "n.f.", "zh": "行星" },
+        { "position": 18, "word": "prendre", "pos": "v.t.", "zh": "记录，拍摄，复制" },
+        { "position": 19, "word": "P.-S.", "pos": "n.m.", "zh": "〈拉〉Post-Scriptum 的缩写形式；（信末的）又及，附言" },
+        { "position": 20, "word": "regard", "pos": "n.m.", "zh": "目光，眼神；视角" },
+        { "position": 21, "word": "Rome", "pos": "n.pr.", "zh": "罗马（意大利首都）" },
+        { "position": 22, "word": "short", "pos": "n.m.", "zh": "短运动裤" },
+        { "position": 23, "word": "surprenant(e)", "pos": "adj.", "zh": "出人意料的，使人惊奇的" },
+        { "position": 24, "word": "touriste", "pos": "n.", "zh": "旅行者，观光者" },
+        { "position": 25, "word": "Venise", "pos": "n.pr.", "zh": "威尼斯（意大利东北部文化古都）" }
+      ]
+    },
+    "a2-u8l32": {
+      "sourcePage": 385,
+      "pdfWordCount": 29,
+      "entries": [
+        { "position": 11, "word": "désir", "pos": "n.m.", "zh": "愿望，要求，欲望" },
+        { "position": 12, "word": "émotion", "pos": "n.f.", "zh": "感情；〈引〉感动，激动" },
+        { "position": 13, "word": "Équateur", "pos": "n.m.", "zh": "厄瓜多尔" },
+        { "position": 14, "word": "éveiller(s')", "pos": "v.pr.", "zh": "睡醒，苏醒" },
+        { "position": 15, "word": "fou(folle)", "pos": "adj.", "zh": "疯的，发疯的；疯狂的，狂热的，不受约束的" },
+        { "position": 16, "word": "Pacifique (le)", "pos": "n.pr.", "zh": "太平洋" },
+        { "position": 17, "word": "poésie", "pos": "n.f.", "zh": "诗，诗歌，诗词" },
+        { "position": 18, "word": "prose", "pos": "n.f.", "zh": "散文" },
+        { "position": 19, "word": "sentiment", "pos": "n.m.", "zh": "感情；情感，爱，爱情" },
+        { "position": 20, "word": "Séville", "pos": "n.pr.", "zh": "塞维利亚（西班牙安达卢西亚省首府）" },
+        { "position": 21, "word": "garder", "pos": "v.t.", "zh": "保存，保管；长时间拿住，保持住；保留" },
+        { "position": 22, "word": "illuminer(s')", "pos": "v.pr.", "zh": "变亮；发光，闪耀" },
+        { "position": 23, "word": "jazz", "pos": "n.m.", "zh": "爵士乐" },
+        { "position": 24, "word": "lieue", "pos": "n.f.", "zh": "法国古里（约合4公里）" },
+        { "position": 25, "word": "Moscou", "pos": "n.pr.", "zh": "莫斯科（俄罗斯首都）" },
+        { "position": 26, "word": "temple", "pos": "n.m.", "zh": "庙宇；神殿；教堂" },
+        { "position": 27, "word": "tour", "pos": "n.m.", "zh": "轮值，轮班" },
+        { "position": 28, "word": "tour à tour", "pos": "loc.adv.", "zh": "依次，相继，交替地，时而……时而……" },
+        { "position": 29, "word": "transsibérien", "pos": "n.m.", "zh": "西伯利亚大铁路" }
+      ]
+    },
+    "a2-u9l33": {
+      "sourcePage": 392,
+      "pdfWordCount": 20,
+      "entries": [
+        { "position": 13, "word": "religion", "pos": "n.f.", "zh": "宗教" },
+        { "position": 14, "word": "remarquer", "pos": "v.t.ind.", "zh": "注意，觉察，看到；指出" },
+        { "position": 15, "word": "réponse", "pos": "n.f.", "zh": "回答；答案" },
+        { "position": 16, "word": "résultat", "pos": "n.m.", "zh": "结果；答案" },
+        { "position": 17, "word": "réussir", "pos": "v.i.", "zh": "获得成功；取得成绩" },
+        { "position": 18, "word": "réussir à", "pos": "v.t.ind.", "zh": "在……方面取得成功（动词变位同 agrandir）" },
+        { "position": 19, "word": "réussite", "pos": "n.f.", "zh": "成功，成就" },
+        { "position": 20, "word": "symboliser", "pos": "v.t.", "zh": "象征，是……的象征" }
+      ]
+    },
+    "a2-u9l34": {
+      "sourcePage": 405,
+      "pdfWordCount": 38,
+      "entries": [
+        { "position": 15, "word": "contrairement à", "pos": "loc.prép.", "zh": "与……相反" },
+        { "position": 16, "word": "empêcher", "pos": "v.t.", "zh": "阻止，妨碍" },
+        { "position": 17, "word": "empêcher qn de faire qch.", "pos": "loc.v.", "zh": "阻止、妨碍某人做某事" },
+        { "position": 18, "word": "exprimer", "pos": "v.t.", "zh": "（用语言、文字）表达，表示；（用非语言方式）表示，表达，表现" },
+        { "position": 19, "word": "s'exprimer", "pos": "v.pr.", "zh": "表现，显露，表达自己的思想" },
+        { "position": 20, "word": "gauche", "pos": "n.f.", "zh": "（舆论、党派的）左派，左翼" },
+        { "position": 21, "word": "inscrit(e)", "pos": "adj.; n.", "zh": "已登记的；登记的选民，报名者" },
+        { "position": 22, "word": "inscrire(s')", "pos": "v.pr.", "zh": "报名参加，进行登记（动词变位同 rire）" },
+        { "position": 23, "word": "inscription", "pos": "n.f.", "zh": "登记；报名，注册" },
+        { "position": 24, "word": "laisser", "pos": "v.t.", "zh": "让，任，随，由" },
+        { "position": 25, "word": "majeur(e)", "pos": "adj.", "zh": "成年的" },
+        { "position": 26, "word": "nécessaire", "pos": "adj.", "zh": "必需的，必要的" },
+        { "position": 27, "word": "oublier", "pos": "v.t.", "zh": "忘记，忘却" },
+        { "position": 28, "word": "oublier de faire qch.", "pos": "loc.v.", "zh": "忘记做某事" },
+        { "position": 29, "word": "pourtant", "pos": "adv.", "zh": "然而，可是" },
+        { "position": 30, "word": "président", "pos": "n.m.", "zh": "（会议或社团的）主席，会长，社长；（国家政府的）总统；委员长，议长" },
+        { "position": 31, "word": "réinscrire(se)", "pos": "v.pr.", "zh": "再登记（动词变位同 rire）" },
+        { "position": 32, "word": "remplir", "pos": "v.t.", "zh": "装满，充满；填写，填补；使满足（动词变位同 agrandir）" },
+        { "position": 33, "word": "retourner", "pos": "v.i.", "zh": "退回" },
+        { "position": 34, "word": "suivre", "pos": "v.t.", "zh": "随后而至" },
+        { "position": 35, "word": "faire suivre", "pos": "loc.v.", "zh": "如本人不在，请按新地址转寄（一般标注在信封上）" },
+        { "position": 36, "word": "vote", "pos": "n.m.", "zh": "投票，表决，选举" },
+        { "position": 37, "word": "bureau de vote", "pos": "n.m.", "zh": "投票处（站）" },
+        { "position": 38, "word": "voter", "pos": "v.i.", "zh": "投票，表决" }
+      ]
+    },
+    "a2-u9l35": {
+      "sourcePage": 421,
+      "pdfWordCount": 22,
+      "entries": [
+        { "position": 13, "word": "partage", "pos": "n.m.", "zh": "分配，分享" },
+        { "position": 14, "word": "plus ou moins", "pos": "loc.adv.", "zh": "或多或少，多少有一点；大致，左右" },
+        { "position": 15, "word": "promotion", "pos": "n.f.", "zh": "升级，晋级，提升" },
+        { "position": 16, "word": "réaliser", "pos": "v.t.", "zh": "明白，了解，认识清楚" },
+        { "position": 17, "word": "responsabilité", "pos": "n.f.", "zh": "责任" },
+        { "position": 18, "word": "rôle", "pos": "n.m.", "zh": "角色；生活中的角色；职务，职责；影响，作用" },
+        { "position": 19, "word": "solidarité", "pos": "n.f.", "zh": "团结一致" },
+        { "position": 20, "word": "utile", "pos": "adj.", "zh": "有用的，有益的" },
+        { "position": 21, "word": "valeur", "pos": "n.f.", "zh": "价值，价格；重要性，有用性" },
+        { "position": 22, "word": "valeur", "pos": "n.f.pl.", "zh": "社会准则，道德标准，审美标准" }
+      ]
+    },
+    "a2-u9l36": {
+      "sourcePage": 432,
+      "pdfWordCount": 22,
+      "entries": [
+        { "position": 17, "word": "loi", "pos": "n.f.", "zh": "法律，法令" },
+        { "position": 18, "word": "ouverture", "pos": "n.f.", "zh": "开门营业" },
+        { "position": 19, "word": "préfectoral(e)", "pos": "adj.", "zh": "（法国）省长的，省政府的" },
+        { "position": 20, "word": "refuser", "pos": "v.t.", "zh": "拒绝" },
+        { "position": 21, "word": "refuser de + inf.", "pos": "loc.v.", "zh": "拒绝做……" },
+        { "position": 22, "word": "sincère", "pos": "adj.", "zh": "真诚的，诚恳的；直率的" }
+      ]
+    }
+  },
+  "corrections": [
+    { "entryId": "entry-1024", "courseId": "a2-u2l6", "sourcePage": 63, "word": "cool", "pos": "adj.inv.", "zh": "洒脱的，酷的，帅的" },
+    { "entryId": "entry-1135", "courseId": "a2-u4l14", "sourcePage": 166, "word": "féculent(e)", "pos": "adj.", "zh": "含淀粉的" },
+    { "entryId": "entry-1136", "courseId": "a2-u4l14", "sourcePage": 166, "word": "féculent", "pos": "n.m.", "zh": "含淀粉物质，淀粉性食物" },
+    { "entryId": "entry-1145", "courseId": "a2-u4l15", "sourcePage": 184, "word": "conseiller", "pos": "v.t.", "zh": "劝告，建议" },
+    { "entryId": "entry-1148", "courseId": "a2-u4l15", "sourcePage": 184, "word": "événement heureux", "pos": "n.m.", "zh": "喜事，好事" },
+    { "entryId": "entry-1149", "courseId": "a2-u4l15", "sourcePage": 184, "word": "éviter + inf.", "pos": "loc.v.", "zh": "避免做……" },
+    { "entryId": "entry-1150", "courseId": "a2-u4l15", "sourcePage": 184, "word": "fait", "pos": "n.m.", "zh": "事实，现实事物，实际情况" },
+    { "entryId": "entry-1185", "courseId": "a2-u5l18", "sourcePage": 227, "word": "différemment", "pos": "adv.", "zh": "不同地；有区别地" },
+    { "entryId": "entry-1193", "courseId": "a2-u5l19", "sourcePage": 238, "word": "accueil", "pos": "n.m.", "zh": "迎接，接待，招待；接待处，服务台；（网站）首页，主页" },
+    { "entryId": "entry-1206", "courseId": "a2-u5l19", "sourcePage": 238, "word": "journal (pl. journaux)", "pos": "n.m.", "zh": "日记" },
+    { "entryId": "entry-1207", "courseId": "a2-u5l20", "sourcePage": 255, "word": "allemand(e)", "pos": "adj.", "zh": "德国的" },
+    { "entryId": "entry-1247", "courseId": "a2-u6l23", "sourcePage": 285, "word": "adapter (s'~ à)", "pos": "v.pr.", "zh": "适应，适合" },
+    { "entryId": "entry-1251", "courseId": "a2-u6l23", "sourcePage": 285, "word": "but", "pos": "n.m.", "zh": "目的，目标" },
+    { "entryId": "entry-1252", "courseId": "a2-u6l23", "sourcePage": 285, "word": "canoë", "pos": "n.m.", "zh": "独木舟；划独木舟运动" },
+    { "entryId": "entry-1320", "courseId": "a2-u7l28", "sourcePage": 338, "word": "abonner (s'~)", "pos": "v.pr.", "zh": "订阅，预定" },
+    { "entryId": "entry-1337", "courseId": "a2-u8l29", "sourcePage": 344, "word": "apprendre à + inf.", "pos": "loc.v.", "zh": "学习……；养成……习惯（动词变位同 prendre）" },
+    { "entryId": "entry-1340", "courseId": "a2-u8l29", "sourcePage": 344, "word": "les autres", "pos": "pron.indéf.", "zh": "所有其他的人，别人" },
+    { "entryId": "entry-1343", "courseId": "a2-u8l29", "sourcePage": 344, "word": "en tout cas", "pos": "loc.adv.", "zh": "不管怎样，无论如何" },
+    { "entryId": "entry-1345", "courseId": "a2-u8l29", "sourcePage": 344, "word": "chercher à + inf.", "pos": "loc.v.", "zh": "力图、力求做某事" },
+    { "entryId": "entry-1346", "courseId": "a2-u8l29", "sourcePage": 344, "word": "circuit", "pos": "n.m.", "zh": "弯曲的路，环形路线" },
+    { "entryId": "entry-1347", "courseId": "a2-u8l29", "sourcePage": 344, "word": "circuit touristique", "pos": "n.m.", "zh": "旅游路线" },
+    { "entryId": "entry-1350", "courseId": "a2-u8l30", "sourcePage": 356, "word": "agir (s'agir de)", "pos": "v.impers.", "zh": "有关，关系到，涉及（动词变位同 agrandir）" },
+    { "entryId": "entry-1358", "courseId": "a2-u8l30", "sourcePage": 356, "word": "énerver", "pos": "v.t.", "zh": "〈俗〉使激动；使恼火" }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u7l25",
-  "generatedAt": "2026-08-13T08:58:31.457Z",
+  "generatedAt": "2026-08-15T13:13:00.872Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,291 @@
         "reviewedAt": "2026-08-13T09:24:26.205Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "1f27c692327ca7896e241f68e1a97f0d7553741e886e7b2d6265927c8a9cf26e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-015",
+      "exampleFr": "Le terme « moyens de transport » signifie ici « 交通工具 ».",
+      "exampleZh": "这里的“moyens de transport”表示“交通工具”。",
+      "usageNote": "阳性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a6d15ab57f075fc334e3db99ff4a0bff8d781194fcfd6cc12d3ca7b5a3693480"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-016",
+      "exampleFr": "Le terme « nul » signifie ici « 无价值的 ».",
+      "exampleZh": "这里的“nul”表示“无价值的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ab70c6c941809087576b8d5dc383a0dbef54714adfa940cd3bf3b1d0f80f7b5c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-017",
+      "exampleFr": "Le terme « offrir » signifie ici « 为自己买 ».",
+      "exampleZh": "这里的“offrir”表示“为自己买”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "81638043cc64db5965a628840b36caaae83823e54e3362a422a623565e24bdf8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-018",
+      "exampleFr": "Le terme « PlayStation » signifie ici « 索尼公司出品的电视游戏机 ».",
+      "exampleZh": "这里的“PlayStation”表示“索尼公司出品的电视游戏机”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "569b56726dd23f98b9c5dd5763a539b810967d3c49878f47314739cdf191fe8b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-019",
+      "exampleFr": "Le terme « polluant » signifie ici « 污染环境的 ».",
+      "exampleZh": "这里的“polluant”表示“污染环境的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "00cdb4298fb5c4a6a3c8894e9d1715f7c735cc34a1d6f8bd5e4e76a3ed116999"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-020",
+      "exampleFr": "Le terme « portable » signifie ici « 可携带的 ».",
+      "exampleZh": "这里的“portable”表示“可携带的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "164d69afdd9950f401c14c161cec5e00f0fdb4a747b89212020b8af55b3f42d4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-021",
+      "exampleFr": "Le terme « probablement » signifie ici « 可能 ».",
+      "exampleZh": "这里的“probablement”表示“可能”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "63c7c3f832d4bcdfeb37f75ce4e74d83c4a39e35be5026b19979c692f7f6e384"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-022",
+      "exampleFr": "Le terme « prochainement » signifie ici « 不久后 ».",
+      "exampleZh": "这里的“prochainement”表示“不久后”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6ddfcc1059bb885320ef6de29938e8762448e4f9ce4dd2fed73a217a58255414"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-023",
+      "exampleFr": "Le terme « proche » signifie ici « 邻近的 ».",
+      "exampleZh": "这里的“proche”表示“邻近的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1f5a8ea3cb1dbe0c874daf71457ebf28b7b6363eaba09a970b3a26a0a02393bf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-024",
+      "exampleFr": "Le terme « programme » signifie ici « 程序 ».",
+      "exampleZh": "这里的“programme”表示“程序”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "afd615e66308e563140363656f5c9f9c4a3e6b7c2cec42740969f04817be04a4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-025",
+      "exampleFr": "Le terme « rallumer » signifie ici « 重新点燃 ».",
+      "exampleZh": "这里的“rallumer”表示“重新点燃”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "da517e151137be700afdb4b4b9e6635c09723cb349bc9f29f77170f3d7d35e58"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-026",
+      "exampleFr": "Le terme « respirer » signifie ici « 呼吸 ».",
+      "exampleZh": "这里的“respirer”表示“呼吸”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2a42f42f50a7d5c2fe467b65ee955b8b2b47294e914a2e65c705272eab936f81"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-027",
+      "exampleFr": "Le terme « ridicule » signifie ici « 可笑的 ».",
+      "exampleZh": "这里的“ridicule”表示“可笑的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e7dbf6b746a5cebd03baf875541308ec8b959c258231553ee8178e4757abaf8b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-028",
+      "exampleFr": "Le terme « sans » signifie ici « 没有 ».",
+      "exampleZh": "这里的“sans”表示“没有”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5367ecbca9c7e7af75faff46bf3f5e61bce5d50b779f21ddef115ad3545bcdd8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l25-029",
+      "exampleFr": "Le terme « séminaire » signifie ici « （大学的）研究班 ».",
+      "exampleZh": "这里的“séminaire”表示“（大学的）研究班”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "71d7ff3198809c452046cabba8597c4e4b2dc6d625e27e95e5261e1ca88f695a"
       }
     }
   ]

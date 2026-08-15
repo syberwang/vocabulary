@@ -116,6 +116,15 @@ function fallbackFor(entry) {
   const curated = entryExamples.get(entry.sourceRow) ?? commonExamples.get(key);
   if (curated) return { content: curated, risk: "medium" };
   const gloss = firstGloss(entry.zh);
+  if (entry.sourceMethod?.includes("讲义首页词汇表")) {
+    return {
+      content: [
+        `Le terme « ${form} » signifie ici « ${gloss} ».`,
+        `这里的“${form}”表示“${gloss}”。`,
+      ],
+      risk: "low",
+    };
+  }
   const pos = entry.pos.toLocaleLowerCase("fr-FR");
   if (pos.includes("n.pr")) return { content: [`Je connais ${form}.`, `我知道${gloss}。`], risk: "high" };
   if (pos.includes("n.f.pl") || pos.includes("n.m.pl")) return { content: [`Voici des ${form}.`, `这里有一些${gloss}。`], risk: "high" };

@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u9l36",
-  "generatedAt": "2026-08-13T08:58:31.465Z",
+  "generatedAt": "2026-08-15T13:13:00.878Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -305,6 +305,120 @@
         "reviewedAt": "2026-08-13T09:24:26.217Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "b0af97e91e18066c8b82e6eb21a62d7ee3319b6fbe4a3f2f2434debc7a233048"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-017",
+      "exampleFr": "Le terme « loi » signifie ici « 法律 ».",
+      "exampleZh": "这里的“loi”表示“法律”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fb29844a792e1ca0c0eace010bf1d4698c9628c375b6f34705ef51f3d580e874"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-018",
+      "exampleFr": "Le terme « ouverture » signifie ici « 开门营业 ».",
+      "exampleZh": "这里的“ouverture”表示“开门营业”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3bea57d8800431500f9cb79e72d0e8672505ed88c154285c5aff2ce6d8f0b59a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-019",
+      "exampleFr": "Le terme « préfectoral » signifie ici « （法国）省长的 ».",
+      "exampleZh": "这里的“préfectoral”表示“（法国）省长的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a4590d23df70d46cf701ad743a4a8d8eb44211552597c0d17b9a10b91106efcd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-020",
+      "exampleFr": "Le terme « refuser » signifie ici « 拒绝 ».",
+      "exampleZh": "这里的“refuser”表示“拒绝”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "573dccf772592ef20d5f21410b302cb7073868646eaebd6c3dda79eb50baaba5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-021",
+      "exampleFr": "Le terme « refuser de + inf. » signifie ici « 拒绝做…… ».",
+      "exampleZh": "这里的“refuser de + inf.”表示“拒绝做……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "45d1ce176a3bc01d9d3883e53e6e4bf14cab41a8dcf2d2e32389c1df62b05126"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l36-022",
+      "exampleFr": "Le terme « sincère » signifie ici « 真诚的 ».",
+      "exampleZh": "这里的“sincère”表示“真诚的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.334Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "33e30ce22d8d7da63ea656a5c3306ad5a28172cdec98ee66c392fc3c6bcad869"
       }
     }
   ]

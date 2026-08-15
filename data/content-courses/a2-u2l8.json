@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u2l8",
-  "generatedAt": "2026-08-13T08:58:31.444Z",
+  "generatedAt": "2026-08-15T13:13:00.859Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,234 @@
         "reviewedAt": "2026-08-13T09:24:26.184Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "e704a02dcc1cddb96dbb58fdda07f822011332fec2e32f294178a0dafba8cbf3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-015",
+      "exampleFr": "Le terme « Pontivy » signifie ici « 蓬蒂维（法国城市 ».",
+      "exampleZh": "这里的“Pontivy”表示“蓬蒂维（法国城市”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "78ff8d8250b6a82f625dbc830eafeda6ba2e219ba4ec71ff30b28b2eb65777a3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-016",
+      "exampleFr": "Le terme « préoccupation » signifie ici « 担心 ».",
+      "exampleZh": "这里的“préoccupation”表示“担心”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a225faa2f0097fcd80eabbff162ec6f9b25bf5d3788b5465bc582def326b6ba4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-017",
+      "exampleFr": "Le terme « racisme » signifie ici « 种族主义 ».",
+      "exampleZh": "这里的“racisme”表示“种族主义”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0f7e2066b99a716d9769c57a7a2b716e2e9b78e506b76f3d7ad4715978be906b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-018",
+      "exampleFr": "Le terme « réellement » signifie ici « 实际上 ».",
+      "exampleZh": "这里的“réellement”表示“实际上”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "55f0d9060b852738d2e3f5c271458639b238bf9c7ef75f1cc0842732c73bf977"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-019",
+      "exampleFr": "Le terme « Renault » signifie ici « 雷诺汽车 ».",
+      "exampleZh": "这里的“Renault”表示“雷诺汽车”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "876664c85687bcb7e05c64bb5a4e574dbdf9ee9413fba44d2d88b703a2a6ff7e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-020",
+      "exampleFr": "Le terme « rêve » signifie ici « 梦 ».",
+      "exampleZh": "这里的“rêve”表示“梦”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5de0fdbff3637a3ca418f5205cac4c66458b5f7308962e62a085b2f6503fd299"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-021",
+      "exampleFr": "Le terme « riche » signifie ici « 有钱的 ».",
+      "exampleZh": "这里的“riche”表示“有钱的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "18e3952fcd55753157e5eb99d729907e12c3dfea297916bfcbedafdcaed04815"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-022",
+      "exampleFr": "Le terme « riche » signifie ici « 有钱人 ».",
+      "exampleZh": "这里的“riche”表示“有钱人”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c3069ebf3e4edb9e872e89cb992cf1a92817082b142e6e81d305e55061961ed8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-023",
+      "exampleFr": "Le terme « science-fiction » signifie ici « 科学幻想（小说、电影等） ».",
+      "exampleZh": "这里的“science-fiction”表示“科学幻想（小说、电影等）”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f8f0c40fbe8b7b3037e0bc02a0bbc507c7238f41a3531f412b90d0a70d51eb29"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-024",
+      "exampleFr": "Le terme « surfer » signifie ici « 进行冲浪运动 ».",
+      "exampleZh": "这里的“surfer”表示“进行冲浪运动”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3ea6ea0b6938600e16a22c5d12ae3858cd0b562d53c463a6618c0580297dd452"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-025",
+      "exampleFr": "Le terme « tour » signifie ici « 周游 ».",
+      "exampleZh": "这里的“tour”表示“周游”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6f4aa6730530ed7f67fa0b3064a4eecf7b997b95c0355891eaab895b3f32467f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l8-026",
+      "exampleFr": "Le terme « vétérinaire » signifie ici « 兽医 ».",
+      "exampleZh": "这里的“vétérinaire”表示“兽医”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.313Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5ce1fe45d72dd50c8fa5f03a22d5f3c7a9ac101c782cba538344d5a1367cdba3"
       }
     }
   ]

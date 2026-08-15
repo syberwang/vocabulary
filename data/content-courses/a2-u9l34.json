@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u9l34",
-  "generatedAt": "2026-08-13T08:58:31.463Z",
+  "generatedAt": "2026-08-15T13:13:00.877Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,462 @@
         "reviewedAt": "2026-08-13T09:24:26.215Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "d3b2d9cfc914e46186666163571e308bd8248061489cc84d46ef016bbb72cc22"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-015",
+      "exampleFr": "Le terme « contrairement à » signifie ici « 与……相反 ».",
+      "exampleZh": "这里的“contrairement à”表示“与……相反”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0a05ec4d94e17bc81c00d454de0bb8f03e1213fd8eb4281d59d54fe99f71a7d4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-016",
+      "exampleFr": "Le terme « empêcher » signifie ici « 阻止 ».",
+      "exampleZh": "这里的“empêcher”表示“阻止”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c64e52859390f6de42cf6323c749b828ee5209f32d9f81d173204ff158414942"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-017",
+      "exampleFr": "Le terme « empêcher qn de faire qch. » signifie ici « 阻止、妨碍某人做某事 ».",
+      "exampleZh": "这里的“empêcher qn de faire qch.”表示“阻止、妨碍某人做某事”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c209b6fe92147b6c847f1c6921747bea816f169ac2f9bfcdfdc5b0955f42a8c6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-018",
+      "exampleFr": "Le terme « exprimer » signifie ici « （用语言、文字）表达 ».",
+      "exampleZh": "这里的“exprimer”表示“（用语言、文字）表达”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e9c63abbf597d5ec6cd8ef9bb6b81def9611ddfcfddd42406166b8e2f773ba5a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-019",
+      "exampleFr": "Le terme « s'exprimer » signifie ici « 表现 ».",
+      "exampleZh": "这里的“s'exprimer”表示“表现”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3d6bd2f393a11cbcb959f0d71df3b25a8c29ccc2f7ba6849b74ee73d96ab5a0c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-020",
+      "exampleFr": "Le terme « gauche » signifie ici « （舆论、党派的）左派 ».",
+      "exampleZh": "这里的“gauche”表示“（舆论、党派的）左派”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8afb0017f97f1f87ab7a140beeb18df33c1a12e28b6d447a450b9869b90c173a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-021",
+      "exampleFr": "Le terme « inscrit » signifie ici « 已登记的 ».",
+      "exampleZh": "这里的“inscrit”表示“已登记的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "72304ac8e8447c37a05444afca07438ceefca0ab2bd11f66338587a0ceb6b3aa"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-022",
+      "exampleFr": "Le terme « inscrire » signifie ici « 报名参加 ».",
+      "exampleZh": "这里的“inscrire”表示“报名参加”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3234d56f5ac782a2a6f8788beb0aa27c1d5873db68c3c00cffe029f3f4e077d5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-023",
+      "exampleFr": "Le terme « inscription » signifie ici « 登记 ».",
+      "exampleZh": "这里的“inscription”表示“登记”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "50bdb14d59058d691c3883e6f176445b35b52461964ce626d43817beaa4ceb39"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-024",
+      "exampleFr": "Le terme « laisser » signifie ici « 让 ».",
+      "exampleZh": "这里的“laisser”表示“让”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9e872dc5e3db608420d8c044b9d98eb017a8a7721ec50728479625ea5e64b02a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-025",
+      "exampleFr": "Le terme « majeur » signifie ici « 成年的 ».",
+      "exampleZh": "这里的“majeur”表示“成年的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a053a14dfb4298595ab8e159353263107bbfaaa96e2d301c8abf36bc859e56d4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-026",
+      "exampleFr": "Le terme « nécessaire » signifie ici « 必需的 ».",
+      "exampleZh": "这里的“nécessaire”表示“必需的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "616450c39a1b701e3bbc481561956c68ca28e9284bed527bdcc86f5c7f929688"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-027",
+      "exampleFr": "Le terme « oublier » signifie ici « 忘记 ».",
+      "exampleZh": "这里的“oublier”表示“忘记”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d42abb3736273cca25fe2c9d59184cc904070577618120a60626a5d822c92173"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-028",
+      "exampleFr": "Le terme « oublier de faire qch. » signifie ici « 忘记做某事 ».",
+      "exampleZh": "这里的“oublier de faire qch.”表示“忘记做某事”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9393252e729231a21baf186ee269a9e6b7fc4b621bf9cbee6dea5cc521e952ea"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-029",
+      "exampleFr": "Le terme « pourtant » signifie ici « 然而 ».",
+      "exampleZh": "这里的“pourtant”表示“然而”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d3b3ddc09fe95b982ad6b86df814369a4e5d828e5033827f5712dbb0b01417cf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-030",
+      "exampleFr": "Le terme « président » signifie ici « （会议或社团的）主席 ».",
+      "exampleZh": "这里的“président”表示“（会议或社团的）主席”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "78779aa3f098f4ef9f7d8ca3a8f2e2722fc648ff3777cb4c4a0b9673401e0530"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-031",
+      "exampleFr": "Le terme « réinscrire » signifie ici « 再登记（动词变位同 rire） ».",
+      "exampleZh": "这里的“réinscrire”表示“再登记（动词变位同 rire）”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f57e43cf01f86e7f4231e094c9086306b49ad6a590910acafe039170a64c79cb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-032",
+      "exampleFr": "Le terme « remplir » signifie ici « 装满 ».",
+      "exampleZh": "这里的“remplir”表示“装满”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9a0f5f5391428249c0292e7fce29465da454428c12b3bd5795fbdc67bb6a8222"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-033",
+      "exampleFr": "Le terme « retourner » signifie ici « 退回 ».",
+      "exampleZh": "这里的“retourner”表示“退回”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bd9b2ede57f2168164d58e80e6cca8b558ae90207b50e464f19671476c425070"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-034",
+      "exampleFr": "Le terme « suivre » signifie ici « 随后而至 ».",
+      "exampleZh": "这里的“suivre”表示“随后而至”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "483b3181823e1beb714c35fe752249ed22b96d8bc68084a7e6e5f807ff1c35ce"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-035",
+      "exampleFr": "Le terme « faire suivre » signifie ici « 如本人不在 ».",
+      "exampleZh": "这里的“faire suivre”表示“如本人不在”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "677de3440f23081b34ba735259467ae931776fc48e52aaae4e84ff6855cbdfc2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-036",
+      "exampleFr": "Le terme « vote » signifie ici « 投票 ».",
+      "exampleZh": "这里的“vote”表示“投票”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "077d9d93bc5c3554ad4ebed0434849d58e2fe59f6bdd5c2a144318c7435fe6e9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-037",
+      "exampleFr": "Le terme « bureau de vote » signifie ici « 投票处（站） ».",
+      "exampleZh": "这里的“bureau de vote”表示“投票处（站）”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1eb5476bb76309b6593fcd14b249194ce7f6502f5429a7edf9b2c30e366ea18d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l34-038",
+      "exampleFr": "Le terme « voter » signifie ici « 投票 ».",
+      "exampleZh": "这里的“voter”表示“投票”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "791872f23b7a9e4486cbf277d1c5fee9eac6635b3cb49a7c78c51db1e0c765cb"
       }
     }
   ]

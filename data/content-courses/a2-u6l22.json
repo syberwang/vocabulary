@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u6l22",
-  "generatedAt": "2026-08-13T08:58:31.455Z",
+  "generatedAt": "2026-08-15T13:13:00.871Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -343,6 +343,386 @@
         "reviewedAt": "2026-08-13T09:24:26.201Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "599cc3f11ef5de10a400e3c9ddd11788a790f5fa528e797b603912669cb0e9d5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-019",
+      "exampleFr": "Le terme « grâce à » signifie ici « 多亏 ».",
+      "exampleZh": "这里的“grâce à”表示“多亏”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fffd75dcdcd38912fb8d889cf0f2e77e6aa1278f33fd2715fc907f42be3444a0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-020",
+      "exampleFr": "Le terme « installer » signifie ici « 呆住 ».",
+      "exampleZh": "这里的“installer”表示“呆住”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9350ff32966e190a360ab5e3bf5642bf466260b6e0b5ba2d3f8270226a9564a4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-021",
+      "exampleFr": "Le terme « intérieur » signifie ici « 内部 ».",
+      "exampleZh": "这里的“intérieur”表示“内部”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0950f828345e2f354588ce3fa888b078f1079ef549f10c883d1ebc818425e170"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-022",
+      "exampleFr": "Le terme « jungle » signifie ici « 热带雨林 ».",
+      "exampleZh": "这里的“jungle”表示“热带雨林”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "eed705ff590c7972585eecb3a393ef33b4988e3a116607c3367dbc14770dabbc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-023",
+      "exampleFr": "Le terme « mémoire » signifie ici « 记忆力 ».",
+      "exampleZh": "这里的“mémoire”表示“记忆力”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d682ecefbb682a2be50632e6d78144846fbf92e0f4e505378d76a6407faa53cb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-024",
+      "exampleFr": "Le terme « de mémoire » signifie ici « 单凭记忆 ».",
+      "exampleZh": "这里的“de mémoire”表示“单凭记忆”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0752c83f7e8dfcc9727799585d792bbe88bf69a2b0ba008115bac689e6093f2a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-025",
+      "exampleFr": "Le terme « Mexico » signifie ici « 墨西哥城 ».",
+      "exampleZh": "这里的“Mexico”表示“墨西哥城”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "97d8a210acc51a8e5bc82749dd10809ef5c1a18d79309a8e4666df7d33ace767"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-026",
+      "exampleFr": "Le terme « négatif » signifie ici « 消极的 ».",
+      "exampleZh": "这里的“négatif”表示“消极的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "84aab2f415fc2619953c84ba3b100bef8178b2078abb8fa56d36cab63f8bd8a2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-027",
+      "exampleFr": "Le terme « pareil » signifie ici « 相同的 ».",
+      "exampleZh": "这里的“pareil”表示“相同的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1ac973d1605c45d5dbf9fe762903c1281a498f63b65e84a5f7e7b1181fae9fac"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-028",
+      "exampleFr": "Le terme « positif » signifie ici « 肯定的 ».",
+      "exampleZh": "这里的“positif”表示“肯定的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "683059afe4cd0993ace14503aaf153df037fcfd03e20008221c2ec17bc5d3372"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-029",
+      "exampleFr": "Le terme « ressembler » signifie ici « 相像 ».",
+      "exampleZh": "这里的“ressembler”表示“相像”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "486a274618c02dd48eb83f1e1983e3d6e6bb6b8408ceb2bc03a39fb60fc4a877"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-030",
+      "exampleFr": "Le terme « rester » signifie ici « 残留 ».",
+      "exampleZh": "这里的“rester”表示“残留”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "aec12a8d3c4effeb685f22e494f396d487a5c3bdffa7e2f512cd775bd41a19c9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-031",
+      "exampleFr": "Le terme « il reste... » signifie ici « 剩下…… ».",
+      "exampleZh": "这里的“il reste...”表示“剩下……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "255054059a726eb619d74dfd4a368a629e9ddd56982136347fe5027ea83067a5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-032",
+      "exampleFr": "Le terme « retrouver » signifie ici « 重逢 ».",
+      "exampleZh": "这里的“retrouver”表示“重逢”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "076eff6de8f0d850324b341de275145df2f6bcbbe4d53109c00d380a610b14c7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-033",
+      "exampleFr": "Le terme « roman » signifie ici « 小说 ».",
+      "exampleZh": "这里的“roman”表示“小说”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2833867c84752f4c2dcd89fbbe9c485856664ade46f529a64ff36b77b7a79974"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-034",
+      "exampleFr": "Le terme « sujet » signifie ici « 问题 ».",
+      "exampleZh": "这里的“sujet”表示“问题”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "46d97fa0b0021bbfc88f01512d01fb80335ee59813046926c4c3af0d920d5c5f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-035",
+      "exampleFr": "Le terme « Tokyo » signifie ici « 东京 ».",
+      "exampleZh": "这里的“Tokyo”表示“东京”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bc236e69a591230a291ad0850f0e6a1148644cb2a05ac46de648fe98e96e0280"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-036",
+      "exampleFr": "Le terme « traditionnel » signifie ici « 传统的 ».",
+      "exampleZh": "这里的“traditionnel”表示“传统的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ad018e77659471847bcb587000381d08e2aef8d00779a4994d977b2c56b12e76"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-037",
+      "exampleFr": "Le terme « triste » signifie ici « 伤心的 ».",
+      "exampleZh": "这里的“triste”表示“伤心的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f8c823c2067b7adc10aa983831d203c11ccc09b75a4f9c817aade243b319d3d7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l22-038",
+      "exampleFr": "Le terme « UV » signifie ici « 紫外线（ultraviolet 的缩写） ».",
+      "exampleZh": "这里的“UV”表示“紫外线（ultraviolet 的缩写）”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.324Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4a7ebcc6db8644bec60d1eab29720f1ee99f44fc7c82300edb84c15e4764199d"
       }
     }
   ]

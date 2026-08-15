@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u8l30",
-  "generatedAt": "2026-08-13T08:58:31.461Z",
+  "generatedAt": "2026-08-15T13:13:00.874Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -24,21 +24,21 @@
     },
     {
       "entryId": "entry-1350",
-      "exampleFr": "On peut agir ici.",
-      "exampleZh": "在这里可以有关于。",
-      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "exampleFr": "Le terme « agir » signifie ici « 有关 ».",
+      "exampleZh": "这里的“agir”表示“有关”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.210Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "606131146f1d8369843748ba5e3fc69e926fe3905fa7b74f41ddc6be573a03d2"
+        "reviewedAt": "2026-08-15T13:13:01.104Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9d8a7fc7afa5beaa0f7d15ac74105cb795c319c8b14e82c8617216327415d0c7"
       }
     },
     {
@@ -176,21 +176,21 @@
     },
     {
       "entryId": "entry-1358",
-      "exampleFr": "On peut enerver ici.",
-      "exampleZh": "在这里可以〈俗〉使激动。",
+      "exampleFr": "Le terme « énerver » signifie ici « 〈俗〉使激动 ».",
+      "exampleZh": "这里的“énerver”表示“〈俗〉使激动”。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.210Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "110e428446bff9077e3e4b4d1938c2ae99fc2be8e28cecf46fe7f1db737888a3"
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2986ebc2f09b45cd3f026605d05cd4ae4ee61cc78c2fa8da5ef67d710b226eec"
       }
     },
     {
@@ -267,6 +267,234 @@
         "reviewedAt": "2026-08-13T09:24:26.210Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "e86c148c4dc17f81b72c360a27c978f23300e6c859839d7c80bab3eb46eee320"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-015",
+      "exampleFr": "Le terme « profiter » signifie ici « 利用 ».",
+      "exampleZh": "这里的“profiter”表示“利用”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.104Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "06253ecbc0529dc82cff65a4d48324da906274ed63ef02ed41f5b75d4c0fe3bb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-016",
+      "exampleFr": "Le terme « proposer... à qn » signifie ici « 向某人推荐…… ».",
+      "exampleZh": "这里的“proposer... à qn”表示“向某人推荐……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "42aa59f13f4be3fdf7c0f46ab99b5c547d262f14adae864d494672c21befa7dd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-017",
+      "exampleFr": "Le terme « proposer de faire qch. à qn » signifie ici « 向某人推荐做某事 ».",
+      "exampleZh": "这里的“proposer de faire qch. à qn”表示“向某人推荐做某事”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "045349db5298e49cc01e2b3ed12bc2c77826eb8fd45081945815a2c63e87bbec"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-018",
+      "exampleFr": "Le terme « quitter » signifie ici « 分离 ».",
+      "exampleZh": "这里的“quitter”表示“分离”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0eb9ceeada8e92a53e56cd2df1d444ecebbe5e7b6cae01b29d05203c0bfa8241"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-019",
+      "exampleFr": "Le terme « récit » signifie ici « 叙述 ».",
+      "exampleZh": "这里的“récit”表示“叙述”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "29ea6e725c6774a3481e08057a87569718b622ad937c3e47723839846dfb2cdf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-020",
+      "exampleFr": "Le terme « réapparaître » signifie ici « 再现 ».",
+      "exampleZh": "这里的“réapparaître”表示“再现”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0825dc936db26344fc9f661f744b47157f567cde0f0a43e585d050ce4e7b50ca"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-021",
+      "exampleFr": "Le terme « reconnaître » signifie ici « 认出 ».",
+      "exampleZh": "这里的“reconnaître”表示“认出”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3d0407ef7e9621a70ca9f4e5aea9174b86b578d822000bb37237acc9e12a418a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-022",
+      "exampleFr": "Le terme « redonner » signifie ici « 归还 ».",
+      "exampleZh": "这里的“redonner”表示“归还”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "398e5d0fbc73c8457835863c4e827bf5bf6643c773a625b9e1bdfdbf5e42bc4d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-023",
+      "exampleFr": "Le terme « rencontrer » signifie ici « 碰见 ».",
+      "exampleZh": "这里的“rencontrer”表示“碰见”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9d1f6fa126ea9e3f5baf0f2bd37b0ef3900c16424551f672529c12398cfd9c44"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-024",
+      "exampleFr": "Le terme « terminus » signifie ici « （铁路、公共汽车等的）终点站 ».",
+      "exampleZh": "这里的“terminus”表示“（铁路、公共汽车等的）终点站”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dce3eca4360ba4e0eba29f8dc9d07b11eb536ddf0f3d4d4df58379c88c9cfe81"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-025",
+      "exampleFr": "Le terme « titre » signifie ici « 书名 ».",
+      "exampleZh": "这里的“titre”表示“书名”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f36979e64dd6faa7ca3a3d1f012f6bef4e3991100d472bb5fe92db9015ee108e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l30-026",
+      "exampleFr": "Le terme « vague » signifie ici « 不明确的 ».",
+      "exampleZh": "这里的“vague”表示“不明确的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.330Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "90266e69982c898037ea77d035ba6747a8bf2093719061795f87983b59eeb4e5"
       }
     }
   ]

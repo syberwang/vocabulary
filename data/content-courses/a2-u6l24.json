@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u6l24",
-  "generatedAt": "2026-08-13T08:58:31.457Z",
+  "generatedAt": "2026-08-15T13:13:00.872Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -229,6 +229,158 @@
         "reviewedAt": "2026-08-13T09:24:26.204Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "97d670bda4e7b463d16708d462186531b39b63d86380032567e752b4cf56b42b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-013",
+      "exampleFr": "Le terme « objectif » signifie ici « 目标 ».",
+      "exampleZh": "这里的“objectif”表示“目标”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bc4538cff1bfe2e0be1d1d70fed3ea817c4a789c7f56f87afd60d32a8dd3c036"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-014",
+      "exampleFr": "Le terme « participant » signifie ici « 参加者 ».",
+      "exampleZh": "这里的“participant”表示“参加者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ff5e1a0dfef3c431333675c7b75e74a3bb385f4e63acd4e671a432e8e330a569"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-015",
+      "exampleFr": "Le terme « peur » signifie ici « 害怕 ».",
+      "exampleZh": "这里的“peur”表示“害怕”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1bcea053a0601f0776a313b349d9dea7271400afaa5453fc669669a4a6aa9ac1"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-016",
+      "exampleFr": "Le terme « inf. » signifie ici « 怕 ».",
+      "exampleZh": "这里的“inf.”表示“怕”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.100Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b8330712d52a6cb9707a2c0d3930987aff03c1f747c4d8b395706fcab6301159"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-017",
+      "exampleFr": "Le terme « pique-nique » signifie ici « 野餐 ».",
+      "exampleZh": "这里的“pique-nique”表示“野餐”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f04d0f07ab03fbac9ff763e32f96d35395e354db35759d50e875ca758aaf8d61"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-018",
+      "exampleFr": "Le terme « regrouper » signifie ici « 集中 ».",
+      "exampleZh": "这里的“regrouper”表示“集中”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6f5bd49fcb20c26dfb20a93c269b4452b803083cf1958f0bd9f8911908b2847f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-019",
+      "exampleFr": "Le terme « réunir » signifie ici « 聚集 ».",
+      "exampleZh": "这里的“réunir”表示“聚集”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b7a3fbb0fdbf5bdf8ca5f3c69f493be17dcd3b8e24edfad73e8ef6961a6832df"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l24-020",
+      "exampleFr": "Le terme « solitude » signifie ici « 孤独 ».",
+      "exampleZh": "这里的“solitude”表示“孤独”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.326Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "65f15625d09eef7016a0be8f1f4e022cb874f3be84cc54d8237a43f8af9efa9d"
       }
     }
   ]

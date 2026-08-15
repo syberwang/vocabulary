@@ -1,25 +1,25 @@
 {
   "courseId": "a2-u8l29",
-  "generatedAt": "2026-08-13T08:58:31.460Z",
+  "generatedAt": "2026-08-15T13:13:00.874Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
       "entryId": "entry-1337",
-      "exampleFr": "Léa dit : « apprendre à inf.. »",
-      "exampleZh": "蕾雅说：“（动词变位同。”",
+      "exampleFr": "Le terme « apprendre à + inf. » signifie ici « 学习…… ».",
+      "exampleZh": "这里的“apprendre à + inf.”表示“学习……”。",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "4dd52f6ecd9fdd0123a50bcf9d7459eed8dc6c0894ca85d44a88144052fc5382"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5544e25fbfd2fe09dd1680ad8f68e4fc649a8a26e949178f4e929aedbb3a48c3"
       }
     },
     {
@@ -62,21 +62,21 @@
     },
     {
       "entryId": "entry-1340",
-      "exampleFr": "Léa dit : « les autres. »",
-      "exampleZh": "蕾雅说：“所有其他的人。”",
-      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "exampleFr": "Le terme « les autres » signifie ici « 所有其他的人 ».",
+      "exampleZh": "这里的“les autres”表示“所有其他的人”。",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "999b5e3df1feb138637ca0c3ea2736726cd5ace45a0a95e7aea0c0b6fc8417a0"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3879f55d6faf0db4846c5b724bfbdd946702f85aab9164d4eec2bbceb62dc86f"
       }
     },
     {
@@ -119,21 +119,21 @@
     },
     {
       "entryId": "entry-1343",
-      "exampleFr": "Il répond en tout tous cas.",
-      "exampleZh": "他不管怎样回答。",
+      "exampleFr": "Le terme « en tout cas » signifie ici « 不管怎样 ».",
+      "exampleZh": "这里的“en tout cas”表示“不管怎样”。",
       "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "6580e45580051e962058b110e58922b8fd51255d996630697757a5928bb81589"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3ee4a8f39bf96862cbf6a1bbfcc6d8c6aea47bdac584c21af1ab36b518a85125"
       }
     },
     {
@@ -157,59 +157,59 @@
     },
     {
       "entryId": "entry-1345",
-      "exampleFr": "Léa dit : « chercher à inf.. »",
-      "exampleZh": "蕾雅说：“力图力求做某事。”",
+      "exampleFr": "Le terme « chercher à + inf. » signifie ici « 力图、力求做某事 ».",
+      "exampleZh": "这里的“chercher à + inf.”表示“力图、力求做某事”。",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "6fe8a9997f5425e45bbc519a3bd5f8f65a33295fa0bfd8f325caeb19dfebba68"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "da2de680ac1a2e7e6fbc74f15d897a8ba000e17cc2a8e81a1915ed259198b8c4"
       }
     },
     {
       "entryId": "entry-1346",
-      "exampleFr": "Voici un BJA circuit.",
-      "exampleZh": "这里有一个弯曲的路。",
+      "exampleFr": "Le terme « circuit » signifie ici « 弯曲的路 ».",
+      "exampleZh": "这里的“circuit”表示“弯曲的路”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "e71eb43a83d8f5648543c50b8c043a83f4f61d74e93b526058bfe773029c7bf7"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d3158ab1da418abc9e5945af446a9f66abb5178e449089e7d68c3ac8ca764752"
       }
     },
     {
       "entryId": "entry-1347",
-      "exampleFr": "Voici un circuit.",
-      "exampleZh": "这里有一个弯曲的路。",
+      "exampleFr": "Le terme « circuit touristique » signifie ici « 旅游路线 ».",
+      "exampleZh": "这里的“circuit touristique”表示“旅游路线”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.209Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "0aa7e8e7d92ce594b965ddf6261f26932aebb541061a9a032e57f58452b395f8"
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "569d6af7109095104c006406997fb5ac896b8f08d929a0a9d2117b8701929d28"
       }
     },
     {
@@ -229,6 +229,234 @@
         "reviewedAt": "2026-08-13T09:24:26.209Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "63308a3279f460c945a161e35d32b353b140bff1038c253b839b0fdb182158ad"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-013",
+      "exampleFr": "Le terme « découverte » signifie ici « 发现 ».",
+      "exampleZh": "这里的“découverte”表示“发现”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cad69ac5190a42605c325d142351cfe0e1cf12115bf459fc7ebf1b16ce026864"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-014",
+      "exampleFr": "Le terme « découvrir » signifie ici « 揭开盖子 ».",
+      "exampleZh": "这里的“découvrir”表示“揭开盖子”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5a6f900ee21fed25a8c5e7b7eb905c07d8d9b8f35ed26c941e720171a94218c6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-015",
+      "exampleFr": "Le terme « emmener » signifie ici « 带走（人） ».",
+      "exampleZh": "这里的“emmener”表示“带走（人）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3de96247f4c57b7fd97cfa22edcafc1eb1a2d824953fbf0c11c04f02182b7b76"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-016",
+      "exampleFr": "Le terme « façon » signifie ici « 方式 ».",
+      "exampleZh": "这里的“façon”表示“方式”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f21c83e8c82e1fd74283e079fec94c91983af8cca61b56586023f2d2ad7df8c1"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-017",
+      "exampleFr": "Le terme « fantastique » signifie ici « 〈引 ».",
+      "exampleZh": "这里的“fantastique”表示“〈引”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5b6f00f513858708b98ce9bcf2126a8effd30b712ec88d1f1d4e2c033f026648"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-018",
+      "exampleFr": "Le terme « génial » signifie ici « 天才的 ».",
+      "exampleZh": "这里的“génial”表示“天才的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c0b5b545fdc2b27d5f9dcaf6be6ae6f90d019f155f96fa86274c17fe026b398e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-019",
+      "exampleFr": "Le terme « hiver » signifie ici « 冬天 ».",
+      "exampleZh": "这里的“hiver”表示“冬天”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4b23fa7eb3c4f964645ba3ea38b6d3f2e6e335c72870a5e556fe6687ec473388"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-020",
+      "exampleFr": "Le terme « liberté » signifie ici « 自由 ».",
+      "exampleZh": "这里的“liberté”表示“自由”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "664aef028a8bc1cc106a412b80e94ffc3cd1df78b28319eb06f76f4176b25002"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-021",
+      "exampleFr": "Le terme « merveilleux » signifie ici « 令人赞叹的 ».",
+      "exampleZh": "这里的“merveilleux”表示“令人赞叹的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3953c7686ae67fcaa76cb57c95cc34f9c0e61af7c819c987468b59029af2748a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-022",
+      "exampleFr": "Le terme « navigateur » signifie ici « 航海者 ».",
+      "exampleZh": "这里的“navigateur”表示“航海者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1aef5a0f1565f9e6068655391073ab8021199f705bbb12f5758cea577619b011"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-023",
+      "exampleFr": "Le terme « printemps » signifie ici « 春天 ».",
+      "exampleZh": "这里的“printemps”表示“春天”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f461e4cb0e53625a1d72c3df5b3e3e51e61bfc2026a9b63b674fbf7d8488310f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l29-024",
+      "exampleFr": "Le terme « séjour » signifie ici « 逗留 ».",
+      "exampleZh": "这里的“séjour”表示“逗留”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.329Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c287c0d21740e72d50e612578d39af10bf959f3c339156844d6cb03cd053720c"
       }
     }
   ]

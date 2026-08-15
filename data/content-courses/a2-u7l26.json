@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u7l26",
-  "generatedAt": "2026-08-13T08:58:31.458Z",
+  "generatedAt": "2026-08-15T13:13:00.872Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -343,6 +343,234 @@
         "reviewedAt": "2026-08-13T09:24:26.206Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "2090f5734233da233776fae3ef0a7adc28c7bb93d6b90dfcf5ea3e1195f3acaa"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-019",
+      "exampleFr": "Le terme « priorité » signifie ici « 优先（权） ».",
+      "exampleZh": "这里的“priorité”表示“优先（权）”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cf6a36d8254c4eec300778623d712a642b6baadea4345a3d2a4f5949bba028a6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-020",
+      "exampleFr": "Le terme « raccrocher » signifie ici « 挂断电话 ».",
+      "exampleZh": "这里的“raccrocher”表示“挂断电话”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0ee7a47269a5380013507d989618f3d2bf6c3e5c3a453c2cec993f07d10d765f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-021",
+      "exampleFr": "Le terme « réduire » signifie ici « 减少 ».",
+      "exampleZh": "这里的“réduire”表示“减少”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "381354a78233021e9d95c427578c68817ac3ed8ff241fcebbd2c55f4475604dd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-022",
+      "exampleFr": "Le terme « routier » signifie ici « 道路的 ».",
+      "exampleZh": "这里的“routier”表示“道路的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e092c688d876fd113e4f7374ae555bbd40fea768d20098e85edeb1ada8dcb3d2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-023",
+      "exampleFr": "Le terme « seconde » signifie ici « 秒 ».",
+      "exampleZh": "这里的“seconde”表示“秒”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d652d8dfbd30e4d732fb3b0ced3f1358703bc93eeecf53c676cdbb61b7116312"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-024",
+      "exampleFr": "Le terme « sécurité » signifie ici « 安全 ».",
+      "exampleZh": "这里的“sécurité”表示“安全”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "35a2544f3fc2e17a073baa2e10855aa2407111064c020a58e2cbb9265c1b954c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-025",
+      "exampleFr": "Le terme « sécurité routière » signifie ici « 道路（交通）安全 ».",
+      "exampleZh": "这里的“sécurité routière”表示“道路（交通）安全”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e5516b85ca4fa71141f27e34e7ac663338c8c7471e9409e0a07820b30a7fd85a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-026",
+      "exampleFr": "Le terme « sérieux » signifie ici « 认真的 ».",
+      "exampleZh": "这里的“sérieux”表示“认真的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bed83a15d86d8ef2d64ee5e41686f360c9af48161125b5c19516110af9b22afa"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-027",
+      "exampleFr": "Le terme « souci » signifie ici « 担心 ».",
+      "exampleZh": "这里的“souci”表示“担心”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bf5197be9823adcc10a18df68aefd857ff76093c2cd503ae61b3df323cd2b420"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-028",
+      "exampleFr": "Le terme « surtout » signifie ici « 尤其 ».",
+      "exampleZh": "这里的“surtout”表示“尤其”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9a3d93dce6c74f435e1dcdf8ba4fad8264126d5cf27f87bb13e5607d2fdcd268"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-029",
+      "exampleFr": "Le terme « volant » signifie ici « 驾驶盘 ».",
+      "exampleZh": "这里的“volant”表示“驾驶盘”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "90fe129f5aa485636f0cdf70a79aed979829c33b217e33174c5953d52c82734d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u7l26-030",
+      "exampleFr": "Le terme « au volant » signifie ici « 驾车行进中 ».",
+      "exampleZh": "这里的“au volant”表示“驾车行进中”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.327Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "25ac00f2303d3368f9c79a3aedf671800a6c38f8449b3a746f1344d97206577d"
       }
     }
   ]

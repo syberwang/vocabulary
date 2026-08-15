@@ -3,6 +3,12 @@ import path from "node:path";
 import XLSX from "xlsx";
 
 const root = process.cwd();
+const dataPath = path.join(root, "data", "vocabulary.json");
+const pdfAdditionsPath = path.join(root, "data", "pdf-vocabulary-additions.json");
+const previousData = fs.existsSync(dataPath) ? JSON.parse(fs.readFileSync(dataPath, "utf8")) : null;
+const previousEntries = new Map((previousData?.entries ?? []).map((entry) => [entry.id, entry]));
+const pdfAdditions = JSON.parse(fs.readFileSync(pdfAdditionsPath, "utf8"));
+const pdfCorrections = new Map(pdfAdditions.corrections.map((correction) => [correction.entryId, correction]));
 const workbookPath = fs
   .readdirSync(root)
   .map((name) => path.join(root, name))
@@ -113,6 +119,8 @@ function expandAnswers(word) {
     answers.add(optional[1]);
     answers.add(`${optional[1]}${optional[2]}`);
   }
+  const withoutParentheticals = base.replace(/\([^)]*\)/g, "").replace(/\s+/g, " ").trim();
+  if (withoutParentheticals && withoutParentheticals !== base) answers.add(withoutParentheticals);
   if (base.includes(" / ")) base.split(" / ").forEach((part) => answers.add(part.trim()));
   return [...answers].filter(Boolean);
 }
@@ -123,6 +131,27 @@ function fallbackExample(word, zh) {
     `这一课学习“${zh.split(/[；，]/)[0]}”这个词或表达。`,
     "示例为导入占位内容，需在内容后台结合讲义校对。",
   ];
+}
+
+function contentFields(entry, fallbackStatus, contentChanged = false) {
+  const previous = previousEntries.get(entry.id);
+  const unchanged = previous && !contentChanged && previous.word === entry.word && previous.pos === entry.pos && previous.zh === entry.zh;
+  if (unchanged) {
+    return {
+      exampleFr: previous.exampleFr,
+      exampleZh: previous.exampleZh,
+      usageNote: previous.usageNote,
+      contentStatus: previous.contentStatus,
+      contentVersion: previous.contentVersion,
+      exampleSource: previous.exampleSource,
+      contentRisk: previous.contentRisk,
+      contentReview: previous.contentReview,
+    };
+  }
+  return {
+    contentStatus: fallbackStatus,
+    contentVersion: Math.max(1, Number(previous?.contentVersion ?? 0) + (previous ? 1 : 0)),
+  };
 }
 
 const entries = [];
@@ -141,17 +170,22 @@ rows.forEach((row, index) => {
   const rawZh = clean(row[8]);
   const grouped = groupedFormsByRow.get(sourceRow);
   const verified = verifiedCorrectionsByRow.get(sourceRow);
-  const word = verified?.word ?? grouped?.word ?? normalizedWord(rawWord, level, courseCode, rawZh);
-  const zh = verified?.zh ?? grouped?.zh ?? translationCorrections.get(rawWord) ?? rawZh;
-  const pos = verified?.pos ?? grouped?.pos ?? inferPos(rawPos || (word === "or" ? "n.m." : ""), word, zh);
+  const id = `entry-${sourceRow}`;
+  const correction = pdfCorrections.get(id);
+  const word = correction?.word ?? verified?.word ?? grouped?.word ?? normalizedWord(rawWord, level, courseCode, rawZh);
+  const zh = correction?.zh ?? verified?.zh ?? grouped?.zh ?? translationCorrections.get(rawWord) ?? rawZh;
+  const pos = correction?.pos ?? verified?.pos ?? grouped?.pos ?? inferPos(rawPos || (word === "or" ? "n.m." : ""), word, zh);
   const courseId = `${level.toLowerCase()}-${courseCode.toLowerCase()}`;
   const courseTitle = clean(row[5]) || `${level} · 第 ${unit} 单元 · 第 ${lesson} 课`;
-  const [exampleFr, exampleZh, usageNote] = verified?.example ?? exampleCorrections.get(rawWord || word) ?? fallbackExample(word, zh);
-  const contentStatus = groupedContinuationRows.has(sourceRow)
+  const [fallbackExampleFr, fallbackExampleZh, fallbackUsageNote] = verified?.example ?? exampleCorrections.get(rawWord || word) ?? fallbackExample(word, zh);
+  const fallbackStatus = groupedContinuationRows.has(sourceRow)
     ? "quarantined"
     : word && pos && zh
       ? (verified || exampleCorrections.has(rawWord || word) ? "approved" : "needs_review")
       : "quarantined";
+  const previousEntry = previousEntries.get(id);
+  const correctionChanged = Boolean(correction) && (!previousEntry || previousEntry.word !== word || previousEntry.pos !== pos || previousEntry.zh !== zh);
+  const preserved = contentFields({ id, word, pos, zh }, correction ? "needs_review" : fallbackStatus, correctionChanged);
 
   if (!courses.has(courseId)) {
     courses.set(courseId, {
@@ -168,7 +202,6 @@ rows.forEach((row, index) => {
     });
   }
 
-  const id = `entry-${sourceRow}`;
   const course = courses.get(courseId);
   course.entryIds.push(id);
   course.sourceStartPage = Math.min(course.sourceStartPage, Number(row[9]));
@@ -186,16 +219,53 @@ rows.forEach((row, index) => {
     pos,
     zh,
     acceptedAnswers: expandAnswers(word),
-    exampleFr,
-    exampleZh,
-    usageNote,
+    exampleFr: preserved.exampleFr ?? fallbackExampleFr,
+    exampleZh: preserved.exampleZh ?? fallbackExampleZh,
+    usageNote: preserved.usageNote ?? fallbackUsageNote,
     sourcePage: Number(row[9]),
-    sourceMethod: clean(row[10]),
+    sourceMethod: correction ? pdfAdditions.sourceMethod : clean(row[10]),
     raw: { word: rawWord || null, pos: rawPos || null, zh: rawZh || null },
-    contentStatus,
-    contentVersion: 1,
+    ...preserved,
   });
 });
+
+for (const [courseId, courseAdditions] of Object.entries(pdfAdditions.courses)) {
+  const course = courses.get(courseId);
+  if (!course) throw new Error(`PDF 补录课程不存在：${courseId}`);
+  const seenPositions = new Set();
+  for (const addition of courseAdditions.entries) {
+    if (seenPositions.has(addition.position)) throw new Error(`PDF 补录表格位置重复：${courseId} #${addition.position}`);
+    seenPositions.add(addition.position);
+    const id = `pdf-${courseId}-${String(addition.position).padStart(3, "0")}`;
+    const sourceRow = Number(pdfAdditions.sourceRowRanges[course.level]) + course.lesson * 100 + addition.position;
+    if (entries.some((entry) => entry.id === id || entry.sourceRow === sourceRow)) throw new Error(`PDF 补录 ID/sourceRow 冲突：${id}`);
+    const acceptedAnswers = expandAnswers(addition.word);
+    const [fallbackExampleFr, fallbackExampleZh, fallbackUsageNote] = fallbackExample(addition.word, addition.zh);
+    const preserved = contentFields({ id, word: addition.word, pos: addition.pos, zh: addition.zh }, "needs_review");
+    entries.push({
+      id,
+      sourceRow,
+      tablePosition: addition.position,
+      courseId,
+      level: course.level,
+      unit: course.unit,
+      lesson: course.lesson,
+      courseCode: course.code,
+      word: addition.word,
+      pos: addition.pos,
+      zh: addition.zh,
+      acceptedAnswers,
+      exampleFr: preserved.exampleFr ?? fallbackExampleFr,
+      exampleZh: preserved.exampleZh ?? fallbackExampleZh,
+      usageNote: preserved.usageNote ?? fallbackUsageNote,
+      sourcePage: courseAdditions.sourcePage,
+      sourceMethod: pdfAdditions.sourceMethod,
+      raw: { word: addition.word, pos: addition.pos, zh: addition.zh, pdfTablePosition: addition.position },
+      ...preserved,
+    });
+    course.entryIds.push(id);
+  }
+}
 
 const courseList = [...courses.values()]
   .map((course) => ({ ...course, wordCount: entries.filter((entry) => entry.courseId === course.id && entry.contentStatus !== "quarantined").length }))
@@ -206,6 +276,9 @@ const output = {
     generatedAt: new Date().toISOString(),
     sourceWorkbook: path.basename(workbookPath),
     sourcePdfs: fs.readdirSync(root).filter((name) => name.toLowerCase().endsWith(".pdf")),
+    pdfAdditionManifestVersion: pdfAdditions.version,
+    pdfAddedEntries: Object.values(pdfAdditions.courses).reduce((sum, course) => sum + course.entries.length, 0),
+    pdfCorrectedEntries: pdfAdditions.corrections.length,
     courseCount: courseList.length,
     entryCount: entries.length,
     approvedExamples: entries.filter((entry) => entry.contentStatus === "approved").length,

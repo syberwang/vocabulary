@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u8l32",
-  "generatedAt": "2026-08-13T08:58:31.462Z",
+  "generatedAt": "2026-08-15T13:13:00.876Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -191,6 +191,367 @@
         "reviewedAt": "2026-08-13T09:24:26.212Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "bc2982bea1ac2c83ef51bb449926ccba3b6369e62e21e39314da2861a1845f74"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-011",
+      "exampleFr": "Le terme « désir » signifie ici « 愿望 ».",
+      "exampleZh": "这里的“désir”表示“愿望”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "80239661e93a37df57c669dc69b6ac2abbdeac5b4b7253736e2f14a4ef588aec"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-012",
+      "exampleFr": "Le terme « émotion » signifie ici « 感情 ».",
+      "exampleZh": "这里的“émotion”表示“感情”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bf0230e1c904192e04e3ec22989ca38388b1cc1193be747da137a26f3924ef37"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-013",
+      "exampleFr": "Le terme « Équateur » signifie ici « 厄瓜多尔 ».",
+      "exampleZh": "这里的“Équateur”表示“厄瓜多尔”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "19d425d5225bef0e28ed1f25e3278a3a0ed3fc43a20d87a9c435fa0b620ff1fc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-014",
+      "exampleFr": "Le terme « éveiller » signifie ici « 睡醒 ».",
+      "exampleZh": "这里的“éveiller”表示“睡醒”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "27fd851c3badc3d8b54ce644b11261024b4017b42fd1640d5a93258616a03f79"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-015",
+      "exampleFr": "Le terme « fou » signifie ici « 疯的 ».",
+      "exampleZh": "这里的“fou”表示“疯的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e903c0b655f13cc891f8ffbab57b1bb9fead4e9a540781bec44d28ede7cc6440"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-016",
+      "exampleFr": "Le terme « Pacifique » signifie ici « 太平洋 ».",
+      "exampleZh": "这里的“Pacifique”表示“太平洋”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.105Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e786c9e5df961728336c6f805a5853dbdfeac32b53ff9efa9bbda059cf5e967c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-017",
+      "exampleFr": "Le terme « poésie » signifie ici « 诗 ».",
+      "exampleZh": "这里的“poésie”表示“诗”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "010f2adfec60a663be869d47ce644947f113c782675a10c25ad578bc08fb9ab4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-018",
+      "exampleFr": "Le terme « prose » signifie ici « 散文 ».",
+      "exampleZh": "这里的“prose”表示“散文”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f4e4fab923cc892ba226015cb05de3d52b9f118f7cd549167f1cbb1e58999d20"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-019",
+      "exampleFr": "Le terme « sentiment » signifie ici « 感情 ».",
+      "exampleZh": "这里的“sentiment”表示“感情”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "258069d57fceba89b24e3a3a8d8549d54a936f0665c87e3b5d965e1cfae8cd7e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-020",
+      "exampleFr": "Le terme « Séville » signifie ici « 塞维利亚（西班牙安达卢西亚省首府） ».",
+      "exampleZh": "这里的“Séville”表示“塞维利亚（西班牙安达卢西亚省首府）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6ab1f627e425b2ba1fac1e913705747b1221a95603401552bae2b70f128e753f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-021",
+      "exampleFr": "Le terme « garder » signifie ici « 保存 ».",
+      "exampleZh": "这里的“garder”表示“保存”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5c276bfad45f5fd39b0b8a059d1f953758966a3916eedc58689aa8144f27831b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-022",
+      "exampleFr": "Le terme « illuminer » signifie ici « 变亮 ».",
+      "exampleZh": "这里的“illuminer”表示“变亮”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1b113aa73fa04d8c64bb54243f9c141f187e1343845f297480c9e8ff490f814d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-023",
+      "exampleFr": "Le terme « jazz » signifie ici « 爵士乐 ».",
+      "exampleZh": "这里的“jazz”表示“爵士乐”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2f84c9d4c38d1e122271cf0fa0b2fd595ba2a327d2a07970db8d8d63d6e8ca8a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-024",
+      "exampleFr": "Le terme « lieue » signifie ici « 法国古里（约合4公里） ».",
+      "exampleZh": "这里的“lieue”表示“法国古里（约合4公里）”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f7bc56c1e565c6f248a421bf9af805e34157bec71c7540c27818fe648848db97"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-025",
+      "exampleFr": "Le terme « Moscou » signifie ici « 莫斯科（俄罗斯首都） ».",
+      "exampleZh": "这里的“Moscou”表示“莫斯科（俄罗斯首都）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "82032a6ab35a314b4e7ea57a32bbce1676a878e17422069f19d28e01a3623a36"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-026",
+      "exampleFr": "Le terme « temple » signifie ici « 庙宇 ».",
+      "exampleZh": "这里的“temple”表示“庙宇”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "15b0f93c811f4a54874aea8afd3d22d0275d7ddc0896ae63860f2b327a50b32c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-027",
+      "exampleFr": "Le terme « tour » signifie ici « 轮值 ».",
+      "exampleZh": "这里的“tour”表示“轮值”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b1a6277b35bcc63b689f798bff6341e0b684ab2dc2b11cf6d0e2679acc195717"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-028",
+      "exampleFr": "Le terme « tour à tour » signifie ici « 依次 ».",
+      "exampleZh": "这里的“tour à tour”表示“依次”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6fd774f2fc7d40a955c06470bc469b8b4a986e9f88dcdda2fef627b56c68dcf1"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u8l32-029",
+      "exampleFr": "Le terme « transsibérien » signifie ici « 西伯利亚大铁路 ».",
+      "exampleZh": "这里的“transsibérien”表示“西伯利亚大铁路”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.331Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f6e5c3fe93ac47f47b8d82c1074deb07ec501e599ec3c57599d7129f27ec63be"
       }
     }
   ]

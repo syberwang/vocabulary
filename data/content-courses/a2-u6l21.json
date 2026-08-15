@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u6l21",
-  "generatedAt": "2026-08-13T08:58:31.455Z",
+  "generatedAt": "2026-08-15T13:13:00.870Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,234 @@
         "reviewedAt": "2026-08-13T09:24:26.199Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "79cd8637dff608549747c557f844000635adb6621da0a865f581fb3764e195f5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-015",
+      "exampleFr": "Le terme « jeu » signifie ici « 游戏 ».",
+      "exampleZh": "这里的“jeu”表示“游戏”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "208d2b1d6837b4456b09c84c5305ad9e4dba287f221db62413a089e95c600284"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-016",
+      "exampleFr": "Le terme « lecteur » signifie ici « 读者 ».",
+      "exampleZh": "这里的“lecteur”表示“读者”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6071de446d7bb13e9f75a8ce43bf4149c23e89eb0216dcc8fd183ab03075184d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-017",
+      "exampleFr": "Le terme « lecteur MP3 » signifie ici « MP3 播放器 ».",
+      "exampleZh": "这里的“lecteur MP3”表示“MP3 播放器”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d3d63304f01409208c380b540e8333c491fe291c7dd745aaa4a310f008ffa45a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-018",
+      "exampleFr": "Le terme « opération » signifie ici « 作用 ».",
+      "exampleZh": "这里的“opération”表示“作用”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "86ace1e524f3541692b330dee3896cf58e80c0655d17e684d1e84b2bb75ea1ea"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-019",
+      "exampleFr": "Le terme « personne » signifie ici « 无人 ».",
+      "exampleZh": "这里的“personne”表示“无人”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b9b69a1493cc7c12c12371e376a6fb422678419b811b07ae4e9dc0b15a053e5f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-020",
+      "exampleFr": "Le terme « rapidement » signifie ici « 快 ».",
+      "exampleZh": "这里的“rapidement”表示“快”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c730c6c58fa323dd78e29ee82ffd286a4a08a374d8629b22e476a0a06af87881"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-021",
+      "exampleFr": "Le terme « rechercher » signifie ici « 仔细寻找 ».",
+      "exampleZh": "这里的“rechercher”表示“仔细寻找”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "71d959580294cff51f4588b9969f3bec7b879758716e0cee6e33c6584de87063"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-022",
+      "exampleFr": "Le terme « rien » signifie ici « 没有什么东西 ».",
+      "exampleZh": "这里的“rien”表示“没有什么东西”。",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "25a36b2d54484518560748017eb185bbf24ea8071ec66f9cc1a50cfd83db1746"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-023",
+      "exampleFr": "Le terme « spécialisé » signifie ici « 专门的 ».",
+      "exampleZh": "这里的“spécialisé”表示“专门的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "af55e072d1136e1df6ba3de056322cc2e79978ff72776066e6029dbbc1c53704"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-024",
+      "exampleFr": "Le terme « télécharger » signifie ici « 下载（动漫或视频） ».",
+      "exampleZh": "这里的“télécharger”表示“下载（动漫或视频）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "84df0def18f5bb89f3f7ad359b388af1d3e5a75d67fd1ef46befe457da0ecd47"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-025",
+      "exampleFr": "Le terme « vidéo » signifie ici « 录像 ».",
+      "exampleZh": "这里的“vidéo”表示“录像”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ba094e732ba222d379ab85c9c01b53f43d232a224bcbd691d0c4d168aa604299"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l21-026",
+      "exampleFr": "Le terme « webcam » signifie ici « （网络）摄像头 ».",
+      "exampleZh": "这里的“webcam”表示“（网络）摄像头”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.323Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "58d2c8ac24cdedde390983fbafc0e7fc4eb10c2b98e71d57bfebc6ce756d1062"
       }
     }
   ]

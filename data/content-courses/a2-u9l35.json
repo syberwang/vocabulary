@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u9l35",
-  "generatedAt": "2026-08-13T08:58:31.464Z",
+  "generatedAt": "2026-08-15T13:13:00.877Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -229,6 +229,196 @@
         "reviewedAt": "2026-08-13T09:24:26.216Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "30c0605ecd951f40240c339b8acab325049fd1e4eef0dd630865dcc725c8ca26"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-013",
+      "exampleFr": "Le terme « partage » signifie ici « 分配 ».",
+      "exampleZh": "这里的“partage”表示“分配”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a8f999d6c6e6e7a37bc67afaa99952218b37edea0906156f421271f385471e84"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-014",
+      "exampleFr": "Le terme « plus ou moins » signifie ici « 或多或少 ».",
+      "exampleZh": "这里的“plus ou moins”表示“或多或少”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d9bd6af39e67681aef72ad3136badefe9f04c8999d4b831713e101ec40115caf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-015",
+      "exampleFr": "Le terme « promotion » signifie ici « 升级 ».",
+      "exampleZh": "这里的“promotion”表示“升级”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "889da1bac9ebe73d217e4e576df37cd10e8edf2bec7ebaf6fe6580917cc7dd8f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-016",
+      "exampleFr": "Le terme « réaliser » signifie ici « 明白 ».",
+      "exampleZh": "这里的“réaliser”表示“明白”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "65b24e771d97abca1140f828e62b96fcee9dae319e2d4326fedf971f51578f06"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-017",
+      "exampleFr": "Le terme « responsabilité » signifie ici « 责任 ».",
+      "exampleZh": "这里的“responsabilité”表示“责任”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cc5abccb66dbc5e3c8941033c6177d5d1af67e1a4af228645c6a8efa49fc076b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-018",
+      "exampleFr": "Le terme « rôle » signifie ici « 角色 ».",
+      "exampleZh": "这里的“rôle”表示“角色”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0fbc6e9016a467286f410370f552fd3f937f6a9455f9f1ccbde5aacbed3a153a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-019",
+      "exampleFr": "Le terme « solidarité » signifie ici « 团结一致 ».",
+      "exampleZh": "这里的“solidarité”表示“团结一致”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bfbfe99cfa18fc9c7138df0c007ba50dff469fa26fa0b104cc2a0c2f6b19cbc2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-020",
+      "exampleFr": "Le terme « utile » signifie ici « 有用的 ».",
+      "exampleZh": "这里的“utile”表示“有用的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "01c991cf84183cbca4335b8f5e6eb593497645b6d6a6b08ea2aeb0ab17387ec2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-021",
+      "exampleFr": "Le terme « valeur » signifie ici « 价值 ».",
+      "exampleZh": "这里的“valeur”表示“价值”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "77923fbe55a84981d857282b244000f568177301a54a1f78b9d63c1e2ca8c94e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l35-022",
+      "exampleFr": "Le terme « valeur » signifie ici « 社会准则 ».",
+      "exampleZh": "这里的“valeur”表示“社会准则”。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.333Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f65192543c553298f756d518b0f5b91b10dfd566a60b5c645931d4c0adb09e78"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u2l7",
-  "generatedAt": "2026-08-13T08:58:31.443Z",
+  "generatedAt": "2026-08-15T13:13:00.858Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,196 @@
         "reviewedAt": "2026-08-13T09:24:26.183Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "7ab262ac5aab4a3ba3b3bc77e33cf6f047fb15ac815a9b31ed92b3fe34a93fc8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-015",
+      "exampleFr": "Le terme « message » signifie ici « 信息 ».",
+      "exampleZh": "这里的“message”表示“信息”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6ff38f07b3130e61a1e9820973f090cd5eca092869092d1e54ad49f7dd9590df"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-016",
+      "exampleFr": "Le terme « organiser » signifie ici « 组织 ».",
+      "exampleZh": "这里的“organiser”表示“组织”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5785bcffdc9186945361bf1a105693c49b859e59e33088aea3ee2b10dbe3c145"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-017",
+      "exampleFr": "Le terme « passer » signifie ici « 放映（电影） ».",
+      "exampleZh": "这里的“passer”表示“放映（电影）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4a6aa0197cf5cabf429d771410db395f4387cc24c031437ecf2ebd59a54d3acc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-018",
+      "exampleFr": "Le terme « Pau » signifie ici « 波城（法国西南部城市） ».",
+      "exampleZh": "这里的“Pau”表示“波城（法国西南部城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "918372d92e0da27b122d5c9dd5b6ad24e363cc43b93e5c7d181b2f9197799500"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-019",
+      "exampleFr": "Le terme « Pyrénées » signifie ici « 比利牛斯山脉 ».",
+      "exampleZh": "这里的“Pyrénées”表示“比利牛斯山脉”。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.090Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "eb8e9dcfc1fb530a980e7db34156fd4ca58c88cdb55ba920672096cb3c82f36c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-020",
+      "exampleFr": "Le terme « réaliser » signifie ici « 实现 ».",
+      "exampleZh": "这里的“réaliser”表示“实现”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8779b51da121fc94089abefbf4793294568b6bf04280ecb6aeff36a30cf36733"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-021",
+      "exampleFr": "Le terme « région » signifie ici « 地区 ».",
+      "exampleZh": "这里的“région”表示“地区”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6b3dfb9878784a703aa546c0217de8b84fa0e7d24f87af9fc39dcc5080e73c04"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-022",
+      "exampleFr": "Le terme « seul » signifie ici « 唯一的 ».",
+      "exampleZh": "这里的“seul”表示“唯一的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dd28ff172804e421572f62bf035f19783b569fe6b71b2a7ee481a22408803452"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-023",
+      "exampleFr": "Le terme « spectacle » signifie ici « 演出 ».",
+      "exampleZh": "这里的“spectacle”表示“演出”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "14bc3ce6daf58a0df4aca46b1594e9ac2bc66ca88e292386647b56a81545a4ca"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u2l7-024",
+      "exampleFr": "Le terme « suivant » signifie ici « 下述的 ».",
+      "exampleZh": "这里的“suivant”表示“下述的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.312Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ee0955b8bb80deb698f7ce0c42f5c06fe765702d8f66048bfcd789d150bc74fb"
       }
     }
   ]

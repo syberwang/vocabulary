@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u3l12",
-  "generatedAt": "2026-08-13T08:58:31.447Z",
+  "generatedAt": "2026-08-15T13:13:00.863Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -229,6 +229,215 @@
         "reviewedAt": "2026-08-13T09:24:26.189Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "25421163c53d9ad5ba4bb0bad469bf199fa9f3b86798b96b570f183778b66d81"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-013",
+      "exampleFr": "Le terme « lumière » signifie ici « 光 ».",
+      "exampleZh": "这里的“lumière”表示“光”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "35d2a3b686bca1a6c4d5853cc315e7c7ac113de80ef5e5e1e257e478414ba285"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-014",
+      "exampleFr": "Le terme « maximal » signifie ici « 最大的 ».",
+      "exampleZh": "这里的“maximal”表示“最大的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "15bb743c6e6459ac9d211f1597ff37bc74b9d360281718ac8b6dcc21fb76310a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-015",
+      "exampleFr": "Le terme « Méditerranée » signifie ici « 地中海 ».",
+      "exampleZh": "这里的“Méditerranée”表示“地中海”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.092Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fd1fba8c44fa7a1714aba9acc67c5d9e59720f57517834edc6b1d01d1cf2c8ff"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-016",
+      "exampleFr": "Le terme « recherche » signifie ici « 研究 ».",
+      "exampleZh": "这里的“recherche”表示“研究”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fd9c676d2fc5cdb0a28dfb02aa77e57afe3fd5704db7b5320ae168a0a83a4a97"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-017",
+      "exampleFr": "Le terme « retenir » signifie ici « 记住 ».",
+      "exampleZh": "这里的“retenir”表示“记住”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "eeb23ade8ad652198bcd032103cb443d029a280f5d96d71e3df3389f2e0438b7"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-018",
+      "exampleFr": "Le terme « rose » signifie ici « 玫瑰红的 ».",
+      "exampleZh": "这里的“rose”表示“玫瑰红的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "aa521aa126a997af723a929b49adec37430725c7ae9e200310060278e6f30c2d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-019",
+      "exampleFr": "Le terme « santé » signifie ici « 健康 ».",
+      "exampleZh": "这里的“santé”表示“健康”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8b5d55fa53b0ae014942a36a9c2a7c691395ddc6cf1bc15d5c06f205b728a153"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-020",
+      "exampleFr": "Le terme « séjour » signifie ici « 起居室（多用于房产广告中） ».",
+      "exampleZh": "这里的“séjour”表示“起居室（多用于房产广告中）”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bbaa52d4f5c6c8b10db27262b647d4376c87b7e76344059da99713131f585370"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-021",
+      "exampleFr": "Le terme « spatial » signifie ici « 宇宙间的 ».",
+      "exampleZh": "这里的“spatial”表示“宇宙间的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "20e27f2b107ba49c6fc2689ed575bba136e3e007196ceb9e1a151bcc4d7c44bf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-022",
+      "exampleFr": "Le terme « Thalys » signifie ici « 塔里斯高速列车 ».",
+      "exampleZh": "这里的“Thalys”表示“塔里斯高速列车”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8948b78aa4d7975b72d28511ac58ee026e7c31211e3b2dcd33e0731386b34269"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l12-023",
+      "exampleFr": "Le terme « Toulouse » signifie ici « 图卢兹（法国南部城市） ».",
+      "exampleZh": "这里的“Toulouse”表示“图卢兹（法国南部城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5871b7fcb294bc3ded6a376b46fb6c07fabe45b3ed55920836cd3767e2e7efe7"
       }
     }
   ]

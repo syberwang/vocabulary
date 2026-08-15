@@ -1,25 +1,25 @@
 {
   "courseId": "a2-u5l20",
-  "generatedAt": "2026-08-13T08:58:31.454Z",
+  "generatedAt": "2026-08-15T13:13:00.870Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
       "entryId": "entry-1207",
-      "exampleFr": "C'est al lernand.",
-      "exampleZh": "这是德国的的。",
+      "exampleFr": "Le terme « allemand » signifie ici « 德国的 ».",
+      "exampleZh": "这里的“allemand”表示“德国的”。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.198Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "096bf449150937629c02da6efbe2b33bf5160d36c77e532dd89ffa1afd90f5ae"
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cfcebf554a79b2ee7d1971a9b158561b080a0ecb0b3f0d2d7aea13c65754e241"
       }
     },
     {
@@ -153,6 +153,462 @@
         "reviewedAt": "2026-08-13T09:24:26.198Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "c01361aac6d7d02f20702b5a31aae1ab40c7cbd0cd7e9cb5a1cdbbc9306a06d2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-001",
+      "exampleFr": "Le terme « Allemagne » signifie ici « 德国 ».",
+      "exampleZh": "这里的“Allemagne”表示“德国”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5cc2be8b1813254d32f1bfb4588a1ab6cd81122e401c50dfab1202369d53af1d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-006",
+      "exampleFr": "Le terme « carte » signifie ici « 菜单 ».",
+      "exampleZh": "这里的“carte”表示“菜单”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0f51a6bc8f24a2203379225851e4b1499092260b61ccdc4350f901eade246f3c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-011",
+      "exampleFr": "Le terme « Dublin » signifie ici « 都柏林（爱尔兰首都） ».",
+      "exampleZh": "这里的“Dublin”表示“都柏林（爱尔兰首都）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b75f2aace4931fe4deb75b49f786c3bca54cd54c745edb73beed20c803ae57d3"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-012",
+      "exampleFr": "Le terme « éducatif » signifie ici « 教育的 ».",
+      "exampleZh": "这里的“éducatif”表示“教育的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b6b70e85b538d485e9071c8df0289e5d95c70fdb21c8571b527a029b44c9c770"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-013",
+      "exampleFr": "Le terme « examen » signifie ici « 考试 ».",
+      "exampleZh": "这里的“examen”表示“考试”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b1f00625b694b102223a4a5977ae7eee2f14e665e158d737953353dc593ec920"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-014",
+      "exampleFr": "Le terme « job » signifie ici « 〈俗〉短工 ».",
+      "exampleZh": "这里的“job”表示“〈俗〉短工”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "61ca330d3ec7d3156e3da3f706bcad0d0cf8af40adc9c8064bf7f7fcf41fbe6f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-015",
+      "exampleFr": "Le terme « licence » signifie ici « 学士学位 ».",
+      "exampleZh": "这里的“licence”表示“学士学位”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "54fd20fc34451bd7df61b72bc41191bff9f3a46a2cfb9eca5893c89300f92094"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-016",
+      "exampleFr": "Le terme « maîtrise » signifie ici « 硕士学位 ».",
+      "exampleZh": "这里的“maîtrise”表示“硕士学位”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3f144a5f91787d3fbe8e2e53ec98e7b0641b1db928e232bb6a4624018c2ce508"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-017",
+      "exampleFr": "Le terme « manière » signifie ici « 方式 ».",
+      "exampleZh": "这里的“manière”表示“方式”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a32f8e645d386f7606c1b18f33321e4c53896c71256ba74805efcdd3d7be8a05"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-018",
+      "exampleFr": "Le terme « matière » signifie ici « 课程 ».",
+      "exampleZh": "这里的“matière”表示“课程”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "65396e1a94384accf728880bc391307904f098e684e065f5ec3bd69c3c08b9a9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-019",
+      "exampleFr": "Le terme « math » signifie ici « 〈俗〉数学（mathématiques） ».",
+      "exampleZh": "这里的“math”表示“〈俗〉数学（mathématiques）”。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5695ef8112848d7f3d3e52c61da95b7e22c82aad5ad1eeb45291f308dedf806c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-020",
+      "exampleFr": "Le terme « noter » signifie ici « （给……）评分 ».",
+      "exampleZh": "这里的“noter”表示“（给……）评分”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1b2b8c75e75403b28043648338b51ad6340ca6fd5a129b43261e9104245e513b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-021",
+      "exampleFr": "Le terme « obligatoire » signifie ici « 义务的 ».",
+      "exampleZh": "这里的“obligatoire”表示“义务的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b02db1373b7d0593d2db507230fa60ef096296a448cd1f40c50d5b88f0eda864"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-022",
+      "exampleFr": "Le terme « particularité » signifie ici « 特点 ».",
+      "exampleZh": "这里的“particularité”表示“特点”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8fabf48d1a27224a3322a99c92076d2476084e1a0a9fa86eeb9bba8fad1eb29f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-023",
+      "exampleFr": "Le terme « physique » signifie ici « 物理（学） ».",
+      "exampleZh": "这里的“physique”表示“物理（学）”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "972833b0a881d02038a6c5c066d881e263f22089f942e75a8bb6827803a3572c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-024",
+      "exampleFr": "Le terme « plein » signifie ici « 满的 ».",
+      "exampleZh": "这里的“plein”表示“满的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "df1e611378aeca377f0bdfb6c578602e2e8a3c945fb7fc536cf889604abbf2bb"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-025",
+      "exampleFr": "Le terme « plein de » signifie ici « 充满……的 ».",
+      "exampleZh": "这里的“plein de”表示“充满……的”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.097Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bb550bb2c2f8b1d1a860606e893042f7544c27b868d860870a73f9efc1a1523d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-026",
+      "exampleFr": "Le terme « redoublement » signifie ici « 留级 ».",
+      "exampleZh": "这里的“redoublement”表示“留级”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a73e05c55325ce1b422565892566c83b646a323dbb86e9134cc7446723935203"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-027",
+      "exampleFr": "Le terme « rendre » signifie ici « 还 ».",
+      "exampleZh": "这里的“rendre”表示“还”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "71b80391c1543eb29907d1913c9fcec053f2054219c36e145435e35afc40b844"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-028",
+      "exampleFr": "Le terme « Stuttgart » signifie ici « 斯图加特（德国城市） ».",
+      "exampleZh": "这里的“Stuttgart”表示“斯图加特（德国城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5ccd4f94c5f206de3cc7249c061180433a8d1e36bf414b37a639ac4a6fe7dc0f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-029",
+      "exampleFr": "Le terme « suivre » signifie ici « 关注 ».",
+      "exampleZh": "这里的“suivre”表示“关注”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f03550e4787aad7552811a7750cdca819b047eda889c16d11e7da606c172d87f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-030",
+      "exampleFr": "Le terme « tolérant » signifie ici « 宽容的 ».",
+      "exampleZh": "这里的“tolérant”表示“宽容的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3494246aa46a6ac2bdf2cbeb5386b604cfc3e4165f9aa8dd2a8434715ed35b09"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-031",
+      "exampleFr": "Le terme « tutorat » signifie ici « 监护制 ».",
+      "exampleZh": "这里的“tutorat”表示“监护制”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4eea4342031e2463ec20897bd3daedc9c46687f4ffc6d47a5c3fdcc8abc8b818"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l20-032",
+      "exampleFr": "Le terme « York » signifie ici « 约克（英国城市） ».",
+      "exampleZh": "这里的“York”表示“约克（英国城市）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.322Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "27805de3488fde101bf285592daf2377bc486f87531723bd61e35458e0eaa1d0"
       }
     }
   ]

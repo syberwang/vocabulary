@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u4l14",
-  "generatedAt": "2026-08-13T08:58:31.449Z",
+  "generatedAt": "2026-08-15T13:13:00.865Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -233,40 +233,420 @@
     },
     {
       "entryId": "entry-1135",
-      "exampleFr": "C'est ùfi féculent.",
-      "exampleZh": "这是含淀粉的的。",
+      "exampleFr": "Le terme « féculent » signifie ici « 含淀粉的 ».",
+      "exampleZh": "这里的“féculent”表示“含淀粉的”。",
       "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.191Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "754d66370fdd6408d607f4df90ff43b5822b31a3585c842056bb1423078f413d"
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9dd22001d090b28d5f14cdd4fc0edfa93198dc66feb11438951060756c5f409f"
       }
     },
     {
       "entryId": "entry-1136",
-      "exampleFr": "Voici un ijJ.",
-      "exampleZh": "这里有一个含淀粉物质。",
+      "exampleFr": "Le terme « féculent » signifie ici « 含淀粉物质 ».",
+      "exampleZh": "这里的“féculent”表示“含淀粉物质”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.191Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "decb0dc817672b92a742bdcf197eea1c8a468040b1c26489b1e03d3ba3f22b16"
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "5547f0d3af6749878b0f89ac453743d6dfa7f0060eeed208082cafb56ba6e01f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-015",
+      "exampleFr": "Le terme « fiche » signifie ici « 卡 ».",
+      "exampleZh": "这里的“fiche”表示“卡”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e030705808f8e1c53c795d67c12e563fe45fd6c93669f643954366e074efc8bc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-016",
+      "exampleFr": "Le terme « gras » signifie ici « 脂肪的 ».",
+      "exampleZh": "这里的“gras”表示“脂肪的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c6e2e5ec6f355c8a926fb138dbc29a21ed8e80e220cc7fe52d071ccd313e6abc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-017",
+      "exampleFr": "Le terme « laitier » signifie ici « 有关乳品的 ».",
+      "exampleZh": "这里的“laitier”表示“有关乳品的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d93fa0cb63aa7cd845ef444ac67bfab1a5b1422c75824df1ae94061900a4e81d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-018",
+      "exampleFr": "Le terme « limiter » signifie ici « 限制 ».",
+      "exampleZh": "这里的“limiter”表示“限制”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ae079cdbfddec14ee8567475e120930e5a51fd9fff8b287f6cd204a712b6ec16"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-019",
+      "exampleFr": "Le terme « marche » signifie ici « 步行 ».",
+      "exampleZh": "这里的“marche”表示“步行”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "de131e4327130a5ffa27c8e5b34607fe6b76ba5a48936c0f746674c71016f161"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-020",
+      "exampleFr": "Le terme « matière » signifie ici « 物质 ».",
+      "exampleZh": "这里的“matière”表示“物质”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3b1d024e9f63d5817f6067c9f9e14aeec940e47af7d744a4fcb2b0d07fdb0283"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-021",
+      "exampleFr": "Le terme « matières grasses » signifie ici « 油脂 ».",
+      "exampleZh": "这里的“matières grasses”表示“油脂”。",
+      "usageNote": "阴性复数名词；注意其单数形式和复数词尾。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c4e44383b60d5cc8c799d32c6437e0f6ce25ba869d4a1dfa3a5c20bda0d6a11e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-022",
+      "exampleFr": "Le terme « nutrition » signifie ici « 营养 ».",
+      "exampleZh": "这里的“nutrition”表示“营养”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dde71011f47abcd34eabd558b43293b3c9189b96f0ec912c6aa61cd31b7ae301"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-023",
+      "exampleFr": "Le terme « produit » signifie ici « 产品 ».",
+      "exampleZh": "这里的“produit”表示“产品”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1a2364ffdc385c7df3dd8676e31ca5aa50b96164d2d57b832a53c89b2f02bb29"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-024",
+      "exampleFr": "Le terme « quotidien » signifie ici « 每日的 ».",
+      "exampleZh": "这里的“quotidien”表示“每日的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8f1c39bc6af1799fc912176102abf9aeaf04c17935b06018d9af5f689d7d3648"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-025",
+      "exampleFr": "Le terme « quotidien » signifie ici « 日报 ».",
+      "exampleZh": "这里的“quotidien”表示“日报”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d20efeacd07f04b302ec250d1d6ea7110c5f5c8a617996b13315c1fb9e411def"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-026",
+      "exampleFr": "Le terme « au quotidien » signifie ici « 每天 ».",
+      "exampleZh": "这里的“au quotidien”表示“每天”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c59b9b8ee51cdf468d5736ea3aeda70474e5f99be7a3e18b00708ebe52cc8834"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-027",
+      "exampleFr": "Le terme « rapide » signifie ici « 快的 ».",
+      "exampleZh": "这里的“rapide”表示“快的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "da8e11ed585f156300a14019cbfe83791bf199cb1a9417ace8d055d236711911"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-028",
+      "exampleFr": "Le terme « repère » signifie ici « 标记 ».",
+      "exampleZh": "这里的“repère”表示“标记”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d51a91d6125d2b8c3636c4b8f8b21638363de72ee3beac00750d58f3c24c505b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-029",
+      "exampleFr": "Le terme « sel » signifie ici « 盐 ».",
+      "exampleZh": "这里的“sel”表示“盐”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f9c3a67d927d7400c6280fcb01a23a87621836ba671fd040b8ba2260b980f33b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-030",
+      "exampleFr": "Le terme « selon » signifie ici « 根据…… ».",
+      "exampleZh": "这里的“selon”表示“根据……”。",
+      "usageNote": "介词；与后面的名词或代词构成介词短语。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1f87bb4194780b8ae652539a02da917fe279d328e63705e9dcbe26b0ba56d25c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-031",
+      "exampleFr": "Le terme « semblable » signifie ici « 相似的 ».",
+      "exampleZh": "这里的“semblable”表示“相似的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0b5bd9884dca4d56952e6781006af361c7bb47b32665ff978539dbdff3f4edd4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-032",
+      "exampleFr": "Le terme « voire » signifie ici « 甚至 ».",
+      "exampleZh": "这里的“voire”表示“甚至”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0a91366386fce147f55d6d05dcc96d6a6d310b54adb79ba628239f2543d237c9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-033",
+      "exampleFr": "Le terme « volonté » signifie ici « 意志 ».",
+      "exampleZh": "这里的“volonté”表示“意志”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6b4560ca741dc361cb12bf0291c542d0413214d2e72d09b42670544ac140e4bf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l14-034",
+      "exampleFr": "Le terme « à volonté » signifie ici « 随意地 ».",
+      "exampleZh": "这里的“à volonté”表示“随意地”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "9c3997f94b891581efefc5865c47f07e4953b7d440bf8bbf499ea6cd696be9e0"
       }
     }
   ]

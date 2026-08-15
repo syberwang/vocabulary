@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u3l11",
-  "generatedAt": "2026-08-13T08:58:31.446Z",
+  "generatedAt": "2026-08-15T13:13:00.862Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -115,6 +115,158 @@
         "reviewedAt": "2026-08-13T09:24:26.188Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "eaf5360b95c344fd30e96847e27333740089b375b8a9b026346e8dc827a3ad35"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-007",
+      "exampleFr": "Le terme « partie » signifie ici « 部分 ».",
+      "exampleZh": "这里的“partie”表示“部分”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f16a04670b7fc158049340d137202e26cbe9e47d4b1837699845679b5249a70f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-008",
+      "exampleFr": "Le terme « faire partie de » signifie ici « 是……的一部分 ».",
+      "exampleZh": "这里的“faire partie de”表示“是……的一部分”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2ea9fbdc70630f53681d92cf822f3ce9e6fed301ae2ee4ddfb79125ac5e231a9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-009",
+      "exampleFr": "Le terme « piste » signifie ici « 跑道 ».",
+      "exampleZh": "这里的“piste”表示“跑道”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "42a74af6c6865c712a745d4e9aa4675d6ddb81b08cd8a72692c0780e095df190"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-010",
+      "exampleFr": "Le terme « piste cyclable » signifie ici « 自行车道 ».",
+      "exampleZh": "这里的“piste cyclable”表示“自行车道”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "32fa61f3e5fa81ab555d8e740dabcbe11278381bd92360cecf63f3b91e2a108e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-011",
+      "exampleFr": "Le terme « tomber » signifie ici « 突然成为 ».",
+      "exampleZh": "这里的“tomber”表示“突然成为”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e386b617615374e8e141adfcc44fdbbbfdf2893eb14c5e40439e18917681c2c9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-012",
+      "exampleFr": "Le terme « tomber amoureux » signifie ici « 开始恋爱 ».",
+      "exampleZh": "这里的“tomber amoureux”表示“开始恋爱”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.092Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "687287cb282bc6b0214429d633347d04101bfdc9b72efb832532ce6948f11599"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-013",
+      "exampleFr": "Le terme « tramway » signifie ici « 有轨电车 ».",
+      "exampleZh": "这里的“tramway”表示“有轨电车”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.314Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a5098e5e0bcd92d23dc6da4517767f897fd0f33384d1c8c632777c0483cb4c21"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u3l11-014",
+      "exampleFr": "Le terme « Valenciennes » signifie ici « 瓦朗谢纳（法国城镇） ».",
+      "exampleZh": "这里的“Valenciennes”表示“瓦朗谢纳（法国城镇）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.315Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "7441ad2593375147fc031024161e6b879771091578a1b262da5632b4bdd5d16f"
       }
     }
   ]

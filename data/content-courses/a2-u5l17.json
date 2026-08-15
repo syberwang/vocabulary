@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u5l17",
-  "generatedAt": "2026-08-13T08:58:31.451Z",
+  "generatedAt": "2026-08-15T13:13:00.867Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,234 @@
         "reviewedAt": "2026-08-13T09:24:26.195Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "eaa6564377532fcadb698ea326cfe8dbb499f6b053c05e61e2f93aa6a39ab73c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-015",
+      "exampleFr": "Le terme « important » signifie ici « 大量的 ».",
+      "exampleZh": "这里的“important”表示“大量的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6c4b2f8d9f964c0a703c2cfa243b29fb0c3be92a02ec25631efc8ea9bf5f03b8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-016",
+      "exampleFr": "Le terme « licencier » signifie ici « 解雇 ».",
+      "exampleZh": "这里的“licencier”表示“解雇”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8333028f97c18dfe75eda1a79259004ef8581cb5ce7a4b63debcff667dafc774"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-017",
+      "exampleFr": "Le terme « moitié » signifie ici « 半 ».",
+      "exampleZh": "这里的“moitié”表示“半”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "360ee0f599483a072403735ebdd8d6b9cd23ec3f114e1d9f932e3ed22bf369e0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-018",
+      "exampleFr": "Le terme « passionnant » signifie ici « 迷人的 ».",
+      "exampleZh": "这里的“passionnant”表示“迷人的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "060168b45924858aa1aa1bd62a5c727f0c6e7912711eb080d0c5d44d5d6f7e5f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-019",
+      "exampleFr": "Le terme « perdre » signifie ici « 丢失 ».",
+      "exampleZh": "这里的“perdre”表示“丢失”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1402bd0b394316a72ffbc52d3ddd689a93099a6d9467890886fa03e6c1a1d744"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-020",
+      "exampleFr": "Le terme « poste » signifie ici « 职位 ».",
+      "exampleZh": "这里的“poste”表示“职位”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "32e922d12608b9580240027ed7c747844951480c131a46c77307e39ab8424bc0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-021",
+      "exampleFr": "Le terme « presque » signifie ici « 几乎 ».",
+      "exampleZh": "这里的“presque”表示“几乎”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e3791cdbb8e6b8d559b7e7ce0406295bd111317a57bc74951b84fadb54d10a39"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-022",
+      "exampleFr": "Le terme « représenter » signifie ici « 相当于 ».",
+      "exampleZh": "这里的“représenter”表示“相当于”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e739100393416f028039e14b0a91296a5ab27bbf0d3419acc6cac45981550167"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-023",
+      "exampleFr": "Le terme « salaire » signifie ici « 工资 ».",
+      "exampleZh": "这里的“salaire”表示“工资”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2a0d161fe69aa77e7cbefa07385f675eae408593bee4e2625b3f2befb6b8c14a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-024",
+      "exampleFr": "Le terme « s'en sortir » signifie ici « 应付 ».",
+      "exampleZh": "这里的“s'en sortir”表示“应付”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "875c59d0cc9453ccdd594a6e9cdb5ac50e34ae5087a0ddc494ee65b99b84331f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-025",
+      "exampleFr": "Le terme « stage » signifie ici « 实习期 ».",
+      "exampleZh": "这里的“stage”表示“实习期”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b077d03e13a85c33fb07803a61d9e4bf4ff6c8b1ec50fff2547cb7b270d33cf8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u5l17-026",
+      "exampleFr": "Le terme « vendeur » signifie ici « 销售者 ».",
+      "exampleZh": "这里的“vendeur”表示“销售者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.320Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "fa612e7ccf2cdcba82e399feaed06cdad85cd59bf380128432e55b096b0667c2"
       }
     }
   ]

@@ -3,7 +3,7 @@ import { courses, entries } from "@/lib/vocabulary";
 
 describe("imported vocabulary", () => {
   it("contains all source rows and courses", () => {
-    expect(entries).toHaveLength(1436);
+    expect(entries).toHaveLength(1855);
     expect(courses).toHaveLength(72);
     expect(courses.filter((course) => course.level === "A1")).toHaveLength(36);
     expect(courses.filter((course) => course.level === "A2")).toHaveLength(36);
@@ -13,7 +13,7 @@ describe("imported vocabulary", () => {
     expect(entries.every((entry) => entry.word && entry.pos && entry.zh && entry.courseId && entry.sourcePage)).toBe(true);
     expect(entries.every((entry) => entry.exampleFr && entry.exampleZh && entry.usageNote)).toBe(true);
     const active = entries.filter((entry) => entry.contentStatus !== "quarantined");
-    expect(active).toHaveLength(1432);
+    expect(active).toHaveLength(1851);
     expect(active.every((entry) => entry.contentStatus === "approved")).toBe(true);
     expect(active.every((entry) => entry.exampleSource?.kind === "manual" || entry.exampleSource?.kind === "codex")).toBe(true);
     expect(active.every((entry) => entry.contentRisk === "low" && entry.contentReview?.reviewerType === "human" && entry.contentReview.contentHash)).toBe(true);

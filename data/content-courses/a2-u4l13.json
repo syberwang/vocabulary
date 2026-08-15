@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u4l13",
-  "generatedAt": "2026-08-13T08:58:31.448Z",
+  "generatedAt": "2026-08-15T13:13:00.864Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -381,6 +381,234 @@
         "reviewedAt": "2026-08-13T09:24:26.190Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "09a665c8336ca8b1a691003485f3be0b3083e665915f85d9222cc8f8f8eb93dc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-021",
+      "exampleFr": "Le terme « professionnel » signifie ici « 职业的 ».",
+      "exampleZh": "这里的“professionnel”表示“职业的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c4a44002c0f7ad7f717cd0e3ea5e18ab08ef798be22f7652a152afd96480b7ea"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-022",
+      "exampleFr": "Le terme « rarement » signifie ici « 难得 ».",
+      "exampleZh": "这里的“rarement”表示“难得”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6bb3ebc64ea63969c2ea75dbe310c9b3fd802eedbe7644889271b148017ce69a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-023",
+      "exampleFr": "Le terme « règle » signifie ici « 规则 ».",
+      "exampleZh": "这里的“règle”表示“规则”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e3d82f5f3c72fa9c809327fcc26df9e502881908ee1fb65405832a6ed17a0401"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-024",
+      "exampleFr": "Le terme « régulier » signifie ici « 有规则的 ».",
+      "exampleZh": "这里的“régulier”表示“有规则的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1b3333084fe44dece1220698b295f5aac370b1122ed9898810524a659e8356df"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-025",
+      "exampleFr": "Le terme « régulièrement » signifie ici « 有规律地 ».",
+      "exampleZh": "这里的“régulièrement”表示“有规律地”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "50a9cd1b8bf70f08bf1abc6f06568516814e502d3796b2f2e41bf183be37f342"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-026",
+      "exampleFr": "Le terme « résolution » signifie ici « 决心 ».",
+      "exampleZh": "这里的“résolution”表示“决心”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8078f3faf228b4a9b7ed4e5590b11214a14bc9c3275ab8b8a5f853250dad31e0"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-027",
+      "exampleFr": "Le terme « respecter » signifie ici « 尊敬 ».",
+      "exampleZh": "这里的“respecter”表示“尊敬”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "68bf229183a518331f57e26c70ee24f26c33fdea9378c4de72a72bc3b7c3a531"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-028",
+      "exampleFr": "Le terme « soi » signifie ici « 自己 ».",
+      "exampleZh": "这里的“soi”表示“自己”。",
+      "usageNote": "代词；结合它在句中的语法功能整体记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c6e92de08d6f350f4de72ee971bf18a65aeda62b2d5a7f3f929f7367fb9583ac"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-029",
+      "exampleFr": "Le terme « souhaiter » signifie ici « 祝愿 ».",
+      "exampleZh": "这里的“souhaiter”表示“祝愿”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f1e02cb0f68eea190bcff4703868286de287a3f79f7658f81a537fcd4c062f40"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-030",
+      "exampleFr": "Le terme « se souhaiter » signifie ici « 相互祝愿 ».",
+      "exampleZh": "这里的“se souhaiter”表示“相互祝愿”。",
+      "usageNote": "代词式动词；变位时自反代词要与主语配合。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1e7aaecb04bebc846a1581c4b6649a4f5cc324130312d9566c3a170ac16ea405"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-031",
+      "exampleFr": "Le terme « timide » signifie ici « 胆怯的 ».",
+      "exampleZh": "这里的“timide”表示“胆怯的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "615ddef869fc44de5fd5e64d705d5e08bff7cd1422f5746caaeb0ae832a0ce07"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l13-032",
+      "exampleFr": "Le terme « truc » signifie ici « 小窍门 ».",
+      "exampleZh": "这里的“truc”表示“小窍门”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.317Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "39e199d48bf0d02355746b39b1bd5d883ecd8abcab661533e32ed64645585f2f"
       }
     }
   ]

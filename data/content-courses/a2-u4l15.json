@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u4l15",
-  "generatedAt": "2026-08-13T08:58:31.450Z",
+  "generatedAt": "2026-08-15T13:13:00.866Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -157,21 +157,21 @@
     },
     {
       "entryId": "entry-1145",
-      "exampleFr": "On peut füF conseiller ici.",
-      "exampleZh": "在这里可以劝告。",
+      "exampleFr": "Le terme « conseiller » signifie ici « 劝告 ».",
+      "exampleZh": "这里的“conseiller”表示“劝告”。",
       "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.193Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "c70a2bd47a3c25435ae6ee18d6be545de110ea1fa10d4ba8141c09b107eb8314"
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dbeaacbe198c0a3f1b430aede55c518bf3bc6a4f8a5cb96b46c2aa4d92d3bc93"
       }
     },
     {
@@ -214,59 +214,496 @@
     },
     {
       "entryId": "entry-1148",
-      "exampleFr": "Voici un événement.",
-      "exampleZh": "这里有一个事情。",
+      "exampleFr": "Le terme « événement heureux » signifie ici « 喜事 ».",
+      "exampleZh": "这里的“événement heureux”表示“喜事”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.193Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "ef711203dc7078e8a054fccf4be9a7d8477963e55ff9e824ce1910adbc6108b6"
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f0b9afa2b1c77ae861e6bbf769f20a36958db330daa218927fdea6a274a0f6c9"
       }
     },
     {
       "entryId": "entry-1149",
-      "exampleFr": "Léa dit : « éviter de inf.. »",
-      "exampleZh": "蕾雅说：“避免做一。”",
+      "exampleFr": "Le terme « éviter + inf. » signifie ici « 避免做…… ».",
+      "exampleZh": "这里的“éviter + inf.”表示“避免做……”。",
       "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.193Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "f2c2883aa65edcd24c26a1704f99337a2ef93e51af8b96af5dbd55538827229a"
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f7ed8ca2ec9b0ae013b5173c51f52e2ea711df0ae18a54e64e1ff443ee884468"
       }
     },
     {
       "entryId": "entry-1150",
-      "exampleFr": "Voici un fait [fe.",
-      "exampleZh": "这里有一个事实。",
+      "exampleFr": "Le terme « fait » signifie ici « 事实 ».",
+      "exampleZh": "这里的“fait”表示“事实”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.193Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "bce36e0888f1162c593f8a782a948da4c03c8fbc6c3bee68f5020e10c94ecaa0"
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "025bd55b53ba91f51e3d79d17c148158a4484ea7aa734dfcdb3dcb3ff48f67fc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-015",
+      "exampleFr": "Le terme « en fait » signifie ici « 其实 ».",
+      "exampleZh": "这里的“en fait”表示“其实”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3c6d2acb034cfb054a78a5f2fb4b0b2ff653b5745b7ecc36fb1cfcf47061480f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-016",
+      "exampleFr": "Le terme « fumeur » signifie ici « 吸烟者 ».",
+      "exampleZh": "这里的“fumeur”表示“吸烟者”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "0cbbd698abbcd85deae63b332d0691754b91f0b3de0cee3fed8b20c1e18ce178"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-017",
+      "exampleFr": "Le terme « juste » signifie ici « 只是 ».",
+      "exampleZh": "这里的“juste”表示“只是”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "1ecd505732ef16ee53c81fa9ff0f5f6e0528412080d8d4bdf2f6cfe101950002"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-018",
+      "exampleFr": "Le terme « obligation » signifie ici « 责任 ».",
+      "exampleZh": "这里的“obligation”表示“责任”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "bfb50eda565e2729e239153b725b9458ef3c1ada6b4598fe640f5b24fdc558ec"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-019",
+      "exampleFr": "Le terme « période » signifie ici « 时期 ».",
+      "exampleZh": "这里的“période”表示“时期”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cf60a9362750b17a858d9d48310881c7ca7f18583d85addcaa3a41c13c5ea2d5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-020",
+      "exampleFr": "Le terme « permettre » signifie ici « 许可 ».",
+      "exampleZh": "这里的“permettre”表示“许可”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "7616cca0decc820d0df082aac03541d3c2e07dcd5c71d92e512914eb366e504c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-021",
+      "exampleFr": "Le terme « permettre à qn de + inf. » signifie ici « 准许某人做某事 ».",
+      "exampleZh": "这里的“permettre à qn de + inf.”表示“准许某人做某事”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b5afd680e4ecaedfac31e561734003374dab31d01a61748a89f61cb0dbedf427"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-022",
+      "exampleFr": "Le terme « permettre qch à qn » signifie ici « 准许某人（做）某事 ».",
+      "exampleZh": "这里的“permettre qch à qn”表示“准许某人（做）某事”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "25b312327b7a4543e2f15a512a4f035e6c1478a5a460c1061f7c98e0a19e63f6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-023",
+      "exampleFr": "Le terme « personnel » signifie ici « 个人的 ».",
+      "exampleZh": "这里的“personnel”表示“个人的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "326853bfa8c0c18499ce53b19a245fccfcb92552c698eee3bbc0e83592ed5a62"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-024",
+      "exampleFr": "Le terme « poids » signifie ici « 重量 ».",
+      "exampleZh": "这里的“poids”表示“重量”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "6ab3084fbfd75bb273f023e4fba05e58de30653cda1bb15a3f1f2e143f56465d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-025",
+      "exampleFr": "Le terme « prendre » signifie ici « 具有 ».",
+      "exampleZh": "这里的“prendre”表示“具有”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "326fac147476b0434b4498772b1e997e1094271a931a68ef4dfae3e5730db9cd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-026",
+      "exampleFr": "Le terme « prendre du poids » signifie ici « 发胖 ».",
+      "exampleZh": "这里的“prendre du poids”表示“发胖”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8a507fe0b42a27ddd32f76d184f4e8dcac07b811785e41af4a44745b72552fdf"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-027",
+      "exampleFr": "Le terme « prendre un rendez-vous » signifie ici « 接受一个约会 ».",
+      "exampleZh": "这里的“prendre un rendez-vous”表示“接受一个约会”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8c8414a39dc21e0e3ffaa697a1a171d518352693b25099f5967b0711a566caa4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-028",
+      "exampleFr": "Le terme « principalement » signifie ici « 主要地 ».",
+      "exampleZh": "这里的“principalement”表示“主要地”。",
+      "usageNote": "副词；注意它在句中的位置以及所修饰的成分。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "7108de1f03e45664c158fbd95161996765bf72677c67df7a4497bb25be922c8c"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-029",
+      "exampleFr": "Le terme « recevoir » signifie ici « 收到 ».",
+      "exampleZh": "这里的“recevoir”表示“收到”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "cefd4ecbbcaf49ffd308bb8b8b6745d5320a71402411c0360764ea9009bbd70e"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-030",
+      "exampleFr": "Le terme « succès » signifie ici « 成功 ».",
+      "exampleZh": "这里的“succès”表示“成功”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4ab0d48e8e9a16a56378ed82888b8787f20f2678cc03cce2080ba0d8705a4d64"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-031",
+      "exampleFr": "Le terme « tabac » signifie ici « 烟草 ».",
+      "exampleZh": "这里的“tabac”表示“烟草”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "3635b898ef04a9375c04b9a0c25bbc35b0bc244d249a9b4b38dd23d247fae774"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-032",
+      "exampleFr": "Le terme « bureau de tabac » signifie ici « 烟草店 ».",
+      "exampleZh": "这里的“bureau de tabac”表示“烟草店”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "811cc7e7c66b65ccbcc9940a3a5521fa46f574dbb59f6bdb9e8007e7fae54bc9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-033",
+      "exampleFr": "Le terme « thème » signifie ici « 主题 ».",
+      "exampleZh": "这里的“thème”表示“主题”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2b2830f383fa119aba1247939ef4930df460435113e814a08633e7b40179f351"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-034",
+      "exampleFr": "Le terme « trop ... pour + n./inf. » signifie ici « 太……以至于不…… ».",
+      "exampleZh": "这里的“trop ... pour + n./inf.”表示“太……以至于不……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.094Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "293e04c073cc83183b4376e8cdb0e3747f43c4fee52f7b9f48ac6ab924f421c6"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-035",
+      "exampleFr": "Le terme « tuer » signifie ici « 杀死 ».",
+      "exampleZh": "这里的“tuer”表示“杀死”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "36e116ba3d0a51200d7c67d39e573370026fb717d6b81f597b1e8730dd4b157d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-036",
+      "exampleFr": "Le terme « valoir » signifie ici « 值 ».",
+      "exampleZh": "这里的“valoir”表示“值”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "e63abecaa781b04fa232b446f8fc6d4c656102ac28a39ba68e4f776437385ed8"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l15-037",
+      "exampleFr": "Le terme « il vaut mieux que... » signifie ici « 最好 ».",
+      "exampleZh": "这里的“il vaut mieux que...”表示“最好”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.318Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "d10dd8ce468a18050b2b390ba8ae9e1c16bd2d7095b7773c7018ecbf6d5a50ed"
       }
     }
   ]

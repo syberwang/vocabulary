@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u4l16",
-  "generatedAt": "2026-08-13T08:58:31.450Z",
+  "generatedAt": "2026-08-15T13:13:00.867Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -267,6 +267,291 @@
         "reviewedAt": "2026-08-13T09:24:26.194Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "3d4fd4f7202755ce8d300dba601df817219102d8dfa86ae14c525d81d9429be9"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-015",
+      "exampleFr": "Le terme « mode » signifie ici « 形式 ».",
+      "exampleZh": "这里的“mode”表示“形式”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "049214be841a19621331a788ad989866b6fc5bdaf8d876d39853583c64d0a13a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-016",
+      "exampleFr": "Le terme « mondial » signifie ici « 世界的 ».",
+      "exampleZh": "这里的“mondial”表示“世界的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "c94a63f4bda95c21631a4bae8672aed4ee022063640141fa5d973c944cf002cc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-017",
+      "exampleFr": "Le terme « nombreux » signifie ici « 为数众多的 ».",
+      "exampleZh": "这里的“nombreux”表示“为数众多的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "63be08056d93a5b4fb7a1ad39db095f1ecb71ec79455b727e12b228b2a7bbeb2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-018",
+      "exampleFr": "Le terme « participer » signifie ici « 参加 ».",
+      "exampleZh": "这里的“participer”表示“参加”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.094Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4d922cc90ec8b10d3f84392431951eef358354cc7e8c42bd71b23f7596929726"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-019",
+      "exampleFr": "Le terme « physique » signifie ici « 物质的 ».",
+      "exampleZh": "这里的“physique”表示“物质的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a336154614a88e6b959c639d546e362efafec7bc2d2cf2c718f78b03e1ec81dd"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-020",
+      "exampleFr": "Le terme « politique » signifie ici « 政治的 ».",
+      "exampleZh": "这里的“politique”表示“政治的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "eefb4a9895893ccb99c26ada68ad850742cf28aa9b3d70b73c66e8902cf0f807"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-021",
+      "exampleFr": "Le terme « population » signifie ici « 人口 ».",
+      "exampleZh": "这里的“population”表示“人口”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b3662231474c660bbd0aa4b8a5fdfe30a38cc5844cfb40e60fe83db973cf8a0b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-022",
+      "exampleFr": "Le terme « pratiquer » signifie ici « 从事（某种职业） ».",
+      "exampleZh": "这里的“pratiquer”表示“从事（某种职业）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "35f3e69f3ea8fc282d7d8cb34c1650f62bc19877a3c5e3b172a01e89a7401484"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-023",
+      "exampleFr": "Le terme « Québec » signifie ici « 魁北克省（加拿大） ».",
+      "exampleZh": "这里的“Québec”表示“魁北克省（加拿大）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.094Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8fe97a30d0afb853c917d334a77859ad67cf1b8e199b6c1c551de50589dc4b20"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-024",
+      "exampleFr": "Le terme « raison » signifie ici « 理由 ».",
+      "exampleZh": "这里的“raison”表示“理由”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "99ad5a60a9173caabd1faf2440be5c4b5aa60cb88ef1d2b5f9d5fb32bd5b642f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-025",
+      "exampleFr": "Le terme « rappeler » signifie ici « 提醒 ».",
+      "exampleZh": "这里的“rappeler”表示“提醒”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "18c2734ce7402881d1519a5630d3ac32cce7ee1ebd93b32ab40519c63b2852ba"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-026",
+      "exampleFr": "Le terme « rappeler... à qn » signifie ici « 提醒某人…… ».",
+      "exampleZh": "这里的“rappeler... à qn”表示“提醒某人……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f85d24fd69a40ce9a7cab55588e55bac0a2f5dc30fb38d1eb675b992be25f38b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-027",
+      "exampleFr": "Le terme « rappeler à qn que... » signifie ici « 提醒某人…… ».",
+      "exampleZh": "这里的“rappeler à qn que...”表示“提醒某人……”。",
+      "usageNote": "常用词或固定表达；建议结合整句和具体语境记忆。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "598b8342fbcd07bf36c7f732877f11b02713e597fe45dbe49c7fb6cd63137484"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-028",
+      "exampleFr": "Le terme « risque » signifie ici « 危险 ».",
+      "exampleZh": "这里的“risque”表示“危险”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "4e6c7b2c9a4457def2a7e091f8085564db82b476c2b4b5d03409883e161f1294"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u4l16-029",
+      "exampleFr": "Le terme « suffisant » signifie ici « 足够的 ».",
+      "exampleZh": "这里的“suffisant”表示“足够的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.319Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a9efd6ea601be1dcd3fe9b92b55ea07b87d3d7a65af4db88c6ded43292b3e6a7"
       }
     }
   ]

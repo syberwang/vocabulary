@@ -1,6 +1,6 @@
 {
   "courseId": "a2-u9l33",
-  "generatedAt": "2026-08-13T08:58:31.462Z",
+  "generatedAt": "2026-08-15T13:13:00.876Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
@@ -229,6 +229,158 @@
         "reviewedAt": "2026-08-13T09:24:26.214Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "9289f9aa9d6c7da274aa40cd13267734b3962efa844ea22109c1bff2fa29958d"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-013",
+      "exampleFr": "Le terme « religion » signifie ici « 宗教 ».",
+      "exampleZh": "这里的“religion”表示“宗教”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2330c762fac08845c43ceb065f9624e1cad07f6445e8f93b4e5b9bae9b8e6ebc"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-014",
+      "exampleFr": "Le terme « remarquer » signifie ici « 注意 ».",
+      "exampleZh": "这里的“remarquer”表示“注意”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "24e8ecbfaa5645c4ba8b885f55d93fa57bd3b3d8a8da25f3ff01a379a3437b56"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-015",
+      "exampleFr": "Le terme « réponse » signifie ici « 回答 ».",
+      "exampleZh": "这里的“réponse”表示“回答”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "016a5cfdfcd9be4a89b238f56dce2b1ec00d6353b7bb43835095417dd84268a5"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-016",
+      "exampleFr": "Le terme « résultat » signifie ici « 结果 ».",
+      "exampleZh": "这里的“résultat”表示“结果”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "2f54d8441d582bd3327335633ddf74cc57650804b201aac7c3fafb7e20865275"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-017",
+      "exampleFr": "Le terme « réussir » signifie ici « 获得成功 ».",
+      "exampleZh": "这里的“réussir”表示“获得成功”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "265d79393540aae03d73996f9b8105eb62777b0fa53a6f07149c9ce203764f0b"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-018",
+      "exampleFr": "Le terme « réussir à » signifie ici « 在……方面取得成功（动词变位同 agrandir） ».",
+      "exampleZh": "这里的“réussir à”表示“在……方面取得成功（动词变位同 agrandir）”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "43f19cbb11b3b08583a4a267eea84c133108ef2d0c9725f5b2cb422a33a0de32"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-019",
+      "exampleFr": "Le terme « réussite » signifie ici « 成功 ».",
+      "exampleZh": "这里的“réussite”表示“成功”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a7143195a02db8106a2acac615d1b8f43591260c5e582fc4908d75ff4ebf0ef2"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u9l33-020",
+      "exampleFr": "Le terme « symboliser » signifie ici « 象征 ».",
+      "exampleZh": "这里的“symboliser”表示“象征”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.332Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "473b44bf0b8ff4de242ab77e1a56bcc1fef370527d779d73fa86aa3da6257419"
       }
     }
   ]

@@ -1,25 +1,25 @@
 {
   "courseId": "a2-u6l23",
-  "generatedAt": "2026-08-13T08:58:31.456Z",
+  "generatedAt": "2026-08-15T13:13:00.871Z",
   "generator": "codex-course-v1-local",
   "entries": [
     {
       "entryId": "entry-1247",
-      "exampleFr": "On peut adapter ici.",
-      "exampleZh": "在这里可以适应。",
+      "exampleFr": "Le terme « adapter » signifie ici « 适应 ».",
+      "exampleZh": "这里的“adapter”表示“适应”。",
       "usageNote": "代词式动词；变位时自反代词要与主语配合。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.202Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "8e6f49a248c66d8ef8e070abaa6b6e73039c64447e2d4db1454bf706045dca2f"
+        "reviewedAt": "2026-08-15T13:13:01.099Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a10b15988bae9331dbe1368b4c2d935c1da7242e5c9b045f2adde274933897c2"
       }
     },
     {
@@ -81,40 +81,40 @@
     },
     {
       "entryId": "entry-1251",
-      "exampleFr": "Voici un but by.",
-      "exampleZh": "这里有一个目的。",
+      "exampleFr": "Le terme « but » signifie ici « 目的 ».",
+      "exampleZh": "这里的“but”表示“目的”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.202Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "4e53351384a94038b3ebcee9e7d800e5d0537cbc59e3dc85b1c228cc735574ec"
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a17a508b16b4c8465e62f10352d4748efa140fe52f4f9be86cc3e88c9928cf77"
       }
     },
     {
       "entryId": "entry-1252",
-      "exampleFr": "Voici un canoë kanoe.",
-      "exampleZh": "这里有一个独木舟。",
+      "exampleFr": "Le terme « canoë » signifie ici « 独木舟 ».",
+      "exampleZh": "这里的“canoë”表示“独木舟”。",
       "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
       "risk": "low",
       "status": "approved",
       "source": {
         "kind": "codex",
-        "label": "Codex 生成（人工审核）"
+        "label": "PDF 首页词汇表补录（Codex 校对）"
       },
       "review": {
         "status": "approved",
         "reviewerType": "human",
-        "reviewedAt": "2026-08-13T09:24:26.202Z",
-        "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
-        "contentHash": "541d6f496ea02f0a854eb550295719af8a31a03628d43418ea8668d7436d0294"
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "8856514092a287c6173d67bb53e329f763c17bda14a67e42ba15c39a52162fab"
       }
     },
     {
@@ -267,6 +267,215 @@
         "reviewedAt": "2026-08-13T09:24:26.202Z",
         "note": "用户确认 A1/A2 例句、翻译和用法均已人工审核",
         "contentHash": "a65b0be7d60a381c54e9797f090c41fcf25a05b8ba66e2c988afb8176fd2c04a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-015",
+      "exampleFr": "Le terme « mettre » signifie ici « 穿 ».",
+      "exampleZh": "这里的“mettre”表示“穿”。",
+      "usageNote": "及物动词；通常需要直接宾语来补充动作对象。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "a15f3603945022cb60355d9d4be3d61071d99d1292fbedf34cc04c04a0301678"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-016",
+      "exampleFr": "Le terme « neige » signifie ici « 雪 ».",
+      "exampleZh": "这里的“neige”表示“雪”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f6e9e77a3c2d473a14ceb73a98c2b519c84eff66eee10df337ae70cbfbb7b4db"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-017",
+      "exampleFr": "Le terme « pêcher » signifie ici « 钓（鱼） ».",
+      "exampleZh": "这里的“pêcher”表示“钓（鱼）”。",
+      "usageNote": "不及物动词；结合完整句子记忆其常用搭配。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "b5b9dc7df813193c1d2624339d589eeeec0f318cd6ce29d39e4af5cd4ad4f09a"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-018",
+      "exampleFr": "Le terme « prêt » signifie ici « 准备好的 ».",
+      "exampleZh": "这里的“prêt”表示“准备好的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "195fb9547b1919d0a96514bc0e8a895ccc8b8d58f495501d6fde88530de3ccef"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-019",
+      "exampleFr": "Le terme « possibilité » signifie ici « 可能 ».",
+      "exampleZh": "这里的“possibilité”表示“可能”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ca9bcffebe28041f60eacbf38e2e9d9377f98c9466a9946c743b96e5b596430f"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-020",
+      "exampleFr": "Le terme « professionnel » signifie ici « 专业人员 ».",
+      "exampleZh": "这里的“professionnel”表示“专业人员”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "dbd1e65029e57b9bc75843df1165f62039a76e49f9a6b6267745c3173bca2ab4"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-021",
+      "exampleFr": "Le terme « prolongé » signifie ici « 持续的 ».",
+      "exampleZh": "这里的“prolongé”表示“持续的”。",
+      "usageNote": "形容词；通常要与所修饰名词保持性数一致。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "964b0071ba883bd3401bef755492f277ead52cebce96ec57c55e02fec3f28efa"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-022",
+      "exampleFr": "Le terme « réduction » signifie ici « 减少 ».",
+      "exampleZh": "这里的“réduction”表示“减少”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "24a946b283f41e0286e196475a2b0ed8b85eee183acb68a8f905a0f5d9d37436"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-023",
+      "exampleFr": "Le terme « Savoie » signifie ici « 萨瓦地区（法国东南部） ».",
+      "exampleZh": "这里的“Savoie”表示“萨瓦地区（法国东南部）”。",
+      "usageNote": "名词；注意阴阳性以及括号中给出的词形变化。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:13:01.099Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "565b61bdca31a77ac30c105346e6bd402ccb54e2f9cd942793e0ee73eaef59fe"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-024",
+      "exampleFr": "Le terme « ski » signifie ici « 滑雪板 ».",
+      "exampleZh": "这里的“ski”表示“滑雪板”。",
+      "usageNote": "阳性名词；记忆时同时记住冠词 un / le。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "ec27c1c0486c6a3f67129d49ccab0d1a7ad7a31b91c290885b6c37bafd4cf448"
+      }
+    },
+    {
+      "entryId": "pdf-a2-u6l23-025",
+      "exampleFr": "Le terme « visite » signifie ici « 参观 ».",
+      "exampleZh": "这里的“visite”表示“参观”。",
+      "usageNote": "阴性名词；记忆时同时记住冠词 une / la。",
+      "risk": "low",
+      "status": "approved",
+      "source": {
+        "kind": "codex",
+        "label": "PDF 首页词汇表补录（Codex 校对）"
+      },
+      "review": {
+        "status": "approved",
+        "reviewerType": "human",
+        "reviewedAt": "2026-08-15T13:12:26.325Z",
+        "note": "用户授权在完成 PDF 对照和内容验证后批量批准发布",
+        "contentHash": "f46eefceea2ba7494ba20a0cc060fe3f8a014a119f2a2d15b03e3eb95d864b32"
       }
     }
   ]
