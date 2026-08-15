@@ -16,7 +16,7 @@ const navItems = [
 export function AppShell({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const { syncStatus, syncMessage, retrySync } = useApp();
-  const immersive = pathname === "/login" || pathname.startsWith("/learn/") || pathname.startsWith("/review/session");
+  const immersive = pathname === "/login" || pathname.startsWith("/learn/") || pathname.startsWith("/browse/") || pathname.startsWith("/review/session");
   const configured = true;
 
   return (

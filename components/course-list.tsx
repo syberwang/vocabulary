@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Check, ChevronRight, LockKeyhole } from "lucide-react";
+import { BookOpen, Check, ChevronRight, LockKeyhole } from "lucide-react";
 import { useApp } from "@/components/app-provider";
 import { getCourseProgress, localDate } from "@/lib/local-store";
 import { mapDbCourse } from "@/lib/content-mappers";
@@ -38,17 +38,20 @@ export function CourseList() {
           const lockedToday = Boolean(todayAssignment && todayAssignment.courseId !== course.id && progress.status === "not_started");
           const href = progress.status === "learned" ? `/review/session?scope=course&courseId=${course.id}&mode=mixed` : lockedToday ? "#" : `/learn/${course.id}`;
           return (
-            <Link key={course.id} href={href} className="course-card" aria-disabled={lockedToday} onClick={(event) => lockedToday && event.preventDefault()}>
-              <span className="course-number">{course.lesson}</span>
-              <span className="course-info">
-                <strong>{course.code} · {course.title}</strong>
-                <span>{course.wordCount} 词 · 来源第 {course.sourceStartPage}{course.sourceEndPage !== course.sourceStartPage ? `–${course.sourceEndPage}` : ""} 页</span>
-                <span className="progress-track"><span className="progress-bar" style={{ display: "block", width: `${percent}%` }} /></span>
-              </span>
-              <span className="course-progress">
-                {lockedToday ? <LockKeyhole size={17} /> : progress.status === "learned" ? <Check size={19} color="var(--green)" /> : percent ? `${percent}%` : <ChevronRight size={19} />}
-              </span>
-            </Link>
+            <article key={course.id} className="course-card">
+              <Link href={href} className="course-card-main" aria-disabled={lockedToday} onClick={(event) => lockedToday && event.preventDefault()}>
+                <span className="course-number">{course.lesson}</span>
+                <span className="course-info">
+                  <strong>{course.code} · {course.title}</strong>
+                  <span>{course.wordCount} 词 · 来源第 {course.sourceStartPage}{course.sourceEndPage !== course.sourceStartPage ? `–${course.sourceEndPage}` : ""} 页</span>
+                  <span className="progress-track"><span className="progress-bar" style={{ display: "block", width: `${percent}%` }} /></span>
+                </span>
+                <span className="course-progress">
+                  {lockedToday ? <LockKeyhole size={17} /> : progress.status === "learned" ? <Check size={19} color="var(--green)" /> : percent ? `${percent}%` : <ChevronRight size={19} />}
+                </span>
+              </Link>
+              <Link href={`/browse/${course.id}`} className="course-browse-link" aria-label={`快速浏览 ${course.code} 的全部单词`}><BookOpen size={15} /> 快速浏览本课单词</Link>
+            </article>
           );
         })}
       </div>

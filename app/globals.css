@@ -103,7 +103,10 @@ button { color: inherit; }
 .level-switch button { min-height: 44px; border: 0; border-radius: 12px; background: transparent; color: var(--muted); font-weight: 800; cursor: pointer; }
 .level-switch button.active { background: var(--surface); color: var(--green); box-shadow: 0 4px 14px rgba(40,44,37,.08); }
 .course-list { display: grid; gap: 11px; }
-.course-card { display: grid; grid-template-columns: 49px 1fr auto; gap: 13px; align-items: center; padding: 15px; box-shadow: none; }
+.course-card { overflow: hidden; padding: 0; box-shadow: none; }
+.course-card-main { display: grid; grid-template-columns: 49px 1fr auto; gap: 13px; align-items: center; padding: 15px; }
+.course-browse-link { min-height: 42px; display: flex; align-items: center; justify-content: center; gap: 7px; border-top: 1px solid var(--line); background: color-mix(in srgb, var(--green-soft) 45%, var(--surface)); color: var(--green-dark); font-size: 11px; font-weight: 800; }
+.course-browse-link:active { background: var(--green-soft); }
 .course-number { display: grid; place-items: center; width: 49px; height: 49px; border-radius: 16px; background: var(--green-soft); color: var(--green-dark); font: 700 18px Georgia, serif; }
 .course-info { min-width: 0; }
 .course-info strong { display: block; margin-bottom: 4px; font-size: 14px; }
@@ -151,6 +154,8 @@ button { color: inherit; }
 .session-actions > .primary-button, .session-actions > .secondary-button { width: 100%; min-height: 52px; }
 .session-action-pair { display: grid; grid-template-columns: minmax(96px, .7fr) minmax(0, 1.3fr); gap: 8px; }
 .session-action-pair > button { min-height: 52px; }
+.browse-actions { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 8px; }
+.browse-actions > button { width: 100%; min-height: 52px; }
 .forget-action { flex-direction: column; gap: 0; border-color: #e3b4ab; color: #a33d2d; background: #fff5f2; }
 .forget-action small { opacity: .65; font-size: 9px; }
 .rating-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 7px; }
