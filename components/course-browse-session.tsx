@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowLeft, ChevronLeft, ChevronRight, Headphones, Volume2 } from "lucide-react";
 import { useSpeech } from "@/hooks/use-speech";
+import { DictionaryLink } from "@/components/dictionary-link";
 import { mapDbCourse, mapDbEntry } from "@/lib/content-mappers";
 import { courseById, entriesForCourse } from "@/lib/vocabulary";
 
@@ -76,6 +77,7 @@ export function CourseBrowseSession({ courseId }: { courseId: string }) {
           <div className="audio-row">
             <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"}><Volume2 size={16} /> 单词</button>
             <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"}><Headphones size={16} /> 例句</button>
+            <DictionaryLink word={entry.word} />
           </div>
           {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
         </article>

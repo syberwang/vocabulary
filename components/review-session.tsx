@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { ArrowLeft, Bookmark, BookmarkCheck, Volume2 } from "lucide-react";
 import { useApp } from "@/components/app-provider";
+import { DictionaryLink } from "@/components/dictionary-link";
 import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { dueEntryIds, hardEntryIds } from "@/lib/local-store";
@@ -177,6 +178,7 @@ export function ReviewSession() {
                 <div className="audio-row" style={{ justifyContent: "flex-start", marginTop: 0 }}>
                   <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={16} /> 单词</button>
                   <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"} aria-label="播放法语例句"><Volume2 size={16} /> 例句</button>
+                  <DictionaryLink word={entry.word} />
                 </div>
               </div>
               <p>{entry.zh}</p>

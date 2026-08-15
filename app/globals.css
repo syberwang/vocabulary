@@ -139,9 +139,10 @@ button { color: inherit; }
 .example-fr { margin: 0 0 5px; font: italic 18px/1.5 Georgia, serif; }
 .example-zh, .usage-note { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.65; }
 .usage-note { margin-top: 10px; padding: 10px 12px; border-radius: 12px; background: var(--surface-2); color: #50564b; }
-.audio-row { display: flex; justify-content: center; gap: 9px; margin-top: 22px; }
+.audio-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 9px; margin-top: 22px; }
 .audio-button { min-height: 44px; display: inline-flex; align-items: center; gap: 7px; padding: 0 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--green); cursor: pointer; font-size: 12px; font-weight: 700; }
 .audio-button:disabled { cursor: not-allowed; opacity: .45; }
+.dictionary-link { text-decoration: none; }
 .sync-pill { min-height: 44px; display: inline-flex; align-items: center; gap: 5px; padding: 0 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--muted); font-size: 11px; font-weight: 700; }
 .sync-pill.error { color: #a33d2d; border-color: #e8b3a8; background: #fff5f2; cursor: pointer; }
 .sync-pill:disabled { opacity: 1; }
@@ -175,9 +176,10 @@ button { color: inherit; }
 .feedback.good { background: var(--green-soft); }
 .feedback.hard { background: #f5e8c8; }
 .feedback.again { background: var(--coral-soft); }
-.feedback-topline { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 4px; }
+.feedback-topline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 4px; }
 .feedback-topline strong { min-width: 0; }
-.feedback-topline .audio-button { flex: 0 0 auto; min-height: 36px; padding: 0 10px; }
+.feedback-topline .audio-row { flex: 1 1 100%; }
+.feedback-topline .audio-button { flex: 0 0 auto; min-height: 44px; padding: 0 10px; }
 .feedback p { margin: 0; font-size: 13px; line-height: 1.55; }
 
 .empty-state { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 58dvh; padding: 32px 22px; text-align: center; }

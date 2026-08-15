@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowLeft, Bookmark, BookmarkCheck, Headphones, Volume2 } from "lucide-react";
 import { useApp } from "@/components/app-provider";
+import { DictionaryLink } from "@/components/dictionary-link";
 import { useSpeech } from "@/hooks/use-speech";
 import { gradeFrenchAnswer } from "@/lib/grading";
 import { currentLearningCourse, getCourseProgress, localDate } from "@/lib/local-store";
@@ -149,6 +150,7 @@ export function LearningSession({ courseId }: { courseId: string }) {
               <div className="audio-row">
                 <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"}><Volume2 size={16} /> 单词</button>
                 <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"}><Headphones size={16} /> 例句</button>
+                <DictionaryLink word={entry.word} />
               </div>
               {speechError && <p className="example-zh" role="status" style={{ marginTop: 10 }}>{speechError}</p>}
             </>
@@ -167,6 +169,7 @@ export function LearningSession({ courseId }: { courseId: string }) {
                     <div className="audio-row" style={{ justifyContent: "flex-start", marginTop: 0 }}>
                       <button className="audio-button" type="button" onClick={() => speak(entry.id)} disabled={speechState === "loading"} aria-label="播放法语单词"><Volume2 size={16} /> 单词</button>
                       <button className="audio-button" type="button" onClick={() => speak(entry.id, "example")} disabled={speechState === "loading"} aria-label="播放法语例句"><Headphones size={16} /> 例句</button>
+                      <DictionaryLink word={entry.word} />
                     </div>
                   </div>
                   <p>正确答案：<b lang="fr">{entry.word}</b></p>
